@@ -1,0 +1,146 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "XPOA",
+    "data": {
+        "bs": [
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized; none issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total Stockholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000003
+            },
+            {
+                "label": "Warrant liability",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 22580000
+            },
+            {
+                "label": "Class A common stock subject to possible redemption 26,246,041 and 24,706,239 shares at redemption value at March 31, 2021 and December 31, 2020, respectively",
+                "concept": "RedeemableNoncontrollingInterestEquityCommonCarryingAmount",
+                "unit": "usd",
+                "value": 262460410
+            },
+            {
+                "label": "Class B common stock, $0.0001 par value; 10,000,000 shares authorized; 7,500,000 shares issued and outstanding at March 31, 2021 and December 31, 2020",
+                "concept": "xpoa:CommonStockValue1",
+                "unit": "usd",
+                "value": 750
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 301439819
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 301439819
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1321450
+            },
+            {
+                "label": "Deferred underwriting fee payable",
+                "concept": "DeferredCompensationLiabilityClassifiedNoncurrent",
+                "unit": "usd",
+                "value": 10500000
+            },
+            {
+                "label": "Class A common stock, $0.0001 par value; 100,000,000 shares authorized; 3,753,959 and 5,293,761 shares issued and outstanding (excluding 26,246,041 and 24,706,239 shares subject to possible redemption) at March 31, 2021 and December 31, 2020, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 375
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 17007145
+            },
+            {
+                "label": "Current Liabilities \u2013 accrued expenses",
+                "concept": "AccountsPayableAndOtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 899406
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -12008267
+            },
+            {
+                "label": "Cash and marketable securities held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 300118369
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 33979406
+            }
+        ],
+        "cf": [
+            {
+                "label": "Change in fair value of warrant liability",
+                "concept": "IncreaseDecreaseInDerivativeLiabilities",
+                "unit": "usd",
+                "value": -16120000
+            },
+            {
+                "label": "Interest earned on marketable securities held in Trust Account",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 58851
+            },
+            {
+                "label": "Unrealized gain on marketable securities held in Trust Account",
+                "concept": "MarketableSecuritiesUnrealizedGainLoss",
+                "unit": "usd",
+                "value": 1041
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 7451
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -159971
+            },
+            {
+                "label": "Change in value of Class A common stock subject to possible redemption",
+                "concept": "xpoa:ChangeInValueOfClassACommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 15398020
+            },
+            {
+                "label": "",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 15398020
+            }
+        ],
+        "ic": []
+    }
+}

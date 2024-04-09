@@ -1,0 +1,279 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "ADRA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash held outside the Trust Account",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1025876
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 352563
+            },
+            {
+                "label": "Assets, Current [Abstract]",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1378439
+            },
+            {
+                "label": "Marketable securities held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 116151528
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 117529967
+            },
+            {
+                "label": "Carrying value as of the balance sheet date of obligations incurred and payable, pertaining to costs that are statutory in nature, are incurred on contractual obligations, or accumulate over time and for which invoices have not yet been received or will not be rendered, excluding offering costs (due within one year or within the normal operating cycle if longer).",
+                "concept": "adra:AccruedLiabilitiesExcludingOfferingCostsCurrent",
+                "unit": "usd",
+                "value": 81280
+            },
+            {
+                "label": "Amount of offering costs accrued but not yet paid as of the period date.",
+                "concept": "adra:AccruedOfferingCosts",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Liabilities, Current [Abstract]",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 86280
+            },
+            {
+                "label": "Warrants and Rights Outstanding",
+                "concept": "WarrantsAndRightsOutstanding",
+                "unit": "usd",
+                "value": 5051200
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 5137480
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1151225
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 3848405
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000005
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 117529967
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 3853881
+            },
+            {
+                "label": "Fair Value Adjustment of Warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -4106900
+            },
+            {
+                "label": "Amount Incurred in connection with Initial Public Offer.",
+                "concept": "adra:TransactionCostsIncurredInConnectionWithIpo",
+                "unit": "usd",
+                "value": 86544
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 1528
+            },
+            {
+                "label": "Increase decrease of prepaid expenses and other current assests",
+                "concept": "adra:Increasedecreaseinprepaidexpensesandothercurrentassets",
+                "unit": "usd",
+                "value": 47437
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 76398
+            },
+            {
+                "label": "Cash Flows from Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -44168
+            },
+            {
+                "label": "The amount of cash outflow for investment of cash in trust account.",
+                "concept": "adra:PaymentsForInvestmentOfCashInTrustAccount",
+                "unit": "usd",
+                "value": 116150000
+            },
+            {
+                "label": "Cash Flows from Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -116150000
+            },
+            {
+                "label": "The cash inflow associated with the amount received from entity's first offering of stock to the public, net of underwriting discounts paid.",
+                "concept": "adra:NetProceedsFromInitialPublicOffering",
+                "unit": "usd",
+                "value": 114000000
+            },
+            {
+                "label": "Proceeds from Issuance of Warrants",
+                "concept": "ProceedsFromIssuanceOfWarrants",
+                "unit": "usd",
+                "value": 4120000
+            },
+            {
+                "label": "realisation of amount from sale of unit purchase option.",
+                "concept": "adra:ProceedsFromSaleOfUnitPurchaseOption",
+                "unit": "usd",
+                "value": 100
+            },
+            {
+                "label": "Repayments of Related Party Debt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 600000
+            },
+            {
+                "label": "Payments of Stock Issuance Costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 402352
+            },
+            {
+                "label": "Cash Flows from Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 117117748
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 923580
+            },
+            {
+                "label": "The amount of offering costs included in accounts payable or accrued expenses that were incurred during a noncash or partial noncash transaction.",
+                "concept": "adra:OfferingCostsIncludedInAccountsPayableAccruedExpenses",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Amount of initial classification of common stock subject to possible redemption, classified as non-cash investing and financing activity.",
+                "concept": "adra:InitialClassificationOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 103452012
+            },
+            {
+                "label": "The initial fair value classification of warrant liabilites disclosed in the supplemental non-cash cash flow activities.",
+                "concept": "adra:InitialFairValueOfWarrantLiabilities",
+                "unit": "usd",
+                "value": 9158100
+            },
+            {
+                "label": "Amount of change in value of common stock subject to possible redemption, classified as non-cash investing and financing activity.",
+                "concept": "adra:ChangeInValueOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 3940470
+            }
+        ],
+        "ic": [
+            {
+                "label": "Operating and formation costs",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 168003
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -168003
+            },
+            {
+                "label": "Gain (Loss) on Investments",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": 1528
+            },
+            {
+                "label": "Amount Incurred in connection with Initial Public Offer.",
+                "concept": "adra:TransactionCostsIncurredInConnectionWithIpo",
+                "unit": "usd",
+                "value": 86544
+            },
+            {
+                "label": "Fair Value Adjustment of Warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -4106900
+            },
+            {
+                "label": "Other income:",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 4021884
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 3853881
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic and Diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 2700000
+            }
+        ]
+    }
+}

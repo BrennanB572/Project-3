@@ -1,0 +1,327 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-06-30",
+    "year": "2021",
+    "quarter": "Q2",
+    "symbol": "GLYC",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock; $0.001 par value; 100,000,000 shares authorized; 51,539,010 shares issued and outstanding at June 30, 2021; 49,017,622 shares issued and outstanding at December 31, 2020",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 51539
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 8125541
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 8125541
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 120314961
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 124378679
+            },
+            {
+                "label": "Deposits",
+                "concept": "SecurityDeposit",
+                "unit": "usd",
+                "value": 52320
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 450377754
+            },
+            {
+                "label": "Preferred stock; $0.001 par value; 5,000,000 shares authorized, no shares issued and outstanding at June 30, 2021 and December 31, 2020",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1174589
+            },
+            {
+                "label": "Operating lease right-of-use asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 1959703
+            },
+            {
+                "label": "Noncurrent accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 408323
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 118854094
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1460867
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1460867
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 10248917
+            },
+            {
+                "label": "Lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 948787
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 124378679
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 491088
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 491088
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 12092259
+            },
+            {
+                "label": "Lease liabilities, net of current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 1435019
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 112286420
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 112286420
+            },
+            {
+                "label": "Prepaid research and development expenses",
+                "concept": "PrepaidExpenseNoncurrent",
+                "unit": "usd",
+                "value": 1560607
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -338142873
+            }
+        ],
+        "cf": [
+            {
+                "label": "Non-cash lease expense",
+                "concept": "glyc:OperatingLeaseRightOfUseAssetAmortization",
+                "unit": "usd",
+                "value": 365521
+            },
+            {
+                "label": "Noncurrent accrued expenses",
+                "concept": "glyc:IncreaseDecreaseInNoncurrentAccruedLiabilities",
+                "unit": "usd",
+                "value": 143994
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 222539
+            },
+            {
+                "label": "Purchases of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 8162
+            },
+            {
+                "label": "Proceeds from issuance of common stock, net of issuance costs",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 9559699
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -8162
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 9563938
+            },
+            {
+                "label": "Loss on disposal of assets",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": -2174
+            },
+            {
+                "label": "Lease liabilities",
+                "concept": "glyc:IncreaseDecreaseInOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": -434757
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": -915351
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": -1314340
+            },
+            {
+                "label": "Net change in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -18180923
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -28673320
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 135573
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 135573
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -27736699
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 3176346
+            },
+            {
+                "label": "Proceeds from exercise of stock options",
+                "concept": "ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlansIncludingStockOptions",
+                "unit": "usd",
+                "value": 4239
+            }
+        ],
+        "ic": [
+            {
+                "label": "Basic and diluted net loss per common share (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.56
+            },
+            {
+                "label": "Research and development expense",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 21314517
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 11067
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -28684387
+            },
+            {
+                "label": "Basic and diluted weighted-average number of common shares (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 51118096
+            },
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 1055582
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 29739969
+            },
+            {
+                "label": "Net loss and comprehensive loss",
+                "concept": "glyc:NetIncomeLossAndComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -28673320
+            },
+            {
+                "label": "General and administrative expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 8425452
+            }
+        ]
+    }
+}

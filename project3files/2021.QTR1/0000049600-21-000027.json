@@ -1,0 +1,477 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-12-31",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "EGP",
+    "data": {
+        "bs": [
+            {
+                "label": "\u00a0\u00a0Real estate properties\u00a0",
+                "concept": "egp:RealEstateProperties",
+                "unit": "usd",
+                "value": 3159497000
+            },
+            {
+                "label": "Development and value-add properties",
+                "concept": "egp:Developmentandvalueaddproperties",
+                "unit": "usd",
+                "value": 359588000
+            },
+            {
+                "label": "Real estate, development and value-add properties",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 3519085000
+            },
+            {
+                "label": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Less accumulated depreciation\u00a0",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 955328000
+            },
+            {
+                "label": "Real estate, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 2563757000
+            },
+            {
+                "label": "UNCONSOLIDATED INVESTMENT",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 7446000
+            },
+            {
+                "label": "Cash Equivalents",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 21000
+            },
+            {
+                "label": "\u00a0\u00a0Other assets\u00a0",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 149579000
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2720803000
+            },
+            {
+                "label": "Notes Payable to Banks [Member]",
+                "concept": "NotesPayableToBank",
+                "unit": "usd",
+                "value": 124194000
+            },
+            {
+                "label": "Unsecured Debt [Member]",
+                "concept": "UnsecuredDebt",
+                "unit": "usd",
+                "value": 1107708000
+            },
+            {
+                "label": "Secured Debt [Member]",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 78993000
+            },
+            {
+                "label": "Accounts Payable and Accrued Liabilities [Abstract]",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 69573000
+            },
+            {
+                "label": "Other Liabilities [Member]",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 69817000
+            },
+            {
+                "label": "LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1450285000
+            },
+            {
+                "label": "Common shares; $.0001 par value; 70,000,000 shares authorized; 39,676,828 shares issued and outstanding at December 31, 2020 and 38,925,953 at December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "\u00a0\u00a0Excess shares; $0.0001 par value; 30,000,000 shares authorized; \u00a0\u00a0\u00a0\u00a0no shares issued",
+                "concept": "egp:ExcessSharesValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "\u00a0\u00a0Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1610053000
+            },
+            {
+                "label": "Distributions In Excess Of Earnings",
+                "concept": "AccumulatedDistributionsInExcessOfNetIncome",
+                "unit": "usd",
+                "value": 329667000
+            },
+            {
+                "label": "Accumulated Other Comprehensive Income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -10752000
+            },
+            {
+                "label": "Total Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1269638000
+            },
+            {
+                "label": "Noncontrolling interest in joint ventures",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 880000
+            },
+            {
+                "label": "Total Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1270518000
+            },
+            {
+                "label": "LIABILITIES AND EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2720803000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 108391000
+            },
+            {
+                "label": "\u00a0\u00a0Depreciation and amortization\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 116359000
+            },
+            {
+                "label": "Vested (in shares)",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 6579000
+            },
+            {
+                "label": "Gain on sales of real estate investments and non-operating real estate",
+                "concept": "egp:GainLossOnSaleOfPropertyPlantEquipmentAndRealEstateProperties",
+                "unit": "usd",
+                "value": 13145000
+            },
+            {
+                "label": "Gain on casualties and involuntary conversion on real estate assets",
+                "concept": "egp:Gainoncasualtiesandinvoluntaryconversion",
+                "unit": "usd",
+                "value": -161000
+            },
+            {
+                "label": "Accrued income and other assets",
+                "concept": "IncreaseDecreaseInOperatingAssets",
+                "unit": "usd",
+                "value": 4615000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and prepaid rent",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": -18851000
+            },
+            {
+                "label": "Other\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 1728000
+            },
+            {
+                "label": "NET CASH PROVIDED BY OPERATING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 196285000
+            },
+            {
+                "label": "Development and value-add properties",
+                "concept": "PaymentsToDevelopRealEstateAssets",
+                "unit": "usd",
+                "value": 195446000
+            },
+            {
+                "label": "Purchases of real estate",
+                "concept": "PaymentsToAcquireCommercialRealEstate",
+                "unit": "usd",
+                "value": 49199000
+            },
+            {
+                "label": "Real estate improvements",
+                "concept": "PaymentsForCapitalImprovements",
+                "unit": "usd",
+                "value": 33131000
+            },
+            {
+                "label": "Net proceeds from sales of real estate investments and non-operating real estate\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "ProceedsFromSaleOfRealEstateHeldforinvestment",
+                "unit": "usd",
+                "value": 21565000
+            },
+            {
+                "label": "Proceeds from casualties and involuntary conversion on real estate assets",
+                "concept": "egp:Proceedsfromcasualtiesandinvoluntaryconversion",
+                "unit": "usd",
+                "value": 242000
+            },
+            {
+                "label": "Repayments on mortgage loans receivable",
+                "concept": "egp:RepaymentsOnMortgageLoansReceivable",
+                "unit": "usd",
+                "value": 1679000
+            },
+            {
+                "label": "Changes in accrued development costs",
+                "concept": "egp:ChangesInAccruedDevelopmentCosts",
+                "unit": "usd",
+                "value": -5339000
+            },
+            {
+                "label": "Changes in other assets and other liabilities",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 28627000
+            },
+            {
+                "label": "INVESTING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -288256000
+            },
+            {
+                "label": "Proceeds from unsecured bank credit facilities",
+                "concept": "ProceedsFromBankDebt",
+                "unit": "usd",
+                "value": 625387000
+            },
+            {
+                "label": "Repayments on unsecured bank credit facilities",
+                "concept": "RepaymentsOfBankDebt",
+                "unit": "usd",
+                "value": 613097000
+            },
+            {
+                "label": "Proceeds from unsecured debt",
+                "concept": "ProceedsFromIssuanceOfUnsecuredDebt",
+                "unit": "usd",
+                "value": 275000000
+            },
+            {
+                "label": "Repayments on unsecured debt",
+                "concept": "RepaymentsOfUnsecuredDebt",
+                "unit": "usd",
+                "value": 105000000
+            },
+            {
+                "label": "Repayments on secured debt",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 54306000
+            },
+            {
+                "label": "Debt issuance costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 1090000
+            },
+            {
+                "label": "Distributions paid to stockholders (not including dividends accrued)",
+                "concept": "PaymentsOfOrdinaryDividends",
+                "unit": "usd",
+                "value": 119765000
+            },
+            {
+                "label": "Proceeds from common stock offerings",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 90721000
+            },
+            {
+                "label": "Proceeds from dividend reinvestment plan",
+                "concept": "egp:ProceedsFromDividendReinvestmentPlan",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": -6082000
+            },
+            {
+                "label": "NET CASH PROVIDED BY FINANCING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 91768000
+            },
+            {
+                "label": "INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -203000
+            },
+            {
+                "label": "Cash paid for interest, net of amount capitalized of $9,651, $8,453, and $6,334 for 2020, 2019, and 2018, respectively",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 32362000
+            },
+            {
+                "label": "Cash paid for operating lease liability",
+                "concept": "egp:Cashpaidforoperatingleaseliability",
+                "unit": "usd",
+                "value": 1476000
+            },
+            {
+                "label": "Operating lease liabilities arising from obtaining right of use assets",
+                "concept": "egp:Operatingleaseliabilitiesarisingfromobtainingrightofuseassets",
+                "unit": "usd",
+                "value": 495000
+            }
+        ],
+        "ic": [
+            {
+                "label": "\u00a0\u00a0Income from real estate operations\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "egp:Incomefromrealestateoperations",
+                "unit": "usd",
+                "value": 362669000
+            },
+            {
+                "label": "\u00a0\u00a0Other revenue\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "OtherOperatingIncome",
+                "unit": "usd",
+                "value": 354000
+            },
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 363023000
+            },
+            {
+                "label": "\u00a0\u00a0Expenses from real estate operations\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "egp:Expensesfromrealestateoperations",
+                "unit": "usd",
+                "value": 103368000
+            },
+            {
+                "label": "\u00a0\u00a0Depreciation and amortization\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 116359000
+            },
+            {
+                "label": "\u00a0\u00a0General and administrative\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 14404000
+            },
+            {
+                "label": "Indirect leasing costs",
+                "concept": "egp:Indirectleasingcosts",
+                "unit": "usd",
+                "value": 661000
+            },
+            {
+                "label": "Expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 234792000
+            },
+            {
+                "label": "\u00a0\u00a0Interest expense\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 33927000
+            },
+            {
+                "label": "Gain on Sales of Real Estate Investments",
+                "concept": "GainsLossesOnSalesOfInvestmentRealEstate",
+                "unit": "usd",
+                "value": 13145000
+            },
+            {
+                "label": "\u00a0\u00a0Other\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": 942000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 108391000
+            },
+            {
+                "label": "Net income attributable to noncontrolling interest in joint ventures",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 28000
+            },
+            {
+                "label": "NET INCOME ATTRIBUTABLE TO EASTGROUP PROPERTIES, INC. COMMON STOCKHOLDERS\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 108363000
+            },
+            {
+                "label": "Other comprehensive income (loss) \u2013 cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -13559000
+            },
+            {
+                "label": "TOTAL COMPREHENSIVE INCOME",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 94804000
+            },
+            {
+                "label": "\u00a0\u00a0Net income attributable to common stockholders",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 2.77
+            },
+            {
+                "label": "\u00a0\u00a0Weighted average shares outstanding\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 39185000
+            },
+            {
+                "label": "DILUTED PER COMMON SHARE DATA FOR NET INCOME ATTRIBUTABLE TO EASTGROUP PROPERTIES, INC. COMMON STOCKHOLDERS",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 2.76
+            },
+            {
+                "label": "\u00a0\u00a0Weighted average shares outstanding\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 39296000
+            }
+        ]
+    }
+}

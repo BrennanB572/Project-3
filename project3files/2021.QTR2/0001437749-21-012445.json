@@ -1,0 +1,537 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "BLBX",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 1114468
+            },
+            {
+                "label": "Accounts receivable, net of allowance for doubtful accounts of $68,589 at March 31, 2021 and December 31, 2020, respectively",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 10996
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 18016
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1143480
+            },
+            {
+                "label": "Right of use lease, net of amortization of $107,987 and $97,725 at March 31, 2021 and December 31, 2020, respectively",
+                "concept": "blbx:LeaseRightofuseAsset",
+                "unit": "usd",
+                "value": 285184
+            },
+            {
+                "label": "blbx_PropertyPlantAndEquipmentRightOfUseLeaseAssetsAndFinitedLivedIntangibleAssets",
+                "concept": "blbx:PropertyPlantAndEquipmentRightOfUseLeaseAssetsAndFinitedLivedIntangibleAssets",
+                "unit": "usd",
+                "value": 317776
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseNoncurrent",
+                "unit": "usd",
+                "value": 29043
+            },
+            {
+                "label": "Prepaid expenses, related party (Note 5)",
+                "concept": "blbx:PrepaidExpensesRelatedPartyNoncurrent",
+                "unit": "usd",
+                "value": 36700
+            },
+            {
+                "label": "us-gaap_PrepaidExpenseAndOtherAssetsNoncurrent",
+                "concept": "PrepaidExpenseAndOtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 65743
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1526999
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 364544
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 8037
+            },
+            {
+                "label": "Unearned subscriptions",
+                "concept": "DeferredRevenueCurrent",
+                "unit": "usd",
+                "value": 1094993
+            },
+            {
+                "label": "Lease liability right of use, current",
+                "concept": "blbx:LeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 59918
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Senior secured note payable, current",
+                "concept": "SeniorNotesCurrent",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Convertible notes payable, net of discount of $102,727 and $194,267 at March 31, 2021 and December 31, 2020, respectively (Note 6)",
+                "concept": "ConvertibleNotesPayableCurrent",
+                "unit": "usd",
+                "value": 152481
+            },
+            {
+                "label": "Notes payable (Note 6)",
+                "concept": "blbx:NonconvertibleNotesPayableCurrent",
+                "unit": "usd",
+                "value": 130773
+            },
+            {
+                "label": "Notes payable, related party (Note 6)",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 859
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1821605
+            },
+            {
+                "label": "Senior secured note payable, long term, net of debt issuance costs of $86,538 and $99,852 at March 31, 2021 and December 31, 2020, respectively",
+                "concept": "SeniorLongTermNotes",
+                "unit": "usd",
+                "value": 903462
+            },
+            {
+                "label": "Lease liability right of use, long term",
+                "concept": "blbx:LeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 229125
+            },
+            {
+                "label": "Long term liabilities:",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1132587
+            },
+            {
+                "label": "Commitments and contingencies (Note 7)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.001 par value, 100,000,000 shares authorized: 8,579,877 and 8,410,386 issued and outstanding at March 31, 2021 and December 31, 2020, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 8580
+            },
+            {
+                "label": "Common stock, subscribed",
+                "concept": "CommonStockSharesSubscriptions",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 5731490
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -7172263
+            },
+            {
+                "label": "Stockholders' Equity Note Disclosure [Text Block]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -1427193
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1526999
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 12555
+            },
+            {
+                "label": "Depreciation and amortization expense",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 4324
+            },
+            {
+                "label": "Amortization of note discount",
+                "concept": "blbx:AmortizationOfNoteDiscountPremium",
+                "unit": "usd",
+                "value": 91539
+            },
+            {
+                "label": "Amortization of debt issuance costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 13314
+            },
+            {
+                "label": "Shares issued in settlement of financing costs",
+                "concept": "blbx:IssuanceOfStockInSettlementOfFinancingCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Expenses paid by lender",
+                "concept": "blbx:ExpensesPaidByLender",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Convertible note financing",
+                "concept": "blbx:ConvertibleNoteFinancingExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_GainLossOnDerivativeInstrumentsNetPretax",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Default expense",
+                "concept": "blbx:ConvertibleNoteDefaultExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Right of use lease expense",
+                "concept": "blbx:NoncashPortionOfLeaseExpense",
+                "unit": "usd",
+                "value": -506
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -6994
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInInventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 355
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidExpense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": -15600
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 11999
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInInterestPayableNet",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": -2388
+            },
+            {
+                "label": "blbx_IncreaseDecreaseInInterestPayableRelatedParty",
+                "concept": "blbx:IncreaseDecreaseInInterestPayableRelatedParty",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInContractWithCustomerLiability",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 78836
+            },
+            {
+                "label": "Cash flows from operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 231912
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 31234
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -31234
+            },
+            {
+                "label": "Common stock issued for cash",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 150506
+            },
+            {
+                "label": "Common stock subscribed",
+                "concept": "blbx:ProceedsFromSubscriptionOfCommonStock",
+                "unit": "usd",
+                "value": -12500
+            },
+            {
+                "label": "Proceeds from issuance of notes payable",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from issuance of convertible notes payable",
+                "concept": "ProceedsFromConvertibleDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_RepaymentsOfNotesPayable",
+                "concept": "RepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": 832
+            },
+            {
+                "label": "blbx_RepaymentsOfConvertibleNotePayable",
+                "concept": "blbx:RepaymentsOfConvertibleNotePayable",
+                "unit": "usd",
+                "value": 196209
+            },
+            {
+                "label": "blbx_RepaymentsOfNotesPayableRelatedParties",
+                "concept": "blbx:RepaymentsOfNotesPayableRelatedParties",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash advances from related parties",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -59035
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 141643
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 43425
+            },
+            {
+                "label": "Income taxes paid",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "blbx_NotesPayableExchangedWithNotePayable",
+                "concept": "blbx:NotesPayableExchangedWithNotePayable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock issued in settlement of accrued liabilities",
+                "concept": "blbx:StockIssuedSettlementOfAccruedLiabilities",
+                "unit": "usd",
+                "value": 180000
+            },
+            {
+                "label": "Repayment of note payable, related party in exchange for advances",
+                "concept": "blbx:NotePayableRelatedPartyExchangedForAdvances",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 1489668
+            },
+            {
+                "label": "Cost of revenues",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 395775
+            },
+            {
+                "label": "us-gaap_GrossProfit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 1093893
+            },
+            {
+                "label": "Software development costs",
+                "concept": "ResearchAndDevelopmentExpenseSoftwareExcludingAcquiredInProcessCost",
+                "unit": "usd",
+                "value": 130438
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 606687
+            },
+            {
+                "label": "Advertising and marketing",
+                "concept": "MarketingAndAdvertisingExpense",
+                "unit": "usd",
+                "value": 207312
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 4324
+            },
+            {
+                "label": "Operating expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 948761
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 145132
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseDebtExcludingAmortization",
+                "unit": "usd",
+                "value": 41038
+            },
+            {
+                "label": "Convertible note financing",
+                "concept": "blbx:ConvertibleNoteFinancingExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_GainLossOnDerivativeInstrumentsNetPretax",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Default expense",
+                "concept": "blbx:ConvertibleNoteDefaultExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization of debt discount",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 91539
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 12555
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 12555
+            },
+            {
+                "label": "Weighted average number of common shares outstanding - basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 8513694
+            },
+            {
+                "label": "Weighted average number of common shares outstanding - fully diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 14134194
+            },
+            {
+                "label": "Net loss per share - basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0
+            },
+            {
+                "label": "Net income per share - fully diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0
+            }
+        ]
+    }
+}
