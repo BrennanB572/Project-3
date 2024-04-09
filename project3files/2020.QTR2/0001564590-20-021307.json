@@ -1,0 +1,441 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "FRPT",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 149486159
+            },
+            {
+                "label": "Short-term investments",
+                "concept": "ShortTermInvestments",
+                "unit": "usd",
+                "value": 20000000
+            },
+            {
+                "label": "Accounts receivable, net of allowance for doubtful accounts",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 20295397
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 16005370
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 2998336
+            },
+            {
+                "label": "Other current assets(1)",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 10720781
+            },
+            {
+                "label": "CURRENT ASSETS:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 219506043
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 195607774
+            },
+            {
+                "label": "Deposits that are made on property, plant and equipment, net.",
+                "concept": "frpt:DepositsOnPropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 4298520
+            },
+            {
+                "label": "Operating lease right of use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 8846194
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 3708158
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 431966689
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 20420592
+            },
+            {
+                "label": "Accrued expenses(1)",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 20440468
+            },
+            {
+                "label": "Current operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 1241168
+            },
+            {
+                "label": "CURRENT LIABILITIES:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 42102228
+            },
+            {
+                "label": "Long term operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 8069160
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 50171388
+            },
+            {
+                "label": "Common stock \u2014 voting, $0.001 par value, 200,000,000 shares authorized, 40,271,411 issued and 40,257,242 outstanding on March 31, 2020, and 36,162,433 issued and 36,148,264 outstanding on December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 40271
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 588357121
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -206325650
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -20215
+            },
+            {
+                "label": "Treasury stock, at cost \u2014 14,169 shares on March 31, 2020 and on December 31, 2019",
+                "concept": "TreasuryStockCommonValue",
+                "unit": "usd",
+                "value": 256226
+            },
+            {
+                "label": "STOCKHOLDERS' EQUITY:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 381795301
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 431966689
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -3590233
+            },
+            {
+                "label": "Provision for (recovery of) losses (gains) on accounts receivable.",
+                "concept": "frpt:ProvisionForRecoveryOfLossesGainsOnAccountsReceivable",
+                "unit": "usd",
+                "value": 90712
+            },
+            {
+                "label": "Loss on disposal of equipment",
+                "concept": "GainLossOnDispositionOfAssets",
+                "unit": "usd",
+                "value": -1662
+            },
+            {
+                "label": "Share-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 2178214
+            },
+            {
+                "label": "Inventory obsolescence",
+                "concept": "InventoryWriteDown",
+                "unit": "usd",
+                "value": 117937
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 4453031
+            },
+            {
+                "label": "Amortization of deferred financing costs and loan discount",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 625299
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 1805269
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 3581038
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -9865
+            },
+            {
+                "label": "Increase decrease in operating lease right of use.",
+                "concept": "frpt:IncreaseDecreaseInOperatingLeaseRightOfUse",
+                "unit": "usd",
+                "value": -308040
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": -11786
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 655688
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": -1692460
+            },
+            {
+                "label": "Increase decrease in other lease liabilities.",
+                "concept": "frpt:IncreaseDecreaseInOtherLeaseLiabilities",
+                "unit": "usd",
+                "value": -283982
+            },
+            {
+                "label": "CASH FLOWS FROM OPERATING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -2500748
+            },
+            {
+                "label": "Purchase of short-term investments",
+                "concept": "PaymentsToAcquireShortTermInvestments",
+                "unit": "usd",
+                "value": 20000000
+            },
+            {
+                "label": "Acquisitions of property, plant and equipment, software and deposits on equipment",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 34237980
+            },
+            {
+                "label": "CASH FLOWS FROM INVESTING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -54237980
+            },
+            {
+                "label": "Proceeds from common shares issued in primary offering, net of issuance cost",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": 252062254
+            },
+            {
+                "label": "Proceeds from exercise of options to purchase common stock",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 402556
+            },
+            {
+                "label": "Tax withholdings related to net shares settlements of restricted stock units",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 644599
+            },
+            {
+                "label": "Proceeds from borrowings under Credit Facilities",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 20933000
+            },
+            {
+                "label": "Repayment of borrowings under Credit Facilities",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 76000000
+            },
+            {
+                "label": "CASH FLOWS FROM FINANCING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 196753211
+            },
+            {
+                "label": "NET CHANGE IN CASH AND CASH EQUIVALENTS",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 140014483
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 766950
+            },
+            {
+                "label": "Property, plant and equipment purchases in accounts payable",
+                "concept": "NoncashOrPartNoncashAcquisitionFixedAssetsAcquired1",
+                "unit": "usd",
+                "value": 8671690
+            }
+        ],
+        "ic": [
+            {
+                "label": "NET SALES",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 70097805
+            },
+            {
+                "label": "COST OF GOODS SOLD",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 38308179
+            },
+            {
+                "label": "GROSS PROFIT",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 31789626
+            },
+            {
+                "label": "SELLING, GENERAL, AND ADMINISTRATIVE EXPENSES",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 34675943
+            },
+            {
+                "label": "LOSS FROM OPERATIONS",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -2886317
+            },
+            {
+                "label": "Other Income/(Expenses), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 21518
+            },
+            {
+                "label": "Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 703834
+            },
+            {
+                "label": "OTHER INCOME/(EXPENSES):",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -682316
+            },
+            {
+                "label": "LOSS BEFORE INCOME TAXES",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -3568633
+            },
+            {
+                "label": "INCOME TAX EXPENSE",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 21600
+            },
+            {
+                "label": "LOSS ATTRIBUTABLE TO COMMON STOCKHOLDERS",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -3590233
+            },
+            {
+                "label": "Change in foreign currency translation",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 58955
+            },
+            {
+                "label": "OTHER COMPREHENSIVE INCOME (LOSS):",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 58955
+            },
+            {
+                "label": "TOTAL COMPREHENSIVE LOSS",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -3531278
+            },
+            {
+                "label": "NET LOSS PER SHARE ATTRIBUTABLE TO COMMON STOCKHOLDERS",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.1
+            },
+            {
+                "label": "-DILUTED",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.1
+            },
+            {
+                "label": "-BASIC",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 37443758
+            },
+            {
+                "label": "-DILUTED",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 37443758
+            }
+        ]
+    }
+}

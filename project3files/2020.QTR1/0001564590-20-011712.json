@@ -1,0 +1,411 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-12-31",
+    "year": "2019",
+    "quarter": "FY",
+    "symbol": "PHAT",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 243765000
+            },
+            {
+                "label": "Prepaid expenses and other current assets (including related party amounts of $0 and $19, respectively)",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 11836000
+            },
+            {
+                "label": "Current assets:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 255601000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 463000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 933000
+            },
+            {
+                "label": "Other long-term assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 181000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 257178000
+            },
+            {
+                "label": "Accounts payable (including related party amounts of $200 and $45, respectively)",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 699000
+            },
+            {
+                "label": "Accrued expenses (including related party amounts of $308 and $2, respectively)",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2319000
+            },
+            {
+                "label": "Accrued interest (including related party amounts of $0 and $13, respectively)",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 156000
+            },
+            {
+                "label": "Operating lease liabilities, current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 161000
+            },
+            {
+                "label": "Warrant liability current.",
+                "concept": "phat:WarrantLiabilityCurrent",
+                "unit": "usd",
+                "value": 413000
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 3748000
+            },
+            {
+                "label": "Long-term debt, net of discount",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 22777000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 635000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 2063000
+            },
+            {
+                "label": "Liabilities and Stockholders\u2019 Equity",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 29223000
+            },
+            {
+                "label": "Commitments and contingencies (Note 4)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.0001 par value; authorized shares \u2014400,000,000 at December 31, 2019; issued shares\u2014 28,964,506 at December 31, 2019; outstanding shares\u2014 24,728,258 at December 31, 2019;",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 484372000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -256419000
+            },
+            {
+                "label": "Stockholders\u2019 equity (deficit):",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 227955000
+            },
+            {
+                "label": "Liabilities and Stockholders\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 257178000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -255131000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 8000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 406000
+            },
+            {
+                "label": "Amortization of debt discount",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 409000
+            },
+            {
+                "label": "Acquired in-process research and development",
+                "concept": "ResearchAndDevelopmentInProcess",
+                "unit": "usd",
+                "value": 78897000
+            },
+            {
+                "label": "Non-cash interest expense (includes related party amounts of $590 and 0, respectively)",
+                "concept": "InterestExpenseOther",
+                "unit": "usd",
+                "value": 2605000
+            },
+            {
+                "label": "Change in fair value of warrant liabilities (includes related party amounts of ($96,278) and ($0), respectively)",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 96272000
+            },
+            {
+                "label": "Fair value adjustment of convertible promissory notes.",
+                "concept": "phat:FairValueAdjustmentOfConvertiblePromissoryNotes",
+                "unit": "usd",
+                "value": 49546000
+            },
+            {
+                "label": "Prepaid expenses and other current assets (includes related party amounts of $19, and $(19), respectively)",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 11813000
+            },
+            {
+                "label": "Accounts payable and accrued expenses (includes related party amounts of $460, and $47, respectively)",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 2265000
+            },
+            {
+                "label": "Accrued interest (includes related party amounts of $0 and $13, respectively)",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": 156000
+            },
+            {
+                "label": "Increase (decrease) in operating right of use asset and lease liabilities.",
+                "concept": "phat:IncreaseDecreaseInOperatingRightOfUseAssetAndLeaseLiabilities",
+                "unit": "usd",
+                "value": 51000
+            },
+            {
+                "label": "Other long-term assets",
+                "concept": "IncreaseDecreaseInOtherNoncurrentAssets",
+                "unit": "usd",
+                "value": 181000
+            },
+            {
+                "label": "Cash flows from operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -36510000
+            },
+            {
+                "label": "Cash paid for purchased in-process research and development",
+                "concept": "PaymentsToAcquireInProcessResearchAndDevelopment",
+                "unit": "usd",
+                "value": 25118000
+            },
+            {
+                "label": "Cash paid for property, plant and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 132000
+            },
+            {
+                "label": "Cash flows from investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -25250000
+            },
+            {
+                "label": "Proceeds from initial public offering, net of issuance costs",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": 191472000
+            },
+            {
+                "label": "Proceeds from issuance of convertible promissory notes",
+                "concept": "ProceedsFromIssuanceOfConvertiblePreferredStock",
+                "unit": "usd",
+                "value": 88324000
+            },
+            {
+                "label": "Net proceeds from issuance of long-term debt",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 24850000
+            },
+            {
+                "label": "Cash flows from financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 304646000
+            },
+            {
+                "label": "Net increase in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 242886000
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 1007000
+            },
+            {
+                "label": "Exchange of accrued interest for convertible promissory notes",
+                "concept": "ConversionOfStockAmountConverted1",
+                "unit": "usd",
+                "value": 27000
+            },
+            {
+                "label": "Issuance of common stock warrants in connection with long-term debt.",
+                "concept": "phat:IssuanceOfCommonStockWarrantsInConnectionWithLongTermDebt",
+                "unit": "usd",
+                "value": 419000
+            },
+            {
+                "label": "Property and equipment purchases included in accounts payable and accrued liabilities",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 339000
+            },
+            {
+                "label": "Non cash final interest payment fee.",
+                "concept": "phat:NonCashFinalInterestPaymentFee",
+                "unit": "usd",
+                "value": 2063000
+            },
+            {
+                "label": "Operating lease liabilities arising from obtaining right-of-use assets",
+                "concept": "phat:OperatingLeaseLiabilitiesArisingFromObtainingRightOfUseAssets",
+                "unit": "usd",
+                "value": 796000
+            },
+            {
+                "label": "Conversion of convertible promissory notes and accrued interest into common shares",
+                "concept": "DebtConversionConvertedInstrumentAmount1",
+                "unit": "usd",
+                "value": 142437000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Research and development (includes related party amounts of $1,243 and $0, respectively)",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 20374000
+            },
+            {
+                "label": "Process research and development.",
+                "concept": "phat:ProcessResearchAndDevelopment",
+                "unit": "usd",
+                "value": 78897000
+            },
+            {
+                "label": "General and administrative (includes related party amounts of $312 and $321, respectively)",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 6944000
+            },
+            {
+                "label": "Operating expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 106215000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -106215000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 1089000
+            },
+            {
+                "label": "Interest expense (includes related party amounts of $(590) and $(13), respectively)",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 4177000
+            },
+            {
+                "label": "Change in fair value of warrant liabilities (includes related party amounts of ($96,278) and ($0), respectively)",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 96272000
+            },
+            {
+                "label": "Change in fair value of convertible promissory notes.",
+                "concept": "phat:ChangeInFairValueOfConvertiblePromissoryNotes",
+                "unit": "usd",
+                "value": -49546000
+            },
+            {
+                "label": "Other income (expense)",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -10000
+            },
+            {
+                "label": "Other income (expense):",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -148916000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -255131000
+            },
+            {
+                "label": "Net loss per share, basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -22.45
+            },
+            {
+                "label": "Weighted-average shares of common stock outstanding, basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 11366916
+            }
+        ]
+    }
+}

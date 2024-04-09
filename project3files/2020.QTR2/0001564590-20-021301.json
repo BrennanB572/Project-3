@@ -1,0 +1,405 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "CMO",
+    "data": {
+        "bs": [
+            {
+                "label": "Residential mortgage investments ($8.50 and $10.83 billion pledged at March 31, 2020 and December 31, 2019, respectively)",
+                "concept": "FinancialInstrumentsOwnedMortgagesMortgageBackedAndAssetBackedSecuritiesAtFairValue",
+                "unit": "usd",
+                "value": 8503171000
+            },
+            {
+                "label": "Cash pledged as collateral to repo counterparties.",
+                "concept": "cmo:CashCollateralReceivableFromSecuredBorrowingCounterparties",
+                "unit": "usd",
+                "value": 359168000
+            },
+            {
+                "label": "Cash collateral receivable from derivative counterparties",
+                "concept": "DerivativeCollateralRightToReclaimCash",
+                "unit": "usd",
+                "value": 95929000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 329448000
+            },
+            {
+                "label": "Amount includes principle and interest receivable on mortgage securities and similar investments and other assets including prepaid expenses and fixed assets.",
+                "concept": "cmo:ReceivablesAndOtherAssets",
+                "unit": "usd",
+                "value": 125127000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 9412843000
+            },
+            {
+                "label": "Amount of funds outstanding borrowed in the form of a security repurchase agreement between the entity and another party for the sale and repurchase of identical or substantially the same securities at a date certain for a specified price.",
+                "concept": "cmo:SecuredBorrowings",
+                "unit": "usd",
+                "value": 8379422000
+            },
+            {
+                "label": "Derivatives at fair value",
+                "concept": "DerivativeFairValueOfDerivativeLiability",
+                "unit": "usd",
+                "value": 50862000
+            },
+            {
+                "label": "Unsecured borrowings",
+                "concept": "JuniorSubordinatedNotes",
+                "unit": "usd",
+                "value": 98418000
+            },
+            {
+                "label": "Common stock dividend payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 14862000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 25655000
+            },
+            {
+                "label": "Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 8569219000
+            },
+            {
+                "label": "Preferred stock - $0.10 par value; 100,000 shares authorized: 7.50% Cumulative Redeemable Preferred Stock, Series E, 10,329 shares issued and outstanding ($258,226 aggregate liquidation preference) at March 31, 2020 and December 31, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 250946000
+            },
+            {
+                "label": "Common stock - $0.01 par value; 250,000 shares authorized: 96,395 and 94,606 shares issued and outstanding at March 31, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 964000
+            },
+            {
+                "label": "Paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1266045000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -668053000
+            },
+            {
+                "label": "Accumulated other comprehensive (loss) income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -6278000
+            },
+            {
+                "label": "Stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 843624000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 9412843000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Amortization of investment premiums",
+                "concept": "AccretionAmortizationOfDiscountsAndPremiumsInvestments",
+                "unit": "usd",
+                "value": -20691000
+            },
+            {
+                "label": "Amortization of equity-based awards",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 835000
+            },
+            {
+                "label": "The amount of amortization of unrealized gain (loss) related to derivatives designated as cash flow hedging instruments recorded in results of operations as a result of the de-designation of the respective hedges.",
+                "concept": "cmo:AmortizationOfUnrealizedGainLossOnDedesignatedHedges",
+                "unit": "usd",
+                "value": 103000
+            },
+            {
+                "label": "Loss on sale of investments",
+                "concept": "GainLossOnSalesOfMortgageBackedSecuritiesMBS",
+                "unit": "usd",
+                "value": -67820000
+            },
+            {
+                "label": "Loss on derivative instruments (net)",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": -156747000
+            },
+            {
+                "label": "Other depreciation and amortization",
+                "concept": "OtherDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 29000
+            },
+            {
+                "label": "Net change in receivables, other assets, accounts payable and accrued expenses",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": -1872000
+            },
+            {
+                "label": "Operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 39494000
+            },
+            {
+                "label": "Purchases of residential mortgage investments",
+                "concept": "PaymentsToAcquireMortgageBackedSecuritiesMBSCategorizedAsAvailableForSale",
+                "unit": "usd",
+                "value": 814547000
+            },
+            {
+                "label": "Proceeds from sales of residential mortgage investments",
+                "concept": "ProceedsFromSaleOfMortgageBackedSecuritiesMBSCategorizedAsAvailableForSale",
+                "unit": "usd",
+                "value": 2540426000
+            },
+            {
+                "label": "Refers to purchased interest receivable related to purchases of residential mortgage investments.",
+                "concept": "cmo:PurchasedInterestReceivableRelatedToPurchasesOfResidentialMortgageInvestments",
+                "unit": "usd",
+                "value": 1495000
+            },
+            {
+                "label": "Principal collections on residential mortgage investments, including changes in mortgage securities principal remittance receivable",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 902873000
+            },
+            {
+                "label": "Investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 2627257000
+            },
+            {
+                "label": "The amount of proceeds from entering into repurchase arrangements and similar borrowings.",
+                "concept": "cmo:ProceedsFromRepurchaseAgreementsAndSimilarBorrowings",
+                "unit": "usd",
+                "value": 29271292000
+            },
+            {
+                "label": "The amount of principal payments on repurchase arrangements and similar borrowings.",
+                "concept": "cmo:PrincipalPaymentsOnRepurchaseAgreementsAndSimilarBorrowings",
+                "unit": "usd",
+                "value": 31167283000
+            },
+            {
+                "label": "The change in cash remitted to derivative counterparties to meet initial and ongoing margin requirements that are based on the fair value of the cash collateral receivable.",
+                "concept": "cmo:PaymentsForProceedsFromCashCollateralReceivableFromDerivativeCounterparties",
+                "unit": "usd",
+                "value": 30452000
+            },
+            {
+                "label": "Payments for Proceeds from Cash Collateral Receivable from Secured Borrowing Counterparties.",
+                "concept": "cmo:PaymentsForProceedsFromCashCollateralReceivableFromSecuredBorrowingCounterparties",
+                "unit": "usd",
+                "value": 359168000
+            },
+            {
+                "label": "Net payments on derivative settlements",
+                "concept": "PaymentsForProceedsFromDerivativeInstrumentFinancingActivities",
+                "unit": "usd",
+                "value": 150760000
+            },
+            {
+                "label": "Issuance of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 12882000
+            },
+            {
+                "label": "The cash inflow from the issuance of common stock, preferred stock, treasury stock, stock options, and other types of equity, net of other miscellaneous stock related outflows.",
+                "concept": "cmo:OtherCapitalStockTransactions",
+                "unit": "usd",
+                "value": 107000
+            },
+            {
+                "label": "Dividends paid",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 19104000
+            },
+            {
+                "label": "Financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -2442700000
+            },
+            {
+                "label": "Net change in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 224051000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Residential mortgage investments",
+                "concept": "InterestIncomeSecuritiesMortgageBacked",
+                "unit": "usd",
+                "value": 69228000
+            },
+            {
+                "label": "Other",
+                "concept": "InterestAndDividendIncomeSecuritiesOther",
+                "unit": "usd",
+                "value": 399000
+            },
+            {
+                "label": "Other",
+                "concept": "InterestAndDividendIncomeSecurities",
+                "unit": "usd",
+                "value": 69627000
+            },
+            {
+                "label": "Secured borrowings",
+                "concept": "InterestExpenseSecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 45273000
+            },
+            {
+                "label": "Unsecured borrowings",
+                "concept": "InterestExpenseSubordinatedNotesAndDebentures",
+                "unit": "usd",
+                "value": 1900000
+            },
+            {
+                "label": "Interest expense:",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 47173000
+            },
+            {
+                "label": "Net interest income (expense)",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 22454000
+            },
+            {
+                "label": "Loss on derivative instruments (net)",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": -155739000
+            },
+            {
+                "label": "Loss on sale of investments",
+                "concept": "GainLossOnSalesOfMortgageBackedSecuritiesMBS",
+                "unit": "usd",
+                "value": -67820000
+            },
+            {
+                "label": "Compensation-related expense",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 2204000
+            },
+            {
+                "label": "Other general and administrative expense",
+                "concept": "OtherGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1202000
+            },
+            {
+                "label": "Miscellaneous other (expense) revenue",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -142000
+            },
+            {
+                "label": "Other expense:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 227107000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -204653000
+            },
+            {
+                "label": "Less preferred stock dividends",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 4842000
+            },
+            {
+                "label": "Net loss to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -209495000
+            },
+            {
+                "label": "Basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 94897000
+            },
+            {
+                "label": "Change in net unrealized gain or loss",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": -65770000
+            },
+            {
+                "label": "Reclassification adjustment for amounts included in net loss",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": -66864000
+            },
+            {
+                "label": "Change in net unrealized gain or loss",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": -21251000
+            },
+            {
+                "label": "Reclassification adjustment for amounts included in net loss",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": -480000
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -19677000
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -224330000
+            }
+        ]
+    }
+}

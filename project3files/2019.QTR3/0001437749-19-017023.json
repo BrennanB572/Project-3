@@ -1,0 +1,501 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-06-30",
+    "year": "2019",
+    "quarter": "Q2",
+    "symbol": "ACLZ",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1251087
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 51560
+            },
+            {
+                "label": "us-gaap_PrepaidExpenseAndOtherAssetsCurrent",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 32500
+            },
+            {
+                "label": "us-gaap_AssetsOfDisposalGroupIncludingDiscontinuedOperationCurrent",
+                "concept": "AssetsOfDisposalGroupIncludingDiscontinuedOperationCurrent",
+                "unit": "usd",
+                "value": 40710
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1425857
+            },
+            {
+                "label": "Property and equipment",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 3738
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 3804817
+            },
+            {
+                "label": "Noncurrent assets of discontinued operations",
+                "concept": "DisposalGroupIncludingDiscontinuedOperationAssetsNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_AssetsNoncurrent",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 3808555
+            },
+            {
+                "label": "us-gaap_Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 5234412
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 152633
+            },
+            {
+                "label": "Deferred revenues",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 21340
+            },
+            {
+                "label": "Current liabilities of discontinued operations",
+                "concept": "LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationCurrent",
+                "unit": "usd",
+                "value": 383023
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 556996
+            },
+            {
+                "label": "Noncurrent liabilities of discontinued operations",
+                "concept": "LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 556996
+            },
+            {
+                "label": "Commitments and Contingencies Disclosure [Text Block]",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.001 par value, 500,000,000 shares authorized, 99,679,709 and 66,179,709 shares issued and outstanding as of June 30, 2019 and December 31, 2018, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 99679
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 34013702
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -29362096
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -73873
+            },
+            {
+                "label": "Stockholders' Equity Note Disclosure [Text Block]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 4677416
+            },
+            {
+                "label": "Liabilities and Stockholders' Equity (Deficit)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 5234412
+            }
+        ],
+        "cf": [
+            {
+                "label": "us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 13604603
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 31563
+            },
+            {
+                "label": "us-gaap_DisposalGroupNotDiscontinuedOperationGainLossOnDisposal",
+                "concept": "DisposalGroupNotDiscontinuedOperationGainLossOnDisposal",
+                "unit": "usd",
+                "value": 19473080
+            },
+            {
+                "label": "Amortization of deferred financing cost",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 2511960
+            },
+            {
+                "label": "Provision for bad debt",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 54264
+            },
+            {
+                "label": "Fair value of options and warrants",
+                "concept": "aclz:FairValueOfOptionsAndWarrants",
+                "unit": "usd",
+                "value": 197773
+            },
+            {
+                "label": "Issuance of common stock as payment of interest",
+                "concept": "aclz:IssuanceOfCommonStockAsPaymentOfInterest",
+                "unit": "usd",
+                "value": 315000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 3615
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -172155
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInOtherOperatingAssets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": -28095
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": -1928243
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": -284198
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInOtherOperatingLiabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -602083
+            },
+            {
+                "label": "Cash flows from operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -5375806
+            },
+            {
+                "label": "us-gaap_PaymentsToDevelopSoftware",
+                "concept": "PaymentsToDevelopSoftware",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1751
+            },
+            {
+                "label": "Proceeds from sale of CAKE Business",
+                "concept": "ProceedsFromDivestitureOfBusinessesNetOfCashDivested",
+                "unit": "usd",
+                "value": 20892667
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireBusinessesGross",
+                "concept": "PaymentsToAcquireBusinessesGross",
+                "unit": "usd",
+                "value": 420000
+            },
+            {
+                "label": "Cash flows from investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 20470916
+            },
+            {
+                "label": "us-gaap_RepaymentsOfShortTermDebt",
+                "concept": "RepaymentsOfShortTermDebt",
+                "unit": "usd",
+                "value": 11772514
+            },
+            {
+                "label": "Proceeds from credit facility",
+                "concept": "ProceedsFromRepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 900000
+            },
+            {
+                "label": "Proceeds from promissory notes",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_RepaymentsOfRelatedPartyDebt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 300000
+            },
+            {
+                "label": "us-gaap_RepaymentsOfUnsecuredDebt",
+                "concept": "RepaymentsOfUnsecuredDebt",
+                "unit": "usd",
+                "value": 2700000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -13872514
+            },
+            {
+                "label": "Effect of exchange rate fluctuations on cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 1196
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1223792
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 946691
+            },
+            {
+                "label": "Income taxes paid",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Fair value of warrants issued in connection with line of credit and promissory notes",
+                "concept": "aclz:FairValueOfWarrantsIssuedInConnectionWithLineOfCredit",
+                "unit": "usd",
+                "value": 44670
+            },
+            {
+                "label": "Capital expenditure included in accounts payable",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued payables and short-term note directly paid off by credit facility",
+                "concept": "aclz:AccuredPayablesAndLoansPaidByCreditFacility",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Prepaid expenses reclassified to deferred financing costs",
+                "concept": "aclz:PrepaidExpensesReclassifiedToDeferredFinancingCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued interest reclassed to credit facility",
+                "concept": "aclz:ReclassificationOfAccruedInterestToDeferredFinancingCost",
+                "unit": "usd",
+                "value": 62379
+            },
+            {
+                "label": "Fair value of repricing adjustment",
+                "concept": "aclz:AdjustmentsToAdditionalPaidInCapitalWarrantsRepricingAdjustment",
+                "unit": "usd",
+                "value": 104638
+            },
+            {
+                "label": "Conversion of notes payable to Series A Preferred Stock",
+                "concept": "DebtConversionConvertedInstrumentAmount1",
+                "unit": "usd",
+                "value": 500000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net revenues",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 62720
+            },
+            {
+                "label": "Cost of revenue",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 33449
+            },
+            {
+                "label": "us-gaap_GrossProfit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 29271
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 894829
+            },
+            {
+                "label": "us-gaap_OperatingExpenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 894829
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -865558
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 112
+            },
+            {
+                "label": "us-gaap_NonoperatingIncomeExpense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 112
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -865446
+            },
+            {
+                "label": "Provision for (benefit from) income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperations",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": -865446
+            },
+            {
+                "label": "Gain (loss) from discontinued operations, net of tax",
+                "concept": "DiscontinuedOperationGainLossOnDisposalOfDiscontinuedOperationNetOfTax",
+                "unit": "usd",
+                "value": 14470049
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 13604603
+            },
+            {
+                "label": "us-gaap_PreferredStockDividendsAndOtherAdjustments",
+                "concept": "PreferredStockDividendsAndOtherAdjustments",
+                "unit": "usd",
+                "value": 6575
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 13598028
+            },
+            {
+                "label": "Net loss from continuing operations per share, basic and diluted (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "Net income (loss) from discontinued operations per share, basic and diluted (in dollars per share)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.21
+            },
+            {
+                "label": "Weighted average number of common shares outstanding, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 68030538
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 3482
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 3482
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 13608085
+            }
+        ]
+    }
+}

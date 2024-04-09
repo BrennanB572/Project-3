@@ -1,0 +1,567 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-03-30",
+    "year": "2019",
+    "quarter": "Q1",
+    "symbol": "BCORP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents, at Cost, Which Approximates Fair Value",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 161500000
+            },
+            {
+                "label": "Restricted Cash",
+                "concept": "RestrictedCashCurrent",
+                "unit": "usd",
+                "value": 9100000
+            },
+            {
+                "label": "Short-Term Investments in Marketable Securities",
+                "concept": "AvailableForSaleSecuritiesDebtSecuritiesCurrent",
+                "unit": "usd",
+                "value": 800000
+            },
+            {
+                "label": "Total Cash and Short-Term Investments in Marketable Securities",
+                "concept": "CashCashEquivalentsAndShortTermInvestments",
+                "unit": "usd",
+                "value": 171400000
+            },
+            {
+                "label": "Accounts and Notes Receivable, less Allowances of $10.0, $11.3 and $9.4",
+                "concept": "ReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 683700000
+            },
+            {
+                "label": "Finished Goods",
+                "concept": "InventoryFinishedGoodsNetOfReserves",
+                "unit": "usd",
+                "value": 650200000
+            },
+            {
+                "label": "Work-In-Process",
+                "concept": "InventoryWorkInProcessNetOfReserves",
+                "unit": "usd",
+                "value": 112100000
+            },
+            {
+                "label": "Raw Materials",
+                "concept": "InventoryRawMaterialsNetOfReserves",
+                "unit": "usd",
+                "value": 228800000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 991100000
+            },
+            {
+                "label": "Prepaid Expenses and Other",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 91600000
+            },
+            {
+                "label": "Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1937800000
+            },
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 24000000
+            },
+            {
+                "label": "Buildings and Improvements",
+                "concept": "BuildingsAndImprovementsGross",
+                "unit": "usd",
+                "value": 477600000
+            },
+            {
+                "label": "Equipment",
+                "concept": "PropertyPlantAndEquipmentOther",
+                "unit": "usd",
+                "value": 1145500000
+            },
+            {
+                "label": "Total Land, Buildings and Improvements and Equipment",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 1647100000
+            },
+            {
+                "label": "Accumulated Depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 967700000
+            },
+            {
+                "label": "Net Land, Buildings and Improvements and Equipment",
+                "concept": "bcorp:LandBuildingsAndImprovementsAndEquipmentNet",
+                "unit": "usd",
+                "value": 679400000
+            },
+            {
+                "label": "Unamortized Product Tooling Costs",
+                "concept": "bcorp:UnamortizedProductToolingCosts",
+                "unit": "usd",
+                "value": 131800000
+            },
+            {
+                "label": "Property",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 811200000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 634100000
+            },
+            {
+                "label": "Other Intangibles, Net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 636700000
+            },
+            {
+                "label": "Operating Lease Assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 99200000
+            },
+            {
+                "label": "Deferred Income Tax Asset",
+                "concept": "DeferredTaxAssetsLiabilitiesNetNoncurrent",
+                "unit": "usd",
+                "value": 109400000
+            },
+            {
+                "label": "Equity Investments",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 38500000
+            },
+            {
+                "label": "Other Long-Term Assets",
+                "concept": "bcorp:OtherLongTermAssets",
+                "unit": "usd",
+                "value": 62900000
+            },
+            {
+                "label": "Other Assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 1580800000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 4329800000
+            },
+            {
+                "label": "Short-Term Debt and Current Maturities of Long-Term Debt",
+                "concept": "DebtCurrent",
+                "unit": "usd",
+                "value": 40900000
+            },
+            {
+                "label": "Accounts Payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 473300000
+            },
+            {
+                "label": "Accrued Expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 691500000
+            },
+            {
+                "label": "Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1205700000
+            },
+            {
+                "label": "Debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 1245600000
+            },
+            {
+                "label": "Operating Lease Liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 83800000
+            },
+            {
+                "label": "Postretirement Benefits",
+                "concept": "PensionAndOtherPostretirementAndPostemploymentBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 70000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 197800000
+            },
+            {
+                "label": "Long-Term Liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 1597200000
+            },
+            {
+                "label": "Common Stock; Authorized: 200,000,000 Shares, $0.75 Par Value; Issued: 102,538,000 Shares; Outstanding: 87,063,000, 86,757,000 and 87,277,000 Shares",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 76900000
+            },
+            {
+                "label": "Additional Paid-In Capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 359900000
+            },
+            {
+                "label": "Retained Earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 2081100000
+            },
+            {
+                "label": "Treasury Stock, at Cost: 15,475,000, 15,781,000 and 15,261,000 Shares",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 628900000
+            },
+            {
+                "label": "Accumulated Other Comprehensive Loss, Net of Tax",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -362100000
+            },
+            {
+                "label": "Shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1526900000
+            },
+            {
+                "label": "Liabilities and Shareholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 4329800000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Earnings (Loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -36300000
+            },
+            {
+                "label": "Depreciation and Amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 39800000
+            },
+            {
+                "label": "Share-based Compensation [Abstract]",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 3300000
+            },
+            {
+                "label": "Pension Expense, Net of Funding",
+                "concept": "PensionExpenseReversalOfExpenseNoncash",
+                "unit": "usd",
+                "value": 300000
+            },
+            {
+                "label": "Asset Impairment Charges",
+                "concept": "GainLossOnSalesOfAssetsAndAssetImpairmentCharges",
+                "unit": "usd",
+                "value": -138700000
+            },
+            {
+                "label": "Deferred Income Taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -3400000
+            },
+            {
+                "label": "Changes in Certain Current Assets and Current Liabilities",
+                "concept": "IncreaseDecreaseInOtherCurrentAssetsAndLiabilitiesNet",
+                "unit": "usd",
+                "value": 211200000
+            },
+            {
+                "label": "Long-Term Extended Warranty Contracts and Other Deferred Revenue",
+                "concept": "IncreaseDecreaseInDeferredRevenueAndCustomerAdvancesAndDeposits",
+                "unit": "usd",
+                "value": 1200000
+            },
+            {
+                "label": "Fitness Business Separation Costs",
+                "concept": "BusinessExitCosts1",
+                "unit": "usd",
+                "value": 7800000
+            },
+            {
+                "label": "Cash Paid for Fitness Business Separation Costs",
+                "concept": "bcorp:CashPaidforFitnessBusinessSeparationCosts",
+                "unit": "usd",
+                "value": 1500000
+            },
+            {
+                "label": "Income Taxes",
+                "concept": "IncreaseDecreaseInIncomeTaxesPayableNetOfIncomeTaxesReceivable",
+                "unit": "usd",
+                "value": -16200000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": -1900000
+            },
+            {
+                "label": "Cash Flows from Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -79400000
+            },
+            {
+                "label": "Capital Expenditures",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 88100000
+            },
+            {
+                "label": "Investments",
+                "concept": "PaymentsForProceedsFromInvestments",
+                "unit": "usd",
+                "value": 3800000
+            },
+            {
+                "label": "Proceeds from the Sale of Property, Plant and Equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Other, net",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash Flows from Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -91900000
+            },
+            {
+                "label": "Proceeds From Issuances of Short-Term Debt",
+                "concept": "ProceedsFromShortTermDebt",
+                "unit": "usd",
+                "value": 215000000
+            },
+            {
+                "label": "Payments of Short-Term Debt",
+                "concept": "RepaymentsOfShortTermDebt",
+                "unit": "usd",
+                "value": 215000000
+            },
+            {
+                "label": "Net Proceeds from Issuances of Long-Term Debt",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 222000000
+            },
+            {
+                "label": "Payments of Long-Term Debt Including Current Maturities",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 159000000
+            },
+            {
+                "label": "Common Stock Repurchases",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash Dividends Paid",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 18300000
+            },
+            {
+                "label": "Proceeds from Share-Based Compensation Activity",
+                "concept": "ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlansIncludingStockOptions",
+                "unit": "usd",
+                "value": 500000
+            },
+            {
+                "label": "Tax Withholding Associated with Shares Issued for Share-Based Compensation",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 6800000
+            },
+            {
+                "label": "Other, net",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": -200000
+            },
+            {
+                "label": "Cash Flows from Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 38200000
+            },
+            {
+                "label": "Effect of Exchange Rate Changes",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 300000
+            },
+            {
+                "label": "Net Decrease in Cash and Cash Equivalents and Restricted Cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -132800000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net Sales",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 1275900000
+            },
+            {
+                "label": "Cost of Sales",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 938400000
+            },
+            {
+                "label": "Selling, General and Administrative Expenses [Member]",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 189600000
+            },
+            {
+                "label": "Research and Development Expense",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 35000000
+            },
+            {
+                "label": "Total Restructuring, Exit, Integration and Impairment Charges",
+                "concept": "bcorp:RestructuringExitIntegrationandImpairmentCharges",
+                "unit": "usd",
+                "value": 141500000
+            },
+            {
+                "label": "Operating Earnings (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -28600000
+            },
+            {
+                "label": "Equity Earnings",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1900000
+            },
+            {
+                "label": "Other Expense, Net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -1600000
+            },
+            {
+                "label": "Earnings (Loss) Before Interest and Income Taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeInterestExpenseInterestIncomeIncomeTaxesExtraordinaryItemsNoncontrollingInterestsNet",
+                "unit": "usd",
+                "value": -28300000
+            },
+            {
+                "label": "Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 19800000
+            },
+            {
+                "label": "Interest Income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 400000
+            },
+            {
+                "label": "Earnings (Loss) Before Income Taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -47700000
+            },
+            {
+                "label": "Income Tax Provision From Continuing Operations",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -11400000
+            },
+            {
+                "label": "Net Earnings (Loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -36300000
+            },
+            {
+                "label": "Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.42
+            },
+            {
+                "label": "Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.42
+            },
+            {
+                "label": "Basic Earnings Per Common Share (in Shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 87500000
+            },
+            {
+                "label": "Diluted Earnings per Common Share (in Shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 87500000
+            },
+            {
+                "label": "Comprehensive Income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -35300000
+            }
+        ]
+    }
+}

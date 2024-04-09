@@ -1,0 +1,519 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "TIAAREAL",
+    "data": {
+        "bs": [
+            {
+                "label": "Real estate properties (cost: $14,146.0 and $13,048.5)",
+                "concept": "tiaareal:FairValueOfRealEstateProperties",
+                "unit": "usd",
+                "value": 16748599999.999998
+            },
+            {
+                "label": "Real estate joint ventures and funds (cost: $5,091.4 and $6,244.4)",
+                "concept": "tiaareal:RealEstateInvestmentJointVenturesAndFundsFairValue",
+                "unit": "usd",
+                "value": 6365300000.0
+            },
+            {
+                "label": "Real estate-related (cost: $812.3 and $686.0)",
+                "concept": "tiaareal:MarketableSecuritiesRealEstate",
+                "unit": "usd",
+                "value": 838400000.0
+            },
+            {
+                "label": "Other (cost: $1,389.7 and $4,144.7)",
+                "concept": "tiaareal:MarketableSecuritiesExcludingRealEstate",
+                "unit": "usd",
+                "value": 1389700000.0
+            },
+            {
+                "label": "Loans receivable at cost",
+                "concept": "tiaareal:LoansReceivable",
+                "unit": "usd",
+                "value": 1509200000.0
+            },
+            {
+                "label": "Loans receivable with related parties (principal: $69.3 and $69.3)",
+                "concept": "tiaareal:LoanReceivableRelatedParty",
+                "unit": "usd",
+                "value": 69000000.0
+            },
+            {
+                "label": "Total investments (cost: $23,041.5 and $25,697.4)",
+                "concept": "InvestmentsFairValueDisclosure",
+                "unit": "usd",
+                "value": 26920200000.0
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 20900000.0
+            },
+            {
+                "label": "Due from investment manager",
+                "concept": "tiaareal:DueFromInvestmentManager",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 309400000.0
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 27250500000.0
+            },
+            {
+                "label": "Loans payable, at fair value (principal outstanding: $2,466.3 and $2,338.0)",
+                "concept": "tiaareal:MortgageLoansPayableAndLoansPayableFairValue",
+                "unit": "usd",
+                "value": 2457000000.0
+            },
+            {
+                "label": "Line of credit, at fair value",
+                "concept": "LineOfCreditFacilityFairValueOfAmountOutstanding",
+                "unit": "usd",
+                "value": 291000000.0
+            },
+            {
+                "label": "Due to investment manager",
+                "concept": "tiaareal:DueToInvestmentManager",
+                "unit": "usd",
+                "value": 1600000.0
+            },
+            {
+                "label": "Accrued real estate property expenses",
+                "concept": "AccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 241500000.0
+            },
+            {
+                "label": "Cash collateral for securities loaned",
+                "concept": "CollateralizedFinancings",
+                "unit": "usd",
+                "value": 8800000.0
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 37800000.0
+            },
+            {
+                "label": "LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 3037700000.0
+            },
+            {
+                "label": "Commitments and Contingencies Disclosure [Abstract]",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accumulation Fund",
+                "concept": "tiaareal:AccumulationFund",
+                "unit": "usd",
+                "value": 23690400000.0
+            },
+            {
+                "label": "Annuity Fund",
+                "concept": "tiaareal:AnnuityFund",
+                "unit": "usd",
+                "value": 522400000.0
+            },
+            {
+                "label": "Net assets end of period (millions)",
+                "concept": "tiaareal:NetAssetsAccumulationandAnnuityFunds",
+                "unit": "usd",
+                "value": 24212800000.0
+            },
+            {
+                "label": "Accumulation Units outstanding at end of period (millions) (in shares)",
+                "concept": "tiaareal:AccumulationUnitsOutstandingEndofPeriod",
+                "unit": "shares",
+                "value": 54500000.0
+            },
+            {
+                "label": "Beginning of period (in dollars per share)",
+                "concept": "tiaareal:NetAssetValuePerAccumulationUnit",
+                "unit": "usd/shares",
+                "value": 434.444
+            }
+        ],
+        "cf": [
+            {
+                "label": "NET (DECREASE) INCREASE IN NET ASSETS RESULTING FROM OPERATIONS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -349000000.0
+            },
+            {
+                "label": "Net realized (loss) gain on investments",
+                "concept": "tiaareal:RealizedGainLossOnRealEstateInvestments",
+                "unit": "usd",
+                "value": -498800000.0
+            },
+            {
+                "label": "Net change in unrealized (depreciation) appreciation on investments and loans payable",
+                "concept": "tiaareal:UnrealizedGainLossOnInvestmentsMortgageLoansPayableAndLoansPayable",
+                "unit": "usd",
+                "value": -232500000.0
+            },
+            {
+                "label": "Purchase of real estate properties",
+                "concept": "tiaareal:PaymentsToAcquireRealEstateHeldForInvestmentOperatingActivities",
+                "unit": "usd",
+                "value": 1092700000.0
+            },
+            {
+                "label": "Capital improvements on real estate properties",
+                "concept": "tiaareal:PaymentsForCapitalImprovementsOperatingActivities",
+                "unit": "usd",
+                "value": 118100000.0
+            },
+            {
+                "label": "Proceeds from sale of real estate properties",
+                "concept": "tiaareal:ProceedsFromSaleOfRealEstateProperties",
+                "unit": "usd",
+                "value": 353400000.0
+            },
+            {
+                "label": "Purchases of long term investments",
+                "concept": "PaymentsToAcquireLongtermInvestments",
+                "unit": "usd",
+                "value": 798200000.0
+            },
+            {
+                "label": "Proceeds from long term investments",
+                "concept": "ProceedsFromSaleOfLongtermInvestments",
+                "unit": "usd",
+                "value": 1446500000.0
+            },
+            {
+                "label": "Purchases and originations of loans receivable",
+                "concept": "tiaareal:PaymentsForLoansReceivable",
+                "unit": "usd",
+                "value": 111300000.0
+            },
+            {
+                "label": "Proceeds from sales of loans receivable",
+                "concept": "tiaareal:ProceedsFromSaleOfLoansReceivableOperatingActivities",
+                "unit": "usd",
+                "value": 63000000.0
+            },
+            {
+                "label": "Proceeds from payoffs of loans receivable",
+                "concept": "tiaareal:ProceedsFromCollectionOfLoansReceivableOperatingActivities",
+                "unit": "usd",
+                "value": 16700000.0
+            },
+            {
+                "label": "Decrease (Increase) in other investments",
+                "concept": "tiaareal:IncreaseDecreaseInOtherInvestments",
+                "unit": "usd",
+                "value": -2748200000.0
+            },
+            {
+                "label": "Change in due to (from) investment manager",
+                "concept": "tiaareal:IncreaseDecreaseInDueFromInvestmentAdvisor",
+                "unit": "usd",
+                "value": -7100000.0
+            },
+            {
+                "label": "(Increase) Decrease in other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 24300000.0
+            },
+            {
+                "label": "Decrease in other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -5600000.0
+            },
+            {
+                "label": "CASH FLOWS FROM OPERATING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 2867000000.0
+            },
+            {
+                "label": "Proceeds from line of credit",
+                "concept": "ProceedsFromLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 540000000.0
+            },
+            {
+                "label": "Payments on line of credit",
+                "concept": "RepaymentsOfLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 499000000.0
+            },
+            {
+                "label": "Payments of mortgage loans",
+                "concept": "tiaareal:PrincipalPaymentsOfMortgageLoansPayable",
+                "unit": "usd",
+                "value": 161300000.0
+            },
+            {
+                "label": "Premiums",
+                "concept": "tiaareal:IncreaseDecreaseInNetAssetsParticipantTransactionsPremiums",
+                "unit": "usd",
+                "value": 1131900000.0
+            },
+            {
+                "label": "Annuity payments",
+                "concept": "tiaareal:AnnuityPayments",
+                "unit": "usd",
+                "value": 24100000.0
+            },
+            {
+                "label": "Withdrawals and death benefits",
+                "concept": "tiaareal:WithdrawalsAndDeathBenefits",
+                "unit": "usd",
+                "value": 3853900000.0
+            },
+            {
+                "label": "CASH FLOWS FROM FINANCING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -2866400000.0
+            },
+            {
+                "label": "NET INCREASE IN CASH, CASH EQUIVALENTS AND RESTRICTED CASH",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 600000.0
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 49900000.0
+            },
+            {
+                "label": "Mortgage loan assumed as part of real estate acquisition",
+                "concept": "NoncashOrPartNoncashAcquisitionDebtAssumed1",
+                "unit": "usd",
+                "value": 289600000.0
+            },
+            {
+                "label": "Loan receivable converted to equity in real estate investment",
+                "concept": "tiaareal:NoncashorPartNoncashLoanReceivableConvertedToEquityRealEstateInvestment",
+                "unit": "usd",
+                "value": -1700000.0
+            },
+            {
+                "label": "Investment income, net (in dollars per share)",
+                "concept": "tiaareal:InvestmentIncomeNetOfFundExpenses",
+                "unit": "usd",
+                "value": 382300000.0
+            },
+            {
+                "label": "NET CHANGE IN NET ASSETS RESULTING FROM PARTICIPANT TRANSACTIONS",
+                "concept": "tiaareal:IncreaseDecreaseInNetAssetsFromParticipantTransactions",
+                "unit": "usd",
+                "value": -2746100000.0
+            },
+            {
+                "label": "NET CHANGE IN NET ASSETS",
+                "concept": "tiaareal:IncreaseDecreaseInNetAssetsIncludingNetAssetsResultingFromParticipantTransactions",
+                "unit": "usd",
+                "value": -3095100000.0
+            }
+        ],
+        "ic": [
+            {
+                "label": "Rental income",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 611000000.0
+            },
+            {
+                "label": "Operating expenses",
+                "concept": "tiaareal:RealEstateOperatingExpenses",
+                "unit": "usd",
+                "value": 130100000.0
+            },
+            {
+                "label": "Real estate taxes",
+                "concept": "RealEstateTaxExpense",
+                "unit": "usd",
+                "value": 104000000.0
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 49900000.0
+            },
+            {
+                "label": "Real estate property level expenses and taxes (in dollars per share)",
+                "concept": "tiaareal:CostOfRealEstateRevenueIncludingRealEstateTaxes",
+                "unit": "usd",
+                "value": 284000000.0
+            },
+            {
+                "label": "Real estate income, net (in dollars per share)",
+                "concept": "tiaareal:RealEstateIncomeNet",
+                "unit": "usd",
+                "value": 327000000.0
+            },
+            {
+                "label": "Income from real estate joint ventures and funds",
+                "concept": "tiaareal:IncomeFromRealEstateJointVenturesAndFunds",
+                "unit": "usd",
+                "value": 77400000.0
+            },
+            {
+                "label": "Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 64300000.0
+            },
+            {
+                "label": "Dividends",
+                "concept": "InvestmentIncomeDividend",
+                "unit": "usd",
+                "value": 11100000.0
+            },
+            {
+                "label": "Investment management charges",
+                "concept": "tiaareal:InvestmentAdvisoryCharges",
+                "unit": "usd",
+                "value": 30200000.0
+            },
+            {
+                "label": "Administrative charges",
+                "concept": "tiaareal:AdministrativeCharges",
+                "unit": "usd",
+                "value": 23300000.0
+            },
+            {
+                "label": "Distribution charges",
+                "concept": "tiaareal:DistributionCharges",
+                "unit": "usd",
+                "value": 12300000.0
+            },
+            {
+                "label": "Mortality and expense risk charges",
+                "concept": "tiaareal:MortalityAndExpenseRiskCharges",
+                "unit": "usd",
+                "value": 600000.0
+            },
+            {
+                "label": "Liquidity guarantee charges",
+                "concept": "tiaareal:LiquidityGuaranteeCharges",
+                "unit": "usd",
+                "value": 31100000.0
+            },
+            {
+                "label": "TOTAL EXPENSES",
+                "concept": "tiaareal:TotalFundExpenses",
+                "unit": "usd",
+                "value": 97500000.0
+            },
+            {
+                "label": "Investment income, net (in dollars per share)",
+                "concept": "tiaareal:InvestmentIncomeNetOfFundExpenses",
+                "unit": "usd",
+                "value": 382300000.0
+            },
+            {
+                "label": "Real estate properties",
+                "concept": "GainsLossesOnSalesOfInvestmentRealEstate",
+                "unit": "usd",
+                "value": -58000000.0
+            },
+            {
+                "label": "Real estate joint ventures and funds",
+                "concept": "tiaareal:RealizedGainsLossesOnRealEstateJointVenturesAndFundsNet",
+                "unit": "usd",
+                "value": -460500000.0
+            },
+            {
+                "label": "Marketable securities",
+                "concept": "MarketableSecuritiesRealizedGainLoss",
+                "unit": "usd",
+                "value": 21300000.0
+            },
+            {
+                "label": "Loans receivable",
+                "concept": "tiaareal:LoansReceivableRealizedGainLoss",
+                "unit": "usd",
+                "value": -1600000.0
+            },
+            {
+                "label": "Net realized (loss) gain on investments",
+                "concept": "tiaareal:RealizedGainLossOnRealEstateInvestments",
+                "unit": "usd",
+                "value": -498800000.0
+            },
+            {
+                "label": "Real estate properties",
+                "concept": "tiaareal:UnrealizedGainLossesOnRealEstateProperties",
+                "unit": "usd",
+                "value": -183900000.0
+            },
+            {
+                "label": "Real estate joint ventures and funds",
+                "concept": "tiaareal:UnrealizedGainLossesOnRealEstateJointVenturesAndFunds",
+                "unit": "usd",
+                "value": 59300000.0
+            },
+            {
+                "label": "Marketable securities",
+                "concept": "MarketableSecuritiesUnrealizedGainLoss",
+                "unit": "usd",
+                "value": -122000000.0
+            },
+            {
+                "label": "Loans receivable",
+                "concept": "tiaareal:UnrealizedGainLossesOnLoansReceivable",
+                "unit": "usd",
+                "value": -22200000.0
+            },
+            {
+                "label": "Loans receivable with related parties",
+                "concept": "tiaareal:UnrealizedGainLossOnLoansReceivableRelatedParty",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Loans payable",
+                "concept": "tiaareal:UnrealizedGainLossOnMortgageLoansPayableAndLoansPayable",
+                "unit": "usd",
+                "value": 36300000.0
+            },
+            {
+                "label": "Net change in unrealized (depreciation) appreciation on investments and loans payable",
+                "concept": "tiaareal:UnrealizedGainLossOnInvestmentsMortgageLoansPayableAndLoansPayable",
+                "unit": "usd",
+                "value": -232500000.0
+            },
+            {
+                "label": "NET REALIZED AND UNREALIZED (LOSS) GAIN ON INVESTMENTS AND LOANS PAYABLE",
+                "concept": "tiaareal:RealizedAndUnrealizedGainLossOnInvestmentsMortgageLoansPayableAndLoansPayable",
+                "unit": "usd",
+                "value": -731300000.0
+            },
+            {
+                "label": "NET (DECREASE) INCREASE IN NET ASSETS RESULTING FROM OPERATIONS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -349000000.0
+            }
+        ]
+    }
+}

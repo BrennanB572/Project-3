@@ -1,0 +1,687 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-03-31",
+    "year": "2019",
+    "quarter": "Q1",
+    "symbol": "OAKS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 13640181
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 52348987
+            },
+            {
+                "label": "Loans held for investment",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 585770803
+            },
+            {
+                "label": "Receivables held in securitization trusts, at fair value(1)",
+                "concept": "AccountsReceivableFromSecuritization",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Mortgage servicing rights, at fair value",
+                "concept": "oaks:MortgageServiceRightsAtFairValue",
+                "unit": "usd",
+                "value": 3617788
+            },
+            {
+                "label": "Deferred offering costs",
+                "concept": "DeferredOfferingCosts",
+                "unit": "usd",
+                "value": 104133
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 2611659
+            },
+            {
+                "label": "Investment related receivable",
+                "concept": "oaks:PaydownReceivable",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 1313438
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 659406989
+            },
+            {
+                "label": "Collateralized loan obligations",
+                "concept": "oaks:CollateralizedLoanObligations",
+                "unit": "usd",
+                "value": 504460023
+            },
+            {
+                "label": "Secured term loan (net of deferred financing costs of $949,456 for March 31, 2019)",
+                "concept": "SecuredLongTermDebt",
+                "unit": "usd",
+                "value": 39300544
+            },
+            {
+                "label": "Multi-family securitized debt obligations",
+                "concept": "oaks:MulitfamilySecuritizedDebtObligations",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accrued interest payable",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1017648
+            },
+            {
+                "label": "Dividends payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1661844
+            },
+            {
+                "label": "Fees and expenses payable to Manager",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1046436
+            },
+            {
+                "label": "Other accounts payable and accrued expenses",
+                "concept": "OtherAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 2649607
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 550136102
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock: par value $0.01 per share; 50,000,000 shares authorized, 8.75% Series A cumulative redeemable, $25 liquidation preference, 1,610,000 issued and outstanding at December 31, 2018",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common Stock: par value $0.01 per share; 450,000,000 shares authorized, 23,687,664 and 23,687,664 shares issued and outstanding, at March 31, 2019 and December 31, 2018, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 236832
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 228194105
+            },
+            {
+                "label": "Cumulative distributions to stockholders",
+                "concept": "AccumulatedDistributionsInExcessOfNetIncome",
+                "unit": "usd",
+                "value": 116895627
+            },
+            {
+                "label": "Accumulated earnings (deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -2363923
+            },
+            {
+                "label": "Stockholders' Equity Note [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 109171387
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 99500
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 109270887
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 659406989
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1474767
+            },
+            {
+                "label": "Amortization/accretion of available-for-sale securities premiums and discounts, net",
+                "concept": "InvestmentIncomeNetAmortizationOfDiscountAndPremium",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Amortization of collateralized loan obligations discounts, net",
+                "concept": "AccretionAmortizationOfDiscountsAndPremiumsInvestments",
+                "unit": "usd",
+                "value": -270184
+            },
+            {
+                "label": "Amortization Of Offering Costs",
+                "concept": "oaks:AmortizationOfOfferingCosts",
+                "unit": "usd",
+                "value": -22383
+            },
+            {
+                "label": "Amortization of deferred financing costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 232009
+            },
+            {
+                "label": "Realized (gain) loss on investments, net",
+                "concept": "oaks:RealizedGainLossOnSaleOfInvestments",
+                "unit": "usd",
+                "value": -709439
+            },
+            {
+                "label": "Realized (gain) loss on derivative contracts, net",
+                "concept": "oaks:RealizedGainLossOnSwapAndSwaptionAgreements",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Change in unrealized gain (loss) on derivative contracts, net",
+                "concept": "oaks:UnrealizedGainLossOnInterestRateSwapAndSwaptionAgreementsNet",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Change in unrealized gain (loss) on mortgage servicing rights",
+                "concept": "oaks:UnrealizedGainLossOnMortgageServiceRights",
+                "unit": "usd",
+                "value": -379998
+            },
+            {
+                "label": "Unrealized gain (loss) on multi-family loans held in securitization trusts",
+                "concept": "oaks:UnrealizedGainLossOnMultifamilyLoansHeldInSecuritizationTrust",
+                "unit": "usd",
+                "value": 694339
+            },
+            {
+                "label": "Change in unrealized gain (loss) on residential loans held in securitization trusts",
+                "concept": "oaks:UnrealizedGainLossOnResidentialLoansHeldInSecuritizationTrusts",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Restricted stock compensation expense",
+                "concept": "RestrictedStockExpense",
+                "unit": "usd",
+                "value": 3773
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "IncreaseDecreaseInAccruedInterestReceivableNet",
+                "unit": "usd",
+                "value": 180869
+            },
+            {
+                "label": "Deferred offering costs",
+                "concept": "IncreaseDecreaseInDeferredCharges",
+                "unit": "usd",
+                "value": -22383
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 302767
+            },
+            {
+                "label": "Accrued interest payable",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": 149854
+            },
+            {
+                "label": "Deferred income",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Fees and expenses payable to Manager",
+                "concept": "IncreaseDecreaseInDueToRelatedParties",
+                "unit": "usd",
+                "value": -128564
+            },
+            {
+                "label": "Other accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInOtherAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 583418
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 2496903
+            },
+            {
+                "label": "Purchases, net",
+                "concept": "PaymentsToAcquireLoansHeldForInvestment",
+                "unit": "usd",
+                "value": 64612349
+            },
+            {
+                "label": "Proceeds from AFS securities sold",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net proceeds from derivative contracts",
+                "concept": "PaymentsForProceedsFromDerivativeInstrumentInvestingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Principal payments from available-for-sale securities",
+                "concept": "oaks:PrincipalPaymentsToAcquireAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Principal Payments From Retained Beneficial Interests",
+                "concept": "oaks:PrincipalPaymentsFromRetainedBeneficialInterests",
+                "unit": "usd",
+                "value": -4747049
+            },
+            {
+                "label": "Proceeds from principal repayments",
+                "concept": "ProceedsFromPrincipalRepaymentsOnLoansAndLeasesHeldForInvestment",
+                "unit": "usd",
+                "value": 34014437
+            },
+            {
+                "label": "Investment related receivable",
+                "concept": "PaymentsForProceedsFromInvestments",
+                "unit": "usd",
+                "value": -33042234
+            },
+            {
+                "label": "Due from broker",
+                "concept": "oaks:ProceedsFromBrokerInvestingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 7191371
+            },
+            {
+                "label": "Proceeds from (costs for) issuance of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Redemption of preferred stock",
+                "concept": "PaymentsForRepurchaseOfRedeemablePreferredStock",
+                "unit": "usd",
+                "value": 40250000
+            },
+            {
+                "label": "Dividends paid on common stock",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 1421259
+            },
+            {
+                "label": "Dividends paid on preferred stock",
+                "concept": "PaymentsOfDividendsPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 521114
+            },
+            {
+                "label": "Proceeds from repurchase agreements - available-for-sale securities",
+                "concept": "ProceedsFromPaymentsForInSecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Proceeds from secured term loan",
+                "concept": "ProceedsFromIssuanceOfSecuredDebt",
+                "unit": "usd",
+                "value": 40250000
+            },
+            {
+                "label": "Payment of deferred financing costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 970545
+            },
+            {
+                "label": "Principal repayments of repurchase agreements - available-for-sale securities",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -2912918
+            },
+            {
+                "label": "Net increase in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 6775356
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 4965785
+            },
+            {
+                "label": "Net change in unrealized gain (loss) on available-for-sale securities",
+                "concept": "oaks:AvailableForSaleSecuritiesChangeInNetUnrealizedHoldingGainLossNonCashItem",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Consolidation of multi-family loans held in securitization trusts",
+                "concept": "oaks:ConsolidationOfMultifamilyLoansHeldInSecuritizationTrusts",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Consolidation of residential loans held in securitization trusts",
+                "concept": "oaks:ConsolidationOfResidentialLoansHeldInSecuritizationTrusts",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Consolidation of multi-family securitized debt obligations",
+                "concept": "oaks:ConsolidationOfMultifamilySecuritizedDebtObligations",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Consolidation of residential securitized debt obligations",
+                "concept": "oaks:ConsolidationOfResidentialSecuritizedDebtObligations",
+                "unit": "usd",
+                "value": 0
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1474767
+            },
+            {
+                "label": "Increase (decrease) in unrealized gain (loss) on available-for-sale securities, net",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Reclassification adjustment for net gain (loss) included in net income (loss)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total other comprehensive income (loss)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Less: Dividends to preferred stockholders",
+                "concept": "PreferredStockDividendsAndOtherAdjustments",
+                "unit": "usd",
+                "value": 480472
+            },
+            {
+                "label": "Less: Deemed dividend on preferred stock related to redemption",
+                "concept": "oaks:DeemedPreferredStockDividendOnRelatedRedemptions",
+                "unit": "usd",
+                "value": 3093028
+            },
+            {
+                "label": "Other comprehensive income (loss):",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -2098733
+            },
+            {
+                "label": "Available-for-sale securities",
+                "concept": "InterestAndDividendIncomeSecuritiesAvailableForSale",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Commercial mortgage loans held-for-investment",
+                "concept": "InterestAndFeeIncomeLoansCommercialRealEstate",
+                "unit": "usd",
+                "value": 9904188
+            },
+            {
+                "label": "Multi-family loans held in securitization trusts",
+                "concept": "InterestIncomeSecuritiesMortgageBacked",
+                "unit": "usd",
+                "value": 78361
+            },
+            {
+                "label": "Residential loans held in securitization trusts",
+                "concept": "InterestAndOtherIncome",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "InterestIncomeAndFeesBankersAcceptancesCertificatesOfDepositAndCommercialPaper",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Repurchase agreements - available-for-sale securities",
+                "concept": "oaks:InterestExpenseRepurchaseAgreementsAvailableforsaleSecurities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Collateralized loan obligations",
+                "concept": "oaks:InterestExpenseCollateralizedLoanObligations",
+                "unit": "usd",
+                "value": 5446889
+            },
+            {
+                "label": "Secured term loan",
+                "concept": "oaks:InterestExpenseSecuredTermLoan",
+                "unit": "usd",
+                "value": 329113
+            },
+            {
+                "label": "Multi-family securitized debt obligations",
+                "concept": "InterestExpenseLongTermDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Residential securitized debt obligations",
+                "concept": "InterestExpenseOtherLongTermDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 4206547
+            },
+            {
+                "label": "Realized gain (loss) on investments, net",
+                "concept": "GainLossOnSaleOfInvestments",
+                "unit": "usd",
+                "value": -709439
+            },
+            {
+                "label": "Realized gain (loss) on derivative contracts, net",
+                "concept": "GainLossOnSaleOfDerivatives",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Change in unrealized gain (loss) on derivative contracts, net",
+                "concept": "oaks:UnrealizedGainLossOnInterestRateSwapAndSwaptionAgreementsNet",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Change in unrealized gain (loss) on mortgage servicing rights",
+                "concept": "oaks:UnrealizedGainLossOnMortgageServiceRights",
+                "unit": "usd",
+                "value": -379998
+            },
+            {
+                "label": "Change in unrealized gain (loss) on multi-family loans held in securitization trusts",
+                "concept": "oaks:UnrealizedGainLossOnMultifamilyLoansHeldInSecuritizationTrusts",
+                "unit": "usd",
+                "value": 694339
+            },
+            {
+                "label": "Change in unrealized gain (loss) on residential loans held in securitization trusts",
+                "concept": "oaks:UnrealizedGainLossOnResidentialLoansHeldInSecuritizationTrusts",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Servicing income",
+                "concept": "FeesAndCommissionsMortgageBankingAndServicing",
+                "unit": "usd",
+                "value": 248214
+            },
+            {
+                "label": "Other income:",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total other income (loss)",
+                "concept": "oaks:OtherNoninterestIncomeLoss",
+                "unit": "usd",
+                "value": -146884
+            },
+            {
+                "label": "Management fee",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 553459
+            },
+            {
+                "label": "General and administrative fees",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1466685
+            },
+            {
+                "label": "Operating expenses reimbursable to manager",
+                "concept": "oaks:ReimbursableOperatingExpense",
+                "unit": "usd",
+                "value": 540037
+            },
+            {
+                "label": "Other operating expenses",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -37757
+            },
+            {
+                "label": "Stock-Based Compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 50023
+            },
+            {
+                "label": "Total expenses",
+                "concept": "NoninterestExpense",
+                "unit": "usd",
+                "value": 2647961
+            },
+            {
+                "label": "Net income (loss) before provision for income taxes",
+                "concept": "IncomeLossAttributableToParent",
+                "unit": "usd",
+                "value": 1411702
+            },
+            {
+                "label": "(Provision for) income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -63065
+            },
+            {
+                "label": "Net income (loss) attributable to common stockholders (basic and diluted)",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -2098733
+            },
+            {
+                "label": "Weighted average number of shares of common stock outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 23687664
+            },
+            {
+                "label": "Earnings (loss) per share:",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.09
+            },
+            {
+                "label": "Dividends declared per share of common stock (in dollars per share)",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": 0.07
+            }
+        ]
+    }
+}

@@ -1,0 +1,603 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "XAN",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 42752000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 65351000
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 7309000
+            },
+            {
+                "label": "Loans pledged as collateral gross.",
+                "concept": "xan:LoansPledgedAsCollateralGross",
+                "unit": "usd",
+                "value": 1892486000
+            },
+            {
+                "label": "Less: allowance for credit losses",
+                "concept": "FinancingReceivableAllowanceForCreditLosses",
+                "unit": "usd",
+                "value": 20641000
+            },
+            {
+                "label": "CRE loans, net",
+                "concept": "LoansPledgedAsCollateral",
+                "unit": "usd",
+                "value": 1871845000
+            },
+            {
+                "label": "Investment securities available-for-sale",
+                "concept": "DebtSecuritiesAvailableForSaleRestricted",
+                "unit": "usd",
+                "value": 77244000
+            },
+            {
+                "label": "Investments in unconsolidated entities",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": 1548000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 9603000
+            },
+            {
+                "label": "Assets held for sale (see Note 20)",
+                "concept": "AssetsOfDisposalGroupIncludingDiscontinuedOperation",
+                "unit": "usd",
+                "value": 13466000
+            },
+            {
+                "label": "ASSETS:",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2089118000
+            },
+            {
+                "label": "Accounts payable and other liabilities",
+                "concept": "AccountsPayableAndOtherAccruedLiabilities",
+                "unit": "usd",
+                "value": 4348000
+            },
+            {
+                "label": "Management fee payable",
+                "concept": "ManagementFeePayable",
+                "unit": "usd",
+                "value": 692000
+            },
+            {
+                "label": "Accrued interest payable",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 2270000
+            },
+            {
+                "label": "Borrowings",
+                "concept": "DebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 1724932000
+            },
+            {
+                "label": "Distributions payable",
+                "concept": "DividendsPayableCurrent",
+                "unit": "usd",
+                "value": 1725000
+            },
+            {
+                "label": "Derivatives, at fair value",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 11326000
+            },
+            {
+                "label": "Accrued tax liability",
+                "concept": "TaxesPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 33000
+            },
+            {
+                "label": "Liabilities held for sale (see Note 20)",
+                "concept": "LiabilitiesOfDisposalGroupIncludingDiscontinuedOperation",
+                "unit": "usd",
+                "value": 1735000
+            },
+            {
+                "label": "LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1747061000
+            },
+            {
+                "label": "Common stock, par value $0.001: 125,000,000 shares authorized; 32,042,061 and 31,880,594 shares issued and outstanding (including 351,325 and 420,962 of unvested restricted shares)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 32000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1085539000
+            },
+            {
+                "label": "Accumulated other comprehensive (loss) income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -10877000
+            },
+            {
+                "label": "Distributions in excess of earnings",
+                "concept": "AccumulatedDistributionsInExcessOfNetIncome",
+                "unit": "usd",
+                "value": 732642000
+            },
+            {
+                "label": "STOCKHOLDERS\u2019 EQUITY",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 342057000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2089118000
+            }
+        ],
+        "cf": [
+            {
+                "label": "NET (LOSS) INCOME",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -196521000
+            },
+            {
+                "label": "NET LOSS FROM DISCONTINUED OPERATIONS, NET OF TAX",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity",
+                "unit": "usd",
+                "value": -45000
+            },
+            {
+                "label": "(LOSS) INCOME FROM CONTINUING OPERATIONS BEFORE TAXES",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": -196476000
+            },
+            {
+                "label": "Provision for credit losses, net",
+                "concept": "ProvisionForLoanLeaseAndOtherLosses",
+                "unit": "usd",
+                "value": 16149000
+            },
+            {
+                "label": "Depreciation, amortization and accretion",
+                "concept": "DepreciationAmortizationAndAccretionNet",
+                "unit": "usd",
+                "value": 747000
+            },
+            {
+                "label": "The aggregate amount of noncash, equity-based nonemployee and directors remuneration. This may include the value of stock or unit options, amortization of restricted stock or units, and adjustment for officers' compensation. As noncash, this element is an add back when calculating net cash generated by operating activities using the indirect method.",
+                "concept": "xan:ShareBasedCompensationNonemployeeAndDirectors",
+                "unit": "usd",
+                "value": 498000
+            },
+            {
+                "label": "Net realized and unrealized loss on investment securities available-for-sale and loans and derivatives",
+                "concept": "DebtSecuritiesAvailableForSaleGainLoss",
+                "unit": "usd",
+                "value": -185357000
+            },
+            {
+                "label": "Fair value adjustments on financial assets held for sale",
+                "concept": "MarketableSecuritiesUnrealizedGainLossExcludingOtherThanTemporaryImpairments",
+                "unit": "usd",
+                "value": -3791000
+            },
+            {
+                "label": "Changes in operating assets and liabilities operating activities.",
+                "concept": "xan:ChangesInOperatingAssetsAndLiabilitiesOperatingActivities",
+                "unit": "usd",
+                "value": 7686000
+            },
+            {
+                "label": "Net cash provided by continuing operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 2380000
+            },
+            {
+                "label": "Net cash used in discontinued operating activities",
+                "concept": "CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": -42000
+            },
+            {
+                "label": "CASH FLOWS FROM OPERATING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 2338000
+            },
+            {
+                "label": "Origination and purchase of loans",
+                "concept": "PaymentsToAcquireLoansReceivable",
+                "unit": "usd",
+                "value": 190318000
+            },
+            {
+                "label": "Principal payments received on loans",
+                "concept": "ProceedsFromCollectionOfLoansReceivable",
+                "unit": "usd",
+                "value": 109697000
+            },
+            {
+                "label": "Purchase of investment securities available-for-sale",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 24610000
+            },
+            {
+                "label": "Principal payments on investment securities available-for-sale",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 4733000
+            },
+            {
+                "label": "Proceeds from sale of investment securities available-for-sale",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 37764000
+            },
+            {
+                "label": "Net cash used in continuing investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -62734000
+            },
+            {
+                "label": "CASH FLOWS FROM INVESTING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -62734000
+            },
+            {
+                "label": "Proceeds from Warehouse financing facilities and repurchase agreements.",
+                "concept": "xan:ProceedsFromWarehouseFinancingFacilitiesAndRepurchaseAgreements",
+                "unit": "usd",
+                "value": 271872000
+            },
+            {
+                "label": "The cash inflow from the issuance of securitization of notes payable.",
+                "concept": "xan:ProceedsFromIssuanceOfSecuritizationOfNotesPayable",
+                "unit": "usd",
+                "value": 393280000
+            },
+            {
+                "label": "Repayments of Warehouse financing facilities and repurchase agreements.",
+                "concept": "xan:RepaymentsOfWarehouseFinancingFacilitiesAndRepurchaseAgreements",
+                "unit": "usd",
+                "value": 494474000
+            },
+            {
+                "label": "Payments of commercial real estate notes payable.",
+                "concept": "xan:PaymentsOfCommercialRealEstateNotesPayable",
+                "unit": "usd",
+                "value": 58434000
+            },
+            {
+                "label": "Convertible senior notes",
+                "concept": "RepaymentsOfConvertibleDebt",
+                "unit": "usd",
+                "value": 21182000
+            },
+            {
+                "label": "Payment of debt issuance costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 5642000
+            },
+            {
+                "label": "Distributions paid on preferred stock",
+                "concept": "PaymentsOfDividendsPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 2588000
+            },
+            {
+                "label": "Distributions paid on common stock",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 8767000
+            },
+            {
+                "label": "Net cash provided by continuing financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 74065000
+            },
+            {
+                "label": "Net cash provided by discontinued financing activities",
+                "concept": "CashProvidedByUsedInFinancingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "CASH FLOWS FROM FINANCING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 74065000
+            },
+            {
+                "label": "NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS AND RESTRICTED CASH",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 13669000
+            },
+            {
+                "label": "Interest expense paid in cash",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 20842000
+            }
+        ],
+        "ic": [
+            {
+                "label": "The aggregate interest and fee income generated by: (1) loans the Entity has positive intent and ability to hold for the foreseeable future, or until maturity or payoff, including commercial loans, and bank loans, which were acquired by the Entity (2) loans held-for-sale.",
+                "concept": "xan:InterestAndFeeIncomeLoansHeldInPortfolio",
+                "unit": "usd",
+                "value": 27041000
+            },
+            {
+                "label": "Securities",
+                "concept": "InterestAndDividendIncomeSecurities",
+                "unit": "usd",
+                "value": 6149000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherInterestAndDividendIncome",
+                "unit": "usd",
+                "value": 100000
+            },
+            {
+                "label": "Total interest income",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 33290000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 18394000
+            },
+            {
+                "label": "Net interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 14896000
+            },
+            {
+                "label": "Other revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "REVENUES",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 14919000
+            },
+            {
+                "label": "Investment management fees paid to affiliated companies, pursuant to management agreements.",
+                "concept": "xan:ManagementFeesRelatedParty",
+                "unit": "usd",
+                "value": 2117000
+            },
+            {
+                "label": "Non cash equity compensation expense comprised of restricted stock and options granted to the manager, non-employees, and non-employee directors.",
+                "concept": "xan:EquityCompensationRelatedParty",
+                "unit": "usd",
+                "value": 498000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3382000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "Provision for credit losses, net",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 16149000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 22161000
+            },
+            {
+                "label": "The net amount of revenues from interest income less operating expenses, excluding realized and unrealized investment gains and losses.",
+                "concept": "xan:RevenuesLessOperatingExpense",
+                "unit": "usd",
+                "value": -7242000
+            },
+            {
+                "label": "Net realized and unrealized loss on investment securities available-for-sale and loans and derivatives",
+                "concept": "DebtSecuritiesGainLoss",
+                "unit": "usd",
+                "value": -185357000
+            },
+            {
+                "label": "Fair value Adjustments On Financial Assets Held For Sale",
+                "concept": "xan:FairValueAdjustmentsOnFinancialAssetsHeldForSale",
+                "unit": "usd",
+                "value": 3791000
+            },
+            {
+                "label": "Other (expense) income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -86000
+            },
+            {
+                "label": "Total other expense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -189234000
+            },
+            {
+                "label": "(LOSS) INCOME FROM CONTINUING OPERATIONS BEFORE TAXES",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -196476000
+            },
+            {
+                "label": "(LOSS) INCOME FROM CONTINUING OPERATIONS BEFORE TAXES",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": -196476000
+            },
+            {
+                "label": "NET LOSS FROM DISCONTINUED OPERATIONS, NET OF TAX",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity",
+                "unit": "usd",
+                "value": -45000
+            },
+            {
+                "label": "NET (LOSS) INCOME",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -196521000
+            },
+            {
+                "label": "Comprehensive (Income) Loss, Net of Tax, Attributable to Preferred Stockholders",
+                "concept": "xan:ComprehensiveIncomeLossNetOfTaxAttributableToPreferredStockholders",
+                "unit": "usd",
+                "value": 2588000
+            },
+            {
+                "label": "NET (LOSS) INCOME ALLOCABLE TO COMMON SHARES",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -199109000
+            },
+            {
+                "label": "CONTINUING OPERATIONS (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": -6.3
+            },
+            {
+                "label": "DISCONTINUED OPERATIONS (in dollars per share)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "TOTAL NET INCOME (LOSS) PER COMMON SHARE - BASIC (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -6.3
+            },
+            {
+                "label": "CONTINUING OPERATIONS (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": -6.3
+            },
+            {
+                "label": "DISCONTINUED OPERATIONS (in dollars per share)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "TOTAL NET INCOME (LOSS) PER COMMON SHARE - DILUTED (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -6.3
+            },
+            {
+                "label": "WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING - BASIC (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 31626204
+            },
+            {
+                "label": "WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING - DILUTED (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 31626204
+            },
+            {
+                "label": "Reclassification adjustments for realized losses on investment securities available-for-sale included in net loss",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": -185357000
+            },
+            {
+                "label": "Unrealized (losses) gains on investment securities available-for-sale, net",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": -191283000
+            },
+            {
+                "label": "Reclassification adjustments associated with unrealized gains from interest rate hedges included in net income",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 23000
+            },
+            {
+                "label": "Unrealized losses on derivatives, net",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent",
+                "unit": "usd",
+                "value": -6749000
+            },
+            {
+                "label": "Other comprehensive (loss) income:",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -12698000
+            },
+            {
+                "label": "Comprehensive (loss) income before allocation to preferred shares",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -209219000
+            },
+            {
+                "label": "Comprehensive (loss) income before allocation to preferred shares",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -211807000
+            }
+        ]
+    }
+}

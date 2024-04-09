@@ -1,0 +1,339 @@
+{
+    "startDate": "2019-04-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "WTER",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 4561682
+            },
+            {
+                "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 4917081
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 2919860
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1697199
+            },
+            {
+                "label": "Represents the current portion of operating lease right-of-use-asset.",
+                "concept": "wter:OperatingLeaseRightOfUseAssetCurrent",
+                "unit": "usd",
+                "value": 87393
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 14183215
+            },
+            {
+                "label": "Fixed assets - net",
+                "concept": "PropertyPlantAndEquipmentOtherNet",
+                "unit": "usd",
+                "value": 1422581
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 15605796
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 5406541
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1186516
+            },
+            {
+                "label": "Revolving financing",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 7291217
+            },
+            {
+                "label": "Operating Lease, Liability, Current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 99389
+            },
+            {
+                "label": "Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 13983663
+            },
+            {
+                "label": "Preferred stock, $0.001 par value, 100,000,000 shares authorized, Series C issued 1,500,000 and Series D issued 3,800,000 at March 31, 2018 and Series A issued 20,000,000 Series C issued 3,000,000 at March 31, 2017",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 3400
+            },
+            {
+                "label": "Common stock, Class A - $0.001 par value, 200,000,000 shares authorized 25,991,346 and 17,532,451shares issued and outstanding at March 31, 2018 and March 31, 2017, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 45585
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 54094848
+            },
+            {
+                "label": "Represents increase decrease in stock payable.",
+                "concept": "wter:StockPayable",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -53521700
+            },
+            {
+                "label": "Ending balance",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1622133
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 15605796
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -14826821
+            },
+            {
+                "label": "Depreciation expense",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 1011241
+            },
+            {
+                "label": "Share-based Payment Arrangement, Noncash Expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1591555
+            },
+            {
+                "label": "Amortization of Leased Asset",
+                "concept": "AmortizationOfLeasedAsset",
+                "unit": "usd",
+                "value": 11996
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 1848900
+            },
+            {
+                "label": "Inventory",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 861848
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 1318500
+            },
+            {
+                "label": "Accounts payable (IncreaseDecreaseInAccountsPayable)",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 2507583
+            },
+            {
+                "label": "Accrued expenses (IncreaseDecreaseInAccruedLiabilities)",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 91058
+            },
+            {
+                "label": "NET CASH USED IN OPERATING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -13642636
+            },
+            {
+                "label": "Purchase of fixed assets",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 488557
+            },
+            {
+                "label": "CASH USED IN INVESTING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -488557
+            },
+            {
+                "label": "Proceeds from revolving financing",
+                "concept": "wter:ProceedsFromRevolvingFinancing",
+                "unit": "usd",
+                "value": 4159938
+            },
+            {
+                "label": "Represents proceeds from stock payable.",
+                "concept": "wter:ProceedsFromStockPayable",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Proceeds from Warrant Exercises",
+                "concept": "ProceedsFromWarrantExercises",
+                "unit": "usd",
+                "value": 2500486
+            },
+            {
+                "label": "CASH PROVIDED BY FINANCING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 7660424
+            },
+            {
+                "label": "NET CHANGE IN CASH",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -6470769
+            },
+            {
+                "label": "INTEREST PAID",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 350327
+            },
+            {
+                "label": "Income Taxes Paid, Net",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Increase Decrease In Operating Lease Right Of Use Asset",
+                "concept": "wter:IncreaseDecreaseInOperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 165699
+            },
+            {
+                "label": "Increase Decrease In Operating Lease Liability",
+                "concept": "wter:IncreaseDecreaseInOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 185510
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 41142443
+            },
+            {
+                "label": "Cost of Goods Sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 24302874
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 16839569
+            },
+            {
+                "label": "Sales and marketing expenses",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 19067642
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 11138749
+            },
+            {
+                "label": "Depreciation expense",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 1011241
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 31217632
+            },
+            {
+                "label": "Total operating loss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -14378063
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 448758
+            },
+            {
+                "label": "Total other income (expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -448758
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -14826821
+            },
+            {
+                "label": "EARNINGS PER SHARE (Basic)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.34
+            },
+            {
+                "label": "WEIGHTED AVERAGE SHARES OUTSTANDING (Basic)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 43016474
+            }
+        ]
+    }
+}

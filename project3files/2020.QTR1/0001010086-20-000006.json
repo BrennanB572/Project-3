@@ -1,0 +1,441 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-12-31",
+    "year": "2019",
+    "quarter": "FY",
+    "symbol": "SIGA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 65249072
+            },
+            {
+                "label": "Restricted cash - short-term",
+                "concept": "RestrictedCashCurrent",
+                "unit": "usd",
+                "value": 95737862
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 4167996
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 9652855
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 5234000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 180041785
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 2618303
+            },
+            {
+                "label": "Restricted cash - long-term",
+                "concept": "RestrictedCashNoncurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Deferred tax asset, net",
+                "concept": "DeferredTaxAssetsLiabilitiesNetNoncurrent",
+                "unit": "usd",
+                "value": 14151002
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 898334
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 856766
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 198566190
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 3054032
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 8636911
+            },
+            {
+                "label": "Short-term Debt [Abstract]",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 80044866
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 91735809
+            },
+            {
+                "label": "Warrant liability",
+                "concept": "WarrantsAndRightsOutstanding",
+                "unit": "usd",
+                "value": 6116882
+            },
+            {
+                "label": "Other Liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 2929743
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LoansPayable",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 100782434
+            },
+            {
+                "label": "Common stock ($.0001 par value, 600,000,000 shares authorized, 81,269,868 and 80,763,350 issued and outstanding at December 31, 2019, and December 31, 2018, respectively)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 8127
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 220808037
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -123032408
+            },
+            {
+                "label": "Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 97783756
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 198566190
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -7241147
+            },
+            {
+                "label": "Depreciation and other amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 526997
+            },
+            {
+                "label": "(Gain) loss on change in fair value of warrant liability",
+                "concept": "siga:IncreaseInFairValueOfWarrants",
+                "unit": "usd",
+                "value": -5091256
+            },
+            {
+                "label": "Lease termination",
+                "concept": "GainLossOnTerminationOfLease",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 2113994
+            },
+            {
+                "label": "Net realization of deferred revenue and costs due to FDA approval",
+                "concept": "siga:NetRealizationofDeferredRevenueandCostsDuetoFDAApproval",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Deferred income taxes benefit",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -2417617
+            },
+            {
+                "label": "Write down of inventory, net",
+                "concept": "InventoryWriteDown",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Non-cash interest expense",
+                "concept": "siga:StockIssuanceFeesExpense",
+                "unit": "usd",
+                "value": 4497271
+            },
+            {
+                "label": "Gain on sale of priority review voucher",
+                "concept": "siga:GainonSaleofPRV",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 2208863
+            },
+            {
+                "label": "Inventory",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 6744644
+            },
+            {
+                "label": "Deferred costs",
+                "concept": "IncreaseDecreaseInDeferredCharges",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 714272
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 936839
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "IncreaseDecreaseInDeferredRevenue",
+                "unit": "usd",
+                "value": -1861605
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -18204303
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 29094
+            },
+            {
+                "label": "Net proceeds from sale of priority review voucher",
+                "concept": "siga:NetProceedsfromSaleofPriorityReviewVoucher",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -29094
+            },
+            {
+                "label": "Net proceeds from exercise of stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Buy back of stock options",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Payment of employee tax obligations for common stock tendered",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 1176579
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -1176579
+            },
+            {
+                "label": "Net (decrease) increase in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -19409976
+            },
+            {
+                "label": "Conversion of warrant to common stock",
+                "concept": "siga:ConversionofWarrantstoCommonStock",
+                "unit": "usd",
+                "value": 1172801
+            },
+            {
+                "label": "Issuance of common stock upon cashless exercise",
+                "concept": "StockIssued1",
+                "unit": "usd",
+                "value": 118500
+            },
+            {
+                "label": "Cash income taxes (refund) paid, net",
+                "concept": "siga:IncomeTaxesPaidRefund",
+                "unit": "usd",
+                "value": -1276129
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 26742085
+            },
+            {
+                "label": "Cost of sales and supportive services",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 1782838
+            },
+            {
+                "label": "Selling, general and administrative expense",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 13252136
+            },
+            {
+                "label": "Research and development expense",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 13303149
+            },
+            {
+                "label": "Patent expenses",
+                "concept": "siga:PatentPreparationFees",
+                "unit": "usd",
+                "value": 726105
+            },
+            {
+                "label": "Lease termination",
+                "concept": "GainLossOnTerminationOfLease",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 29064228
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -2322143
+            },
+            {
+                "label": "Gain (loss) from change in fair value of warrant liability",
+                "concept": "siga:DecreaseInFairValueOfWarrants",
+                "unit": "usd",
+                "value": 5091256
+            },
+            {
+                "label": "Interest expense, debt",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 15769768
+            },
+            {
+                "label": "Other income, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 2822232
+            },
+            {
+                "label": "(Loss) income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -10178423
+            },
+            {
+                "label": "Total (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -2937276
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -7241147
+            },
+            {
+                "label": "Basic (loss) earnings per share (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.09
+            },
+            {
+                "label": "Diluted (loss) earnings per share (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.15
+            },
+            {
+                "label": "Weighted average shares outstanding: basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 81031254
+            },
+            {
+                "label": "Weighted average shares outstanding: diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 82175023
+            }
+        ]
+    }
+}

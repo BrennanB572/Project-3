@@ -1,0 +1,333 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-12-31",
+    "year": "2021",
+    "quarter": "FY",
+    "symbol": "ACKIU",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 86792
+            },
+            {
+                "label": "Due to related parties",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 123548
+            },
+            {
+                "label": "Common stock subject to possible redemption, 13,800,000 shares (at redemption value of approximately $10.20 and $10.10 per share) at December 31, 2021 and 2020, respectively",
+                "concept": "ackiu:CommonStockSubjectToPossibleRedemptionShares",
+                "unit": "usd",
+                "value": 140822578
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized; no shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2777250
+            },
+            {
+                "label": "Total Liabilities and Stockholders\u2019 (Deficit) Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 140981542
+            },
+            {
+                "label": "Cash and securities held in Trust Account",
+                "concept": "MarketableSecuritiesNoncurrent",
+                "unit": "usd",
+                "value": 140822578
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 140981542
+            },
+            {
+                "label": "Accounts payable and accrued expense",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 793237
+            },
+            {
+                "label": "Warrant liabilities",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 284770
+            },
+            {
+                "label": "Warrant liabilities",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 284770
+            },
+            {
+                "label": "Promissory note \u2013 related party",
+                "concept": "NotesPayableRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1380000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -2618723
+            },
+            {
+                "label": "Prepaid assets",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 72172
+            },
+            {
+                "label": "Total stockholders\u2019 (deficit) equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -2618286
+            },
+            {
+                "label": "State franchise tax accrual",
+                "concept": "SalesAndExciseTaxPayableCurrent",
+                "unit": "usd",
+                "value": 195695
+            },
+            {
+                "label": "Commitments",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "cf": [
+            {
+                "label": "Initial value of common stock subject to possible redemption",
+                "concept": "StockIssuedDuringPeriodValueNewIssues",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Subsequent measurement of common stock subject to redemption under ASC 480-10-S99 against APIC (interest earned on trust account)",
+                "concept": "ackiu:SubsequentMeasurementOfCommonStockSubjectToRedemptionUnderASC48010S99Again",
+                "unit": "usd",
+                "value": 59331
+            },
+            {
+                "label": "Sponsor shares surrendered as part of downsizing",
+                "concept": "ackiu:SponsorSharesSurrenderedAsPartOfDownsizing",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -1380000
+            },
+            {
+                "label": "Subsequent measurement of common stock subject to redemption under ASC 480-10-S99 against additional paid-in-capital (\u201cAPIC\u201d)",
+                "concept": "ackiu:SubsequentMeasurementOfCommonStockSubjectToRedemption",
+                "unit": "usd",
+                "value": 1380000
+            },
+            {
+                "label": "1 for 1.2 stock dividend as part of upsizing",
+                "concept": "ackiu:StockDividendAsPartOfUpsizing",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from private placement",
+                "concept": "ProceedsFromIssuanceOfPrivatePlacement",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Deferred offering costs",
+                "concept": "ackiu:DeferredOfferingCost",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash provided by/(used in) operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -590338
+            },
+            {
+                "label": "Due to related parties",
+                "concept": "IncreaseDecreaseInDueToRelatedParties",
+                "unit": "usd",
+                "value": 120000
+            },
+            {
+                "label": "Initial value of warrant liabilities",
+                "concept": "PaymentsForRepurchaseOfInitialPublicOffering",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Reclassification of offering costs related to public shares",
+                "concept": "ackiu:IncreaseInAccountPayableForDeferredOfferingCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1380000
+            },
+            {
+                "label": "Change in fair value of warrants",
+                "concept": "ackiu:ChangeInFairValueOfWarrants",
+                "unit": "usd",
+                "value": 296090
+            },
+            {
+                "label": "Prepaid assets",
+                "concept": "ackiu:IncreaseDecreaseInPrepaidAsset",
+                "unit": "usd",
+                "value": -154551
+            },
+            {
+                "label": "Proceeds from initial public offering, net of underwriters\u2019 discount",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "State franchise tax accrual",
+                "concept": "IncreaseDecreaseInAccruedTaxesPayable",
+                "unit": "usd",
+                "value": 188470
+            },
+            {
+                "label": "Proceeds from Sponsor loan",
+                "concept": "ackiu:ProceedsFromSponsorLoan",
+                "unit": "usd",
+                "value": -1380000
+            },
+            {
+                "label": "Accounts payable and accrued expense",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 500272
+            },
+            {
+                "label": "Proceeds from issuance of 150,000 representative shares",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash deposited in Trust Account",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 1380000
+            },
+            {
+                "label": "Interest earned on investment held in Trust Account",
+                "concept": "ackiu:InterestEarnedOnInvestmentHeldTrustAccount",
+                "unit": "usd",
+                "value": 59331
+            },
+            {
+                "label": "Payments of offering costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 1198210
+            },
+            {
+                "label": "Repayment of Sponsor loan",
+                "concept": "ackiu:RepaymentOfSponsorLoan",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Shares surrendered by Underwriter for no consideration",
+                "concept": "ackiu:SharesSurrenderedByUnderwriterForNoConsideration",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -296090
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1198210
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1198210
+            },
+            {
+                "label": "Formation and operating costs",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 1553631
+            },
+            {
+                "label": "Basic and diluted weighted average shares outstanding, common stock subject to redemption (in Shares)",
+                "concept": "WeightedAverageNumberOfSharesCommonStockSubjectToRepurchaseOrCancellation",
+                "unit": "shares",
+                "value": 13800000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -1553631
+            },
+            {
+                "label": "Basic and diluted net loss per share attributable to common stockholders (in Dollars per share)",
+                "concept": "ackiu:BasicAndDilutedNetLossPerShareAttributableToCommonStockholdersinDollarsPerShare",
+                "unit": "usd/shares",
+                "value": -0.15
+            },
+            {
+                "label": "Basic and diluted weighted average shares outstanding, common stock (in Shares)",
+                "concept": "ackiu:BasicAndDilutedWeightedAverageSharesOutstandingCommonStockinShares",
+                "unit": "shares",
+                "value": 4369000
+            },
+            {
+                "label": "Basic and diluted net (loss) income per share attributable to common stock subject to redemption (in Dollars per share)",
+                "concept": "ackiu:EarningsPerShareBasicAndDilutedAttributableToCommonStockSubjectToRedemption",
+                "unit": "usd/shares",
+                "value": -0.04
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 59331
+            }
+        ]
+    }
+}

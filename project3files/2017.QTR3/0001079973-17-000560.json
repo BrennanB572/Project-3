@@ -1,0 +1,387 @@
+{
+    "startDate": "2016-07-01",
+    "endDate": "2017-06-30",
+    "year": "2017",
+    "quarter": "FY",
+    "symbol": "BNET",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 72932
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 6426
+            },
+            {
+                "label": "Subscription receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Deposits and other receivables",
+                "concept": "OtherReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 1980
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 81338
+            },
+            {
+                "label": "Property and equipment, net (Note 3)",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 3192
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 84530
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 865841
+            },
+            {
+                "label": "Deferred compensation (Note 4)",
+                "concept": "DeferredCompensationLiabilityCurrent",
+                "unit": "usd",
+                "value": 2107262
+            },
+            {
+                "label": "Convertible notes payable - affiliates (Note 6)",
+                "concept": "ConvertibleNotesPayableCurrent",
+                "unit": "usd",
+                "value": 88927
+            },
+            {
+                "label": "Loan payable and accrued interest (Note 5)",
+                "concept": "bnet:LoansPayableCurrentIncludingAccruedInterestAndLateCharges",
+                "unit": "usd",
+                "value": 8796322
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 11887752
+            },
+            {
+                "label": "Convertible notes payable - affiliates (Note 6)",
+                "concept": "ConvertibleLongTermNotesPayable",
+                "unit": "usd",
+                "value": 3316060
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 15203812
+            },
+            {
+                "label": "Common stock, no par value, 100,000,000 shares authorized, 24,748,213 and 23,573,057 shares issued, respectively; 24,043,904 and 22,868,748 shares outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 103540352
+            },
+            {
+                "label": "us-gaap_CommonStockShareSubscribedButUnissuedSubscriptionsReceivable",
+                "concept": "CommonStockShareSubscribedButUnissuedSubscriptionsReceivable",
+                "unit": "usd",
+                "value": 40000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -118676966
+            },
+            {
+                "label": "Stockholders' Equity Note Disclosure [Text Block]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -15176614
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 57332
+            },
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -15119282
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 84530
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -2462887
+            },
+            {
+                "label": "Depreciation expense",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 1981
+            },
+            {
+                "label": "us-gaap_GainLossOnSaleOfPropertyPlantEquipment",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": -770
+            },
+            {
+                "label": "Impairment loss on property and equipment",
+                "concept": "ImpairmentOfLongLivedAssetsHeldForUse",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued interest on loan payable, deferred compensation and other",
+                "concept": "OtherNoncashExpense",
+                "unit": "usd",
+                "value": 413590
+            },
+            {
+                "label": "us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresInPeriod",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 530795
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidExpense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": -8814
+            },
+            {
+                "label": "bnet_IncreaseDecreaseInDepositsAndOtherReceivables",
+                "concept": "bnet:IncreaseDecreaseInDepositsAndOtherReceivables",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Increase (decrease) in accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 159636
+            },
+            {
+                "label": "Increase in deferred compensation",
+                "concept": "IncreaseDecreaseInDeferredCompensation",
+                "unit": "usd",
+                "value": 830600
+            },
+            {
+                "label": "CASH FLOWS FROM OPERATING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -516701
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1684
+            },
+            {
+                "label": "CASH FLOWS FROM INVESTING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -1684
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInReceivables",
+                "concept": "IncreaseDecreaseInReceivables",
+                "unit": "usd",
+                "value": -7500
+            },
+            {
+                "label": "Proceeds from sale of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 22850
+            },
+            {
+                "label": "Proceeds from sale of units",
+                "concept": "bnet:ProceedsFromTheSaleOfUnits",
+                "unit": "usd",
+                "value": 421413
+            },
+            {
+                "label": "us-gaap_PaymentsOfStockIssuanceCosts",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 30640
+            },
+            {
+                "label": "Proceeds from promissory note receivable",
+                "concept": "ProceedsFromCollectionOfNotesReceivable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from exercise of warrants",
+                "concept": "ProceedsFromWarrantExercises",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 421123
+            },
+            {
+                "label": "us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -97262
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Issuance of common stock to satisfy deferred compensation and accounts payable",
+                "concept": "OtherSignificantNoncashTransactionValueOfConsiderationGiven1",
+                "unit": "usd",
+                "value": 277570
+            },
+            {
+                "label": "us-gaap_NotesReduction",
+                "concept": "NotesReduction",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Purchase of warrants for subscription receivable - affiliate",
+                "concept": "bnet:WarrantsSubscribedButUnissuedSubscriptionsReceivable",
+                "unit": "usd",
+                "value": 40000
+            },
+            {
+                "label": "bnet_SubscriptionReceivable",
+                "concept": "bnet:SubscriptionReceivable",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "General and Administrative Expense [Member]",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1655734
+            },
+            {
+                "label": "Depreciation expense",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 1981
+            },
+            {
+                "label": "Impairment loss on property and equipment",
+                "concept": "ImpairmentOfLongLivedAssetsHeldForUse",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Research and Development Expense [Member]",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 425983
+            },
+            {
+                "label": "Operating expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 2083698
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -2083698
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 379189
+            },
+            {
+                "label": "us-gaap_NonoperatingIncomeExpense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -379189
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -2462887
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAttributableToNoncontrollingInterest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -2414
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -2460473
+            },
+            {
+                "label": "Net loss applicable to Bion's common stockholders per basic and diluted common share (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.1
+            },
+            {
+                "label": "Basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 23459931
+            }
+        ]
+    }
+}

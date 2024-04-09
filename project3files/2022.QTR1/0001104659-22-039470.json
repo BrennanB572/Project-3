@@ -1,0 +1,405 @@
+{
+    "startDate": "2021-02-10",
+    "endDate": "2021-12-31",
+    "year": "2021",
+    "quarter": "FY",
+    "symbol": "PEGRU",
+    "data": {
+        "bs": [
+            {
+                "label": "Accrued offering costs",
+                "concept": "pegru:AccruedOfferingCosts",
+                "unit": "usd",
+                "value": 12632
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 89077
+            },
+            {
+                "label": "Total Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 265881369
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 387639
+            },
+            {
+                "label": "Total Liabilities and Shareholders' Deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 265881369
+            },
+            {
+                "label": "Investments held in trust account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 263773700
+            },
+            {
+                "label": "Deferred underwriting fee payable",
+                "concept": "pegru:DeferredOfferingCostsNoncurrent",
+                "unit": "usd",
+                "value": 9232181
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 21954455
+            },
+            {
+                "label": "Total Shareholders' Deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -19849686
+            },
+            {
+                "label": "Total Shareholders' Deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -19849686
+            },
+            {
+                "label": "Derivative liability - forward purchase agreement",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 437800
+            },
+            {
+                "label": "Preference shares, $0.0001 par value; 1,000,000 shares authorized; none issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -19850346
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1881572
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 180431
+            },
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1493933
+            },
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1493933
+            },
+            {
+                "label": "Prepaid expenses - noncurrent",
+                "concept": "PrepaidExpenseNoncurrent",
+                "unit": "usd",
+                "value": 226097
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 78722
+            },
+            {
+                "label": "Commitments and Contingencies (Note 6)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Class A ordinary shares, $0.0001 par value, subject to possible redemption; 26,377,660 shares at redemption value",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 263776600
+            },
+            {
+                "label": "Warrant Liabilities",
+                "concept": "SharesSubjectToMandatoryRedemptionSettlementTermsFairValueOfShares",
+                "unit": "usd",
+                "value": 12104043
+            }
+        ],
+        "cf": [
+            {
+                "label": "Offering costs paid",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 1321698
+            },
+            {
+                "label": "Net change in cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1493933
+            },
+            {
+                "label": "Proceeds from initial public offering, net of underwriter's discount paid",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": 258501068
+            },
+            {
+                "label": "Initial classification of derivative liability - forward purchase agreement",
+                "concept": "pegru:InitialClassificationOfDerivativeAssetForwardPurchaseAgreement",
+                "unit": "usd",
+                "value": 11200
+            },
+            {
+                "label": "Proceeds from sale of private placement warrants",
+                "concept": "ProceedsFromIssuanceOfPrivatePlacement",
+                "unit": "usd",
+                "value": 8425532
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 78722
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 613736
+            },
+            {
+                "label": "Cash deposited in Trust Account",
+                "concept": "pegru:PaymentsForInvestmentOfCashInTrustAccount",
+                "unit": "usd",
+                "value": 263776600
+            },
+            {
+                "label": "Proceeds from issuance of promissory note to related party",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 298629
+            },
+            {
+                "label": "Remeasurement of Class A ordinary shares subject to possible redemption to redemption value",
+                "concept": "TemporaryEquityAccretionToRedemptionValueAdjustment",
+                "unit": "usd",
+                "value": 45663875
+            },
+            {
+                "label": "Remeasurement of Class A ordinary shares subject to possible redemption to redemption value",
+                "concept": "TemporaryEquityAccretionToRedemptionValueAdjustment",
+                "unit": "usd",
+                "value": 45663875
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 89077
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 6418686
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -886922
+            },
+            {
+                "label": "Change in fair value of derivative liability - forward purchase agreement",
+                "concept": "pegru:FairValueAdjustmentOfForwardPurchaseAgreementLiability",
+                "unit": "usd",
+                "value": 426600
+            },
+            {
+                "label": "Accrued offering costs included in shares subject to possible redemption",
+                "concept": "pegru:AccruedOfferingCostsIncludedInSharesSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 12632
+            },
+            {
+                "label": "Proceeds from issuance of Class B ordinary shares to Sponsor",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 266157455
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -263776600
+            },
+            {
+                "label": "Unrealized loss on investments held in Trust Account",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": -2900
+            },
+            {
+                "label": "Unrealized loss on investments held in Trust Account",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": -2900
+            },
+            {
+                "label": "Forfeiture of Class B ordinary shares",
+                "concept": "pegru:CommonStockValueForfeiture",
+                "unit": "usd",
+                "value": 59
+            },
+            {
+                "label": "Excess of fair value of Founders Shares transferred to Anchor Investors over the aggregate purchase price",
+                "concept": "pegru:FairValueOfFounderSharesTranferredToAnchorInvestors",
+                "unit": "usd",
+                "value": 19381703
+            },
+            {
+                "label": "Deferred underwriting fee payable",
+                "concept": "pegru:DeferredUnderwritingFeePayable",
+                "unit": "usd",
+                "value": 9232181
+            },
+            {
+                "label": "Repayment of promissory note",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 298629
+            },
+            {
+                "label": "Reimbursement of offering costs",
+                "concept": "pegru:ReimbursementOfOfferingCosts",
+                "unit": "usd",
+                "value": 527553
+            },
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -9378431
+            },
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -9378431
+            },
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -9378431
+            },
+            {
+                "label": "Expensed offering costs",
+                "concept": "NoninterestExpenseOfferingCost",
+                "unit": "usd",
+                "value": 2089260
+            },
+            {
+                "label": "Expensed offering costs",
+                "concept": "NoninterestExpenseOfferingCost",
+                "unit": "usd",
+                "value": 2089260
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 6418686
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 6418686
+            },
+            {
+                "label": "Unrealized loss on investments held in Trust Account",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": -2900
+            },
+            {
+                "label": "Unrealized loss on investments held in Trust Account",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": -2900
+            },
+            {
+                "label": "Expensed offering costs",
+                "concept": "NoninterestExpenseOfferingCost",
+                "unit": "usd",
+                "value": 2089260
+            },
+            {
+                "label": "Expensed offering costs",
+                "concept": "NoninterestExpenseOfferingCost",
+                "unit": "usd",
+                "value": 2089260
+            },
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -9378431
+            },
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -9378431
+            },
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -9378431
+            },
+            {
+                "label": "Operating and formation costs",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 440985
+            },
+            {
+                "label": "Change in fair value of derivative liability - forward purchase agreement",
+                "concept": "pegru:ChangeInFairValueOfDerivativeLiability",
+                "unit": "usd",
+                "value": 426600
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -440985
+            }
+        ]
+    }
+}

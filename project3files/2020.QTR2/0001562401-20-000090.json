@@ -1,0 +1,573 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "AMH",
+    "data": {
+        "bs": [
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 1784804000
+            },
+            {
+                "label": "Buildings and improvements",
+                "concept": "InvestmentBuildingAndBuildingImprovements",
+                "unit": "usd",
+                "value": 7814877000
+            },
+            {
+                "label": "Single-family properties in operation",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 9599681000
+            },
+            {
+                "label": "Less: accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 1532306000
+            },
+            {
+                "label": "Single-family properties:",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 8067375000
+            },
+            {
+                "label": "Single-family properties under development and development land",
+                "concept": "amh:RealEstateInvestmentPropertyPropertiesUnderDevelopmentAndUndevelopedLand",
+                "unit": "usd",
+                "value": 407456000
+            },
+            {
+                "label": "Single-family properties held for sale, net",
+                "concept": "RealEstateHeldforsale",
+                "unit": "usd",
+                "value": 172045000
+            },
+            {
+                "label": "Total real estate assets, net",
+                "concept": "RealEstateInvestments",
+                "unit": "usd",
+                "value": 8646876000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 33108000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 128621000
+            },
+            {
+                "label": "Rent and other receivables",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 29956000
+            },
+            {
+                "label": "Escrow deposits, prepaid expenses and other assets",
+                "concept": "amh:DepositsPrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 151326000
+            },
+            {
+                "label": "Investments in unconsolidated joint ventures",
+                "concept": "InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+                "unit": "usd",
+                "value": 65533000
+            },
+            {
+                "label": "Asset-backed securitization certificates",
+                "concept": "amh:AssetBackedSecuritizationCertificates",
+                "unit": "usd",
+                "value": 25666000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 120279000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 9201365000
+            },
+            {
+                "label": "Secured Debt",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 1940869000
+            },
+            {
+                "label": "Unsecured senior notes, net",
+                "concept": "UnsecuredDebt",
+                "unit": "usd",
+                "value": 888791000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 241950000
+            },
+            {
+                "label": "Amounts payable to affiliates",
+                "concept": "DueToAffiliateCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total liabilities and equity/capital",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 3176610000
+            },
+            {
+                "label": "Commitments and Contingencies (see Note 15)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred shares ($0.01 par value per share, 100,000,000 shares authorized, 35,350,000 shares issued and outstanding at March 31, 2020 and December 31, 2019)",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 354000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 5792418000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -461706000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 6452000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5340527000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 684228000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 6024755000
+            },
+            {
+                "label": "Total liabilities and equity/capital",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 9201365000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 37527000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 82821000
+            },
+            {
+                "label": "Noncash amortization of deferred financing costs, debt discounts and cash flow hedging instrument",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 1849000
+            },
+            {
+                "label": "Units awarded",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1808000
+            },
+            {
+                "label": "Equity in net losses of unconsolidated joint ventures",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -1231000
+            },
+            {
+                "label": "Gain on sale of single-family properties and other, net",
+                "concept": "GainLossOnSaleOfProperties",
+                "unit": "usd",
+                "value": 10765000
+            },
+            {
+                "label": "Loss on impairment of single-family properties and other",
+                "concept": "ImpairmentOfRealEstate",
+                "unit": "usd",
+                "value": 4446000
+            },
+            {
+                "label": "Rent and other receivables",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 3746000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidExpensesOther",
+                "unit": "usd",
+                "value": 5980000
+            },
+            {
+                "label": "Deferred leasing costs",
+                "concept": "IncreaseDecreaseInDeferredLeasingFees",
+                "unit": "usd",
+                "value": 910000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 18397000
+            },
+            {
+                "label": "Amounts payable to affiliates",
+                "concept": "IncreaseDecreaseInDueToAffiliatesCurrent",
+                "unit": "usd",
+                "value": -182000
+            },
+            {
+                "label": "Operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 126496000
+            },
+            {
+                "label": "Cash paid for single-family properties",
+                "concept": "PaymentsToAcquireResidentialRealEstate",
+                "unit": "usd",
+                "value": 102575000
+            },
+            {
+                "label": "Change in escrow deposits for purchase of single-family properties",
+                "concept": "PaymentsForProceedsFromDepositsOnRealEstateAcquisitions",
+                "unit": "usd",
+                "value": -2259000
+            },
+            {
+                "label": "Net proceeds received from sales of single-family properties and other",
+                "concept": "ProceedsFromSaleOfRealEstateHeldforinvestment",
+                "unit": "usd",
+                "value": 81257000
+            },
+            {
+                "label": "Proceeds received from hurricane-related insurance claims",
+                "concept": "ProceedsFromInsuranceSettlementInvestingActivities",
+                "unit": "usd",
+                "value": 3408000
+            },
+            {
+                "label": "Investment in unconsolidated joint ventures",
+                "concept": "PaymentsToAcquireInterestInJointVenture",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Distributions from joint ventures",
+                "concept": "EquityMethodInvestmentDividendsOrDistributions",
+                "unit": "usd",
+                "value": 887000
+            },
+            {
+                "label": "Renovations to single-family properties",
+                "concept": "PaymentsForCapitalImprovements",
+                "unit": "usd",
+                "value": 858000
+            },
+            {
+                "label": "Recurring and other capital expenditures for single-family properties",
+                "concept": "amh:PaymentsForMaintenanceCapitalExpenditures",
+                "unit": "usd",
+                "value": 21224000
+            },
+            {
+                "label": "Cash paid for development activity",
+                "concept": "amh:PaymentsForDevelopmentActivities",
+                "unit": "usd",
+                "value": 138957000
+            },
+            {
+                "label": "Other purchases of productive assets",
+                "concept": "PaymentsToAcquireOtherProductiveAssets",
+                "unit": "usd",
+                "value": 2411000
+            },
+            {
+                "label": "Investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -179214000
+            },
+            {
+                "label": "Proceeds from exercise of stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 1449000
+            },
+            {
+                "label": "Payments related to tax withholding for share-based compensation",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 1612000
+            },
+            {
+                "label": "Payments on asset-backed securitizations",
+                "concept": "RepaymentsOfAccountsReceivableSecuritization",
+                "unit": "usd",
+                "value": 5435000
+            },
+            {
+                "label": "Distributions to noncontrolling interests",
+                "concept": "PaymentsOfDividendsMinorityInterest",
+                "unit": "usd",
+                "value": 5178000
+            },
+            {
+                "label": "Distributions to common shareholders/unitholders",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 30114000
+            },
+            {
+                "label": "Distributions to preferred shareholders/unitholders",
+                "concept": "PaymentsOfDividendsPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 13782000
+            },
+            {
+                "label": "Deferred financing costs paid",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash provided by (used for) financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 50328000
+            },
+            {
+                "label": "Net increase (decrease) in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -2390000
+            },
+            {
+                "label": "Cash payments for interest, net of amounts capitalized",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 37987000
+            },
+            {
+                "label": "Accrued property renovations and development expenditures",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 9618000
+            },
+            {
+                "label": "Transfers of completed homebuilding deliveries to properties",
+                "concept": "amh:TransferOfCompletedHomebuildingDeliveriesToProperties",
+                "unit": "usd",
+                "value": 75498000
+            },
+            {
+                "label": "Property and land contributions to an unconsolidated joint venture",
+                "concept": "ContributionOfProperty",
+                "unit": "usd",
+                "value": 9835000
+            },
+            {
+                "label": "Accrued distributions to affiliates",
+                "concept": "amh:AccruedDistributionsToAffiliatesPayable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued distributions to non-affiliates",
+                "concept": "amh:AccruedDistributionsToNonAffiliatesPayable",
+                "unit": "usd",
+                "value": 41000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Rents and other single-family property revenues",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 287342000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherOperatingIncome",
+                "unit": "usd",
+                "value": 2252000
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 289594000
+            },
+            {
+                "label": "General and administrative expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 11266000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 29715000
+            },
+            {
+                "label": "Acquisition and other transaction costs",
+                "concept": "amh:AcquisitionCostBusinessCombinationPropertyAcquisition",
+                "unit": "usd",
+                "value": 2147000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 82821000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNonoperatingExpense",
+                "unit": "usd",
+                "value": 6110000
+            },
+            {
+                "label": "Expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 262832000
+            },
+            {
+                "label": "Gain on sale of single-family properties and other, net",
+                "concept": "GainLossOnSaleOfProperties",
+                "unit": "usd",
+                "value": 10765000
+            },
+            {
+                "label": "Net income",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": 37527000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "IncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3501000
+            },
+            {
+                "label": "Dividends on preferred shares",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 13782000
+            },
+            {
+                "label": "Net income attributable to common shareholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 20244000
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 300813069
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 301305068
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.07
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.07
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 37527000
+            },
+            {
+                "label": "Reclassification adjustment for amortization of interest expense included in net income",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": 241000
+            },
+            {
+                "label": "Other comprehensive loss:",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -241000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 37286000
+            },
+            {
+                "label": "Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3466000
+            },
+            {
+                "label": "Comprehensive income attributable to common unitholders",
+                "concept": "amh:ComprehensiveIncomeLossNetOfTaxAvailableForCommonShareholders",
+                "unit": "usd",
+                "value": 20038000
+            }
+        ]
+    }
+}

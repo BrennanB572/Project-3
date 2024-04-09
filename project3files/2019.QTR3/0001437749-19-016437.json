@@ -1,0 +1,441 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-06-30",
+    "year": "2019",
+    "quarter": "Q2",
+    "symbol": "TAPM",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 509905
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 331534
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 122250
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 963689
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 4477
+            },
+            {
+                "label": "Right-to-use asset, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 143011
+            },
+            {
+                "label": "Software development cost, net",
+                "concept": "CapitalizedComputerSoftwareNet",
+                "unit": "usd",
+                "value": 812562
+            },
+            {
+                "label": "Investments",
+                "concept": "LongTermInvestments",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Security deposits",
+                "concept": "DepositsAssetsNoncurrent",
+                "unit": "usd",
+                "value": 22698
+            },
+            {
+                "label": "us-gaap_Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1951437
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 183519
+            },
+            {
+                "label": "Due to related parties",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 69237
+            },
+            {
+                "label": "Deferred Revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 319363
+            },
+            {
+                "label": "Less: short term portion",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 52119
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 624238
+            },
+            {
+                "label": "Long term portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 88969
+            },
+            {
+                "label": "us-gaap_ContractWithCustomerLiabilityNoncurrent",
+                "concept": "ContractWithCustomerLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 185931
+            },
+            {
+                "label": "Long term liabilities:",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 899138
+            },
+            {
+                "label": "Commitments and Contingencies Disclosure [Text Block]",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.001 par value; 250,000,000 shares authorized; 87,979,526 shares issued and outstanding at June 30, 2019 and December 31, 2018",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 87980
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 12856400
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -11892081
+            },
+            {
+                "label": "Total stockholders' equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1052299
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1951437
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -924894
+            },
+            {
+                "label": "Amortization of software development costs",
+                "concept": "CapitalizedComputerSoftwareAmortization1",
+                "unit": "usd",
+                "value": 341002
+            },
+            {
+                "label": "Depreciation and amortization of other assets",
+                "concept": "OtherDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 3106
+            },
+            {
+                "label": "Amortization of debt discount",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Amortization of original issue discount",
+                "concept": "tapm:AmortizationOfOriginalIssuedDiscountPremium",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Granted, weighted average grant date fair value (in dollars per share)",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 808750
+            },
+            {
+                "label": "Financing costs",
+                "concept": "tapm:FinancingCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 103731
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidExpense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": -92966
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 38035
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInDeferredRevenue",
+                "concept": "IncreaseDecreaseInDeferredRevenue",
+                "unit": "usd",
+                "value": -206274
+            },
+            {
+                "label": "tapm_IncreaseDecreaseInOperatingLeaseLiabilities",
+                "concept": "tapm:IncreaseDecreaseInOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": -1923
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInDueToRelatedPartiesCurrent",
+                "concept": "IncreaseDecreaseInDueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": -133695
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -86658
+            },
+            {
+                "label": "us-gaap_PaymentsToDevelopSoftware",
+                "concept": "PaymentsToDevelopSoftware",
+                "unit": "usd",
+                "value": 274749
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -274749
+            },
+            {
+                "label": "Net proceeds from exercise of common stock warrants",
+                "concept": "ProceedsFromWarrantExercises",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net proceeds from issuance of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_RepaymentsOfConvertibleDebt",
+                "concept": "RepaymentsOfConvertibleDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsOfDebtIssuanceCosts",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsToMinorityShareholders",
+                "concept": "PaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net proceeds from sale of common stock warrants",
+                "concept": "ProceedsFromIssuanceOfWarrants",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -361407
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash paid for taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Prepaid asset reclassed as transaction costs",
+                "concept": "tapm:PrepaidAssetReclassedAsTransactionCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Conversion of Series A Preferred stock, Senior Debenture and accrued interest to Series B Preferred Stock",
+                "concept": "DebtConversionConvertedInstrumentAmount1",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Right-to-use asset and lease liability recorded upon the adoption of ASC 842",
+                "concept": "tapm:RightOfUseAssetAndLeaseLiabilityIncurred",
+                "unit": "usd",
+                "value": 165096
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 2158650
+            },
+            {
+                "label": "Cost of revenue excluding depreciation and amortization",
+                "concept": "CostOfGoodsAndServiceExcludingDepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 728567
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 79515
+            },
+            {
+                "label": "Marketing and public relations",
+                "concept": "MarketingExpense",
+                "unit": "usd",
+                "value": 421223
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1511923
+            },
+            {
+                "label": "Amortization of software development costs",
+                "concept": "CapitalizedComputerSoftwareAmortization1",
+                "unit": "usd",
+                "value": 341002
+            },
+            {
+                "label": "Depreciation and amortization of other assets",
+                "concept": "OtherDepreciationAndAmortization",
+                "unit": "usd",
+                "value": 3106
+            },
+            {
+                "label": "us-gaap_OperatingExpenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 3085336
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -926686
+            },
+            {
+                "label": "Amortization of debt discount",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_InterestIncomeExpenseNet",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 1792
+            },
+            {
+                "label": "us-gaap_NonoperatingIncomeExpense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1792
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -924894
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -924894
+            },
+            {
+                "label": "Net loss per common share - basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "Weighted average common shares outstanding - basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 87979526
+            }
+        ]
+    }
+}

@@ -1,0 +1,603 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "BREIT",
+    "data": {
+        "bs": [
+            {
+                "label": "Investments in real estate, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 28811356000
+            },
+            {
+                "label": "Investments in unconsolidated entities",
+                "concept": "RealEstateInvestmentsUnconsolidatedRealEstateAndOtherJointVentures",
+                "unit": "usd",
+                "value": 809452000
+            },
+            {
+                "label": "Investments in real estate debt",
+                "concept": "TradingSecuritiesDebt",
+                "unit": "usd",
+                "value": 4293600000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 738553000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 948610000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 1462134000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 37063705000
+            },
+            {
+                "label": "Mortgage notes, term loans, and secured revolving credit facilities, net",
+                "concept": "SecuredLongTermDebt",
+                "unit": "usd",
+                "value": 18093242000
+            },
+            {
+                "label": "Repurchase agreements",
+                "concept": "SecuredDebtRepurchaseAgreements",
+                "unit": "usd",
+                "value": 2516313000
+            },
+            {
+                "label": "Due to affiliates",
+                "concept": "DueToAffiliateCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 581487000
+            },
+            {
+                "label": "Accounts payable, accrued expenses, and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 2034575000
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 23225617000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redeemable non-controlling interests",
+                "concept": "RedeemableNoncontrollingInterestEquityCarryingAmount",
+                "unit": "usd",
+                "value": 22486000
+            },
+            {
+                "label": "Preferred stock, $0.01 par value per share, 100,000 shares authorized; no shares issued and outstanding as of March 31, 2020 and December 31, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 16278758000
+            },
+            {
+                "label": "Accumulated deficit and cumulative distributions",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -2830046000
+            },
+            {
+                "label": "Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 13464056000
+            },
+            {
+                "label": "Non-controlling interests attributable to third party joint ventures",
+                "concept": "MinorityInterestInJointVentures",
+                "unit": "usd",
+                "value": 161305000
+            },
+            {
+                "label": "Non-controlling interests attributable to BREIT OP unitholders",
+                "concept": "MinorityInterestInOperatingPartnerships",
+                "unit": "usd",
+                "value": 190241000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 13815602000
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 37063705000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -1217150000
+            },
+            {
+                "label": "Management fee",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 49502000
+            },
+            {
+                "label": "Performance participation allocation.",
+                "concept": "breit:PerformanceParticipationAllocation",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 328805000
+            },
+            {
+                "label": "Net gain on disposition of real estate",
+                "concept": "GainsLossesOnSalesOfInvestmentRealEstate",
+                "unit": "usd",
+                "value": 371000
+            },
+            {
+                "label": "Loss on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -1237000
+            },
+            {
+                "label": "Unrealized (gain) loss on changes in fair value of financial instruments",
+                "concept": "MarketableSecuritiesUnrealizedGainLossExcludingOtherThanTemporaryImpairments",
+                "unit": "usd",
+                "value": -1104394000
+            },
+            {
+                "label": "Income from unconsolidated entities",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 13269000
+            },
+            {
+                "label": "Distributions from unconsolidated entities",
+                "concept": "EquityMethodInvestmentDividendsOrDistributions",
+                "unit": "usd",
+                "value": 12131000
+            },
+            {
+                "label": "Other items",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": -1683000
+            },
+            {
+                "label": "(Increase) / decrease in other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 70385000
+            },
+            {
+                "label": "Increase / (decrease) in due to affiliates",
+                "concept": "IncreaseDecreaseInDueToAffiliates",
+                "unit": "usd",
+                "value": 3590000
+            },
+            {
+                "label": "Increase / (decrease) in accounts payable, accrued expenses, and other liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 12238000
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 209039000
+            },
+            {
+                "label": "Payments to acquire real estate excluding capital improvements.",
+                "concept": "breit:PaymentsToAcquireRealEstateExcludingCapitalImprovements",
+                "unit": "usd",
+                "value": 2573147000
+            },
+            {
+                "label": "Capital improvements to real estate",
+                "concept": "PaymentsForCapitalImprovements",
+                "unit": "usd",
+                "value": 70648000
+            },
+            {
+                "label": "Proceeds from disposition of real estate",
+                "concept": "ProceedsFromSaleOfRealEstateHeldforinvestment",
+                "unit": "usd",
+                "value": 4488000
+            },
+            {
+                "label": "Payments for pre-acquisition costs.",
+                "concept": "breit:PaymentsForPreAcquisitionCosts",
+                "unit": "usd",
+                "value": 23791000
+            },
+            {
+                "label": "Investment in unconsolidated entities",
+                "concept": "PaymentsToAcquireInterestInSubsidiariesAndAffiliates",
+                "unit": "usd",
+                "value": 808312000
+            },
+            {
+                "label": "Payments to acquire investment in real estate-related debt.",
+                "concept": "breit:PaymentsToAcquireInvestmentInRealEstateRelatedDebt",
+                "unit": "usd",
+                "value": 485663000
+            },
+            {
+                "label": "Proceeds from settlement of real estate-related.",
+                "concept": "breit:ProceedsFromSettlementOfRealEstateRelated",
+                "unit": "usd",
+                "value": 87271000
+            },
+            {
+                "label": "Payments to acquire real estate related equity securities.",
+                "concept": "breit:PaymentsToAcquireRealEstateRelatedEquitySecurities",
+                "unit": "usd",
+                "value": 372293000
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -4242095000
+            },
+            {
+                "label": "Proceeds from issuance of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 4232000000
+            },
+            {
+                "label": "Offering costs paid",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 27823000
+            },
+            {
+                "label": "Proceeds from subscriptions received in advance.",
+                "concept": "breit:ProceedsFromSubscriptionsReceivedInAdvance",
+                "unit": "usd",
+                "value": 290535000
+            },
+            {
+                "label": "Repurchase of common stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 46624000
+            },
+            {
+                "label": "Payment for repurchase of management fee shares.",
+                "concept": "breit:PaymentForRepurchaseOfManagementFeeShares",
+                "unit": "usd",
+                "value": 42132000
+            },
+            {
+                "label": "Redemption of redeemable non-controlling interest",
+                "concept": "PaymentsForRepurchaseOfRedeemableNoncontrollingInterest",
+                "unit": "usd",
+                "value": 83625000
+            },
+            {
+                "label": "Payment for repurchase of affiliate service provider incentive compensation awards.",
+                "concept": "breit:PaymentForRepurchaseOfAffiliateServiceProviderIncentiveCompensationAwards",
+                "unit": "usd",
+                "value": 335000
+            },
+            {
+                "label": "Borrowings from mortgage notes term loans and secured revolving credit facilities.",
+                "concept": "breit:BorrowingsFromMortgageNotesTermLoansAndSecuredRevolvingCreditFacilities",
+                "unit": "usd",
+                "value": 4551680000
+            },
+            {
+                "label": "The cash outflow for repayments of mortgage notes, term loans, and secured revolving credit facilities.",
+                "concept": "breit:RepaymentsOfMortgageNotesTermLoansAndSecuredRevolvingCreditFacilities",
+                "unit": "usd",
+                "value": 3591784000
+            },
+            {
+                "label": "Proceeds from securities sold under agreements to repurchase.",
+                "concept": "breit:ProceedsFromSecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 45541000
+            },
+            {
+                "label": "Payments of securities sold under agreements to repurchase.",
+                "concept": "breit:PaymentsOfSecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 618147000
+            },
+            {
+                "label": "Borrowings from affiliate line of credit",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 125000000
+            },
+            {
+                "label": "Repayments on affiliate line of credit",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 125000000
+            },
+            {
+                "label": "Proceeds from unsecured credit facilities.",
+                "concept": "breit:ProceedsFromUnsecuredCreditFacilities",
+                "unit": "usd",
+                "value": 130000000
+            },
+            {
+                "label": "Repayments of unsecured lines of credit.",
+                "concept": "breit:RepaymentsOfUnsecuredLinesOfCredit",
+                "unit": "usd",
+                "value": 130000000
+            },
+            {
+                "label": "Payment of deferred financing costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 19894000
+            },
+            {
+                "label": "Contributions from non-controlling interests",
+                "concept": "ProceedsFromMinorityShareholders",
+                "unit": "usd",
+                "value": 10953000
+            },
+            {
+                "label": "Distributions to non-controlling interests",
+                "concept": "PaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": 8342000
+            },
+            {
+                "label": "Distributions",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 81486000
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 4610517000
+            },
+            {
+                "label": "Net change in cash and cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 577461000
+            },
+            {
+                "label": "Assumption of mortgage notes in conjunction with acquisitions of real estate",
+                "concept": "NoncashOrPartNoncashAcquisitionDebtAssumed1",
+                "unit": "usd",
+                "value": 109069000
+            },
+            {
+                "label": "Assumption of other liabilities in conjunction with acquisitions of real estate",
+                "concept": "NoncashOrPartNoncashAcquisitionOtherLiabilitiesAssumed1",
+                "unit": "usd",
+                "value": 2416000
+            },
+            {
+                "label": "Pre-acquisition costs incurred but not yet paid.",
+                "concept": "breit:PreAcquisitionCostsIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 803000
+            },
+            {
+                "label": "Capital expenditures and acquisition related costs incurred but not yet paid.",
+                "concept": "breit:CapitalExpendituresAndAcquisitionRelatedCostsIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 3363000
+            },
+            {
+                "label": "Accrued distributions to stockholders and non controlling interests.",
+                "concept": "breit:AccruedDistributionsToStockholdersAndNonControllingInterests",
+                "unit": "usd",
+                "value": 21103000
+            },
+            {
+                "label": "Accrued stockholder servicing fee due to affiliate.",
+                "concept": "breit:AccruedStockholderServicingFeeDueToAffiliate",
+                "unit": "usd",
+                "value": 70409000
+            },
+            {
+                "label": "Redeemable non controlling interest issued as settlement of performance allocation.",
+                "concept": "breit:RedeemableNonControllingInterestIssuedAsSettlementOfPerformanceAllocation",
+                "unit": "usd",
+                "value": 141396000
+            },
+            {
+                "label": "Allocation to redeemable non-controlling interests.",
+                "concept": "breit:AllocationToRedeemableNonControllingInterests",
+                "unit": "usd",
+                "value": 508000
+            },
+            {
+                "label": "Distribution reinvestment.",
+                "concept": "breit:DistributionReinvestment",
+                "unit": "usd",
+                "value": 104922000
+            },
+            {
+                "label": "Accrued common stock repurchases.",
+                "concept": "breit:AccruedCommonStockRepurchases",
+                "unit": "usd",
+                "value": 427259000
+            },
+            {
+                "label": "Payable for investment real estate debts.",
+                "concept": "breit:PayableForInvestmentRealEstateDebts",
+                "unit": "usd",
+                "value": 389878000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Total revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 674882000
+            },
+            {
+                "label": "Operating expenses",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 267694000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 27910000
+            },
+            {
+                "label": "Management fee",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 49502000
+            },
+            {
+                "label": "Performance participation allocation.",
+                "concept": "breit:PerformanceParticipationAllocation",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 328805000
+            },
+            {
+                "label": "Expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 673911000
+            },
+            {
+                "label": "Income from unconsolidated entities",
+                "concept": "DevelopmentProfitsNonoperating",
+                "unit": "usd",
+                "value": 13269000
+            },
+            {
+                "label": "Income (loss) from investment in real estate debt.",
+                "concept": "breit:IncomeLossFromInvestmentInRealEstateDebt",
+                "unit": "usd",
+                "value": -1016147000
+            },
+            {
+                "label": "Net gain on disposition of real estate",
+                "concept": "GainsLossesOnSalesOfInvestmentRealEstate",
+                "unit": "usd",
+                "value": 371000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestAndOtherIncome",
+                "unit": "usd",
+                "value": 1747000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 188504000
+            },
+            {
+                "label": "Loss on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -1237000
+            },
+            {
+                "label": "Other income (expense)",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -27620000
+            },
+            {
+                "label": "Other income (expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -1218121000
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -1217150000
+            },
+            {
+                "label": "Net loss attributable to non-controlling interests in third party joint ventures",
+                "concept": "NoncontrollingInterestInNetIncomeLossJointVenturePartnersRedeemable",
+                "unit": "usd",
+                "value": -237000
+            },
+            {
+                "label": "Net loss attributable to non-controlling interests in BREIT OP",
+                "concept": "NoncontrollingInterestInNetIncomeLossOperatingPartnershipsRedeemable",
+                "unit": "usd",
+                "value": -16826000
+            },
+            {
+                "label": "Net loss attributable to BREIT stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1200087000
+            },
+            {
+                "label": "Net loss per share of common stock \u2014 basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.86
+            },
+            {
+                "label": "Weighted-average shares of common stock outstanding, basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 1399514
+            }
+        ]
+    }
+}

@@ -1,0 +1,561 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "VICI",
+    "data": {
+        "bs": [
+            {
+                "label": "Direct financing and sales-type, allowance for credit losses",
+                "concept": "NetInvestmentInLease",
+                "unit": "usd",
+                "value": 10372656000
+            },
+            {
+                "label": "Investments in leases - operating",
+                "concept": "PropertySubjectToOrAvailableForOperatingLeaseNet",
+                "unit": "usd",
+                "value": 1086658000
+            },
+            {
+                "label": "Land",
+                "concept": "LandAvailableForDevelopment",
+                "unit": "usd",
+                "value": 94711000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1680536000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 2000000000
+            },
+            {
+                "label": "Short-term investments",
+                "concept": "ShortTermInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 180561000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 16277634000
+            },
+            {
+                "label": "2023",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 6758132000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 48828000
+            },
+            {
+                "label": "Deferred financing liability",
+                "concept": "DeferredLongTermLiabilityCharges",
+                "unit": "usd",
+                "value": 73600000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "ContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 358000
+            },
+            {
+                "label": "Dividends payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 158659000
+            },
+            {
+                "label": "Other Liabilities [Abstract]",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 163646000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 7203223000
+            },
+            {
+                "label": "Commitments and Contingent Liabilities",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 700,000,000 shares authorized and 533,667,755 and 461,004,742 shares issued and outstanding at June\u00a030, 2020 and December\u00a031, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 5337000
+            },
+            {
+                "label": "Preferred stock, $0.01 par value, 50,000,000 shares authorized and no shares outstanding at June\u00a030, 2020 and December\u00a031, 2019",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid-in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 9296511000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -117265000
+            },
+            {
+                "label": "Retained (deficit) earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -191835000
+            },
+            {
+                "label": "Stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 8992748000
+            },
+            {
+                "label": "Distributions to non-controlling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 81663000
+            },
+            {
+                "label": "Stockholders\u2019 equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 9074411000
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 16277634000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 209578000
+            },
+            {
+                "label": "Non-cash leasing and financing adjustments",
+                "concept": "vici:NonCashLeasingAndFinancingAdjustments",
+                "unit": "usd",
+                "value": -6226000
+            },
+            {
+                "label": "Granted (in shares)",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 3361000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 2080000
+            },
+            {
+                "label": "Amortization of debt issuance costs and original issue discount",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 11136000
+            },
+            {
+                "label": "Change in allowance for credit losses",
+                "concept": "vici:FinancingReceivableNetInvestmentInLeaseAndLoansCreditLossExpenseReversal",
+                "unit": "usd",
+                "value": 84028000
+            },
+            {
+                "label": "Loss from extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -39059000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherCurrentAssets",
+                "unit": "usd",
+                "value": -596000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": 28675000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": -69982000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 3740000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 318497000
+            },
+            {
+                "label": "Investments in leases - financing receivables",
+                "concept": "PaymentsToAcquireFinanceReceivables",
+                "unit": "usd",
+                "value": 847159000
+            },
+            {
+                "label": "Investments in loans",
+                "concept": "PaymentsToAcquireLoansReceivable",
+                "unit": "usd",
+                "value": 50343000
+            },
+            {
+                "label": "Investments in leases - direct financing and sales-type",
+                "concept": "PaymentsToAcquireRealEstate",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Principal repayments of lease financing receivables",
+                "concept": "ProceedsFromCollectionOfFinanceReceivables",
+                "unit": "usd",
+                "value": 868000
+            },
+            {
+                "label": "Capitalized transaction costs",
+                "concept": "vici:PaymentsOfCapitalizedTransactionCosts",
+                "unit": "usd",
+                "value": 1084000
+            },
+            {
+                "label": "Investments in short-term investments",
+                "concept": "PaymentsToAcquireShortTermInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Maturities of short-term investments",
+                "concept": "ProceedsFromSaleMaturityAndCollectionOfShorttermInvestments",
+                "unit": "usd",
+                "value": 59474000
+            },
+            {
+                "label": "Proceeds from sale of land",
+                "concept": "ProceedsFromSaleOfLandHeldForUse",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Acquisition of property and equipment",
+                "concept": "PaymentsToAcquireOtherPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 2187000
+            },
+            {
+                "label": "Cash flows from investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -840431000
+            },
+            {
+                "label": "Proceeds from offering of common stock, net",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 1476717000
+            },
+            {
+                "label": "Proceeds from issuance of unsecured debt",
+                "concept": "ProceedsFromIssuanceOfUnsecuredDebt",
+                "unit": "usd",
+                "value": 2500000000
+            },
+            {
+                "label": "Redemption of Second Lien Notes",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 537538000
+            },
+            {
+                "label": "Repurchase of stock for tax withholding",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 206000
+            },
+            {
+                "label": "Debt issuance costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 57784000
+            },
+            {
+                "label": "Distributions to non-controlling interest",
+                "concept": "vici:DistributionstoNonControllingInterests",
+                "unit": "usd",
+                "value": 4083000
+            },
+            {
+                "label": "Dividends paid",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 276529000
+            },
+            {
+                "label": "Cash flows from financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 3100577000
+            },
+            {
+                "label": "Net increase in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 2578643000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 113974000
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Dividends declared, not paid",
+                "concept": "vici:NonCashDividendsDeclaredNotPaid",
+                "unit": "usd",
+                "value": 158767000
+            },
+            {
+                "label": "Lease liabilities arising from obtaining right-of-use assets",
+                "concept": "RightOfUseAssetObtainedInExchangeForFinanceLeaseLiability",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Deferred transaction costs payable",
+                "concept": "vici:DeferredTransactionCostsPayable",
+                "unit": "usd",
+                "value": 2305000
+            },
+            {
+                "label": "Equity issuance costs payable",
+                "concept": "vici:EquityIssuanceCostsPayable",
+                "unit": "usd",
+                "value": 1040000
+            },
+            {
+                "label": "Debt issuance costs payable",
+                "concept": "vici:DebtIssuanceCostsPayable",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Income from direct financing and sales-type leases",
+                "concept": "SalesTypeAndDirectFinancingLeasesInterestIncome",
+                "unit": "usd",
+                "value": 448147000
+            },
+            {
+                "label": "Income from operating leases",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 21826000
+            },
+            {
+                "label": "Income from lease financing receivables and loans",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 29869000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 1426000
+            },
+            {
+                "label": "Golf operations",
+                "concept": "vici:IncomeFromGolfOperations",
+                "unit": "usd",
+                "value": 11635000
+            },
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 512903000
+            },
+            {
+                "label": "General and administrative expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 14513000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 2080000
+            },
+            {
+                "label": "Other expenses",
+                "concept": "OtherExpenses",
+                "unit": "usd",
+                "value": 1439000
+            },
+            {
+                "label": "Golf operations",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 8509000
+            },
+            {
+                "label": "Change in allowance for credit losses",
+                "concept": "vici:FinancingReceivableNetInvestmentInLeaseAndLoansCreditLossExpenseReversal",
+                "unit": "usd",
+                "value": 84028000
+            },
+            {
+                "label": "Transaction and acquisition expenses",
+                "concept": "OperatingLeasesIncomeStatementInitialDirectCosts",
+                "unit": "usd",
+                "value": 5677000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 116246000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 396657000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 153786000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeDepositsWithFinancialInstitutions",
+                "unit": "usd",
+                "value": 6529000
+            },
+            {
+                "label": "Loss from extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -39059000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 210341000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 763000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 209578000
+            },
+            {
+                "label": "Less: Net income attributable to non-controlling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 4188000
+            },
+            {
+                "label": "Less: Net income attributable to non-controlling interest",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 205390000
+            },
+            {
+                "label": "Net income per common share",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.43
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.43
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 477094795
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 481652482
+            },
+            {
+                "label": "Unrealized gain (loss) on cash flow hedges",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": -52187000
+            },
+            {
+                "label": "Comprehensive income attributable to common stockholders",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 153203000
+            }
+        ]
+    }
+}

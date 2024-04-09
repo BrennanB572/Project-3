@@ -1,0 +1,285 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "AOIP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 4641433
+            },
+            {
+                "label": "Accrued revenues receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 66913
+            },
+            {
+                "label": "Receivable from Apache Corporation",
+                "concept": "DueFromRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 175
+            },
+            {
+                "label": "CURRENT ASSETS:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 4708521
+            },
+            {
+                "label": "Proved properties",
+                "concept": "OilAndGasPropertyFullCostMethodGross",
+                "unit": "usd",
+                "value": 195715123
+            },
+            {
+                "label": "Less \u2013 Accumulated depreciation, depletion and amortization",
+                "concept": "OilAndGasPropertyFullCostMethodDepletion",
+                "unit": "usd",
+                "value": 191555037
+            },
+            {
+                "label": "OIL AND GAS PROPERTIES, on the basis of full cost accounting:",
+                "concept": "OilAndGasPropertyFullCostMethodNet",
+                "unit": "usd",
+                "value": 4160086
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 8868607
+            },
+            {
+                "label": "Payable to Apache Corporation",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Less current portion",
+                "concept": "AssetRetirementObligationCurrent",
+                "unit": "usd",
+                "value": 581084
+            },
+            {
+                "label": "Accrued operating expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 74528
+            },
+            {
+                "label": "Accrued development costs",
+                "concept": "aoip:AccruedDevelopmentCostsCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "CURRENT LIABILITIES:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 655612
+            },
+            {
+                "label": "Asset retirement obligation, long-term",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 829215
+            },
+            {
+                "label": "Distributions",
+                "concept": "GeneralPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 520139
+            },
+            {
+                "label": "Investing Partners, units outstanding",
+                "concept": "LimitedPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 6863641
+            },
+            {
+                "label": "BALANCE BEGINNING",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 7383780
+            },
+            {
+                "label": "LIABILITIES AND PARTNERS\u2019 CAPITAL",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 8868607
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -150423
+            },
+            {
+                "label": "Depreciation, depletion and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 95823
+            },
+            {
+                "label": "Asset retirement obligation accretion",
+                "concept": "AssetRetirementObligationAccretionExpense",
+                "unit": "usd",
+                "value": 26524
+            },
+            {
+                "label": "Accrued receivables",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -41780
+            },
+            {
+                "label": "Receivable from/payable to Apache Corporation",
+                "concept": "aoip:IncreaseDecreaseInDueFromToRelatedParty",
+                "unit": "usd",
+                "value": -7764
+            },
+            {
+                "label": "Accrued operating expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": -2472
+            },
+            {
+                "label": "Asset retirement obligations",
+                "concept": "IncreaseDecreaseInAssetRetirementObligations",
+                "unit": "usd",
+                "value": -427638
+            },
+            {
+                "label": "CASH FLOWS FROM OPERATING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -424170
+            },
+            {
+                "label": "Additions to oil and gas properties",
+                "concept": "PaymentsToExploreAndDevelopOilAndGasProperties",
+                "unit": "usd",
+                "value": 8
+            },
+            {
+                "label": "CASH FLOWS FROM INVESTING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -8
+            },
+            {
+                "label": "Contributions from (distributions to) Managing Partner",
+                "concept": "aoip:ContributionsFromDistributionsToManagingPartner",
+                "unit": "usd",
+                "value": 45179
+            },
+            {
+                "label": "CASH FLOWS FROM FINANCING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 45179
+            },
+            {
+                "label": "NET DECREASE IN CASH AND CASH EQUIVALENTS",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -378999
+            }
+        ],
+        "ic": [
+            {
+                "label": "Oil and gas sales",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 324565
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 23312
+            },
+            {
+                "label": "REVENUES:",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 347877
+            },
+            {
+                "label": "Depreciation, depletion and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 95823
+            },
+            {
+                "label": "Asset retirement obligation accretion",
+                "concept": "AssetRetirementObligationAccretionExpense",
+                "unit": "usd",
+                "value": 26524
+            },
+            {
+                "label": "Lease operating expenses",
+                "concept": "OperatingLeaseExpense",
+                "unit": "usd",
+                "value": 206923
+            },
+            {
+                "label": "Gathering and transportation costs",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 8680
+            },
+            {
+                "label": "Administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 160350
+            },
+            {
+                "label": "EXPENSES:",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 498300
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -150423
+            },
+            {
+                "label": "Managing Partner",
+                "concept": "NetIncomeLossAllocatedToGeneralPartners",
+                "unit": "usd",
+                "value": -16648
+            },
+            {
+                "label": "Investing Partners",
+                "concept": "NetIncomeLossAllocatedToLimitedPartners",
+                "unit": "usd",
+                "value": -133775
+            },
+            {
+                "label": "NET INCOMEL(OSS) PER INVESTING PARTNER UNIT (in USD per share)",
+                "concept": "NetIncomeLossPerOutstandingLimitedPartnershipUnitBasicNetOfTax",
+                "unit": "usd/shares",
+                "value": -131
+            },
+            {
+                "label": "WEIGHTED AVERAGE INVESTING PARTNER UNITS OUTSTANDING (in shares)",
+                "concept": "WeightedAverageLimitedPartnershipUnitsOutstanding",
+                "unit": "shares",
+                "value": 1021.5
+            }
+        ]
+    }
+}

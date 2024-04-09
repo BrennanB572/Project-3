@@ -1,0 +1,429 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-12-31",
+    "year": "2019",
+    "quarter": "FY",
+    "symbol": "BCDA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 5585000
+            },
+            {
+                "label": "Accounts receivable, net of allowance for doubtful accounts of $2 and $9 at December 31, 2019 and December 31, 2018",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 147000
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "bcda:PrepaidExpenseAndOtherCurrentAssets",
+                "unit": "usd",
+                "value": 642000
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 6378000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 181000
+            },
+            {
+                "label": "Operating lease right-of-use asset, net",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 1065000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 54000
+            },
+            {
+                "label": "us-gaap_Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 7678000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 914000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "bcda:AccruedLiabilitiesAndOtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2561000
+            },
+            {
+                "label": "Operating lease liability - current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 528000
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4003000
+            },
+            {
+                "label": "Operating lease liability - noncurrent",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 614000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "DeferredRevenueNoncurrent",
+                "unit": "usd",
+                "value": 691000
+            },
+            {
+                "label": "Deferred rent",
+                "concept": "DeferredRentCreditNoncurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 5308000
+            },
+            {
+                "label": "Preferred stock, $0.001 par value, 25,000,000 shares authorized as of December 31, 2019 and December 31, 2018; no shares issued and outstanding as of December 31, 2019 and December 31, 2018",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.001 par value, 100,000,000 shares authorized as of December 31, 2019 and December 31, 2018; 6,825,183 and 4,845,697 shares issued and outstanding as of December 31, 2019 and December 31, 2018",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 7000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 103433000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -101070000
+            },
+            {
+                "label": "us-gaap_StockholdersEquityNoteStockSplitConversionRatio1",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2370000
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 7678000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -14709000
+            },
+            {
+                "label": "Write-off of inventory",
+                "concept": "InventoryWriteDown",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 111000
+            },
+            {
+                "label": "Reduction in the carrying amount of right-of-use assets",
+                "concept": "bcda:OperatingLeaseRightOfUseAssetAmortization",
+                "unit": "usd",
+                "value": 440000
+            },
+            {
+                "label": "Gain on change in fair value of redemption feature embedded in convertible notes",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": 52000
+            },
+            {
+                "label": "Loss on extinguishment of convertible notes",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -521000
+            },
+            {
+                "label": "Non-cash interest expense on convertible shareholder notes",
+                "concept": "PaidInKindInterest",
+                "unit": "usd",
+                "value": 112000
+            },
+            {
+                "label": "Dividend yield",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 2722000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -127000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInInventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": -136000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 198000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 171000
+            },
+            {
+                "label": "Accrued liabilities excluding accrued interest on convertible note",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 922000
+            },
+            {
+                "label": "bcda_IncreaseDecreaseInCurrentOperatingLeaseLiability",
+                "concept": "bcda:IncreaseDecreaseInCurrentOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 88000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "IncreaseDecreaseInDeferredRevenue",
+                "unit": "usd",
+                "value": 691000
+            },
+            {
+                "label": "bcda_IncreaseDecreaseInNonCurrentOperatingLeaseLiability",
+                "concept": "bcda:IncreaseDecreaseInNonCurrentOperatingLeaseLiability",
+                "unit": "usd",
+                "value": -528000
+            },
+            {
+                "label": "Deferred rent",
+                "concept": "IncreaseDecreaseInDeferredLiabilities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -9445000
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 146000
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireShortTermInvestments",
+                "concept": "PaymentsToAcquireShortTermInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Maturity of short-term investments",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfShorttermInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -146000
+            },
+            {
+                "label": "Proceeds from sale of common stock and warrants",
+                "concept": "bcda:ProceedsFromIssuanceOfCommonStockAndWarrants",
+                "unit": "usd",
+                "value": 10452000
+            },
+            {
+                "label": "us-gaap_PaymentsOfStockIssuanceCosts",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 1259000
+            },
+            {
+                "label": "Proceeds from convertible loan payable",
+                "concept": "bcda:ProceedsFromIssuanceOfConvertibleNotesAndWarrants",
+                "unit": "usd",
+                "value": 625000
+            },
+            {
+                "label": "Proceeds from the exercise of common stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 9818000
+            },
+            {
+                "label": "us-gaap_CashAndCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 227000
+            },
+            {
+                "label": "Conversion of notes and interest payable to stock and warrants",
+                "concept": "DebtConversionConvertedInstrumentAmount1",
+                "unit": "usd",
+                "value": 633000
+            },
+            {
+                "label": "Issuance of restricted stock units in lieu of 2018 cash bonus",
+                "concept": "bcda:IssuanceOfRestrictedStockUnitsInLieuOfCashBonus",
+                "unit": "usd",
+                "value": 165000
+            },
+            {
+                "label": "Right-of-use asset obtained in exchange for lease obligation",
+                "concept": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 1505000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 710000
+            },
+            {
+                "label": "Cost of goods sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 358000
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 8562000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 6003000
+            },
+            {
+                "label": "us-gaap_CostsAndExpenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 14923000
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -14213000
+            },
+            {
+                "label": "Interest income",
+                "concept": "OtherOperatingIncome",
+                "unit": "usd",
+                "value": 87000
+            },
+            {
+                "label": "Gain on change in fair value of redemption feature embedded in convertible notes",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": 52000
+            },
+            {
+                "label": "us-gaap_InterestExpense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 112000
+            },
+            {
+                "label": "Loss on extinguishment of convertible notes",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -521000
+            },
+            {
+                "label": "Other expense",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -2000
+            },
+            {
+                "label": "us-gaap_NonoperatingIncomeExpense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -496000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -14709000
+            },
+            {
+                "label": "Net loss per share, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -2.61
+            },
+            {
+                "label": "Weighted-average shares used in computing net loss per share, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 5644328
+            }
+        ]
+    }
+}

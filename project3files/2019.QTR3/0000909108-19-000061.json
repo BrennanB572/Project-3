@@ -1,0 +1,393 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-06-30",
+    "year": "2019",
+    "quarter": "Q2",
+    "symbol": "DHIL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 112275019
+            },
+            {
+                "label": "Investments, Debt and Equity Securities [Abstract]",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 150772310
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 22210625
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 2630933
+            },
+            {
+                "label": "Property and equipment, net of depreciation",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 5973071
+            },
+            {
+                "label": "Deferred taxes",
+                "concept": "DeferredTaxAssetsLiabilitiesNet",
+                "unit": "usd",
+                "value": 12289983
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 306151941
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 13045332
+            },
+            {
+                "label": "Accrued incentive compensation",
+                "concept": "AccruedBonusesCurrent",
+                "unit": "usd",
+                "value": 11020000
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 2255368
+            },
+            {
+                "label": "Deferred compensation liability",
+                "concept": "DeferredCompensationLiabilityCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 28060153
+            },
+            {
+                "label": "LIABILITIES AND SHAREHOLDERS\u2019 EQUITY",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 54380853
+            },
+            {
+                "label": "Redeemable noncontrolling interest",
+                "concept": "RedeemableNoncontrollingInterestEquityCommonFairValue",
+                "unit": "usd",
+                "value": 34076350
+            },
+            {
+                "label": "Common stock, no par value 7,000,000 shares authorized; 3,443,464 issued and outstanding at June 30, 2019 (inclusive of 225,625 unvested shares); 3,499,285 issued and outstanding at December 31, 2018 (inclusive of 211,575 unvested shares)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 116835709
+            },
+            {
+                "label": "Preferred stock, undesignated, 1,000,000 shares authorized and unissued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Deferred compensation equity",
+                "concept": "DeferredCompensationEquity",
+                "unit": "usd",
+                "value": 21919702
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 122778731
+            },
+            {
+                "label": "Permanent Shareholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 217694738
+            },
+            {
+                "label": "LIABILITIES AND SHAREHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 306151941
+            },
+            {
+                "label": "Book value per share (usd per share)",
+                "concept": "dhil:BookValuePerShare",
+                "unit": "usd/shares",
+                "value": 63.22
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 33713416
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 569896
+            },
+            {
+                "label": "Award Type [Domain]",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 4597331
+            },
+            {
+                "label": "Increase in accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 3094071
+            },
+            {
+                "label": "Change in current income taxes",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": -513313
+            },
+            {
+                "label": "Change in deferred income taxes",
+                "concept": "IncreaseDecreaseInDeferredIncomeTaxes",
+                "unit": "usd",
+                "value": 823883
+            },
+            {
+                "label": "Net (gains) losses on investments",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": 16091598
+            },
+            {
+                "label": "Net change in securities held by Consolidated Funds",
+                "concept": "IncreaseDecreaseInTradingSecurities",
+                "unit": "usd",
+                "value": -17041017
+            },
+            {
+                "label": "Decrease in accrued incentive compensation",
+                "concept": "IncreaseDecreaseInEmployeeRelatedLiabilities",
+                "unit": "usd",
+                "value": -12078871
+            },
+            {
+                "label": "Increase in deferred compensation",
+                "concept": "IncreaseDecreaseInDeferredCompensation",
+                "unit": "usd",
+                "value": 5672279
+            },
+            {
+                "label": "Other changes in assets and liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingCapitalNet",
+                "unit": "usd",
+                "value": 182455
+            },
+            {
+                "label": "CASH FLOWS FROM OPERATING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 28809748
+            },
+            {
+                "label": "Purchase of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 131734
+            },
+            {
+                "label": "Purchase of Company sponsored investments",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": 5973680
+            },
+            {
+                "label": "Proceeds from sale of Company sponsored investments",
+                "concept": "ProceedsFromSaleMaturityAndCollectionsOfInvestments",
+                "unit": "usd",
+                "value": 35729336
+            },
+            {
+                "label": "Net cash on deconsolidation of company sponsored investments",
+                "concept": "dhil:Netcashondeconsolidationofcompanysponsoredinvestments",
+                "unit": "usd",
+                "value": -22723853
+            },
+            {
+                "label": "CASH FLOWS FROM INVESTING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 6900069
+            },
+            {
+                "label": "Value of shares withheld related to employee tax withholding",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 602000
+            },
+            {
+                "label": "Net subscriptions received from redeemable noncontrolling interest holders",
+                "concept": "ProceedsFromPaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": 8396769
+            },
+            {
+                "label": "Repurchase of common stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 15659626
+            },
+            {
+                "label": "CASH FLOWS FROM FINANCING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -7864857
+            },
+            {
+                "label": "Net change during the period",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 27844960
+            },
+            {
+                "label": "Income taxes paid",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 11641951
+            },
+            {
+                "label": "Issuance of stock grants",
+                "concept": "StockIssuedDuringPeriodValueShareBasedCompensation",
+                "unit": "usd",
+                "value": 3655296
+            },
+            {
+                "label": "Charitable donation of corporate investments",
+                "concept": "dhil:ContributionofInvestmentsandPropertyandEquipment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net subscriptions (redemptions) of ETF shares for marketable securities",
+                "concept": "dhil:NetissuanceofETFsharesformarketablesecurities",
+                "unit": "usd",
+                "value": -3244940
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 66124389
+            },
+            {
+                "label": "Compensation and related costs",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 31593932
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 6788059
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 2817982
+            },
+            {
+                "label": "Mutual Fund Administration Gross and Net Revenue",
+                "concept": "dhil:MutualFundAdministration",
+                "unit": "usd",
+                "value": 1710717
+            },
+            {
+                "label": "OPERATING EXPENSES:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 42910690
+            },
+            {
+                "label": "NET OPERATING INCOME",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 23213699
+            },
+            {
+                "label": "Investment income, net",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 20804473
+            },
+            {
+                "label": "INCOME BEFORE TAXES",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 44018172
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 10304756
+            },
+            {
+                "label": "Net Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 33713416
+            },
+            {
+                "label": "Less: Net income attributable to redeemable noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3585622
+            },
+            {
+                "label": "Less: Net income attributable to redeemable noncontrolling interest",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 30127794
+            },
+            {
+                "label": "Earnings per share",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 8.64
+            },
+            {
+                "label": "Diluted (USD per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 8.64
+            },
+            {
+                "label": "Weighted average number of outstanding shares - Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 3486032
+            },
+            {
+                "label": "Weighted average number of outstanding shares - Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 3486504
+            }
+        ]
+    }
+}

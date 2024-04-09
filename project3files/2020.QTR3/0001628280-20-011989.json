@@ -1,0 +1,609 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CIM",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 302553000
+            },
+            {
+                "label": "Non-Agency RMBS, at fair value (net of allowance for credit losses of $2 million and $0 million, respectively)",
+                "concept": "cim:NonAgencyResidentialMortgageBackedSecuritiesFairValue",
+                "unit": "usd",
+                "value": 2184170000
+            },
+            {
+                "label": "Agency RMBS, at fair value",
+                "concept": "cim:UnitedStatesAgencyResidentialMortgageBackedSecuritiesFairValue",
+                "unit": "usd",
+                "value": 107263000
+            },
+            {
+                "label": "Agency CMBS, at fair value",
+                "concept": "cim:USAgencyCommercialMortgageBackedSecuritiesFairValue",
+                "unit": "usd",
+                "value": 2612344000
+            },
+            {
+                "label": "Loans held for investment, fair value",
+                "concept": "cim:LoansOnResidentialRealEstateHeldForInvestmentAtFairValueNet",
+                "unit": "usd",
+                "value": 13036833000
+            },
+            {
+                "label": "Receivable for investments sold",
+                "concept": "NotesAndLoansReceivableGrossCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 89387000
+            },
+            {
+                "label": "Other Assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 115601000
+            },
+            {
+                "label": "Derivatives, at fair value, net",
+                "concept": "DerivativeAssets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Assets:",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 18448151000
+            },
+            {
+                "label": "Repurchase Agreements",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 5944201000
+            },
+            {
+                "label": "Securitized debt, collateralized by Non-Agency RMBS",
+                "concept": "cim:SecuritizedDebtNonAgencyResidentialMortgageBackedSecurities",
+                "unit": "usd",
+                "value": 124414000
+            },
+            {
+                "label": "Securitized debt at fair value, collateralized by loans held for investment, Unpaid Principal/Notional",
+                "concept": "cim:SecuritizedDebtLoansHeldForInvestmentAtFairValue",
+                "unit": "usd",
+                "value": 8530111000
+            },
+            {
+                "label": "Long Term Debt",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 71600000
+            },
+            {
+                "label": "Payable for investments purchased",
+                "concept": "cim:PayableForInvestmentsPurchased",
+                "unit": "usd",
+                "value": 246770000
+            },
+            {
+                "label": "Accrued interest payable",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 41336000
+            },
+            {
+                "label": "Dividends payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 75554000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 18286000
+            },
+            {
+                "label": "Liabilities:",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 15052272000
+            },
+            {
+                "label": "Commitments and Contingencies Disclosure [Abstract]",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock: par value $0.01 per share; 500,000,000 shares authorized, 232,003,526 and 187,226,081 shares issued and outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 2320000
+            },
+            {
+                "label": "Additional paid-in-capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 4515043000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 537510000
+            },
+            {
+                "label": "Cumulative earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 3367330000
+            },
+            {
+                "label": "Cumulative distributions to stockholders",
+                "concept": "CumulativeDividends",
+                "unit": "usd",
+                "value": 5026696000
+            },
+            {
+                "label": "Capital Stock",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 3395879000
+            },
+            {
+                "label": "Total liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 18448151000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -425710000
+            },
+            {
+                "label": "(Accretion) amortization of investment discounts/premiums, net",
+                "concept": "AccretionAmortizationOfDiscountsAndPremiumsInvestments",
+                "unit": "usd",
+                "value": -60974000
+            },
+            {
+                "label": "Accretion (amortization) of deferred financing costs, debt issuance costs, and securitized debt discounts/premiums, net",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": -35148000
+            },
+            {
+                "label": "Amortization of swaption premium",
+                "concept": "DerivativeCostOfHedge",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net unrealized gains (losses) on derivatives",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": 201000000
+            },
+            {
+                "label": "Margin (paid) received on derivatives",
+                "concept": "IncreaseDecreaseInMarginDepositsOutstanding",
+                "unit": "usd",
+                "value": -325594000
+            },
+            {
+                "label": "Net unrealized gains (losses) on financial instruments at fair value",
+                "concept": "cim:UnrealizedGainLossonFinancialInstruments",
+                "unit": "usd",
+                "value": -432809000
+            },
+            {
+                "label": "Net realized gains (losses) on sales of investments",
+                "concept": "GainsLossesOnSalesOfAssets",
+                "unit": "usd",
+                "value": 102234000
+            },
+            {
+                "label": "Net increase (decrease) in provision for credit losses",
+                "concept": "ProvisionForLoanLossesExpensed",
+                "unit": "usd",
+                "value": 1817000
+            },
+            {
+                "label": "Net other-than-temporary credit impairment losses",
+                "concept": "OtherThanTemporaryImpairmentLossesInvestmentsPortionInOtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Gains (losses) on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 459000
+            },
+            {
+                "label": "Equity-based compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 2534000
+            },
+            {
+                "label": "Decrease (increase) in accrued interest receivable, net",
+                "concept": "IncreaseDecreaseInAccruedInterestReceivableNet",
+                "unit": "usd",
+                "value": -27718000
+            },
+            {
+                "label": "Decrease (increase) in other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 56146000
+            },
+            {
+                "label": "Increase (decrease) in accounts payable and other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 12123000
+            },
+            {
+                "label": "Increase (decrease) in accrued interest payable, net",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": -24765000
+            },
+            {
+                "label": "Cash Flows From Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 18107000
+            },
+            {
+                "label": "Cash Flows From Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 7028991000
+            },
+            {
+                "label": "Proceeds from secured financing agreements",
+                "concept": "cim:ProceedsFromSecuritiesSoldUnderAgreementsToRepurchaseFinancingActivities",
+                "unit": "usd",
+                "value": 57804851000
+            },
+            {
+                "label": "Payments on secured financing agreements",
+                "concept": "cim:PrincipalPaymentsOnSecuritiesSoldUnderAgreementsToRepurchaseFinancingActivities",
+                "unit": "usd",
+                "value": 65275151000
+            },
+            {
+                "label": "Net proceeds from preferred stock offerings",
+                "concept": "ProceedsFromIssuanceOfPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Payments on repurchase of common stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 22066000
+            },
+            {
+                "label": "Proceeds from securitized debt borrowings, collateralized by loans held for investment",
+                "concept": "ProceedsFromIssuanceOfSecuredDebt",
+                "unit": "usd",
+                "value": 1462500000
+            },
+            {
+                "label": "Payments on securitized debt borrowings, collateralized by loans held for investment",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 920083000
+            },
+            {
+                "label": "Payments on securitized debt borrowings, collateralized by Non-Agency RMBS",
+                "concept": "cim:RepaymentsOfNonRetainedSecuredDebt",
+                "unit": "usd",
+                "value": 8445000
+            },
+            {
+                "label": "Net proceeds from issuance of convertible debt",
+                "concept": "ProceedsFromConvertibleDebt",
+                "unit": "usd",
+                "value": 361139000
+            },
+            {
+                "label": "Purchase of capped call",
+                "concept": "cim:PaymentstoAcquireCappedCall",
+                "unit": "usd",
+                "value": 33750000
+            },
+            {
+                "label": "Common dividends paid",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 186543000
+            },
+            {
+                "label": "Preferred dividends paid",
+                "concept": "PaymentsOfDividendsPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 36875000
+            },
+            {
+                "label": "Cash Flows From Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -6854423000
+            },
+            {
+                "label": "Net increase (decrease) in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 192675000
+            },
+            {
+                "label": "Interest received",
+                "concept": "cim:InterestReceivedDuringPeriod",
+                "unit": "usd",
+                "value": 634199000
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 328753000
+            },
+            {
+                "label": "Payable for investments purchased",
+                "concept": "cim:NoncashInvestingActivitiesPayableForInvestmentsPurchased",
+                "unit": "usd",
+                "value": 246770000
+            },
+            {
+                "label": "Receivable for investments sold",
+                "concept": "cim:NoncashInvestingActivitiesReceivableForInvestmentsSold",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net change in unrealized gain (loss) on available-for sale securities",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -170826000
+            },
+            {
+                "label": "Retained beneficial interests",
+                "concept": "cim:RetainedBeneficialInterestsInSecuritizedTransactionsNonCashInvestingActivities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Dividends declared, not yet paid",
+                "concept": "cim:DividendsDeclaredAndNotPaid",
+                "unit": "usd",
+                "value": 75554000
+            },
+            {
+                "label": "Conversion of convertible debt",
+                "concept": "DebtConversionConvertedInstrumentAmount1",
+                "unit": "usd",
+                "value": 289331000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -425710000
+            },
+            {
+                "label": "Unrealized gains (losses) on available-for-sale securities, net",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": -137805000
+            },
+            {
+                "label": "Reclassification adjustment for net losses included in net income for other-than-temporary credit impairment losses",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForWritedownOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Reclassification adjustment for net realized losses (gains) included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 33021000
+            },
+            {
+                "label": "Net change in unrealized gain (loss) on available-for sale securities",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -170826000
+            },
+            {
+                "label": "Comprehensive income (loss):",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -596536000
+            },
+            {
+                "label": "Dividends on preferred stock",
+                "concept": "DividendsPreferredStock",
+                "unit": "usd",
+                "value": 36875000
+            },
+            {
+                "label": "Comprehensive income (loss) available to common stock shareholders",
+                "concept": "cim:ComprehensiveIncomeLossNetofTaxAttributabletoCommonShareholders",
+                "unit": "usd",
+                "value": -633411000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 546189000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 271339000
+            },
+            {
+                "label": "Net interest income:",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 274850000
+            },
+            {
+                "label": "Increase/(decrease) in provision for credit losses",
+                "concept": "DebtSecuritiesAvailableForSaleAllowanceForCreditLossNotPreviouslyRecorded",
+                "unit": "usd",
+                "value": 1817000
+            },
+            {
+                "label": "Net other-than-temporary credit impairment losses",
+                "concept": "OtherThanTemporaryImpairmentLossDebtSecuritiesAvailableForSale",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net unrealized gains (losses) on derivatives",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": 201000000
+            },
+            {
+                "label": "Realized gains (losses) on terminations of interest rate swaps",
+                "concept": "cim:GainLossOnTerminationOfInterestRateSwaps",
+                "unit": "usd",
+                "value": -463966000
+            },
+            {
+                "label": "Net realized gains (losses) on derivatives",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": -41086000
+            },
+            {
+                "label": "Net gains (losses) on derivatives",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": -304052000
+            },
+            {
+                "label": "Net unrealized gains (losses) on financial instruments at fair value",
+                "concept": "cim:UnrealizedGainLossonFinancialInstruments",
+                "unit": "usd",
+                "value": -432809000
+            },
+            {
+                "label": "Net realized gains (losses) on sales of investments",
+                "concept": "GainsLossesOnSalesOfAssets",
+                "unit": "usd",
+                "value": 102234000
+            },
+            {
+                "label": "Gains (losses) on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 459000
+            },
+            {
+                "label": "Other investment gains (losses):",
+                "concept": "cim:OtherGainsLosses",
+                "unit": "usd",
+                "value": -634168000
+            },
+            {
+                "label": "Compensation and benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 23190000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 12239000
+            },
+            {
+                "label": "Servicing fees",
+                "concept": "VariableInterestEntityActivityBetweenVIEAndEntityExpense",
+                "unit": "usd",
+                "value": 19462000
+            },
+            {
+                "label": "Transaction expenses",
+                "concept": "cim:OtherExpensesDealExpenses",
+                "unit": "usd",
+                "value": 9616000
+            },
+            {
+                "label": "Total other expenses",
+                "concept": "cim:OtherExpensesNotReflectedInNetInvestmentIncomeLoss",
+                "unit": "usd",
+                "value": 64507000
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -425642000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net income (loss) available to common shareholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -462585000
+            },
+            {
+                "label": "Basic (usd per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -2.39
+            },
+            {
+                "label": "Diluted (usd per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -2.39
+            },
+            {
+                "label": "Basic (shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 193150696
+            },
+            {
+                "label": "Diluted (shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 193150696
+            }
+        ]
+    }
+}

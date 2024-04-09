@@ -1,0 +1,609 @@
+{
+    "startDate": "2017-01-01",
+    "endDate": "2017-09-30",
+    "year": "2017",
+    "quarter": "Q3",
+    "symbol": "CWI2",
+    "data": {
+        "bs": [
+            {
+                "label": "Hotels, at cost",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 1447455000
+            },
+            {
+                "label": "Accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 59600000
+            },
+            {
+                "label": "Net investments in hotels",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 1387855000
+            },
+            {
+                "label": "Equity Method Investments and Joint Ventures [Abstract]",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 135276000
+            },
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 66809000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 34023000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 22869000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 9822000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1656654000
+            },
+            {
+                "label": "Non-recourse and limited-recourse debt, net",
+                "concept": "NonRecourseDebt",
+                "unit": "usd",
+                "value": 830965000
+            },
+            {
+                "label": "Due to related parties and affiliates",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1919000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 72038000
+            },
+            {
+                "label": "Distributions payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 10604000
+            },
+            {
+                "label": "Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 915526000
+            },
+            {
+                "label": "Commitments and contingencies (Note 9)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.001 par value, 50,000,000 shares authorized; none issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 801355000
+            },
+            {
+                "label": "Distributions and accumulated losses",
+                "concept": "AccumulatedDistributionsInExcessOfNetIncome",
+                "unit": "usd",
+                "value": 88535000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 888000
+            },
+            {
+                "label": "Total stockholders\u2019 equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 713794000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 27334000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 741128000
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1656654000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -1152000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAmortizationAndAccretionNet",
+                "unit": "usd",
+                "value": 32133000
+            },
+            {
+                "label": "Asset management fees to affiliates settled in shares",
+                "concept": "cwi2:AssetManagementFeesSettledInSharesValue",
+                "unit": "usd",
+                "value": 6157000
+            },
+            {
+                "label": "Hurricane loss",
+                "concept": "LossFromCatastrophes",
+                "unit": "usd",
+                "value": 3845000
+            },
+            {
+                "label": "Acquisition fees to affiliates settled in shares",
+                "concept": "cwi2:AcquisitionFeesSettledinShares",
+                "unit": "usd",
+                "value": 3097000
+            },
+            {
+                "label": "Amortization of deferred key money, deferred financing costs and other",
+                "concept": "AdjustmentForAmortization",
+                "unit": "usd",
+                "value": 582000
+            },
+            {
+                "label": "Amortization of stock-based compensation",
+                "concept": "AllocatedShareBasedCompensationExpense",
+                "unit": "usd",
+                "value": 418000
+            },
+            {
+                "label": "Loss on extinguishment of debt (Note 8)",
+                "concept": "ExtinguishmentOfDebtGainLossNetOfTax",
+                "unit": "usd",
+                "value": -254000
+            },
+            {
+                "label": "Equity in (earnings) losses of equity method investment in real estate in excess of distributions received",
+                "concept": "IncomeLossFromEquityMethodInvestmentsNetOfDividendsOrDistributions",
+                "unit": "usd",
+                "value": 152000
+            },
+            {
+                "label": "(Decrease) increase in due to related parties and affiliates",
+                "concept": "IncreaseDecreaseInDueToRelatedParties",
+                "unit": "usd",
+                "value": -7231000
+            },
+            {
+                "label": "Receipt of key money and other deferred incentive payments",
+                "concept": "cwi2:ReceiptofDeferredPayments",
+                "unit": "usd",
+                "value": 2688000
+            },
+            {
+                "label": "Net changes in other assets and liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingCapitalNet",
+                "unit": "usd",
+                "value": -170000
+            },
+            {
+                "label": "Cash Flows \u2014 Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 40809000
+            },
+            {
+                "label": "Acquisitions of hotels",
+                "concept": "PaymentsToAcquireBusinessesGross",
+                "unit": "usd",
+                "value": 168884000
+            },
+            {
+                "label": "Purchase of equity interest (Note 5)",
+                "concept": "PaymentsToAcquireEquityMethodInvestments",
+                "unit": "usd",
+                "value": 99386000
+            },
+            {
+                "label": "Funds released from escrow",
+                "concept": "DecreaseInRestrictedCash",
+                "unit": "usd",
+                "value": 58925000
+            },
+            {
+                "label": "Funds placed in escrow",
+                "concept": "IncreaseInRestrictedCash",
+                "unit": "usd",
+                "value": 57332000
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToDevelopRealEstateAssets",
+                "unit": "usd",
+                "value": 14568000
+            },
+            {
+                "label": "Deposits released for hotel investments",
+                "concept": "cwi2:ReleaseOfDepositsForDevelopmentOfRealEstate",
+                "unit": "usd",
+                "value": 1521000
+            },
+            {
+                "label": "Deposits for hotel investments",
+                "concept": "PaymentsForDepositsOnRealEstateAcquisitions",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Distributions received from equity investment in excess of equity income",
+                "concept": "ProceedsFromEquityMethodInvestmentDividendsOrDistributionsReturnOfCapital",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Capital contributions to equity investment in real estate",
+                "concept": "PaymentsToAcquireAdditionalInterestInSubsidiaries",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash Flows \u2014 Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -279724000
+            },
+            {
+                "label": "Proceeds from mortgage financing",
+                "concept": "ProceedsFromIssuanceOfSecuredDebt",
+                "unit": "usd",
+                "value": 301900000
+            },
+            {
+                "label": "Proceeds from follow on offering",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 233410000
+            },
+            {
+                "label": "Repayment of notes payable to affiliate",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 210000000
+            },
+            {
+                "label": "Scheduled payments and prepayments of mortgage principal",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 42000000
+            },
+            {
+                "label": "Distributions paid",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 25839000
+            },
+            {
+                "label": "Distributions to noncontrolling interests",
+                "concept": "PaymentsOfDividendsMinorityInterest",
+                "unit": "usd",
+                "value": 6822000
+            },
+            {
+                "label": "Repurchase of shares",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 3969000
+            },
+            {
+                "label": "Purchase of membership interest from noncontrolling interest (Note 10)",
+                "concept": "PaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": 3524000
+            },
+            {
+                "label": "Deposits released for mortgage financing",
+                "concept": "cwi2:ReleaseOfMortgageDeposits",
+                "unit": "usd",
+                "value": 2235000
+            },
+            {
+                "label": "Deferred financing costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 2090000
+            },
+            {
+                "label": "Deposits for mortgage financing",
+                "concept": "PaymentsForMortgageDeposits",
+                "unit": "usd",
+                "value": 725000
+            },
+            {
+                "label": "Withholding on restricted stock units",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 81000
+            },
+            {
+                "label": "Purchase of interest rate cap",
+                "concept": "PaymentsForProceedsFromDerivativeInstrumentFinancingActivities",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Proceeds from notes payable to affiliate",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Contributions from noncontrolling interests",
+                "concept": "ProceedsFromMinorityShareholders",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash Flows \u2014 Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 242479000
+            },
+            {
+                "label": "Change in Cash During the Period",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 3564000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net Loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -1152000
+            },
+            {
+                "label": "Unrealized income (loss) on derivative instruments",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Comprehensive Loss",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -1152000
+            },
+            {
+                "label": "Loss (income) attributable to noncontrolling interests (inclusive of Available Cash Distributions to a related party of $1,894, $1,100, $3,528 and $1,965, respectively)",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -983000
+            },
+            {
+                "label": "Unrealized (gain) loss on derivative instruments",
+                "concept": "OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 8000
+            },
+            {
+                "label": "Amounts Attributable to Noncontrolling Interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -975000
+            },
+            {
+                "label": "Comprehensive Loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -177000
+            },
+            {
+                "label": "Rooms",
+                "concept": "OccupancyRevenue",
+                "unit": "usd",
+                "value": 172102000
+            },
+            {
+                "label": "Food and beverage",
+                "concept": "FoodAndBeverageRevenue",
+                "unit": "usd",
+                "value": 67797000
+            },
+            {
+                "label": "Other operating revenue",
+                "concept": "OtherHotelOperatingRevenue",
+                "unit": "usd",
+                "value": 14373000
+            },
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 254272000
+            },
+            {
+                "label": "Rooms",
+                "concept": "OccupancyCosts",
+                "unit": "usd",
+                "value": 39706000
+            },
+            {
+                "label": "Food and beverage",
+                "concept": "FoodAndBeverageCostOfSales",
+                "unit": "usd",
+                "value": 48696000
+            },
+            {
+                "label": "Other hotel operating expenses",
+                "concept": "OtherDirectCostsOfHotels",
+                "unit": "usd",
+                "value": 4322000
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 22635000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "cwi2:HotelGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 22091000
+            },
+            {
+                "label": "Property taxes, insurance, rent and other",
+                "concept": "RealEstateTaxesAndInsurance",
+                "unit": "usd",
+                "value": 14190000
+            },
+            {
+                "label": "Management fees",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 9005000
+            },
+            {
+                "label": "Repairs and maintenance",
+                "concept": "CostOfPropertyRepairsAndMaintenance",
+                "unit": "usd",
+                "value": 8288000
+            },
+            {
+                "label": "Utilities",
+                "concept": "CostOfUtilities",
+                "unit": "usd",
+                "value": 6326000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 32133000
+            },
+            {
+                "label": "Total Hotel Expenses",
+                "concept": "DirectCostsOfHotels",
+                "unit": "usd",
+                "value": 207392000
+            },
+            {
+                "label": "Asset management fees to affiliate and other expenses",
+                "concept": "cwi2:AssetManagementFeesToAffiliates",
+                "unit": "usd",
+                "value": 6426000
+            },
+            {
+                "label": "Acquisition-related expenses",
+                "concept": "BusinessCombinationAcquisitionRelatedCosts",
+                "unit": "usd",
+                "value": 4979000
+            },
+            {
+                "label": "Corporate general and administrative expenses",
+                "concept": "cwi2:CorporateGeneralAndAdministrativeExpenses",
+                "unit": "usd",
+                "value": 4778000
+            },
+            {
+                "label": "Hurricane loss",
+                "concept": "LossFromCatastrophes",
+                "unit": "usd",
+                "value": 3845000
+            },
+            {
+                "label": "Other Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 20028000
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 26852000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 25826000
+            },
+            {
+                "label": "Equity in (losses) earnings of equity method investments in real estate",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1461000
+            },
+            {
+                "label": "Loss on extinguishment of debt (Note 8)",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -256000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 135000
+            },
+            {
+                "label": "Other Income and (Expenses)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -24486000
+            },
+            {
+                "label": "(Loss) Income from Operations Before Income Taxes",
+                "concept": "IncomeLossBeforeGainOrLossOnSaleOfPropertiesExtraordinaryItemsAndCumulativeEffectsOfAccountingChanges",
+                "unit": "usd",
+                "value": 2366000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 3518000
+            },
+            {
+                "label": "Loss (income) attributable to noncontrolling interests (inclusive of Available Cash Distributions to a related party of $1,894, $1,100, $3,528 and $1,965, respectively)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -169000
+            }
+        ]
+    }
+}

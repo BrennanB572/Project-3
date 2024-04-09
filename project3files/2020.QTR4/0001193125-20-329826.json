@@ -1,0 +1,153 @@
+{
+    "startDate": "2020-08-07",
+    "endDate": "2020-09-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "ZNTE",
+    "data": {
+        "bs": [
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 108852
+            },
+            {
+                "label": "Additional\u00a0paid-in\u00a0capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 24425
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDER'S EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 132852
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized; none issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -1000
+            },
+            {
+                "label": "Accrued offering costs",
+                "concept": "znte:AccruedOfferingCostsCurrent",
+                "unit": "usd",
+                "value": 47852
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Promissory notes \u2014 related party",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 60000
+            },
+            {
+                "label": "Commitments",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 132852
+            },
+            {
+                "label": "Deferred offering costs",
+                "concept": "DeferredCosts",
+                "unit": "usd",
+                "value": 132852
+            },
+            {
+                "label": "Total Stockholder's Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 24000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Deferred offering costs paid directly by Sponsor in exchange for the issuance of Class B common stock",
+                "concept": "znte:DeferredOfferingCostsPaidBySponsorInExchangeForIssuanceOfShares",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Deferred offering costs included in accrued offering costs",
+                "concept": "znte:DeferredOfferingCostsIncludedInAccruedOfferingCost",
+                "unit": "usd",
+                "value": 47852
+            },
+            {
+                "label": "Deferred offering costs paid through promissory note",
+                "concept": "znte:DeferredOfferingCostsIncludedInNotePayable",
+                "unit": "usd",
+                "value": 60000
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net Change in Cash",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 0
+            }
+        ],
+        "ic": [
+            {
+                "label": "Weighted average shares outstanding, basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 5750000
+            },
+            {
+                "label": "Formation and operating costs",
+                "concept": "BusinessCombinationAcquisitionRelatedCosts",
+                "unit": "usd",
+                "value": -1000
+            },
+            {
+                "label": "Basic and diluted net loss per common share",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Net Loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1000
+            }
+        ]
+    }
+}

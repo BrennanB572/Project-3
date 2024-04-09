@@ -1,0 +1,153 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-12-31",
+    "year": "2021",
+    "quarter": "FY",
+    "symbol": "HNR",
+    "data": {
+        "bs": [
+            {
+                "label": "Common stock, $0.0001 par value; 100,000,000 authorized shares, 2,875,000 shares issued and outstanding at December 31, 2021 and 2020",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 288
+            },
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 38743
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 224758
+            },
+            {
+                "label": "Commitments and Contingencies (Note 6)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in-capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 124712
+            },
+            {
+                "label": "Due to related party",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 88200
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 335976
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 136558
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -13782
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 335976
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 authorized shares, -0- shares issued or outstanding at December 31, 2021 and 2020",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -86707
+            },
+            {
+                "label": "Proceeds received from related party",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 63200
+            },
+            {
+                "label": "Deferred offering costs included in accounts payable and accrued liabilities",
+                "concept": "hnr:DeferredOfferingCost",
+                "unit": "usd",
+                "value": 134483
+            },
+            {
+                "label": "Payment of deferred offering costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 62750
+            },
+            {
+                "label": "Net increase in cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 13743
+            },
+            {
+                "label": "Deferred offering costs paid directly by related party",
+                "concept": "hnr:DeferredOfferingCostsPaidDirectlyByRelatedParty",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 100450
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 13782
+            },
+            {
+                "label": "Capital contributions from Sponsor",
+                "concept": "hnr:CapitalContributionsFromSponsor",
+                "unit": "usd",
+                "value": 100000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Formation and operating costs",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 13782
+            },
+            {
+                "label": "Net loss per share of common stock \u2013 basic and diluted (in Dollars per share)",
+                "concept": "hnr:EarningsPerShareBasicEarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "Weighted average shares of common stock outstanding \u2013 basic and diluted (in Shares)",
+                "concept": "hnr:WeightedAverageSharesOfCommonStockOutstandingBasicAndDilutedinShares",
+                "unit": "shares",
+                "value": 2500000
+            }
+        ]
+    }
+}

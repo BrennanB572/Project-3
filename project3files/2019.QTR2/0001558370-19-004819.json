@@ -1,0 +1,417 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-03-31",
+    "year": "2019",
+    "quarter": "Q1",
+    "symbol": "TLP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents, at Carrying Value",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 301000
+            },
+            {
+                "label": "Accounts Receivable, Net, Current",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 16466000
+            },
+            {
+                "label": "Due from Related Parties, Current",
+                "concept": "DueFromRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 1604000
+            },
+            {
+                "label": "Other Assets, Current",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 10150000
+            },
+            {
+                "label": "Assets, Current [Abstract]",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 28521000
+            },
+            {
+                "label": "Property, Plant and Equipment, Net.",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 695903000
+            },
+            {
+                "label": "Goodwill.",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 9428000
+            },
+            {
+                "label": "Equity Method Investments",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 225483000
+            },
+            {
+                "label": "Right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 34402000
+            },
+            {
+                "label": "Other Assets, Noncurrent",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 51032000
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1044769000
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 17903000
+            },
+            {
+                "label": "Operating Lease, Liability, Current",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 1922000
+            },
+            {
+                "label": "Accrued Liabilities, Current",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 26605000
+            },
+            {
+                "label": "Liabilities, Current [Abstract]",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 46430000
+            },
+            {
+                "label": "Other Liabilities, Noncurrent",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 4936000
+            },
+            {
+                "label": "Operating Lease, Liability, Noncurrent",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 33616000
+            },
+            {
+                "label": "Secured Long-term Debt, Noncurrent",
+                "concept": "SecuredLongTermDebt",
+                "unit": "usd",
+                "value": 632627000
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 717609000
+            },
+            {
+                "label": "Commitments and Contingencies.",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other Ownership Interests, Capital Account",
+                "concept": "OtherOwnershipInterestsCapitalAccount",
+                "unit": "usd",
+                "value": 327160000
+            },
+            {
+                "label": "Partners' Capital [Abstract]",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 327160000
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1044769000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 7984000
+            },
+            {
+                "label": "Depreciation, Depletion and Amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 12579000
+            },
+            {
+                "label": "Income (Loss) from Equity Method Investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1140000
+            },
+            {
+                "label": "Proceeds from Equity Method Investment, Dividends or Distributions",
+                "concept": "EquityMethodInvestmentDividendsOrDistributions",
+                "unit": "usd",
+                "value": 2913000
+            },
+            {
+                "label": "Share-based Compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 799000
+            },
+            {
+                "label": "Excess Tax Benefit from Share-based Compensation, Operating Activities",
+                "concept": "ExcessTaxBenefitFromShareBasedCompensationOperatingActivities",
+                "unit": "usd",
+                "value": 1252000
+            },
+            {
+                "label": "Amortization of Financing Costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 749000
+            },
+            {
+                "label": "The amount of previously reported deferred or unearned revenue that was recognized as revenue during the period. For cash flows, this element primarily pertains to amortization of deferred credits on long-term arrangements. As a noncash item, it is deducted from net income when calculating cash provided by or used in operations using the indirect method.",
+                "concept": "tlp:DeferredRevenueRecognition",
+                "unit": "usd",
+                "value": 27000
+            },
+            {
+                "label": "Unrealized Gain (Loss) on Derivatives",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": -143000
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 2424000
+            },
+            {
+                "label": "Increase (Decrease) in Due from Related Parties, Current",
+                "concept": "IncreaseDecreaseInDueFromRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 92000
+            },
+            {
+                "label": "Increase (Decrease) in Other Current Assets",
+                "concept": "IncreaseDecreaseInOtherCurrentAssets",
+                "unit": "usd",
+                "value": 2100000
+            },
+            {
+                "label": "The increase (decrease) during the reporting period in receivables arising from the contracting of goods and services, net for uncollectible accounts.",
+                "concept": "tlp:IncreaseDecreaseContractReceivablesNet",
+                "unit": "usd",
+                "value": -422000
+            },
+            {
+                "label": "The increase (decrease) during the reporting period in the aggregate amount of Right-of-use assets in operating leases.",
+                "concept": "tlp:IncreaseDecreaseInRightOfUseAssetsOperatingLeases",
+                "unit": "usd",
+                "value": 398000
+            },
+            {
+                "label": "The increase (decrease) during the period in the amount of customer money held in customer accounts, including security deposits, collateral for a current or future transactions, initial payment of the cost of acquisition or for the right to enter into a contract or agreement.",
+                "concept": "tlp:IncreaseDecreaseCustomerDeposits",
+                "unit": "usd",
+                "value": 9000
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable, Trade",
+                "concept": "IncreaseDecreaseInAccountsPayableTrade",
+                "unit": "usd",
+                "value": 1350000
+            },
+            {
+                "label": "Increase (Decrease) in Due to Related Parties",
+                "concept": "IncreaseDecreaseInDueToRelatedParties",
+                "unit": "usd",
+                "value": -456000
+            },
+            {
+                "label": "Increase (Decrease) in Other Noncurrent Assets",
+                "concept": "IncreaseDecreaseInOtherNoncurrentAssets",
+                "unit": "usd",
+                "value": 199000
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": -5164000
+            },
+            {
+                "label": "The increase (decrease) during the reporting period in the aggregate amount of liabilities for operating leases.",
+                "concept": "tlp:IncreaseDecreaseInOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": -568000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities, Continuing Operations [Abstract]",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 13924000
+            },
+            {
+                "label": "Payments to Acquire Equity Method Investments",
+                "concept": "PaymentsToAcquireEquityMethodInvestments",
+                "unit": "usd",
+                "value": 225000
+            },
+            {
+                "label": "Payments to Acquire Productive Assets",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 30280000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities, Continuing Operations [Abstract]",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -30505000
+            },
+            {
+                "label": "Proceeds from Long-term Lines of Credit",
+                "concept": "ProceedsFromLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 57200000
+            },
+            {
+                "label": "Repayments of Long-term Lines of Credit",
+                "concept": "RepaymentsOfLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 23400000
+            },
+            {
+                "label": "Payments of Capital Distribution",
+                "concept": "PaymentsOfCapitalDistribution",
+                "unit": "usd",
+                "value": 17250000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities, Continuing Operations [Abstract]",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 16550000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Continuing Operations",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -31000
+            },
+            {
+                "label": "Interest Paid, Net",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 13210000
+            },
+            {
+                "label": "Capital Expenditures Incurred but Not yet Paid",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 10454000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenues [Abstract]",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 58644000
+            },
+            {
+                "label": "Direct Operating Costs",
+                "concept": "DirectOperatingCosts",
+                "unit": "usd",
+                "value": 19800000
+            },
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 7670000
+            },
+            {
+                "label": "General Insurance Expense",
+                "concept": "GeneralInsuranceExpense",
+                "unit": "usd",
+                "value": 1361000
+            },
+            {
+                "label": "Represents the expense recognized during the period arising from equity-based compensation arrangements (for example, shares of stock, unit, stock options or other equity instruments) with employees, or nonemployees.",
+                "concept": "tlp:ShareBasedArrangementsToObtainGoodsAndServicesAllocatedShareBasedCompensationExpense",
+                "unit": "usd",
+                "value": 799000
+            },
+            {
+                "label": "Depreciation, Depletion and Amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 12579000
+            },
+            {
+                "label": "Costs and Expenses [Abstract]",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 42209000
+            },
+            {
+                "label": "Income (Loss) from Equity Method Investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1140000
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 17575000
+            },
+            {
+                "label": "Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 8842000
+            },
+            {
+                "label": "Amortization of Financing Costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 749000
+            },
+            {
+                "label": "Nonoperating Income (Expense)",
+                "concept": "InterestAndDebtExpense",
+                "unit": "usd",
+                "value": 9591000
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 7984000
+            }
+        ]
+    }
+}

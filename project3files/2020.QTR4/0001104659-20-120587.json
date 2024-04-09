@@ -1,0 +1,243 @@
+{
+    "startDate": "2020-04-15",
+    "endDate": "2020-09-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "TXAC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 1100000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 123817
+            },
+            {
+                "label": "Assets, Current [Abstract]",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1265144
+            },
+            {
+                "label": "Investments held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 135702974
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 136968118
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 5186
+            },
+            {
+                "label": "Accrued Liabilities, Current",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 46548
+            },
+            {
+                "label": "Liabilities, Current [Abstract]",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 51734
+            },
+            {
+                "label": "Carrying value as of the balance sheet date of deferred underwriting commissions payable incurred through that date and due after one year (or beyond the operating cycle if longer).",
+                "concept": "txac:DeferredUnderwritingCommissionsPayableNoncurrent",
+                "unit": "usd",
+                "value": 4749500
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4801234
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Temporary Equity, Carrying Amount, Attributable to Parent",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 127166880
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 5184241
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -184708
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000004
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 136968118
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -184708
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 2974.0
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 123817
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable and Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 51734
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities, Continuing Operations [Abstract]",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -259765
+            },
+            {
+                "label": "The cash outflow for the purchase of investments that will be held in a trust account.",
+                "concept": "txac:PaymentsToAcquireInvestmentsToBeHeldInTrustAccount",
+                "unit": "usd",
+                "value": 135700000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities, Continuing Operations [Abstract]",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -135700000
+            },
+            {
+                "label": "Proceeds from Issuance of Private Placement",
+                "concept": "ProceedsFromIssuanceOfPrivatePlacement",
+                "unit": "usd",
+                "value": 4714000
+            },
+            {
+                "label": "Proceeds from Issuance of Common Stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 135700000
+            },
+            {
+                "label": "The cash inflow from the additional capital contribution to the entity, two.",
+                "concept": "txac:ProceedsFromIssuanceOfCommonStockTwo",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Payment of Financing and Stock Issuance Costs",
+                "concept": "PaymentOfFinancingAndStockIssuanceCosts",
+                "unit": "usd",
+                "value": 3337908
+            },
+            {
+                "label": "Proceeds from Related Party Debt",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 277687
+            },
+            {
+                "label": "Repayments of Related Party Debt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 277687
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities, Continuing Operations [Abstract]",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 137101092
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Excluding Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1141327
+            },
+            {
+                "label": "The amount of deferred underwriting commissions payable with initial public offering that were incurred during a noncash or partial noncash transaction.",
+                "concept": "txac:DeferredUnderwritingCommissionsPayableInConnectionWithInitialPublicOffering",
+                "unit": "usd",
+                "value": 4749500
+            },
+            {
+                "label": "The amount of initial classification of Class A common stock subject to possible redemption.",
+                "concept": "txac:InitialClassificationOfClassCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 127365550
+            },
+            {
+                "label": "The amount change in value of Class A common stock subject to possible redemption.",
+                "concept": "txac:ChangeInValueOfClassCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 198670
+            }
+        ],
+        "ic": [
+            {
+                "label": "Amount of formation and operating costs incurred during the period.",
+                "concept": "txac:FormationAndOperatingCosts",
+                "unit": "usd",
+                "value": 187682
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -187682
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 2974.0
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -184708
+            }
+        ]
+    }
+}

@@ -1,0 +1,879 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-12-31",
+    "year": "2019",
+    "quarter": "FY",
+    "symbol": "ORA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 71173000
+            },
+            {
+                "label": "Restricted cash and cash equivalents (primarily related to VIEs)",
+                "concept": "RestrictedCashAndInvestmentsCurrent",
+                "unit": "usd",
+                "value": 81937000
+            },
+            {
+                "label": "Trade (primarily related to VIEs)",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 154525000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 22048000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 34949000
+            },
+            {
+                "label": "Costs and estimated earnings in excess of billings on uncompleted contracts",
+                "concept": "ContractWithCustomerAssetNet",
+                "unit": "usd",
+                "value": 38365000
+            },
+            {
+                "label": "Prepaid expenses and other",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 12667000
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 415664000
+            },
+            {
+                "label": "Investment in unconsolidated companies",
+                "concept": "ora:InvestmentInUnconsolidatedCompaniesInExcessOfAccumulatedLosses",
+                "unit": "usd",
+                "value": 81140000
+            },
+            {
+                "label": "Deposits and other",
+                "concept": "ora:DepositsAndOtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 38284000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxAssetsNet",
+                "unit": "usd",
+                "value": 129510000
+            },
+            {
+                "label": "Property, plant and equipment, net",
+                "concept": "ora:PropertyPlantAndEquipmentNetExcludingConstructionInProgressNet",
+                "unit": "usd",
+                "value": 1971415000
+            },
+            {
+                "label": "Construction-in-process",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 376555000
+            },
+            {
+                "label": "Operating leases right of use",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 17405000
+            },
+            {
+                "label": "Amortization of right-of-use assets",
+                "concept": "FinanceLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 14161000
+            },
+            {
+                "label": "Deferred financing and lease costs, net",
+                "concept": "ora:DeferredFinancingAndLeaseCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 186220000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 20140000
+            },
+            {
+                "label": "Segment assets at period end",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 3250494000
+            },
+            {
+                "label": "Total",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 141857000
+            },
+            {
+                "label": "Short term revolving credit lines with banks (full recourse)",
+                "concept": "ShortTermBankLoansAndNotesPayable",
+                "unit": "usd",
+                "value": 40550000
+            },
+            {
+                "label": "Commercial Paper [Member]",
+                "concept": "CommercialPaper",
+                "unit": "usd",
+                "value": 50000000
+            },
+            {
+                "label": "Deferred revenues",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 2755000
+            },
+            {
+                "label": "Senior secured notes",
+                "concept": "SeniorNotesCurrent",
+                "unit": "usd",
+                "value": 24473000
+            },
+            {
+                "label": "Other loans",
+                "concept": "OtherLoansPayableCurrent",
+                "unit": "usd",
+                "value": 34458000
+            },
+            {
+                "label": "Full recourse",
+                "concept": "ora:CurrentPortionOfLongTermDebtWithFullRecourse",
+                "unit": "usd",
+                "value": 76572000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 2743000
+            },
+            {
+                "label": "Finance lease liabilities",
+                "concept": "FinanceLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 3068000
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 376476000
+            },
+            {
+                "label": "Senior secured notes (less deferred financing costs of $6,317 and $7,434, respectively)",
+                "concept": "SeniorLongTermNotes",
+                "unit": "usd",
+                "value": 339336000
+            },
+            {
+                "label": "Other loans (less deferred financing costs of $10,482 and $9,354, respectively)",
+                "concept": "OtherLoansPayableLongTerm",
+                "unit": "usd",
+                "value": 317395000
+            },
+            {
+                "label": "Senior unsecured bonds (less deferred financing costs of $675 and $758, respectively)",
+                "concept": "UnsecuredLongTermDebt",
+                "unit": "usd",
+                "value": 286453000
+            },
+            {
+                "label": "Other loans (less deferred financing costs of $1,519 and $921, respectively)",
+                "concept": "OtherLongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 68747000
+            },
+            {
+                "label": "Long term portion of operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 14008000
+            },
+            {
+                "label": "Long term portion of finance lease liabilities",
+                "concept": "FinanceLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 11209000
+            },
+            {
+                "label": "Liability associated with sale of tax benefits",
+                "concept": "ora:LiabilityAssociatedWithSaleOfTaxBenefits",
+                "unit": "usd",
+                "value": 123468000
+            },
+            {
+                "label": "Deferred lease income",
+                "concept": "ContractWithCustomerLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 1201000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxLiabilitiesNet",
+                "unit": "usd",
+                "value": 97126000
+            },
+            {
+                "label": "Liability for unrecognized tax benefits",
+                "concept": "LiabilityForUncertainTaxPositionsNoncurrent",
+                "unit": "usd",
+                "value": 14643000
+            },
+            {
+                "label": "Liabilities for severance pay",
+                "concept": "RestructuringReserveNoncurrent",
+                "unit": "usd",
+                "value": 18751000
+            },
+            {
+                "label": "Asset retirement obligation",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 50183000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 6838000
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1725834000
+            },
+            {
+                "label": "Commitments and Contingencies Disclosure [Text Block]",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redeemable noncontrolling interest",
+                "concept": "RedeemableNoncontrollingInterestEquityCarryingAmount",
+                "unit": "usd",
+                "value": 9250000
+            },
+            {
+                "label": "Common stock, par value $0.001 per share; 200,000,000 shares authorized; 51,031,652 and 50,699,781 issued and outstanding as of December 31, 2019 and December 31, 2018, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 51000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 913150000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 487873000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -8654000
+            },
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1392420000
+            },
+            {
+                "label": "us-gaap_MinorityInterestDecreaseFromDistributionsToNoncontrollingInterestHolders",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 122990000
+            },
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1515410000
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 3250494000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 93543000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 148761000
+            },
+            {
+                "label": "Accretion of asset retirement obligation",
+                "concept": "AssetRetirementObligationAccretionExpense",
+                "unit": "usd",
+                "value": 2709000
+            },
+            {
+                "label": "Dividend yield",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 9358000
+            },
+            {
+                "label": "Amortization of deferred lease income",
+                "concept": "ora:AmortizationOfDeferredIncome",
+                "unit": "usd",
+                "value": -2685000
+            },
+            {
+                "label": "ora_IncomeAttributableToSaleOfEquityInterestsNetOfInterestExpense",
+                "concept": "ora:IncomeAttributableToSaleOfEquityInterestsNetOfInterestExpense",
+                "unit": "usd",
+                "value": 10084000
+            },
+            {
+                "label": "us-gaap_IncomeLossFromEquityMethodInvestmentsNetOfDividendsOrDistributions",
+                "concept": "IncomeLossFromEquityMethodInvestmentsNetOfDividendsOrDistributions",
+                "unit": "usd",
+                "value": 1853000
+            },
+            {
+                "label": "us-gaap_UnrealizedGainLossOnDerivatives",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": 1402000
+            },
+            {
+                "label": "Write-off of unsuccessful exploration activities",
+                "concept": "ExplorationAbandonmentAndImpairmentExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Impairment charge",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_GainLossOnSaleOfOtherAssets",
+                "concept": "GainLossOnSaleOfOtherAssets",
+                "unit": "usd",
+                "value": 1016000
+            },
+            {
+                "label": "Deferred income tax provision",
+                "concept": "DeferredIncomeTaxesAndTaxCredits",
+                "unit": "usd",
+                "value": 27896000
+            },
+            {
+                "label": "ora_IncreaseDecreaseInUnrecognizedTaxBenefits",
+                "concept": "ora:IncreaseDecreaseInUnrecognizedTaxBenefits",
+                "unit": "usd",
+                "value": -2874000
+            },
+            {
+                "label": "Deferred lease revenues",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": -574000
+            },
+            {
+                "label": "us-gaap_InsuredEventGainLoss",
+                "concept": "InsuredEventGainLoss",
+                "unit": "usd",
+                "value": ""
+            },
+            {
+                "label": "us-gaap_OtherNoncashIncomeExpense",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": -914000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInReceivables",
+                "concept": "IncreaseDecreaseInReceivables",
+                "unit": "usd",
+                "value": 15133000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInContractWithCustomerAsset",
+                "concept": "IncreaseDecreaseInContractWithCustomerAsset",
+                "unit": "usd",
+                "value": -3765000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInInventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": -5500000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -3452000
+            },
+            {
+                "label": "Change in operating lease right of use asset",
+                "concept": "ora:OperatingLeaseRightOfUseAssetOperatingCashFlowEffect",
+                "unit": "usd",
+                "value": 8167000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInDepositOtherAssets",
+                "concept": "IncreaseDecreaseInDepositOtherAssets",
+                "unit": "usd",
+                "value": 22525000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 8738000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInContractWithCustomerLiability",
+                "concept": "IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": -15647000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInRestructuringReserve",
+                "concept": "IncreaseDecreaseInRestructuringReserve",
+                "unit": "usd",
+                "value": 757000
+            },
+            {
+                "label": "Change in operating lease liabilities",
+                "concept": "ora:IncreaseDecreaseInOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": -8405000
+            },
+            {
+                "label": "Other liabilities, net",
+                "concept": "IncreaseDecreaseInOtherNoncurrentLiabilities",
+                "unit": "usd",
+                "value": -617000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInOperatingActivities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 236493000
+            },
+            {
+                "label": "Expenditures for long-lived assets",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 279986000
+            },
+            {
+                "label": "Cash received from insurance recoveries",
+                "concept": "ProceedsFromInsuranceSettlementInvestingActivities",
+                "unit": "usd",
+                "value": 35435000
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireEquityMethodInvestments",
+                "concept": "PaymentsToAcquireEquityMethodInvestments",
+                "unit": "usd",
+                "value": 10674000
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireAdditionalInterestInSubsidiaries",
+                "concept": "PaymentsToAcquireAdditionalInterestInSubsidiaries",
+                "unit": "usd",
+                "value": ""
+            },
+            {
+                "label": "Buyout of Class B membership in OPC",
+                "concept": "ora:PaymentsForProceedsFromAcquireAdditionalInterestInSubsidiaries",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": ""
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireIntangibleAssets",
+                "concept": "PaymentsToAcquireIntangibleAssets",
+                "unit": "usd",
+                "value": ""
+            },
+            {
+                "label": "ora_IncreaseDecreaseInSeverancePayFundAssetNet",
+                "concept": "ora:IncreaseDecreaseInSeverancePayFundAssetNet",
+                "unit": "usd",
+                "value": -687000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -254538000
+            },
+            {
+                "label": "Proceeds from sale of membership interests to noncontrolling interest, net of transaction costs",
+                "concept": "ora:ProceedsFromSaleOfMembershipInterestToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from long-term loans, net of transaction costs",
+                "concept": "ora:ProceedsFromIssuanceOfLongtermLoansNet",
+                "unit": "usd",
+                "value": 132847000
+            },
+            {
+                "label": "Proceeds from exercise of options by employees",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 2429000
+            },
+            {
+                "label": "Proceeds from the sale of limited liability company interest, net of transaction costs",
+                "concept": "ora:ProceedsFromSaleOfLimitedLiabilityCompanyInterestNetOfTransactionCosts",
+                "unit": "usd",
+                "value": 58289000
+            },
+            {
+                "label": "us-gaap_EarlyRepaymentOfSeniorDebt",
+                "concept": "EarlyRepaymentOfSeniorDebt",
+                "unit": "usd",
+                "value": 21073000
+            },
+            {
+                "label": "Proceeds from issuance of commercial paper",
+                "concept": "ProceedsFromIssuanceOfCommercialPaper",
+                "unit": "usd",
+                "value": 50000000
+            },
+            {
+                "label": "Proceeds from revolving credit lines with banks",
+                "concept": "ProceedsFromLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 1450850000
+            },
+            {
+                "label": "us-gaap_RepaymentsOfLongTermLinesOfCredit",
+                "concept": "RepaymentsOfLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 1569300000
+            },
+            {
+                "label": "Cash received from noncontrolling interest",
+                "concept": "ProceedsFromMinorityShareholders",
+                "unit": "usd",
+                "value": 3346000
+            },
+            {
+                "label": "ora_PaymentsForAchievementOfProductionGoal",
+                "concept": "ora:PaymentsForAchievementOfProductionGoal",
+                "unit": "usd",
+                "value": ""
+            },
+            {
+                "label": "ora_RepaymentsOfLongtermLoans",
+                "concept": "ora:RepaymentsOfLongtermLoans",
+                "unit": "usd",
+                "value": 72708000
+            },
+            {
+                "label": "us-gaap_PaymentsToMinorityShareholders",
+                "concept": "PaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": 9730000
+            },
+            {
+                "label": "Financing cash flows for finance leases",
+                "concept": "FinanceLeasePrincipalPayments",
+                "unit": "usd",
+                "value": 3164000
+            },
+            {
+                "label": "us-gaap_PaymentsOfFinancingCosts",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 5165000
+            },
+            {
+                "label": "us-gaap_PaymentsOfDividendsCommonStock",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 22386000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -5765000
+            },
+            {
+                "label": "Effect of exchange rate changes",
+                "concept": "EffectOfExchangeRateOnCashAndCashEquivalents",
+                "unit": "usd",
+                "value": -575000
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -24385000
+            },
+            {
+                "label": "Interest, net of interest capitalized",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 61628000
+            },
+            {
+                "label": "Income taxes, net",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 1649000
+            },
+            {
+                "label": "Increase (decrease) in accounts payable related to purchases of property, plant and equipment",
+                "concept": "ora:IncreaseDecreaseInAccountsPayableRelatedToPurchasesOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 9423000
+            },
+            {
+                "label": "Right of use assets obtained in exchange for new lease liabilities",
+                "concept": "ora:RightofuseAssetObtainedInExchangeForLeaseLiability",
+                "unit": "usd",
+                "value": 11626000
+            },
+            {
+                "label": "Increase in asset retirement cost and asset retirement obligation",
+                "concept": "ora:NoncashTransferOfAssetRetirementObligations",
+                "unit": "usd",
+                "value": 8334000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 746044000
+            },
+            {
+                "label": "Cost of revenues",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 476721000
+            },
+            {
+                "label": "Gross profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 269323000
+            },
+            {
+                "label": "Research and development expenses",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 4647000
+            },
+            {
+                "label": "Selling and marketing expenses",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 15047000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 55833000
+            },
+            {
+                "label": "Impairment charge",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Write-off of unsuccessful exploration activities",
+                "concept": "ExplorationAbandonmentAndImpairmentExpense",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 193796000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 1515000
+            },
+            {
+                "label": "us-gaap_InterestExpenseOther",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 80384000
+            },
+            {
+                "label": "Derivatives and foreign currency transaction gains (losses)",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 624000
+            },
+            {
+                "label": "Income attributable to sale of tax benefits",
+                "concept": "EquityMethodInvestmentRealizedGainLossOnDisposal",
+                "unit": "usd",
+                "value": 20872000
+            },
+            {
+                "label": "Other non-operating income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 880000
+            },
+            {
+                "label": "Income from operations before income tax and equity in earnings (losses) of investees",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 137303000
+            },
+            {
+                "label": "us-gaap_IncomeTaxExpenseBenefit",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 45613000
+            },
+            {
+                "label": "Equity in earnings (losses) of investees, net",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1853000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 93543000
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAttributableToNoncontrollingInterest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5448000
+            },
+            {
+                "label": "us-gaap_NetIncomeLossAttributableToNoncontrollingInterest",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 88095000
+            },
+            {
+                "label": "Change in foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": -1810000
+            },
+            {
+                "label": "Change in unrealized gains or losses in respect of the Company's share in derivative instruments of unconsolidated investment",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": -3417000
+            },
+            {
+                "label": "Change in respect of derivative instruments designated for cash flow hedge",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 75000
+            },
+            {
+                "label": "us-gaap_OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": 31000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 88360000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5120000
+            },
+            {
+                "label": "us-gaap_ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 83240000
+            },
+            {
+                "label": "Weighted average number of shares used in computation of earnings per share attributable to the Company's stockholders:",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 1.73
+            },
+            {
+                "label": "Net income (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 1.72
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 50867000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 51227000
+            }
+        ]
+    }
+}

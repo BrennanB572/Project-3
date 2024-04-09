@@ -1,0 +1,753 @@
+{
+    "startDate": "2018-01-01",
+    "endDate": "2018-12-31",
+    "year": "2018",
+    "quarter": "FY",
+    "symbol": "PMT",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 59845000
+            },
+            {
+                "label": "Short-term investments at fair value",
+                "concept": "ShortTermInvestments",
+                "unit": "usd",
+                "value": 74850000
+            },
+            {
+                "label": "Mortgage-backed securities at fair value pledged to creditors",
+                "concept": "FinancialInstrumentsOwnedMortgagesMortgageBackedAndAssetBackedSecuritiesAtFairValue",
+                "unit": "usd",
+                "value": 2610422000
+            },
+            {
+                "label": "Mortgage loans acquired for sale at fair value (includes $1,621,879 and $1,249,277 pledged to creditors, respectively)",
+                "concept": "MortgagesHeldForSaleFairValueDisclosure",
+                "unit": "usd",
+                "value": 1643957000
+            },
+            {
+                "label": "Mortgage loans at fair value (includes $399,266 and $1,081,893 pledged to creditors, respectively)",
+                "concept": "MortgageLoansOnRealEstate",
+                "unit": "usd",
+                "value": 408305000
+            },
+            {
+                "label": "The balance represents the fair value of the contractual right to receive a portion of servicing fee revenue relating to MSRs.",
+                "concept": "pmt:ExcessSpreadInvestment",
+                "unit": "usd",
+                "value": 216110000
+            },
+            {
+                "label": "Derivative assets (includes $87,976 and $26,058 pledged to creditors, respectively)",
+                "concept": "DerivativeAssets",
+                "unit": "usd",
+                "value": 167165000
+            },
+            {
+                "label": "Represents the fair value of a firm commitment to purchase credit risk securities relating to mortgage loans delivered into such securities.",
+                "concept": "pmt:FirmCommitmentToPurchaseCreditRiskTransferSecuritiesAtFairValue",
+                "unit": "usd",
+                "value": 37994000
+            },
+            {
+                "label": "Real estate acquired in settlement of loans (includes $40,198 and $124,532 pledged to creditors, respectively)",
+                "concept": "RealEstateAcquiredThroughForeclosure",
+                "unit": "usd",
+                "value": 85681000
+            },
+            {
+                "label": "Real estate held for investment (includes $23,262 and $31,128 pledged to creditors, respectively)",
+                "concept": "RealEstateInvestments",
+                "unit": "usd",
+                "value": 43110000
+            },
+            {
+                "label": "Represents cash deposited to secure the company's obligation under credit risk transfer agreements.",
+                "concept": "pmt:DepositsSecuringCreditRiskTransferAgreements",
+                "unit": "usd",
+                "value": 1146501000
+            },
+            {
+                "label": "Mortgage servicing rights (includes $1,162,369 and $91,459 at fair value; $1,139,582 and $831,892 pledged to creditors)",
+                "concept": "ServicingAsset",
+                "unit": "usd",
+                "value": 1162369000
+            },
+            {
+                "label": "Advances made by a mortgage loan servicer to to meet contractual principal and interest remittance requirements for investors, pay property taxes and insurance premiums, legal expenses and other protective advances to maintain, repair and market real estate properties on behalf of investors.",
+                "concept": "pmt:ServicingAdvances",
+                "unit": "usd",
+                "value": 67666000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 85309000
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 7813361000
+            },
+            {
+                "label": "Assets sold under agreements to repurchase",
+                "concept": "AssetsSoldUnderAgreementsToRepurchaseRepurchaseLiability",
+                "unit": "usd",
+                "value": 4777027000
+            },
+            {
+                "label": "Borrowings secured by mortgage loans held for sale in the form of a mortgage loan participation purchase and sale agreement.",
+                "concept": "pmt:MortgageLoanParticipationPurchaseAndSaleAgreement",
+                "unit": "usd",
+                "value": 178639000
+            },
+            {
+                "label": "Exchangeable senior notes",
+                "concept": "ConvertibleDebt",
+                "unit": "usd",
+                "value": 248350000
+            },
+            {
+                "label": "Notes payable",
+                "concept": "NotesPayable",
+                "unit": "usd",
+                "value": 445573000
+            },
+            {
+                "label": "Asset-backed secured financing represents the amounts owed to nonaffiliates relating to the securitization of mortgage loans held in a variable interest entity.",
+                "concept": "pmt:AssetBackedSecuredFinancingLiabilityFairValue",
+                "unit": "usd",
+                "value": 276499000
+            },
+            {
+                "label": "Represents the fair value of interest-only strip securities classified as a liability.",
+                "concept": "pmt:InterestOnlySecurityPayableAtFairValue",
+                "unit": "usd",
+                "value": 36011000
+            },
+            {
+                "label": "Derivative liabilities",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 5914000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 70687000
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "AccruedIncomeTaxes",
+                "unit": "usd",
+                "value": 36526000
+            },
+            {
+                "label": "Represents the company's estimate of the losses it expects to incur in the future as a result of claims against it in connection with the representations and warranties it provide to the purchasers and insurers of the mortgage loans it sells.",
+                "concept": "pmt:RepresentationsAndWarrantiesLiability",
+                "unit": "usd",
+                "value": 7514000
+            },
+            {
+                "label": "LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 6247229000
+            },
+            {
+                "label": "Commitments and contingencies \u2500 Note 19",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Preferred shares of beneficial interest, $0.01 par value per share, authorized 100,000,000 shares, issued and outstanding 12,400,000 shares, liquidation preference $310,000,000",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 299707000
+            },
+            {
+                "label": "Common shares of beneficial interest\u2014authorized, 500,000,000 common shares of $0.01 par value; issued and outstanding, 60,951,444 and 61,334,087 common shares, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 610000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1285533000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -19718000
+            },
+            {
+                "label": "SHAREHOLDERS\u2019 EQUITY",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1566132000
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 7813361000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 152798000
+            },
+            {
+                "label": "Net change in fair value, amortization and impairment of mortgage servicing rights",
+                "concept": "MortgageServicingRightsMSRImpairmentRecovery",
+                "unit": "usd",
+                "value": 94330000
+            },
+            {
+                "label": "Net gain on mortgage loans acquired for sale",
+                "concept": "GainLossOnSalesOfLoansNet",
+                "unit": "usd",
+                "value": 59185000
+            },
+            {
+                "label": "Net gain (loss) on investments",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": 81926000
+            },
+            {
+                "label": "Accrual of interest on excess servicing spread purchased.",
+                "concept": "pmt:AccrualOfInterestOnExcessServicingSpreadPurchased",
+                "unit": "usd",
+                "value": 15138000
+            },
+            {
+                "label": "Capitalization of interest and fees on mortgage loans at fair value.",
+                "concept": "pmt:CapitalizationOfInterestAndFeesOnMortgageLoansAtFairValue",
+                "unit": "usd",
+                "value": 7439000
+            },
+            {
+                "label": "Amortization of debt issuance (premiums) and costs, net",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": -9323000
+            },
+            {
+                "label": "Accrual of unearned discounts and amortization of premiums on mortgage-backed securities, mortgage loans at fair value, and asset-backed financing of a VIE",
+                "concept": "AccretionAmortizationOfDiscountsAndPremiumsInvestments",
+                "unit": "usd",
+                "value": -5270000
+            },
+            {
+                "label": "This element represents the gain or loss on outcome of real estate acquired in settlement of loans through foreclosure proceedings or defeasance in full or partial satisfaction of a debt arrangement. This element also includes net gain (loss) resulting from adjusting carrying value to LOCOM.",
+                "concept": "pmt:NetResultsOfRealEstateAcquiredInSettlementOfLoans",
+                "unit": "usd",
+                "value": -8786000
+            },
+            {
+                "label": "Share-based compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 5318000
+            },
+            {
+                "label": "Payments to purchase mortgage loans held for sale non-affiliates.",
+                "concept": "pmt:PaymentsToPurchaseMortgageLoansHeldForSaleNonaffiliates",
+                "unit": "usd",
+                "value": 64671970000
+            },
+            {
+                "label": "Represents payments to purchase mortgage loans held for sale from an affiliate.",
+                "concept": "pmt:PaymentsToPurchaseMortgageLoansHeldForSaleAffiliates",
+                "unit": "usd",
+                "value": 3343028000
+            },
+            {
+                "label": "Cash outflow and inflow to repurchase mortgage loans previously sold and which are being repurchased due to a breach of the Company's breach of a representation or warranty under which the loan was sold.",
+                "concept": "pmt:ProceedsFromRepurchaseOfMortgageLoansSubjectToRepresentationAndWarranties",
+                "unit": "usd",
+                "value": -12208000
+            },
+            {
+                "label": "Sale to nonaffiliates and repayment of mortgage loans acquired for sale at fair value",
+                "concept": "ProceedsFromSaleOfMortgageLoansHeldForSale",
+                "unit": "usd",
+                "value": 29369656000
+            },
+            {
+                "label": "Unpaid principal balance of mortgage loans acquired for sale sold to an affiliate.",
+                "concept": "pmt:ProceedsFromSaleOfMortgageLoansHeldForSaleToAffiliates",
+                "unit": "usd",
+                "value": 37967724000
+            },
+            {
+                "label": "Proceeds from settlement of repurchase agreement derivatives.",
+                "concept": "pmt:ProceedsFromSettlementOfRepurchaseAgreementDerivatives",
+                "unit": "usd",
+                "value": 8964000
+            },
+            {
+                "label": "Increase (Decrease) in Servicing Advances",
+                "concept": "pmt:IncreaseDecreaseInServicingAdvances",
+                "unit": "usd",
+                "value": -20525000
+            },
+            {
+                "label": "(Increase) decrease in due from PennyMac Financial Services, Inc.",
+                "concept": "IncreaseDecreaseDueFromAffiliates",
+                "unit": "usd",
+                "value": 26000
+            },
+            {
+                "label": "(Increase) decrease in other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 23482000
+            },
+            {
+                "label": "Increase (decrease) in accounts payable and accrued liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 6400000
+            },
+            {
+                "label": "Increase (decrease) in due to PennyMac Financial Services, Inc.",
+                "concept": "IncreaseDecreaseInDueToAffiliates",
+                "unit": "usd",
+                "value": 6345000
+            },
+            {
+                "label": "Increase (decrease) in income taxes payable",
+                "concept": "IncreaseDecreaseInIncomeTaxes",
+                "unit": "usd",
+                "value": 3857000
+            },
+            {
+                "label": "Cash flows from operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -573752000
+            },
+            {
+                "label": "Net (increase) decrease in short-term investments",
+                "concept": "PaymentsForProceedsFromShortTermInvestments",
+                "unit": "usd",
+                "value": 56452000
+            },
+            {
+                "label": "Purchase of mortgage-backed securities at fair value",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 1810877000
+            },
+            {
+                "label": "Proceeds from sale and repayments of mortgage backed securities MBS at fair value.",
+                "concept": "pmt:ProceedsFromSaleAndRepaymentsOfMortgageBackedSecuritiesMbsAtFairValue",
+                "unit": "usd",
+                "value": 173862000
+            },
+            {
+                "label": "Sale to nonaffiliates and repayment of mortgage loans at fair value",
+                "concept": "ProceedsFromSaleAndCollectionOfLoansReceivable",
+                "unit": "usd",
+                "value": 622705000
+            },
+            {
+                "label": "Sale of mortgage loans at fair value to PennyMac Financial Services, Inc.",
+                "concept": "ProceedsFromSaleOfLoansReceivable",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Represents cash inflows from repayments of excess servicing spread Investment.",
+                "concept": "pmt:RepaymentsOfExcessServicingSpreadInvestment",
+                "unit": "usd",
+                "value": 46750000
+            },
+            {
+                "label": "Proceeds from sale of excess servicing spread.",
+                "concept": "pmt:ProceedsFromTheSaleOfExcessServicingSpread",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net settlement of derivative financial instruments",
+                "concept": "PaymentsForProceedsFromDerivativeInstrumentInvestingActivities",
+                "unit": "usd",
+                "value": 4863000
+            },
+            {
+                "label": "Amount represents the cash inflows from the sale of real estate acquired in settlement of mortgage loans.",
+                "concept": "pmt:ProceedsFromSaleOfRealEstateAcquiredInSettlementOfLoans",
+                "unit": "usd",
+                "value": 99194000
+            },
+            {
+                "label": "Contribution to deposits securing credit risk transfer agreements.",
+                "concept": "pmt:ContributionToDepositsSecuringCreditRiskTransferAgreements",
+                "unit": "usd",
+                "value": 596626000
+            },
+            {
+                "label": "Represents amounts received relating to investments in credit risk transfer agreements.",
+                "concept": "pmt:DistributionsFromCreditRiskTransferAgreements",
+                "unit": "usd",
+                "value": 125920000
+            },
+            {
+                "label": "Purchase of mortgage servicing rights",
+                "concept": "PaymentsToAcquireMortgageServicingRightsMSR",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Sale of mortgage servicing rights",
+                "concept": "ProceedsFromSaleOfMortgageServicingRightsMSR",
+                "unit": "usd",
+                "value": 100000
+            },
+            {
+                "label": "Increase decrease in margin deposits and restricted cash.",
+                "concept": "pmt:IncreaseDecreaseInMarginDepositsAndRestrictedCash",
+                "unit": "usd",
+                "value": 24005000
+            },
+            {
+                "label": "Purchase of Federal Home Loan Bank capital stock",
+                "concept": "PaymentsToAcquireFederalHomeLoanBankStock",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Redemption of Federal Home Loan Bank capital stock",
+                "concept": "ProceedsFromSaleOfFederalHomeLoanBankStock",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash flows from investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -1424292000
+            },
+            {
+                "label": "Proceeds from sale of assets under agreements to repurchase.",
+                "concept": "pmt:ProceedsFromSaleOfAssetsUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 85574226000
+            },
+            {
+                "label": "Repayments of Assets Sold Under Agreements to Repurchase",
+                "concept": "pmt:RepaymentsOfAssetsSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 83978547000
+            },
+            {
+                "label": "Proceeds from issuance of mortgage loan participation certificates.",
+                "concept": "pmt:ProceedsFromIssuanceOfMortgageLoanParticipationCertificates",
+                "unit": "usd",
+                "value": 7559680000
+            },
+            {
+                "label": "Represents cash outflows relating to the repayment of participation certificates. Participation certificates represent an undivided beneficial ownership interest in pools of mortgage loans that have been pooled with a government-sponsored enterprise, are sold to a lender pending the securitization of such mortgage loans and the sale of the resulting security. A commitment between the Company and a non-affiliate to sell such security is also assigned to the lender at the time a participation certificate is sold.",
+                "concept": "pmt:RepaymentsOfMortgageLoanParticipationCertificates",
+                "unit": "usd",
+                "value": 7425503000
+            },
+            {
+                "label": "Advance under notes payable",
+                "concept": "ProceedsFromIssuanceOfSecuredDebt",
+                "unit": "usd",
+                "value": 450000000
+            },
+            {
+                "label": "Repayment of notes payable",
+                "concept": "RepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Represents cash inflows from sale of asset-backed secured financing.",
+                "concept": "pmt:ProceedsFromSaleOfAssetBackedSecuredFinancing",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Repayment of asset-backed financing of a variable interest entity at fair value",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 21886000
+            },
+            {
+                "label": "Sale of assets to PennyMac Financial Services, Inc. under agreements to repurchase",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 2293000
+            },
+            {
+                "label": "Repurchase of assets sold to PennyMac Financial Services, Inc. under agreement to repurchase",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 15396000
+            },
+            {
+                "label": "Federal Home Loan Bank advances",
+                "concept": "ProceedsFromFederalHomeLoanBankAdvances",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Repayment of Federal Home Loan Bank advances",
+                "concept": "PaymentsForFederalHomeLoanBankAdvances",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Payment of debt issuance costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 13230000
+            },
+            {
+                "label": "Issuance of preferred shares",
+                "concept": "ProceedsFromIssuanceOfPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Payment of issuance costs related to preferred shares",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Payment of dividends to preferred shareholders",
+                "concept": "PaymentsOfDividendsPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 24944000
+            },
+            {
+                "label": "Payment of dividends to common shareholders",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 115596000
+            },
+            {
+                "label": "Repurchase of common shares",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 10719000
+            },
+            {
+                "label": "Represents payments of underwriting fees provided for in the Company's initial public offering payable contingent on the company satisfying certain performance measures over a specified period.",
+                "concept": "pmt:PaymentOfContingentUnderwritingFees",
+                "unit": "usd",
+                "value": 136000
+            },
+            {
+                "label": "Cash flows from financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1980242000
+            },
+            {
+                "label": "Net (decrease) increase in cash and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -17802000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net mortgage loan servicing fees",
+                "concept": "FeesAndCommissionsMortgageBankingAndServicing",
+                "unit": "usd",
+                "value": 120587000
+            },
+            {
+                "label": "Net gain on mortgage loans acquired for sale",
+                "concept": "GainLossOnSalesOfLoansNet",
+                "unit": "usd",
+                "value": 59185000
+            },
+            {
+                "label": "Fees charged to correspondent lenders and borrowers relating to the purchase or origination of mortgage loans.",
+                "concept": "pmt:LoanOriginationsFees",
+                "unit": "usd",
+                "value": 43321000
+            },
+            {
+                "label": "Net gain (loss) on investments",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": 81926000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 222772000
+            },
+            {
+                "label": "Interest expense:",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 175171000
+            },
+            {
+                "label": "Net interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 47601000
+            },
+            {
+                "label": "This element represents the gain or loss on outcome of real estate acquired in settlement of loans through foreclosure proceedings or defeasance in full or partial satisfaction of a debt arrangement. This element also includes net gain (loss) resulting from adjusting carrying value to LOCOM.",
+                "concept": "pmt:NetResultsOfRealEstateAcquiredInSettlementOfLoans",
+                "unit": "usd",
+                "value": -8786000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 7233000
+            },
+            {
+                "label": "Net investment income",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 351067000
+            },
+            {
+                "label": "The fees paid by the reporting entity to an affiliate for services performed in connection with the acquisition, packaging and sale of the reporting entity's mortgage loans.",
+                "concept": "pmt:LoanFulfillmentFeesPayableToAffiliate",
+                "unit": "usd",
+                "value": 81350000
+            },
+            {
+                "label": "Mortgage loan servicing fees",
+                "concept": "LoanPortfolioExpense",
+                "unit": "usd",
+                "value": 42045000
+            },
+            {
+                "label": "Management fees",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 24465000
+            },
+            {
+                "label": "The amount of expenses for mortgage loan collection and liquidation costs on distressed mortgage loans.",
+                "concept": "pmt:MortgageLoanCollectionAndLiquidationExpenses",
+                "unit": "usd",
+                "value": 7852000
+            },
+            {
+                "label": "Compensation",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 6781000
+            },
+            {
+                "label": "Mortgage loan origination",
+                "concept": "LoanProcessingFee",
+                "unit": "usd",
+                "value": 6562000
+            },
+            {
+                "label": "Professional services",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 6380000
+            },
+            {
+                "label": "Real estate held for investment expenses.",
+                "concept": "pmt:RealEstateHeldForInvestmentExpenses",
+                "unit": "usd",
+                "value": 6251000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherExpenses",
+                "unit": "usd",
+                "value": 11393000
+            },
+            {
+                "label": "Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 193079000
+            },
+            {
+                "label": "Income before provision for (benefit from) income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 157988000
+            },
+            {
+                "label": "Provision for (benefit from) income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 5190000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 152798000
+            },
+            {
+                "label": "Dividends on preferred shares",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 24938000
+            },
+            {
+                "label": "Net income after adjustments for dividends on preferred stock",
+                "concept": "pmt:NetIncomeLossAttributableToCommonStockholders",
+                "unit": "usd",
+                "value": 127860000
+            },
+            {
+                "label": "Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 2.09
+            },
+            {
+                "label": "Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 1.99
+            },
+            {
+                "label": "Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 60898000
+            },
+            {
+                "label": "Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 69365000
+            }
+        ]
+    }
+}

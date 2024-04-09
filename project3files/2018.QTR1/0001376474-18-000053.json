@@ -1,0 +1,135 @@
+{
+    "startDate": "2017-01-01",
+    "endDate": "2017-12-31",
+    "year": "2017",
+    "quarter": "FY",
+    "symbol": "REAL4",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 331000
+            },
+            {
+                "label": "Accounts Receivable - limited partners",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 356000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "OtherAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "General partners",
+                "concept": "GeneralPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 45000
+            },
+            {
+                "label": "Limited partners",
+                "concept": "LimitedPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 291000
+            },
+            {
+                "label": "Total partners' equity",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 336000
+            },
+            {
+                "label": "Total liabilities and partners' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 356000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss per limited partnership interest",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -104000
+            },
+            {
+                "label": "Change in accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInOtherAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -72000
+            },
+            {
+                "label": "Net decrease in cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -104000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Legal and accounting",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 40000
+            },
+            {
+                "label": "Operating expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 72000
+            },
+            {
+                "label": "Net loss per limited partnership interest",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -104000
+            },
+            {
+                "label": "Net loss allocated to general partners (1%)",
+                "concept": "NetIncomeLossAllocatedToGeneralPartners",
+                "unit": "usd",
+                "value": -1000
+            },
+            {
+                "label": "Net loss allocated to limited partners (99%)",
+                "concept": "NetIncomeLossAllocatedToLimitedPartners",
+                "unit": "usd",
+                "value": -103000
+            },
+            {
+                "label": "Net loss per limited partnership interest",
+                "concept": "NetIncomeLossPerOutstandingLimitedPartnershipUnitBasicNetOfTax",
+                "unit": "usd/shares",
+                "value": -7.92
+            }
+        ]
+    }
+}

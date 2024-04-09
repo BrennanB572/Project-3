@@ -1,0 +1,279 @@
+{
+    "startDate": "2019-07-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "LSACU",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 749211
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 95450
+            },
+            {
+                "label": "Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 844661
+            },
+            {
+                "label": "Investments held in Trust Account",
+                "concept": "LongTermInvestments",
+                "unit": "usd",
+                "value": 65665310
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 66509971
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 35200
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 512
+            },
+            {
+                "label": "Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 35712
+            },
+            {
+                "label": "Promissory note \u2013 related party",
+                "concept": "NotesPayableRelatedPartiesNoncurrent",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Deferred underwriting fee payable.",
+                "concept": "lsacu:DeferredUnderwritingFeePayable",
+                "unit": "usd",
+                "value": 2297319
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 3333031
+            },
+            {
+                "label": "Commitments",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock subject to possible redemption, 5,817,693 shares at $10.00 per share redemption value at March 31, 2020",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 58176930
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized; no shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.0001 par value; 30,000,000 shares authorized; 2,387,016 and 1,437,500 issued and outstanding (excluding 5,817,693 and -0- shares subject to possible redemption) at March 31, 2020 and June 30, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 239
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 5013217
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -13446
+            },
+            {
+                "label": "Stockholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000010
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 66509971
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -11996
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 27640
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 95450
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 33750
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 512
+            },
+            {
+                "label": "Cash Flows from Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -100824
+            },
+            {
+                "label": "Investment of cash in trust account.",
+                "concept": "lsacu:InvestmentOfCashInTrustAccount",
+                "unit": "usd",
+                "value": 65637670
+            },
+            {
+                "label": "Cash Flows from Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -65637670
+            },
+            {
+                "label": "Proceeds from sale of Units, net of underwriting discounts paid.",
+                "concept": "lsacu:ProceedsFromSaleOfUnitsNetOfUnderwritingDiscountsPaid",
+                "unit": "usd",
+                "value": 64574917
+            },
+            {
+                "label": "Proceeds from sale of Private Warrants",
+                "concept": "ProceedsFromIssuanceOfWarrants",
+                "unit": "usd",
+                "value": 1285000
+            },
+            {
+                "label": "Proceeds from promissory note \u2013 related party",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": 175000
+            },
+            {
+                "label": "Repayment of promissory note \u2013 related party",
+                "concept": "RepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": 175000
+            },
+            {
+                "label": "Proceeds from promissory note \u2013 related party",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Payment of offering costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 397212
+            },
+            {
+                "label": "Cash Flows from Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 66462705
+            },
+            {
+                "label": "Net Change in Cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 724211
+            },
+            {
+                "label": "Noncash or Part Noncash\u00a0Initial classification of common stock subject to possible redemption.",
+                "concept": "lsacu:NoncashOrPartNoncashInitialClassificationOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 58188310
+            },
+            {
+                "label": "Noncash or Part Noncash\u00a0Change in value of common stock subject to possible redemption.",
+                "concept": "lsacu:NoncashOrPartNoncashChangeInValueOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": -11380
+            },
+            {
+                "label": "Noncash or Part Noncash Deferred underwriting fee payable.",
+                "concept": "lsacu:NoncashOrPartNoncashDeferredUnderwritingFeePayable",
+                "unit": "usd",
+                "value": 2297319
+            }
+        ],
+        "ic": [
+            {
+                "label": "Operating costs",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 39124
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -39124
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 27640
+            },
+            {
+                "label": "Loss before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -11484
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 512
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -11996
+            }
+        ]
+    }
+}

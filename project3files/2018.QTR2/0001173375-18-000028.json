@@ -1,0 +1,405 @@
+{
+    "startDate": "2017-01-01",
+    "endDate": "2017-12-31",
+    "year": "2017",
+    "quarter": "FY",
+    "symbol": "REAC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash {1}",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 51396
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 461
+            },
+            {
+                "label": "Assets, Current {1}",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 51857
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 51857
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accrued Interest",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 14559
+            },
+            {
+                "label": "Accrued Salaries, Payroll Taxes and Penalties and Interest",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 853011
+            },
+            {
+                "label": "Derivative Instruments and Hedges, Liabilities",
+                "concept": "DerivativeInstrumentsAndHedgesLiabilities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Due to principle shareholder, related party",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 47
+            },
+            {
+                "label": "Notes payable to principal shareholder",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Convertible notes payable, (net of debt discount of $14,648 and $0, respectively)",
+                "concept": "ConvertibleNotesPayableCurrent",
+                "unit": "usd",
+                "value": 350073
+            },
+            {
+                "label": "Liabilities, Current",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1252736
+            },
+            {
+                "label": "Liabilities and Equity {1}",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1252736
+            },
+            {
+                "label": "Commitments and Contingencies (Note 12)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Preferred Stock, Series A $0.0001 par value, 500,000 shares authorized; 50,935 and 50,935 shares issued and outstanding, respectively",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 5
+            },
+            {
+                "label": "Common stock, $0.00001 par value, 99,000,000 shares authorized; 93,642,790 and 47,988,085 shares (shares retroactively restated for reverse stock split of 1:10,000 on July 15, 2016) issued and outstading",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 936
+            },
+            {
+                "label": "Additional Paid in Capital, Common Stock",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 21482249
+            },
+            {
+                "label": "Accumulated Deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -22684069
+            },
+            {
+                "label": "Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -1200879
+            },
+            {
+                "label": "Liabilities and Equity {1}",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 51857
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss) {1}",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -822873
+            },
+            {
+                "label": "Share Based Compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1032000
+            },
+            {
+                "label": "In Kind Contribution of Rent",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 1200
+            },
+            {
+                "label": "Gain in Write-Off of Derivative Liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -1232164
+            },
+            {
+                "label": "ImpaIrment of Asset (Investment)",
+                "concept": "GainLossOnSalesOfAssetsAndAssetImpairmentCharges",
+                "unit": "usd",
+                "value": 162000
+            },
+            {
+                "label": "Amortization of Debt Discounts and Financing Costs",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 266011
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": -46466
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Interest",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": -28837
+            },
+            {
+                "label": "Due To Principal Shareholder",
+                "concept": "IncreaseDecreaseInDueToOfficersAndStockholders",
+                "unit": "usd",
+                "value": -90104
+            },
+            {
+                "label": "Adjustments to Reconcile Net Income (Loss) to Cash Provided by (Used in) Operating Activities",
+                "concept": "AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 519664
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -303209
+            },
+            {
+                "label": "Investment in Patriot",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": -19500
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities {1}",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -19500
+            },
+            {
+                "label": "Proceeds from Related Party Debt {1}",
+                "concept": "ProceedsFromRepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 39000
+            },
+            {
+                "label": "Repayments of Related Party Debt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": -70250
+            },
+            {
+                "label": "Proceeds from Convertible Notes Payable",
+                "concept": "ProceedsFromConvertibleDebt",
+                "unit": "usd",
+                "value": 400250
+            },
+            {
+                "label": "Proceeds from Issuance of Common Stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 374000
+            },
+            {
+                "label": "Cash and Cash Equivalents, Period Increase (Decrease)",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 51291
+            },
+            {
+                "label": "Common Stock issued for conversion of debt and interest",
+                "concept": "ConversionOfStockAmountConverted1",
+                "unit": "usd",
+                "value": 242907
+            }
+        ],
+        "ic": [
+            {
+                "label": "Compensation",
+                "concept": "SalariesAndWages",
+                "unit": "usd",
+                "value": 1016013
+            },
+            {
+                "label": "Professional",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 154994
+            },
+            {
+                "label": "Rents and overhead",
+                "concept": "LeaseAndRentalExpense",
+                "unit": "usd",
+                "value": 1200
+            },
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 64183
+            },
+            {
+                "label": "Operating Expenses {1}",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 1236390
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -1236390
+            },
+            {
+                "label": "Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": -259175
+            },
+            {
+                "label": "Change in fair value of derivative liability",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": -526070
+            },
+            {
+                "label": "Gains (Losses) on Extinguishment of Debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -128598
+            },
+            {
+                "label": "Impairment of asset",
+                "concept": "AssetImpairmentCharges",
+                "unit": "usd",
+                "value": -162000
+            },
+            {
+                "label": "Interest and Debt Expense",
+                "concept": "InterestAndDebtExpense",
+                "unit": "usd",
+                "value": 413517
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest {1}",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -822873
+            },
+            {
+                "label": "Net Income (Loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -822873
+            },
+            {
+                "label": "Loss Per Share, Basic and Diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic and Diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 61713363
+            },
+            {
+                "label": "Stock Issued During Period, Value, New Issue for Cash",
+                "concept": "StockIssuedDuringPeriodValueNewIssues",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Stock Issued During Period, Value, Share-based Compensation",
+                "concept": "StockIssuedDuringPeriodValueShareBasedCompensation",
+                "unit": "usd",
+                "value": 932000
+            },
+            {
+                "label": "Stock Issued During Period, Value, Issued for Services",
+                "concept": "StockIssuedDuringPeriodValueIssuedForServices",
+                "unit": "usd",
+                "value": 100000
+            },
+            {
+                "label": "Stock Issued During Period, Value, Acquisitions",
+                "concept": "StockIssuedDuringPeriodValueAcquisitions",
+                "unit": "usd",
+                "value": 142500
+            },
+            {
+                "label": "Stock Issued During Period, Value, Conversion of Debt and Interest",
+                "concept": "StockIssuedDuringPeriodValueConversionOfConvertibleSecuritiesNetOfAdjustments",
+                "unit": "usd",
+                "value": 88323
+            },
+            {
+                "label": "Stock Issued During Period, Value, in Exchange for Cancellation of Common Stock and Forgiveness of Debt",
+                "concept": "StockIssuedDuringPeriodValueOther",
+                "unit": "usd",
+                "value": 63415
+            },
+            {
+                "label": "Stock Cancelled, Value",
+                "concept": "StockRepurchasedAndRetiredDuringPeriodValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Discounts on convertible debt and warrants",
+                "concept": "AdjustmentsToAdditionalPaidInCapitalConvertibleDebtWithConversionFeature",
+                "unit": "usd",
+                "value": 122326
+            },
+            {
+                "label": "Adjustments to Additional Paid in Capital, In kind Contribution of Rent",
+                "concept": "AdjustmentsToAdditionalPaidInCapitalOther",
+                "unit": "usd",
+                "value": 1200
+            },
+            {
+                "label": "Net Income (Loss) {1}",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -822873
+            }
+        ]
+    }
+}

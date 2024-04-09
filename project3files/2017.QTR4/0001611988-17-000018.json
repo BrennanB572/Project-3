@@ -1,0 +1,645 @@
+{
+    "startDate": "2017-01-01",
+    "endDate": "2017-09-30",
+    "year": "2017",
+    "quarter": "Q3",
+    "symbol": "FSAM",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash, beginning of period",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 5742975
+            },
+            {
+                "label": "Insurance recovery receivable",
+                "concept": "InsuranceSettlementsReceivable",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Escrow receivable related to sale of CLO Management",
+                "concept": "EscrowDeposit",
+                "unit": "usd",
+                "value": 2600000
+            },
+            {
+                "label": "Prepaid expenses (includes $418,300 and $620,794 related to income taxes as of September 30, 2017 and December 31, 2016, respectively)",
+                "concept": "PrepaidExpenseCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1586792
+            },
+            {
+                "label": "Investments in Equity Method Investees",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 59697562
+            },
+            {
+                "label": "Due from affiliates",
+                "concept": "DueFromAffiliates",
+                "unit": "usd",
+                "value": 2459308
+            },
+            {
+                "label": "Fixed assets, net book value",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 378802
+            },
+            {
+                "label": "Deferred tax assets",
+                "concept": "DeferredTaxAssetsLiabilitiesNet",
+                "unit": "usd",
+                "value": 57113514
+            },
+            {
+                "label": "Deferred financing costs",
+                "concept": "DeferredFinanceCostsNet",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Other Assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 3072622
+            },
+            {
+                "label": "Fair Value",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 141637850
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 14477440
+            },
+            {
+                "label": "Accrued compensation and benefits",
+                "concept": "EmployeeRelatedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 11167520
+            },
+            {
+                "label": "Reserve for expenses reimbursable to affiliates",
+                "concept": "LitigationReserve",
+                "unit": "usd",
+                "value": 3732920
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "AccruedIncomeTaxes",
+                "unit": "usd",
+                "value": 33693
+            },
+            {
+                "label": "Loan payable - DECD loan",
+                "concept": "LoansPayable",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Lease abandonment costs incurred",
+                "concept": "LossContingencyAccrualAtCarryingValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Line of Credit Facility [Table]",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 91551600
+            },
+            {
+                "label": "Dividends payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 744768
+            },
+            {
+                "label": "Deferred rent liability",
+                "concept": "DeferredRentCredit",
+                "unit": "usd",
+                "value": 1927941
+            },
+            {
+                "label": "Total",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 175146000
+            },
+            {
+                "label": "Commitments and Contingencies Disclosure [Abstract]",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.01 par value; 5,000,000 shares authorized; none issued and outstanding as of September 30, 2017 and December 31, 2016",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Additional Paid-in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 6499818
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -11161721
+            },
+            {
+                "label": "Beginning balance",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -4162551
+            },
+            {
+                "label": "Distributions to Holdings Limited Partners/members",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": -29345599
+            },
+            {
+                "label": "Beginning balance",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -33508150
+            },
+            {
+                "label": "Liabilities and Equity (Deficit)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 141637850
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss from continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -21140704
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 765335
+            },
+            {
+                "label": "Amortization of fractional interests in aircrafts",
+                "concept": "fsam:AmortizationofAircraftUsage",
+                "unit": "usd",
+                "value": 212320
+            },
+            {
+                "label": "Realized gain on sale of CLO Management",
+                "concept": "AvailableForSaleSecuritiesGrossRealizedGainLossNet",
+                "unit": "usd",
+                "value": 4642815
+            },
+            {
+                "label": "Fourth Anniversary",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1740859
+            },
+            {
+                "label": "Write-off of MMKT capitalized software costs",
+                "concept": "CapitalizedComputerSoftwareImpairments1",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Unrealized gain on beneficial interests in CLOs",
+                "concept": "AvailableforsaleSecuritiesGrossUnrealizedGainLoss1",
+                "unit": "usd",
+                "value": 983434
+            },
+            {
+                "label": "Distributions of earnings from equity method investments",
+                "concept": "EquityMethodInvestmentDividendsOrDistributions",
+                "unit": "usd",
+                "value": 1017458
+            },
+            {
+                "label": "Interest income accreted on beneficial interest in CLOs",
+                "concept": "AccretionAmortizationOfDiscountsAndPremiumsInvestments",
+                "unit": "usd",
+                "value": 725321
+            },
+            {
+                "label": "Loss on impairment of fixed assets",
+                "concept": "ImpairmentOfLongLivedAssetsHeldForUse",
+                "unit": "usd",
+                "value": 4252700
+            },
+            {
+                "label": "Deferred taxes",
+                "concept": "DeferredIncomeTaxesAndTaxCredits",
+                "unit": "usd",
+                "value": 15900832
+            },
+            {
+                "label": "Deferred rent",
+                "concept": "IncreaseDecreaseInPrepaidRent",
+                "unit": "usd",
+                "value": 151413
+            },
+            {
+                "label": "Realized gain on settlement of MMKT Notes",
+                "concept": "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityGainLossIncludedInEarnings",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Loss on lease abandonment",
+                "concept": "fsam:LossonAbandonmentofLeaseAgreement",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Gain on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Adjustment of TRA liability",
+                "concept": "fsam:IncreaseDecreaseInContractualLiability",
+                "unit": "usd",
+                "value": -12515818
+            },
+            {
+                "label": "(Income) loss from equity method investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -2016009
+            },
+            {
+                "label": "Escrow receivable related to sale of CLO Management",
+                "concept": "IncreaseDecreaseInDepositsOutstanding",
+                "unit": "usd",
+                "value": 2600000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": -486601
+            },
+            {
+                "label": "Due from affiliates",
+                "concept": "IncreaseDecreaseDueFromAffiliates",
+                "unit": "usd",
+                "value": -408119
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherCurrentAssets",
+                "unit": "usd",
+                "value": -70130
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 4216929
+            },
+            {
+                "label": "Accrued compensation and benefits",
+                "concept": "IncreaseDecreaseInEmployeeRelatedLiabilities",
+                "unit": "usd",
+                "value": -1348977
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": -190001
+            },
+            {
+                "label": "Net cash provided by (used in) continuing operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -12674685
+            },
+            {
+                "label": "Net cash provided by discontinued operating activities",
+                "concept": "CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": 17834248
+            },
+            {
+                "label": "Cash flows from operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 5159563
+            },
+            {
+                "label": "Purchases of fixed assets",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 52505
+            },
+            {
+                "label": "Purchases of equity method investments",
+                "concept": "PaymentsToAcquireEquityMethodInvestments",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Redemptions of equity method investments - FSOF",
+                "concept": "ProceedsFromSaleOfEquityMethodInvestments",
+                "unit": "usd",
+                "value": 666563
+            },
+            {
+                "label": "Distributions from equity method investments - FSC and FSFR common stock",
+                "concept": "ProceedsFromEquityMethodInvestmentDividendsOrDistributionsReturnOfCapital",
+                "unit": "usd",
+                "value": 2902592
+            },
+            {
+                "label": "Proceeds from sale of CLO Management",
+                "concept": "ProceedsFromDivestitureOfBusinessesAndInterestsInAffiliates",
+                "unit": "usd",
+                "value": 16534067
+            },
+            {
+                "label": "Cash flows from investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 20050717
+            },
+            {
+                "label": "Proceeds from borrowings under credit facility",
+                "concept": "ProceedsFromLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Repayments under credit facility",
+                "concept": "RepaymentsOfLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 9850000
+            },
+            {
+                "label": "Deferred financing costs paid",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 372821
+            },
+            {
+                "label": "Repayments of notes payable",
+                "concept": "RepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash flows from financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -26194390
+            },
+            {
+                "label": "Net decrease in cash",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -984110
+            },
+            {
+                "label": "Cash paid during the period for interest",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 3789461
+            },
+            {
+                "label": "Cash paid during the period for income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 190001
+            },
+            {
+                "label": "Non-cash contribution to FSOF",
+                "concept": "fsam:NoncashInvestingActivitiesContributions",
+                "unit": "usd",
+                "value": 123300
+            },
+            {
+                "label": "Non-cash distribution from FSOF",
+                "concept": "fsam:NoncashInvestingActivitiesDistributions",
+                "unit": "usd",
+                "value": 123300
+            },
+            {
+                "label": "Accrued dividends",
+                "concept": "fsam:AccrualofDividendsPayable",
+                "unit": "usd",
+                "value": 744768
+            },
+            {
+                "label": "Deemed capital contribution",
+                "concept": "fsam:NoncashFinancingActivitiesCapitalContributions",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash settlement value",
+                "concept": "StockIssuedDuringPeriodValueConversionOfConvertibleSecurities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Assumed liabilities in connection with sale of CLO Management",
+                "concept": "fsam:NoncashorPartNoncashDivestitureValueOfLiabilitiesAssumed",
+                "unit": "usd",
+                "value": 12972565
+            },
+            {
+                "label": "Increase in deferred tax assets as a result of exchange of Holdings LP Interests",
+                "concept": "fsam:IncreaseInDeferredTaxAssetsExchangeOfInterestsNoncashFinancingActivities",
+                "unit": "usd",
+                "value": 30599203
+            },
+            {
+                "label": "Increase in amounts payable to related parties pursuant to tax receivable agreement",
+                "concept": "fsam:IncreaseInPayablesToRelatedPartiesPursuantToTRANoncashFinancingActivities",
+                "unit": "usd",
+                "value": 26009323
+            }
+        ],
+        "ic": [
+            {
+                "label": "Management fees",
+                "concept": "AssetManagementFees1",
+                "unit": "usd",
+                "value": 922187
+            },
+            {
+                "label": "Performance fees",
+                "concept": "PerformanceFees",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Other fees",
+                "concept": "FeesAndCommissionsOther",
+                "unit": "usd",
+                "value": 7336
+            },
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 929523
+            },
+            {
+                "label": "Compensation and benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 8666014
+            },
+            {
+                "label": "General, administrative and other expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 8829906
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAmortizationAndAccretionNet",
+                "unit": "usd",
+                "value": 977655
+            },
+            {
+                "label": "Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 18473575
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 725340
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 344062
+            },
+            {
+                "label": "Income (loss) from equity method investments",
+                "concept": "fsam:IncomeLossfromEquityMethodInvestments1",
+                "unit": "usd",
+                "value": -2016009
+            },
+            {
+                "label": "Unrealized loss on MMKT Notes",
+                "concept": "UnrealizedGainLossOnSecurities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Realized gain on settlement of MMKT Notes",
+                "concept": "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityGainLossIncludedInEarnings",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Unrealized gain on beneficial interests in CLOs",
+                "concept": "AvailableforsaleSecuritiesGrossUnrealizedGainLoss1",
+                "unit": "usd",
+                "value": 983434
+            },
+            {
+                "label": "Gain on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Gain on sale of CLO Management",
+                "concept": "GainLossOnSaleOfBusiness",
+                "unit": "usd",
+                "value": 4642815
+            },
+            {
+                "label": "Adjustment of TRA liability",
+                "concept": "fsam:IncomeLossFromChangeinEnactedTaxRates",
+                "unit": "usd",
+                "value": 12515818
+            },
+            {
+                "label": "Loss on impairment of fixed assets",
+                "concept": "TangibleAssetImpairmentCharges",
+                "unit": "usd",
+                "value": 4252700
+            },
+            {
+                "label": "Other income (expense)",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total other income (expense), net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 12254636
+            },
+            {
+                "label": "Income (loss) from continuing operations before provision for income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -5289416
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 15851288
+            },
+            {
+                "label": "Net loss from continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -21140704
+            },
+            {
+                "label": "Net income (loss) from discontinued operations, net of tax",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTax",
+                "unit": "usd",
+                "value": -1727678
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -22868382
+            },
+            {
+                "label": "Net (income) loss attributable to non-controlling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -13432722
+            },
+            {
+                "label": "Net (income) loss attributable to non-controlling interests",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -9435660
+            }
+        ]
+    }
+}

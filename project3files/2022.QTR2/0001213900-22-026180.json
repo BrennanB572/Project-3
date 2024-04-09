@@ -1,0 +1,339 @@
+{
+    "startDate": "2022-01-01",
+    "endDate": "2022-03-31",
+    "year": "2022",
+    "quarter": "Q3",
+    "symbol": "BDRY",
+    "data": {
+        "bs": [
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 78952754
+            },
+            {
+                "label": "Receivable for fund shares sold",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 16356505
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 2385
+            },
+            {
+                "label": "Investment in securities, at fair value",
+                "concept": "bdry:InvestmentInSecuritiesAtFairValue",
+                "unit": "usd",
+                "value": 17462227
+            },
+            {
+                "label": "Market value per share (in Dollars per share)",
+                "concept": "bdry:MarketValuePerShare",
+                "unit": "usd/shares",
+                "value": 24.18
+            },
+            {
+                "label": "Shares outstanding (unlimited authorized) (in Shares)",
+                "concept": "bdry:SharesOutstandingunlimitedAuthorized",
+                "unit": "shares",
+                "value": 3275040
+            },
+            {
+                "label": "Segregated cash held by broker",
+                "concept": "CashSegregatedUnderOtherRegulations",
+                "unit": "usd",
+                "value": 41781033
+            },
+            {
+                "label": "Receivable on open futures contracts",
+                "concept": "bdry:OpenFuturesContractsReceivable",
+                "unit": "usd",
+                "value": 3348980
+            },
+            {
+                "label": "Due to Sponsor",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 202094
+            },
+            {
+                "label": "Net asset value per share (in Dollars per share)",
+                "concept": "NetAssetValuePerShare",
+                "unit": "usd/shares",
+                "value": 24.03
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 239788
+            }
+        ],
+        "cf": [
+            {
+                "label": "Sale (Purchase) of investments, net",
+                "concept": "bdry:IncreaseDecreaseOfRestrictedInvestment",
+                "unit": "usd",
+                "value": 3611347
+            },
+            {
+                "label": "Proceeds from sale of shares",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 115135238
+            },
+            {
+                "label": "Increase (decrease) in due to Sponsor",
+                "concept": "bdry:IncreaseDecreaseInDueToSponsor",
+                "unit": "usd",
+                "value": 32977
+            },
+            {
+                "label": "Decrease in prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": -21686
+            },
+            {
+                "label": "Net cash provided by (used in) operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 8682313
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -24073551
+            },
+            {
+                "label": "Change in net unrealized loss (gain) on investments",
+                "concept": "bdry:IncreaseDecreaseInNetUnrealizedLossGainOnInvestments",
+                "unit": "usd",
+                "value": 29790605
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -11290635
+            },
+            {
+                "label": "Increase in interest receivable",
+                "concept": "IncreaseDecreaseInAccruedInterestReceivableNet",
+                "unit": "usd",
+                "value": 1181
+            },
+            {
+                "label": "Decrease in receivable on open futures contracts",
+                "concept": "bdry:IncreaseInReceivableOnOpenFuturesContracts",
+                "unit": "usd",
+                "value": 18374590
+            },
+            {
+                "label": "Increase in Due to Custodian",
+                "concept": "bdry:IncreaseDecreaseInTransferAgentAndCustodianFees",
+                "unit": "usd",
+                "value": 5651233
+            },
+            {
+                "label": "Net increase (decrease) in cash and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -2608322
+            },
+            {
+                "label": "Increase in receivable for Fund shares sold",
+                "concept": "IncreaseDecreaseInReceivables",
+                "unit": "usd",
+                "value": 16356505
+            },
+            {
+                "label": "Total cash and restricted cash as shown on the statement of cash flows",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 41781033
+            },
+            {
+                "label": "Net realized loss (gain) on investments",
+                "concept": "RealizedInvestmentGainsLosses",
+                "unit": "usd",
+                "value": 8210121
+            }
+        ],
+        "ic": [
+            {
+                "label": "Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 1846
+            },
+            {
+                "label": "Legal fees",
+                "concept": "LegalFees",
+                "unit": "usd",
+                "value": 11096
+            },
+            {
+                "label": "Audit fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 21600
+            },
+            {
+                "label": "Sponsor fee",
+                "concept": "SponsorFees",
+                "unit": "usd",
+                "value": 30823
+            },
+            {
+                "label": "Net Investment Income (Loss)",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": -743302
+            },
+            {
+                "label": "Marketing expenses",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 5956
+            },
+            {
+                "label": "Less: Waiver of CTA fee",
+                "concept": "bdry:WaiverOfCommodityTradingAdvisorFees",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Regulatory reporting fees",
+                "concept": "bdry:RegulatoryReportingFees",
+                "unit": "usd",
+                "value": 6164
+            },
+            {
+                "label": "Insurance expense",
+                "concept": "GeneralInsuranceExpense",
+                "unit": "usd",
+                "value": 3699
+            },
+            {
+                "label": "Amortization of Offering Costs",
+                "concept": "bdry:AmortizationOfOfferingCosts",
+                "unit": "usd",
+                "value": 7150
+            },
+            {
+                "label": "NJ Filing fees",
+                "concept": "ClearanceFees",
+                "unit": "usd",
+                "value": 102034
+            },
+            {
+                "label": "Admin/accounting/custodian/transfer agent fees",
+                "concept": "NoninterestExpenseTransferAgentAndCustodianFees",
+                "unit": "usd",
+                "value": 15930
+            },
+            {
+                "label": "Distribution fees",
+                "concept": "ExpenseRelatedToDistributionOrServicingAndUnderwritingFees",
+                "unit": "usd",
+                "value": 3873
+            },
+            {
+                "label": "Net realized and unrealized gain (loss)",
+                "concept": "UnrealizedGainLossOnDerivativesAndCommodityContracts",
+                "unit": "usd",
+                "value": -21448154
+            },
+            {
+                "label": "Net Expenses",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -745148
+            },
+            {
+                "label": "Brokerage commissions",
+                "concept": "NoninterestExpenseCommissionExpense",
+                "unit": "usd",
+                "value": 140833
+            },
+            {
+                "label": "Wholesale support fees",
+                "concept": "bdry:WholesaleSupportFees",
+                "unit": "usd",
+                "value": 24195
+            },
+            {
+                "label": "Other expenses",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 3312
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -22191456
+            },
+            {
+                "label": "Principal Financial Officer fees",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 6164
+            },
+            {
+                "label": "Investments, futures and options contracts",
+                "concept": "GainLossOnSaleOfDerivatives",
+                "unit": "usd",
+                "value": -10253439
+            },
+            {
+                "label": "Tax preparation fees",
+                "concept": "TaxesOther",
+                "unit": "usd",
+                "value": 89979
+            },
+            {
+                "label": "CTA fee",
+                "concept": "bdry:CommodityTradingAdvisorFee",
+                "unit": "usd",
+                "value": 217886
+            },
+            {
+                "label": "Printing and Postage",
+                "concept": "PostageExpense",
+                "unit": "usd",
+                "value": 2605
+            },
+            {
+                "label": "Listing and calculation agent fees",
+                "concept": "bdry:ListingAndCalculationAgentFees",
+                "unit": "usd",
+                "value": 2515
+            },
+            {
+                "label": "Website Support and Marketing Materials",
+                "concept": "OtherSellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 3699
+            },
+            {
+                "label": "Chief Compliance Officer fees",
+                "concept": "NoninterestExpenseDirectorsFees",
+                "unit": "usd",
+                "value": 6164
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 39471
+            }
+        ]
+    }
+}

@@ -1,0 +1,531 @@
+{
+    "startDate": "2018-01-01",
+    "endDate": "2018-09-30",
+    "year": "2018",
+    "quarter": "Q3",
+    "symbol": "MFA",
+    "data": {
+        "bs": [
+            {
+                "label": "Available-for-sale securities",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 6779045000
+            },
+            {
+                "label": "Mortgage servicing rights (\u201cMSR\u201d) related assets ($565,272 and $482,158 pledged as collateral, respectively)",
+                "concept": "ServicingAssetAtFairValueAmount",
+                "unit": "usd",
+                "value": 565272000
+            },
+            {
+                "label": "Total Residential whole loans, at carrying value",
+                "concept": "mfa:ResidentialWholeLoansCarryingValue",
+                "unit": "usd",
+                "value": 2471567000
+            },
+            {
+                "label": "Residential whole loans, at fair value",
+                "concept": "CertainLoansAcquiredInTransferNotAccountedForAsDebtSecuritiesAcquiredDuringPeriodAtAcquisitionAtFairValue",
+                "unit": "usd",
+                "value": 1449365000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 104186000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 6489000
+            },
+            {
+                "label": "Other Assets [Abstract]",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 406069000
+            },
+            {
+                "label": "Assets Sold under Agreements to Repurchase [Line Items]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 11781993000
+            },
+            {
+                "label": "Repurchase agreements",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 7278270000
+            },
+            {
+                "label": "Other Liabilities [Abstract]",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 951483000
+            },
+            {
+                "label": "Liabilities:",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 8229753000
+            },
+            {
+                "label": "Commitments and Contingencies Disclosure [Abstract]",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $.01 par value; 7.50% Series B cumulative redeemable; 8,050 shares authorized; 8,000 shares issued and outstanding ($200,000 aggregate liquidation preference)",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 80000
+            },
+            {
+                "label": "Common stock, $.01 par value; 886,950 shares authorized; 449,472 and 397,831 shares issued and outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 4495000
+            },
+            {
+                "label": "Additional Paid-in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 3620268000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -598971000
+            },
+            {
+                "label": "Accumulated Other Comprehensive Income/(Loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 526368000
+            },
+            {
+                "label": "Comprehensive Income/(Loss)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 3552240000
+            },
+            {
+                "label": "Total Liabilities and Stockholders\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 11781993000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 240922000
+            },
+            {
+                "label": "Gain on sales of MBS, CRT securities and U.S. Treasury securities",
+                "concept": "DebtSecuritiesGainLoss",
+                "unit": "usd",
+                "value": 32661000
+            },
+            {
+                "label": "Gains/(losses) on sales of real estate owned",
+                "concept": "GainsLossesOnSalesOfOtherRealEstate",
+                "unit": "usd",
+                "value": 6600000
+            },
+            {
+                "label": "Gain on liquidation of residential whole loans",
+                "concept": "mfa:GainonLiquidationofResidentialWholeLoans",
+                "unit": "usd",
+                "value": 18598000
+            },
+            {
+                "label": "OTTI recognized in earnings",
+                "concept": "OtherThanTemporaryImpairmentLossDebtSecuritiesPortionRecognizedInEarnings",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accretion of purchase discounts on MBS and CRT securities, residential whole loans and MSR related assets",
+                "concept": "mfa:AccretionofPurchaseDiscounts",
+                "unit": "usd",
+                "value": 64211000
+            },
+            {
+                "label": "Amortization of purchase premiums on MBS, CRT securities, and residential whole loans",
+                "concept": "mfa:AmortizationOfPurchasePremiums",
+                "unit": "usd",
+                "value": 21141000
+            },
+            {
+                "label": "Depreciation and amortization on real estate, fixed assets and other assets",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 1354000
+            },
+            {
+                "label": "Equity Award [Domain]",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 3891000
+            },
+            {
+                "label": "Unrealized gain on residential whole loans at fair value",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": 26788000
+            },
+            {
+                "label": "Unrealized losses/(gains) on MBS and CRT securities",
+                "concept": "mfa:UnrealizedLossesGainsonSecuritiesHeldAtFairValueandSwapsNotDesignatedasHedges",
+                "unit": "usd",
+                "value": -2767000
+            },
+            {
+                "label": "(Increase)/decrease in other assets and other",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 31018000
+            },
+            {
+                "label": "Increase/(decrease) in other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 33000
+            },
+            {
+                "label": "Cash Flows From Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 90250000
+            },
+            {
+                "label": "Principal payments on MBS, CRT securities and MSR related assets",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfOtherInvestments",
+                "unit": "usd",
+                "value": 1797012000
+            },
+            {
+                "label": "Proceeds from sales of MBS, CRT securities and U.S. Treasury securities",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 341589000
+            },
+            {
+                "label": "Purchases of MBS, CRT securities, MSR related assets and U.S. Treasury securities",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": 2021914000
+            },
+            {
+                "label": "Purchases of residential whole loans and capitalized advances",
+                "concept": "PaymentsToAcquireLoansHeldForInvestment",
+                "unit": "usd",
+                "value": 2158105000
+            },
+            {
+                "label": "Principal payments on residential whole loans",
+                "concept": "ProceedsFromPrincipalRepaymentsOnLoansAndLeasesHeldForInvestment",
+                "unit": "usd",
+                "value": 345917000
+            },
+            {
+                "label": "Proceeds from sales of real estate owned",
+                "concept": "mfa:ProceedsFromRealEstateOwned",
+                "unit": "usd",
+                "value": 93635000
+            },
+            {
+                "label": "Purchases of real estate owned and capital improvements",
+                "concept": "PaymentsToAcquireOtherRealEstate",
+                "unit": "usd",
+                "value": 10179000
+            },
+            {
+                "label": "Redemption of Federal Home Loan Bank stock",
+                "concept": "ProceedsFromSaleOfFederalHomeLoanBankStock",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Additions to leasehold improvements, furniture and fixtures",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 1009000
+            },
+            {
+                "label": "Cash Flows From Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -1613054000
+            },
+            {
+                "label": "Principal payments on repurchase agreements and other advances",
+                "concept": "mfa:PrincipalPaymentsonSecuritiesSoldunderAgreementstoRepurchaseandOtherAdvances",
+                "unit": "usd",
+                "value": 48988034000
+            },
+            {
+                "label": "Proceeds from borrowings under repurchase agreements",
+                "concept": "mfa:ProceedsfromSecuritiesSoldunderAgreementstoRepurchase",
+                "unit": "usd",
+                "value": 49651416000
+            },
+            {
+                "label": "Proceeds from issuance of securitized debt",
+                "concept": "mfa:ProceedsFromIssuanceOfSecuritizedDebt",
+                "unit": "usd",
+                "value": 419970000
+            },
+            {
+                "label": "Principal payments on securitized debt",
+                "concept": "RepaymentsOfOtherDebt",
+                "unit": "usd",
+                "value": 67945000
+            },
+            {
+                "label": "Payments made for securitization related costs",
+                "concept": "mfa:PaymentsMadeforSecurizationRelatedCost",
+                "unit": "usd",
+                "value": 2472000
+            },
+            {
+                "label": "Payments made for settlements on interest rate swap agreements (\u201cSwaps\u201d)",
+                "concept": "mfa:PaymentsMadeForMarginCallsOnRepurchaseAgreementsAndDerivatives",
+                "unit": "usd",
+                "value": 40885000
+            },
+            {
+                "label": "Proceeds from settlements on Swaps",
+                "concept": "mfa:ProceedsFromMarginCallsOnRepurchaseAgreementsAndDerivatives",
+                "unit": "usd",
+                "value": 57656000
+            },
+            {
+                "label": "Proceeds from issuances of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 391932000
+            },
+            {
+                "label": "Payments made for costs related to common stock issuances",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 350000
+            },
+            {
+                "label": "Dividends paid on preferred stock",
+                "concept": "PaymentsOfDividendsPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 11250000
+            },
+            {
+                "label": "Dividends paid on common stock and dividend equivalents",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 239623000
+            },
+            {
+                "label": "Cash Flows From Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1170415000
+            },
+            {
+                "label": "Net (decrease)/increase in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -352389000
+            },
+            {
+                "label": "Net (decrease)/increase in securities obtained as collateral/obligation to return securities obtained as collateral",
+                "concept": "mfa:SecuritiesObtainedAsCollateralNetOfReturns",
+                "unit": "usd",
+                "value": -505850000
+            },
+            {
+                "label": "Transfer from residential whole loans",
+                "concept": "TransferToOtherRealEstate",
+                "unit": "usd",
+                "value": 161572000
+            },
+            {
+                "label": "Payable for unsettled MBS and residential whole loans purchases",
+                "concept": "mfa:NoncashPayableforUnsettledLoanPurchases",
+                "unit": "usd",
+                "value": 10888000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net Income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 240922000
+            },
+            {
+                "label": "Reclassification adjustment for MBS sales included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 25580000
+            },
+            {
+                "label": "Realized credit losses",
+                "concept": "OtherThanTemporaryImpairmentLossesInvestmentsPortionInOtherComprehensiveIncomeLossTaxIncludingPortionAttributableToNoncontrollingInterestAvailableforsaleSecurities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Derivative hedging instrument fair value changes, net",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 32974000
+            },
+            {
+                "label": "Net OCI during the period",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -82856000
+            },
+            {
+                "label": "Comprehensive income before preferred stock dividends",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 158066000
+            },
+            {
+                "label": "Less Preferred Stock Dividends",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 11250000
+            },
+            {
+                "label": "Comprehensive Income Available to Common Stock and Participating Securities",
+                "concept": "mfa:ComprehensiveIncomeLossToCommonStockholdersAndParticipatingSecurities",
+                "unit": "usd",
+                "value": 146816000
+            },
+            {
+                "label": "MSR related assets",
+                "concept": "InterestIncomeOther",
+                "unit": "usd",
+                "value": 20249000
+            },
+            {
+                "label": "Residential whole loans held at carrying value",
+                "concept": "InterestAndFeeIncomeLoansCommercialAndResidentialRealEstate",
+                "unit": "usd",
+                "value": 61788000
+            },
+            {
+                "label": "Cash and cash equivalent investments",
+                "concept": "InterestIncomeDepositsWithFinancialInstitutions",
+                "unit": "usd",
+                "value": 2348000
+            },
+            {
+                "label": "Interest Income:",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 322931000
+            },
+            {
+                "label": "Repurchase agreements and other advances",
+                "concept": "mfa:InterestExpenseSecuritiesSoldunderAgreementstoRepurchaseandOtherAdvances",
+                "unit": "usd",
+                "value": 142832000
+            },
+            {
+                "label": "Other interest expense",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 18410000
+            },
+            {
+                "label": "Interest Expense:",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 161242000
+            },
+            {
+                "label": "Net Interest Income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 161689000
+            },
+            {
+                "label": "Net gain on residential whole loans held at fair value",
+                "concept": "mfa:MortgageLoansonRealEstateGainLossonLoansatFairValue",
+                "unit": "usd",
+                "value": 105900000
+            },
+            {
+                "label": "Net gain on sales of investment securities",
+                "concept": "DebtSecuritiesRealizedGainLossExcludingOtherThanTemporaryImpairment",
+                "unit": "usd",
+                "value": 32661000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -1519000
+            },
+            {
+                "label": "Other Income, net:",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 137025000
+            },
+            {
+                "label": "Compensation and benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 20654000
+            },
+            {
+                "label": "Other general and administrative expense",
+                "concept": "OtherGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 13569000
+            },
+            {
+                "label": "Loan servicing and other related operating expenses",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 23569000
+            },
+            {
+                "label": "Operating and Other Expense:",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 57792000
+            },
+            {
+                "label": "Net Income Available to Common Stock and Participating Securities",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 229672000
+            },
+            {
+                "label": "Earnings per Common Share - Basic and Diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.56
+            },
+            {
+                "label": "Common stock, cash dividends declared (in dollars per share)",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": 0.6
+            }
+        ]
+    }
+}

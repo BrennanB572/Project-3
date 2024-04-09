@@ -1,0 +1,87 @@
+{
+    "startDate": "2017-07-01",
+    "endDate": "2017-09-30",
+    "year": "2017",
+    "quarter": "Q3",
+    "symbol": "SAFE",
+    "data": {
+        "bs": [
+            {
+                "label": "Less: accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 2752000
+            },
+            {
+                "label": "Real estate-related intangible assets, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 410393000
+            },
+            {
+                "label": "Real estate-related intangible assets, net",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 140069000
+            },
+            {
+                "label": "Total real estate, net and real estate-related intangible assets, net",
+                "concept": "safe:RealEstateInvestmentPropertyIncludingFiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 550462000
+            },
+            {
+                "label": "Deferred expenses and other assets, net",
+                "concept": "DeferredCostsAndOtherAssets",
+                "unit": "usd",
+                "value": 3337000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 6783000
+            },
+            {
+                "label": "Real estate-related intangible liabilities, net",
+                "concept": "BelowMarketLeaseNet",
+                "unit": "usd",
+                "value": 58114000
+            },
+            {
+                "label": "Debt obligations, net",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 227396000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Amortization of real estate-related intangibles, net",
+                "concept": "AmortizationOfAboveAndBelowMarketLeases",
+                "unit": "usd",
+                "value": 200000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Unrealized (loss) gain on derivatives",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": -100000
+            },
+            {
+                "label": "Reimbursable property taxes",
+                "concept": "TenantReimbursements",
+                "unit": "usd",
+                "value": 100000
+            },
+            {
+                "label": "Amortization of real estate-related intangibles, net",
+                "concept": "AmortizationOfAboveAndBelowMarketLeases",
+                "unit": "usd",
+                "value": 200000
+            }
+        ]
+    }
+}

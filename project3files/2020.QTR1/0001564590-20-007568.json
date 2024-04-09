@@ -1,0 +1,351 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-12-31",
+    "year": "2019",
+    "quarter": "FY",
+    "symbol": "DGL",
+    "data": {
+        "bs": [
+            {
+                "label": "United States Treasury Obligations, at value (cost $99,742,217 and $88,695,430, respectively)",
+                "concept": "FinancialInstrumentsOwnedUSGovernmentAndAgencyObligationsAtFairValue",
+                "unit": "usd",
+                "value": 99770815
+            },
+            {
+                "label": "Affiliated investments, at value and cost",
+                "concept": "InvestmentsInAndAdvancesToAffiliatesAtFairValue",
+                "unit": "usd",
+                "value": 8706882
+            },
+            {
+                "label": "Variation margin receivable- Commodity Futures Contracts",
+                "concept": "ReceivablesFromClearingOrganizations",
+                "unit": "usd",
+                "value": 321300
+            },
+            {
+                "label": "Cash held by custodian",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 35700
+            },
+            {
+                "label": "Dividends from affiliates",
+                "concept": "DividendsReceivable",
+                "unit": "usd",
+                "value": 10371
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 108845068
+            },
+            {
+                "label": "Management fee",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 70853
+            },
+            {
+                "label": "Brokerage commissions and fees",
+                "concept": "CommissionsPayableToBrokerDealersAndClearingOrganizations",
+                "unit": "usd",
+                "value": 4956
+            },
+            {
+                "label": "Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 75809
+            },
+            {
+                "label": "Commitments and Contingencies (Note 9)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Shareholder's equity\u2014General Shares",
+                "concept": "GeneralPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 1813
+            },
+            {
+                "label": "Shareholders' equity\u2014Shares",
+                "concept": "LimitedPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 108767446
+            },
+            {
+                "label": "Total shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 108769259
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 108845068
+            },
+            {
+                "label": "General Shares outstanding",
+                "concept": "GeneralPartnersCapitalAccountUnitsOutstanding",
+                "unit": "shares",
+                "value": 40
+            },
+            {
+                "label": "Shares outstanding",
+                "concept": "LimitedPartnersCapitalAccountUnitsOutstanding",
+                "unit": "shares",
+                "value": 2400000
+            },
+            {
+                "label": "Net asset value per share",
+                "concept": "NetAssetValuePerShare",
+                "unit": "usd/shares",
+                "value": 45.32
+            },
+            {
+                "label": "Market value per share.",
+                "concept": "dgl:MarketValuePerShare",
+                "unit": "usd/shares",
+                "value": 45.25
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 21222199
+            },
+            {
+                "label": "Cost of securities purchased",
+                "concept": "PaymentsForPurchaseOfSecuritiesOperatingActivities",
+                "unit": "usd",
+                "value": 541102329
+            },
+            {
+                "label": "Proceeds from securities sold and matured",
+                "concept": "ProceedsFromSaleOfSecuritiesOperatingActivities",
+                "unit": "usd",
+                "value": 532969498
+            },
+            {
+                "label": "Cost of affiliated investments purchased.",
+                "concept": "dgl:CostOfAffiliatedInvestmentsPurchased",
+                "unit": "usd",
+                "value": 430646238
+            },
+            {
+                "label": "Proceeds from affiliated investments sold.",
+                "concept": "dgl:ProceedsFromAffiliatedInvestmentsSold",
+                "unit": "usd",
+                "value": 429294540
+            },
+            {
+                "label": "Net accretion of discount on United States Treasury Obligations",
+                "concept": "DepreciationAmortizationAndAccretionNet",
+                "unit": "usd",
+                "value": -2896609
+            },
+            {
+                "label": "United States Treasury Obligations",
+                "concept": "MarketableSecuritiesRealizedGainLoss",
+                "unit": "usd",
+                "value": 17347
+            },
+            {
+                "label": "Unrealized gain (loss) on marketable securities and affiliated investments.",
+                "concept": "dgl:UnrealizedGainLossOnMarketableSecuritiesAndAffiliatedInvestments",
+                "unit": "usd",
+                "value": 36642
+            },
+            {
+                "label": "Increase (decrease) in variation margin.",
+                "concept": "dgl:IncreaseDecreaseInVariationMargin",
+                "unit": "usd",
+                "value": 446760
+            },
+            {
+                "label": "Dividends from affiliates",
+                "concept": "IncreaseDecreaseInDividendsReceivable",
+                "unit": "usd",
+                "value": -2288
+            },
+            {
+                "label": "Management fees",
+                "concept": "IncreaseDecreaseInAccountsPayableRelatedParties",
+                "unit": "usd",
+                "value": 9279
+            },
+            {
+                "label": "Brokerage commissions and fees",
+                "concept": "IncreaseDecreaseInPayablesToBrokerDealers",
+                "unit": "usd",
+                "value": -45
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 8351834
+            },
+            {
+                "label": "Distributions paid to shareholders",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 2065522
+            },
+            {
+                "label": "Proceeds from purchases of Shares",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 115635042
+            },
+            {
+                "label": "Redemption of Shares",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 120636059
+            },
+            {
+                "label": "Increase decrease in payable for Amount due to custodian net.",
+                "concept": "dgl:IncreaseDecreaseInPayableForAmountDueToCustodian",
+                "unit": "usd",
+                "value": -1249595
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -8316134
+            },
+            {
+                "label": "Net change in cash",
+                "concept": "CashPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 35700
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 8188
+            }
+        ],
+        "ic": [
+            {
+                "label": "Interest Income",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 2904288
+            },
+            {
+                "label": "Dividends from Affiliates",
+                "concept": "DividendIncomeOperating",
+                "unit": "usd",
+                "value": 200329
+            },
+            {
+                "label": "Income",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 3104617
+            },
+            {
+                "label": "Management Fee",
+                "concept": "InvestmentCompanyGeneralPartnerAdvisoryService",
+                "unit": "usd",
+                "value": 1081702
+            },
+            {
+                "label": "Brokerage Commissions and Fees",
+                "concept": "FloorBrokerageExchangeAndClearanceFees",
+                "unit": "usd",
+                "value": 9593
+            },
+            {
+                "label": "Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 8188
+            },
+            {
+                "label": "Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 1099483
+            },
+            {
+                "label": "Less: Waivers",
+                "concept": "InvestmentCompanyContractualFeeWaived",
+                "unit": "usd",
+                "value": 20041
+            },
+            {
+                "label": "Operating expenses net.",
+                "concept": "dgl:OperatingExpensesNet",
+                "unit": "usd",
+                "value": 1079442
+            },
+            {
+                "label": "Net Investment Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 2025175
+            },
+            {
+                "label": "United States Treasury Obligations",
+                "concept": "MarketableSecuritiesRealizedGainLoss",
+                "unit": "usd",
+                "value": 17347
+            },
+            {
+                "label": "Commodity Futures Contracts",
+                "concept": "GainLossOnSaleOfCommodityContracts",
+                "unit": "usd",
+                "value": 11629071
+            },
+            {
+                "label": "Net Realized Gain (Loss)",
+                "concept": "RealizedInvestmentGainsLosses",
+                "unit": "usd",
+                "value": 11646418
+            },
+            {
+                "label": "United States Treasury Obligations",
+                "concept": "MarketableSecuritiesUnrealizedGainLoss",
+                "unit": "usd",
+                "value": 36642
+            },
+            {
+                "label": "Commodity Futures Contracts",
+                "concept": "UnrealizedGainLossOnCommodityContracts",
+                "unit": "usd",
+                "value": 7513964
+            },
+            {
+                "label": "Net Change in Unrealized Gain (Loss)",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": 7550606
+            },
+            {
+                "label": "Net Realized and Net Change in Unrealized Gain (Loss) on United States Treasury Obligations, Affiliated Investments and Commodity Futures Contracts",
+                "concept": "InvestmentCompanyRealizedAndUnrealizedGainLossOnInvestmentAndForeignCurrency",
+                "unit": "usd",
+                "value": 19197024
+            },
+            {
+                "label": "Net Income (Loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 21222199
+            }
+        ]
+    }
+}

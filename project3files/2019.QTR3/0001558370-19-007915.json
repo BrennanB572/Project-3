@@ -1,0 +1,519 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-06-30",
+    "year": "2019",
+    "quarter": "Q2",
+    "symbol": "IMH",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents, at Carrying Value",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 25794000
+            },
+            {
+                "label": "Restricted cash and cash equivalents, current",
+                "concept": "RestrictedCashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 7141000
+            },
+            {
+                "label": "Loans Held-for-sale, Mortgages",
+                "concept": "LoansReceivableHeldForSaleNetNotPartOfDisposalGroupMortgage",
+                "unit": "usd",
+                "value": 420957000
+            },
+            {
+                "label": "Servicing Asset at Fair Value, Amount",
+                "concept": "ServicingAssetAtFairValueAmount",
+                "unit": "usd",
+                "value": 50346000
+            },
+            {
+                "label": "This element represents the total trust assets including investment securities available-for-sale, securitized mortgage collateral, derivative assets, and real estate owned.",
+                "concept": "imh:SecuritizedMortgageTrustAssets",
+                "unit": "usd",
+                "value": 2931793000
+            },
+            {
+                "label": "Other Assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 63939000
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 3499970000
+            },
+            {
+                "label": "Warehouse Agreement Borrowings",
+                "concept": "WarehouseAgreementBorrowings",
+                "unit": "usd",
+                "value": 362973000
+            },
+            {
+                "label": "Convertible Notes Payable",
+                "concept": "ConvertibleNotesPayable",
+                "unit": "usd",
+                "value": 24990000
+            },
+            {
+                "label": "Other Long-term Debt",
+                "concept": "OtherLongTermDebt",
+                "unit": "usd",
+                "value": 43910000
+            },
+            {
+                "label": "This element represents the trust liabilities including securitized mortgage borrowings and derivative liabilities.",
+                "concept": "imh:SecuritizedMortgageTrustLiabilities",
+                "unit": "usd",
+                "value": 2915156000
+            },
+            {
+                "label": "Other Liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 50652000
+            },
+            {
+                "label": "Liabilities [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 3397681000
+            },
+            {
+                "label": "Commitments and Contingencies.",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common Stock, Value, Issued",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 212000
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1235583000
+            },
+            {
+                "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 24300000
+            },
+            {
+                "label": "Cumulative Dividends Declared.",
+                "concept": "CumulativeDividends",
+                "unit": "usd",
+                "value": 822520000
+            },
+            {
+                "label": "Retained Earnings, Unappropriated",
+                "concept": "CumulativeEarningsDeficit",
+                "unit": "usd",
+                "value": -335261000
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit) [Abstract]",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -1157781000
+            },
+            {
+                "label": "Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 102289000
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 3499970000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -8739000
+            },
+            {
+                "label": "Amount of gain (loss) on sale or disposal of mortgage servicing rights (MSRs).",
+                "concept": "imh:GainLossOnSaleOfMortgageServicingRights",
+                "unit": "usd",
+                "value": 864000
+            },
+            {
+                "label": "Mortgage Servicing Rights (MSR) Impairment (Recovery)",
+                "concept": "MortgageServicingRightsMSRImpairmentRecovery",
+                "unit": "usd",
+                "value": 16374000
+            },
+            {
+                "label": "Gain (Loss) on Sale of Mortgage Loans",
+                "concept": "GainLossOnSaleOfMortgageLoans",
+                "unit": "usd",
+                "value": 31946000
+            },
+            {
+                "label": "The increase (decrease) during the reporting period in the fair value of mortgage loans or securitized loans that are held with the intention to sell in the near future.",
+                "concept": "imh:IncreaseDecreaseInFairValueOfMortgageLoansHeldForSale",
+                "unit": "usd",
+                "value": 8334000
+            },
+            {
+                "label": "Represents the change in fair value of derivatives lending, net during the reporting period.",
+                "concept": "imh:IncreaseDecreaseInFairValueOfDerivativesLendingNet",
+                "unit": "usd",
+                "value": 4566000
+            },
+            {
+                "label": "Amount of the current period expense charged against operations with respect to provision or recovery of previously charged amount.",
+                "concept": "imh:ProvisionForRepurchases",
+                "unit": "usd",
+                "value": 3160000
+            },
+            {
+                "label": "Payments for Origination of Mortgage Loans Held-for-sale",
+                "concept": "PaymentsForOriginationOfMortgageLoansHeldForSale",
+                "unit": "usd",
+                "value": 1402859000
+            },
+            {
+                "label": "Proceeds from Sale of Mortgage Loans Held-for-sale",
+                "concept": "ProceedsFromSaleOfMortgageLoansHeldForSale",
+                "unit": "usd",
+                "value": 1373784000
+            },
+            {
+                "label": "This element represents gains (losses) from real estate owned at the time of sale or losses from further write-downs.",
+                "concept": "imh:GainLossFromRealEstateOwned",
+                "unit": "usd",
+                "value": -1099000
+            },
+            {
+                "label": "This element represents change in fair value of trust assets excluding real estate owned due to decreases in the fair value of investment securities-for-sale and of securitized mortgage collateral during the reporting period.",
+                "concept": "imh:IncreaseDecreaseInFairValueOfNetTrustAssetsExcludingRealEstateOwned",
+                "unit": "usd",
+                "value": -3000000
+            },
+            {
+                "label": "This element represents change in fair value of long-term debt during the reporting period.",
+                "concept": "imh:IncreaseDecreaseInFairValueOfLongTermDebt",
+                "unit": "usd",
+                "value": -654000
+            },
+            {
+                "label": "This element represents the accretion to recognize interest income and interest expense using effective yields based on estimated fair values for trust assets and trust liabilities.",
+                "concept": "imh:AccretionOfInterestIncomeAndExpense",
+                "unit": "usd",
+                "value": 13768000
+            },
+            {
+                "label": "The aggregate expense charged against earnings to allocate the cost of intangible assets (nonphysical assets not used in production) and other assets in a systematic and rational manner to the periods expected to benefit from such assets. As a noncash expense, this element is added back to net income when calculating cash provided by or used in operations using the indirect method.",
+                "concept": "imh:AmortizationOfIntangibleAndOtherAssets",
+                "unit": "usd",
+                "value": 286000
+            },
+            {
+                "label": "Represents the write-off of amounts previously capitalized as debt issuance cost in an extinguishment of debt and noncash expense included in interest expense to amortize debt discount and premium associated with the related debt instruments.",
+                "concept": "imh:AmortizationOfDebtIssuanceCostAndDebtDiscountPremium",
+                "unit": "usd",
+                "value": 11000
+            },
+            {
+                "label": "Share-based Compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 313000
+            },
+            {
+                "label": "Increase (Decrease) in Other Operating Assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 771000
+            },
+            {
+                "label": "Increase (Decrease) in Other Operating Liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -8737000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities [Abstract]",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -55632000
+            },
+            {
+                "label": "This element represents net change during the reporting period in securitized mortgage collateral.",
+                "concept": "imh:NetChangeInSecuritizedMortgageCollateral",
+                "unit": "usd",
+                "value": 295035000
+            },
+            {
+                "label": "Proceeds from Sale of Mortgage Servicing Rights (MSR)",
+                "concept": "ProceedsFromSaleOfMortgageServicingRightsMSR",
+                "unit": "usd",
+                "value": 12000
+            },
+            {
+                "label": "Payments for (Proceeds from) Productive Assets",
+                "concept": "PaymentsForProceedsFromProductiveAssets",
+                "unit": "usd",
+                "value": 335000
+            },
+            {
+                "label": "Payments to Acquire Mortgage-backed Securities (MBS), Available-for-sale",
+                "concept": "PaymentsToAcquireMortgageBackedSecuritiesMBSCategorizedAsAvailableForSale",
+                "unit": "usd",
+                "value": 5347000
+            },
+            {
+                "label": "Proceeds from Sale of Mortgage-backed Securities (MBS), Available-for-sale",
+                "concept": "ProceedsFromSaleOfMortgageBackedSecuritiesMBSCategorizedAsAvailableForSale",
+                "unit": "usd",
+                "value": 1021000
+            },
+            {
+                "label": "Proceeds from Sale of Other Real Estate",
+                "concept": "ProceedsFromSaleOfOtherRealEstate",
+                "unit": "usd",
+                "value": 10607000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities [Abstract]",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 300993000
+            },
+            {
+                "label": "The cash outflow for a borrowing of warehouse having initial term of repayment within one year or the normal operating cycle, if longer.",
+                "concept": "imh:RepaymentOfWarehouseBorrowings",
+                "unit": "usd",
+                "value": 1133320000
+            },
+            {
+                "label": "The cash inflow from a borrowing of warehouse having initial term of repayment within one year or the normal operating cycle, if longer.",
+                "concept": "imh:BorrowingsUnderWarehouseAgreement",
+                "unit": "usd",
+                "value": 1212156000
+            },
+            {
+                "label": "Proceeds from (Repayments of) Secured Debt",
+                "concept": "ProceedsFromRepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": -321494000
+            },
+            {
+                "label": "Finance Lease, Principal Payments",
+                "concept": "FinanceLeasePrincipalPayments",
+                "unit": "usd",
+                "value": 81000
+            },
+            {
+                "label": "Payments Related to Tax Withholding for Share-based Compensation",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 39000
+            },
+            {
+                "label": "Proceeds from Stock Options Exercised",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 163000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities [Abstract]",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -242615000
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 2746000
+            },
+            {
+                "label": "Real Estate Owned, Transfer from Real Estate Owned",
+                "concept": "TransferOfOtherRealEstate",
+                "unit": "usd",
+                "value": 13035000
+            },
+            {
+                "label": "This element represents mortgage servicing rights retained from loan sales and issuance of mortgage backed securities during the reporting period in a noncash transaction.",
+                "concept": "imh:MortgageServicingRightsRetainedFromLoanSalesAndIssuanceOfMortgageBackedSecurities",
+                "unit": "usd",
+                "value": 1999000
+            },
+            {
+                "label": "Amount of lessee's right to use underlying asset under operating lease.",
+                "concept": "imh:InitialRecognitionOfOperatingLeaseRightOfUseAssets",
+                "unit": "usd",
+                "value": 19694000
+            },
+            {
+                "label": "Present value of lessee's discounted obligation for lease payments from operating lease.",
+                "concept": "imh:InitialRecognitionOfOperatingLeaseLiabilities",
+                "unit": "usd",
+                "value": 23447000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Gain (Loss) on Sales of Loans, Net",
+                "concept": "GainLossOnSalesOfLoansNet",
+                "unit": "usd",
+                "value": 41686000
+            },
+            {
+                "label": "The total amount of contractually specified servicing fees, late fees, and ancillary fees net of servicing costs that are earned for each period for which results of operations are presented.",
+                "concept": "imh:ServicingIncomeNet",
+                "unit": "usd",
+                "value": 6505000
+            },
+            {
+                "label": "Amount of gain (loss) on mortgage servicing rights, net of change in fair value during the period.",
+                "concept": "imh:MortgageServicingRightsGainLossNet",
+                "unit": "usd",
+                "value": -15510000
+            },
+            {
+                "label": "Revenue from Contract with Customer, Including Assessed Tax",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 1613000
+            },
+            {
+                "label": "Represents other forms of revenue earned or loss, excluding interest, which is not otherwise specified in the taxonomy.",
+                "concept": "imh:NonInterestIncomeOtherOperatingIncomeLoss",
+                "unit": "usd",
+                "value": 187000
+            },
+            {
+                "label": "Revenues [Abstract]",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 34481000
+            },
+            {
+                "label": "Labor and Related Expense",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 28461000
+            },
+            {
+                "label": "Marketing Expense",
+                "concept": "MarketingExpense",
+                "unit": "usd",
+                "value": 4936000
+            },
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 10507000
+            },
+            {
+                "label": "Operating Expenses [Abstract]",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 43904000
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -9423000
+            },
+            {
+                "label": "Interest and Dividend Income, Operating",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 88316000
+            },
+            {
+                "label": "Interest Expense, amount",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 83977000
+            },
+            {
+                "label": "This element represents change in fair value of long-term debt during the reporting period.",
+                "concept": "imh:IncreaseDecreaseInFairValueOfLongTermDebt",
+                "unit": "usd",
+                "value": -654000
+            },
+            {
+                "label": "This element represents change in fair value of trust assets including gain or loss on real estate owned due to increases or decreases in the fair value of investment securities-for-sale, securitized mortgage collateral and securitized mortgage borrowings during the reporting period.",
+                "concept": "imh:TrustAssetsNetChangeInFairValueIncludingRealEstateOwnedGainLoss",
+                "unit": "usd",
+                "value": -4142000
+            },
+            {
+                "label": "Nonoperating Income (Expense) [Abstract]",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 851000
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -8572000
+            },
+            {
+                "label": "Income Tax Expense (Benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 167000
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -8739000
+            },
+            {
+                "label": "Amount, after tax, before reclassification adjustment, of unrealized gain (loss) from increase (decrease) in mortgage-backed securities measured under fair value option.",
+                "concept": "imh:OtherComprehensiveIncomeLossMortgageBackedSecuritiesFairValueOptionUnrealizedGainLossArisingDuringPeriodAfterTax",
+                "unit": "usd",
+                "value": 14000
+            },
+            {
+                "label": "Amount, after tax, before reclassification adjustment, of unrealized gain (loss) from increase (decrease) in instrument-specific credit risk of long-term debt measured under fair value option.",
+                "concept": "imh:OtherComprehensiveIncomeLossCreditRiskOfLongTermDebtFairValueOptionUnrealizedGainLossArisingDuringPeriodAfterTax",
+                "unit": "usd",
+                "value": 363000
+            },
+            {
+                "label": "Other Comprehensive Income (Loss), Net of Tax",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -8362000
+            },
+            {
+                "label": "Earnings Per Share, Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.41
+            },
+            {
+                "label": "Earnings Per Share, Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.41
+            }
+        ]
+    }
+}

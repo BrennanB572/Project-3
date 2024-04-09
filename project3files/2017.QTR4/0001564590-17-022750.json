@@ -1,0 +1,285 @@
+{
+    "startDate": "2017-02-14",
+    "endDate": "2017-09-30",
+    "year": "2017",
+    "quarter": "Q3",
+    "symbol": "TPGE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 955993
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 182026
+            },
+            {
+                "label": "Current assets:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1138019
+            },
+            {
+                "label": "Investments held in trust account.",
+                "concept": "tpge:InvestmentsHeldInTrustAccount",
+                "unit": "usd",
+                "value": 651609907
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 652747926
+            },
+            {
+                "label": "Accrued offering costs",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 846092
+            },
+            {
+                "label": "Accrued professional fees and other expenses",
+                "concept": "AccruedLiabilitiesAndOtherLiabilities",
+                "unit": "usd",
+                "value": 383378
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1229470
+            },
+            {
+                "label": "Deferred underwriting compensation",
+                "concept": "RegistrationPaymentArrangementMaximumPotentialConsideration",
+                "unit": "usd",
+                "value": 22750000
+            },
+            {
+                "label": "Liabilities and stockholders' equity",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 23979470
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Class A common stock subject to possible redemption; 62,376,845 shares at September 30, 2017, at a redemption value of $10.00 per share",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 623768450
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized, none issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 4080102
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 918017
+            },
+            {
+                "label": "Stockholders' equity:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000006
+            },
+            {
+                "label": "Liabilities and stockholders' equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 652747926
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income attributable to common stock",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 918017
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 182026
+            },
+            {
+                "label": "Accrued professional fees and other expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 383378
+            },
+            {
+                "label": "Interest on Investments held in Trust Account",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 2009907
+            },
+            {
+                "label": "Proceeds from restricted investments interest received.",
+                "concept": "tpge:ProceedsFromRestrictedInvestmentsInterestReceived",
+                "unit": "usd",
+                "value": 400000
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -490538
+            },
+            {
+                "label": "Proceeds deposited into Trust Account",
+                "concept": "IncreaseDecreaseInRestrictedCashAndInvestments",
+                "unit": "usd",
+                "value": 650000000
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -650000000
+            },
+            {
+                "label": "Proceeds from sale of Units in initial public offering",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": 650000000
+            },
+            {
+                "label": "Proceeds from sale of Private Placement Warrants to Sponsor",
+                "concept": "ProceedsFromIssuanceOfPrivatePlacement",
+                "unit": "usd",
+                "value": 15000000
+            },
+            {
+                "label": "Proceeds of notes payable from Sponsor",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 300000
+            },
+            {
+                "label": "Payment of underwriters discounts",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 13000000
+            },
+            {
+                "label": "Payment of accrued offering costs",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": -578469
+            },
+            {
+                "label": "Repayment of notes payable from Sponsor",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 300000
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 651446531
+            },
+            {
+                "label": "Net change in cash",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 955993
+            },
+            {
+                "label": "Cash paid for federal income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 400000
+            },
+            {
+                "label": "Accrued offering cost.",
+                "concept": "tpge:AccruedOfferingCost",
+                "unit": "usd",
+                "value": 846092
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Professional fees and other expenses.",
+                "concept": "tpge:ProfessionalFeesAndOtherExpenses",
+                "unit": "usd",
+                "value": 421627
+            },
+            {
+                "label": "Travel expenses",
+                "concept": "TravelAndEntertainmentExpense",
+                "unit": "usd",
+                "value": 175988
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -597615
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 2009949
+            },
+            {
+                "label": "Income from continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1412334
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 494317
+            },
+            {
+                "label": "Net income attributable to common stock",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 918017
+            },
+            {
+                "label": "Net income per share of common stock:",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.02
+            },
+            {
+                "label": "Basic and diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 55556769
+            }
+        ]
+    }
+}

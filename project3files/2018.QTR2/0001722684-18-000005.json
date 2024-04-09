@@ -1,0 +1,369 @@
+{
+    "startDate": "2018-01-01",
+    "endDate": "2018-03-31",
+    "year": "2018",
+    "quarter": "Q1",
+    "symbol": "WH",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 71000000
+            },
+            {
+                "label": "Trade receivables, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 205000000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 40000000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 63000000
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 379000000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 251000000
+            },
+            {
+                "label": "Goodwill and Intangible Assets Disclosure [Abstract]",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 421000000
+            },
+            {
+                "label": "Other non-current assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 173000000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2162000000
+            },
+            {
+                "label": "Outstanding borrowings from the Parent",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 116000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 36000000
+            },
+            {
+                "label": "Deferred income",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 83000000
+            },
+            {
+                "label": "Accrued expenses and other current liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 192000000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 427000000
+            },
+            {
+                "label": "Debt due to Parent",
+                "concept": "DueToRelatedPartiesNoncurrent",
+                "unit": "usd",
+                "value": 81000000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredTaxLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 175000000
+            },
+            {
+                "label": "Deferred income",
+                "concept": "ContractWithCustomerLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 159000000
+            },
+            {
+                "label": "Other non-current liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 47000000
+            },
+            {
+                "label": "Liabilities and net investment",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 889000000
+            },
+            {
+                "label": "Commitments and contingencies (Note 8)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Parent\u2019s net investment",
+                "concept": "wh:ParentsNetInvestment",
+                "unit": "usd",
+                "value": 1267000000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 6000000
+            },
+            {
+                "label": "Balance as of beginning of period",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1273000000
+            },
+            {
+                "label": "Liabilities and net investment",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2162000000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 39000000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 19000000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Trade receivables",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 13000000
+            },
+            {
+                "label": "Other current assets",
+                "concept": "IncreaseDecreaseInOtherCurrentAssets",
+                "unit": "usd",
+                "value": 13000000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other current liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Deferred income",
+                "concept": "wh:IncreaseDecreaseInContractWithCustomerLiability",
+                "unit": "usd",
+                "value": -5000000
+            },
+            {
+                "label": "Proceeds from/(payments of) development advance notes, net",
+                "concept": "PaymentsForProceedsFromLoansAndLeases",
+                "unit": "usd",
+                "value": -5000000
+            },
+            {
+                "label": "Other, net",
+                "concept": "IncreaseDecreaseInOtherOperatingCapitalNet",
+                "unit": "usd",
+                "value": 8000000
+            },
+            {
+                "label": "Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 16000000
+            },
+            {
+                "label": "Property and equipment additions",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Insurance proceeds",
+                "concept": "ProceedsFromInsuranceSettlementInvestingActivities",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net transfer to Parent",
+                "concept": "PaymentsOfDistributionsToAffiliates",
+                "unit": "usd",
+                "value": 14000000
+            },
+            {
+                "label": "Proceeds from borrowings from Parent",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 13000000
+            },
+            {
+                "label": "Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -1000000
+            },
+            {
+                "label": "Effect of changes in exchange rates on cash, cash equivalents and restricted cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": -1000000
+            },
+            {
+                "label": "Net increase in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 14000000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 39000000
+            },
+            {
+                "label": "Foreign currency translation adjustments",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Other comprehensive income, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 40000000
+            },
+            {
+                "label": "Net revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 302000000
+            },
+            {
+                "label": "Operating",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 41000000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 22000000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 19000000
+            },
+            {
+                "label": "Separation-related",
+                "concept": "SeveranceCosts1",
+                "unit": "usd",
+                "value": 12000000
+            },
+            {
+                "label": "Transaction-related",
+                "concept": "wh:TransactionRelatedCosts",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Restructuring",
+                "concept": "OtherRestructuringCosts",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Expenses",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 246000000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 56000000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseRelatedParty",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 55000000
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 16000000
+            }
+        ]
+    }
+}

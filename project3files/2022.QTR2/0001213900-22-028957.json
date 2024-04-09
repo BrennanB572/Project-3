@@ -1,0 +1,189 @@
+{
+    "startDate": "2022-01-01",
+    "endDate": "2022-03-31",
+    "year": "2022",
+    "quarter": "Q1",
+    "symbol": "STNL",
+    "data": {
+        "bs": [
+            {
+                "label": "Class A common stock, $0.0001 par value, 200,000,000 shares authorized, 556,911 and 554,411 shares issued and outstanding at March 31, 2022 and December 31, 2021, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 55
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 356944
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 64052
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 5669400
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 31065
+            },
+            {
+                "label": "Total stockholders\u2019 deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -292892
+            },
+            {
+                "label": "Total stockholders\u2019 deficit",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -292892
+            },
+            {
+                "label": "Preferred shares, $0.0001 par value; 1,000,000 shares authorized; none issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 19314
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 11751
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 64052
+            },
+            {
+                "label": "Class B common stock, $0.0001 par value, 20,000,000 shares authorized, 862,500 shares issued and outstanding at March 31, 2022 and December 31, 2021",
+                "concept": "stnl:CommonStockValue1",
+                "unit": "usd",
+                "value": 86
+            }
+        ],
+        "cf": [
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": -1073
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 18880
+            },
+            {
+                "label": "Prepaid expenses \u2013 long term",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -2604
+            },
+            {
+                "label": "Accrued income and franchise taxes",
+                "concept": "IncreaseDecreaseInAccruedTaxesPayable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net Cash Used In Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -14000
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -36557
+            },
+            {
+                "label": "Net Cash provided by Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Proceeds from issuance of Class A common stock - Sponsor",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Net change in cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 11000
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 36557
+            },
+            {
+                "label": "Weighted average number of shares of common stock outstanding, basic and diluted 1 (in Shares)",
+                "concept": "stnl:WeightedAverageNumberOfCommonStockOutstandingBasicAndDiluted1inShares",
+                "unit": "shares",
+                "value": 1415224
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -36557
+            },
+            {
+                "label": "Basic and diluted net loss per share of common stock (in Dollars per share)",
+                "concept": "stnl:BasicAndDilutedNetLossPerCommonStock",
+                "unit": "usd/shares",
+                "value": -0.03
+            },
+            {
+                "label": "REVENUE",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "TOTAL EXPENSES",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 36557
+            },
+            {
+                "label": "LOSS BEFORE INCOME TAX PROVISION",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -36557
+            }
+        ]
+    }
+}
