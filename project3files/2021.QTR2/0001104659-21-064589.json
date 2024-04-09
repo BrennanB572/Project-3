@@ -1,0 +1,267 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "OMEG",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash held outside the Trust Account",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 807791
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 741154
+            },
+            {
+                "label": "Due from Related Parties, Current",
+                "concept": "DueFromRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 14179
+            },
+            {
+                "label": "Assets, Current [Abstract]",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1563124
+            },
+            {
+                "label": "Marketable securities held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 138002987
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 139566111
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 73946
+            },
+            {
+                "label": "Carrying value as of the balance sheet date of obligations incurred through that date and due within one year (or the operating cycle, if longer), including liabilities incurred (and for which invoices have typically been received) and payable to vendors for goods and services received, taxes, interest, rent and utilities, accrued salaries and bonuses, payroll taxes and fringe benefits, excluding offering costs (due within one year or within the normal operating cycle if longer).",
+                "concept": "omeg:AccountsPayableAndAccruedLiabilitiesExcludingOfferingCostsCurrent",
+                "unit": "usd",
+                "value": 70000
+            },
+            {
+                "label": "Liabilities, Current [Abstract]",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 143946
+            },
+            {
+                "label": "The carrying value as of balance sheet date of underwriting compensation deferred, classified as noncurrent.",
+                "concept": "omeg:DeferredUnderwritingCompensationNoncurrent",
+                "unit": "usd",
+                "value": 4830000
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4973946
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 5313038
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -313512
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000005
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 139566111
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -281055
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 2987
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 741154
+            },
+            {
+                "label": "Increase (Decrease) in Due from Related Parties, Current",
+                "concept": "IncreaseDecreaseInDueFromRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 14179
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 71482
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": -4583
+            },
+            {
+                "label": "Cash Flows from Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -972476
+            },
+            {
+                "label": "The amount of cash outflow for investment of cash in trust account.",
+                "concept": "omeg:PaymentsForInvestmentOfCashInTrustAccount",
+                "unit": "usd",
+                "value": 138000000
+            },
+            {
+                "label": "Cash Flows from Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -138000000
+            },
+            {
+                "label": "Proceeds from Related Party Debt",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 46209
+            },
+            {
+                "label": "Repayments of Related Party Debt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 144574
+            },
+            {
+                "label": "Proceeds from issuance initial public offering",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": 138000000
+            },
+            {
+                "label": "Proceeds from Issuance of Private Placement",
+                "concept": "ProceedsFromIssuanceOfPrivatePlacement",
+                "unit": "usd",
+                "value": 5010000
+            },
+            {
+                "label": "Payments of Stock Issuance Costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 3131368
+            },
+            {
+                "label": "Cash Flows from Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 139780267
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 807791
+            },
+            {
+                "label": "The amount of offering costs included in accounts payables that were incurred during a noncash or partial noncash transaction.",
+                "concept": "omeg:OfferingCostsIncludedInAccountsPayable",
+                "unit": "usd",
+                "value": 412
+            },
+            {
+                "label": "The amount of deferred offering costs included in accrued expenses.",
+                "concept": "omeg:DeferredOfferingCostsIncludedInAccruedExpenses",
+                "unit": "usd",
+                "value": 70000
+            },
+            {
+                "label": "Prior Year Claims and Claims Adjustment Expense",
+                "concept": "SupplementalInformationForPropertyCasualtyInsuranceUnderwritersPriorYearClaimsAndClaimsAdjustmentExpense",
+                "unit": "usd",
+                "value": -38464
+            },
+            {
+                "label": "Amount of underwriting fee payable deferred during the period, classified as non-cash investing and financing activity.",
+                "concept": "omeg:DeferredUnderwritingFeePayable",
+                "unit": "usd",
+                "value": 4830000
+            },
+            {
+                "label": "Amount of initial classification of common stock subject to possible redemption, classified as non-cash investing and financing activity.",
+                "concept": "omeg:InitialClassificationOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 129841480
+            },
+            {
+                "label": "Amount of change in value of common stock subject to possible redemption, classified as non-cash investing and financing activity.",
+                "concept": "omeg:ChangeInValueOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": -249320
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and administrative expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 284042
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 284042
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 2987
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -281055
+            }
+        ]
+    }
+}

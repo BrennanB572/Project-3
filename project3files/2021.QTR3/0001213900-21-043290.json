@@ -1,0 +1,333 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-06-30",
+    "year": "2021",
+    "quarter": "Q2",
+    "symbol": "MVST",
+    "data": {
+        "bs": [
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 39524
+            },
+            {
+                "label": "Cash and marketable securities held in Trust Account",
+                "concept": "MarketableSecuritiesNoncurrent",
+                "unit": "usd",
+                "value": 281671994
+            },
+            {
+                "label": "Commitments",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock subject to possible redemption, 27,583,510 and 26,675,733 as of June 30, 2021 and December 31, 2020, respectively",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 281581276
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 6671298
+            },
+            {
+                "label": "Total Stockholders\u2019 (Deficit) Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -6474581
+            },
+            {
+                "label": "Total Stockholders\u2019 (Deficit) Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -6474581
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 281777993
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 801468
+            },
+            {
+                "label": "Convertible promissory notes \u2013 related party",
+                "concept": "NotesPayableRelatedPartiesNoncurrent",
+                "unit": "usd",
+                "value": 1686000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 (DEFICIT) EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 281777993
+            },
+            {
+                "label": "Common stock, $0.0001 par value; 65,000,000 shares authorized; 7,887,000 and 8,808,069 shares issued and outstanding (excluding 27,583,510 and 26,675,733 shares subject to possible redemption) as of June 30, 2021 and December 31, 2020, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 789
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized, none issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 105999
+            },
+            {
+                "label": "(Accumulated deficit)/Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -6475370
+            },
+            {
+                "label": "",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 66475
+            },
+            {
+                "label": "",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 66475
+            },
+            {
+                "label": "Warrant liability",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 4183830
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 801468
+            }
+        ],
+        "cf": [
+            {
+                "label": "Change in value of common stock subject to possible redemption",
+                "concept": "mvst:ChangeInValueOfCommonStockSubjectToRedemption",
+                "unit": "usd",
+                "value": 9103745
+            },
+            {
+                "label": "Redemption of common shares",
+                "concept": "mvst:RedemptionOfCommonShares",
+                "unit": "usd",
+                "value": 135711
+            },
+            {
+                "label": "Interest earned on marketable securities held in Trust Account",
+                "concept": "mvst:IncreaseDecreaseInMarketableSecurities",
+                "unit": "usd",
+                "value": 46299
+            },
+            {
+                "label": "Unrealized (gain) on marketable securities held in Trust Account",
+                "concept": "mvst:IncreaseDecreaseUnrealizedGainMarketableSecurities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 17025
+            },
+            {
+                "label": "Repayment of advances from related party",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 22179
+            },
+            {
+                "label": "Advances from related party",
+                "concept": "IncreaseDecreaseInDueFromRelatedParties",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": -302547
+            },
+            {
+                "label": "Cash withdrawn from Trust Account to pay income taxes",
+                "concept": "mvst:CashWithdrawnFromTrustAccountToPayIncomeTaxes",
+                "unit": "usd",
+                "value": 135711
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 480490
+            },
+            {
+                "label": "Proceeds from convertible promissory notes \u2013 related party",
+                "concept": "mvst:RepaymentOfPromissoryNoteRelatedParty",
+                "unit": "usd",
+                "value": -750000
+            },
+            {
+                "label": "Change in fair value of convertible promissory notes \u2013 related party",
+                "concept": "mvst:ChangeInFairValueOfConvertiblePromissoryNotesRelatedParty",
+                "unit": "usd",
+                "value": 736000
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 319501
+            },
+            {
+                "label": "",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -2099420
+            },
+            {
+                "label": "",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -2099420
+            },
+            {
+                "label": "",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -2099420
+            },
+            {
+                "label": "Deferred tax liability",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -21468
+            },
+            {
+                "label": "Cash withdrawn from Trust Account for redemptions",
+                "concept": "mvst:CashWithdrawnFromTrustAccountForRedemptions",
+                "unit": "usd",
+                "value": 493572
+            },
+            {
+                "label": "Prepaid income taxes",
+                "concept": "IncreaseDecreaseInPrepaidTaxes",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Change in fair value of warrant liability",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -20610
+            }
+        ],
+        "ic": [
+            {
+                "label": "Basic and diluted weighted average shares outstanding, Common stock subject to possible redemption (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 27135801
+            },
+            {
+                "label": "Basic and diluted weighted average shares outstanding, Common stock subject to possible redemption (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 27135801
+            },
+            {
+                "label": "Unrealized gain (loss) on marketable securities held in Trust Account",
+                "concept": "HeldToMaturitySecuritiesTransferredToTradingSecuritiesUnrealizedGainLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Basic net loss per common share, Non-redeemable common stock (in Dollars per share)",
+                "concept": "mvst:BasicNetLossPerCommonShareNonredeemableCommonStockinDollarsPerShare",
+                "unit": "usd/shares",
+                "value": -0.25
+            },
+            {
+                "label": "Interest income earned on marketable securities held in Trust Account",
+                "concept": "InterestIncomeOther",
+                "unit": "usd",
+                "value": 46299
+            },
+            {
+                "label": "Change in fair value of warrant liability",
+                "concept": "mvst:ChangeInFairValueOfWarrantLiability",
+                "unit": "usd",
+                "value": 20610
+            },
+            {
+                "label": "Basic and diluted net income per share, Common stock subject to possible redemption (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Basic and diluted net income per share, Common stock subject to possible redemption (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": "N/A"
+            },
+            {
+                "label": "Basic and diluted weighted average shares outstanding, Non-redeemable common stock (in Shares)",
+                "concept": "mvst:BasicAndDilutedWeightedAverageSharesOutstandingNonredeemableCommonStockinDoll",
+                "unit": "shares",
+                "value": 8344990
+            },
+            {
+                "label": "Benefit from (Provision for) income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -4514
+            },
+            {
+                "label": "Other income (expense), net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -669091
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -2103934
+            },
+            {
+                "label": "Change in the fair value of convertible promissory notes \u2013 related party",
+                "concept": "mvst:ChangeInTheFairValueOfConvertiblePromissoryNoteRelatedParty",
+                "unit": "usd",
+                "value": 736000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -1434843
+            }
+        ]
+    }
+}

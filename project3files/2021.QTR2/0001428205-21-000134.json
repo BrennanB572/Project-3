@@ -1,0 +1,549 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "ARR",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash collateral posted to counterparties",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 277554000
+            },
+            {
+                "label": "Cash collateral posted to counterparties",
+                "concept": "CashCollateralForBorrowedSecurities",
+                "unit": "usd",
+                "value": 52796000
+            },
+            {
+                "label": "Agency Securities (including pledged securities of $3,955,310 at March 31, 2021 and $4,726,584 at December 31, 2020)",
+                "concept": "arr:DebtSecuritiesAvailableforSaleandTradingAgencySecurities",
+                "unit": "usd",
+                "value": 4318397000
+            },
+            {
+                "label": "Receivable for unsettled sales (including pledged securities of $342,482 at March 31, 2021)",
+                "concept": "ReceivablesFromBrokersDealersAndClearingOrganizations",
+                "unit": "usd",
+                "value": 358670000
+            },
+            {
+                "label": "Derivatives, at fair value",
+                "concept": "DerivativeAssets",
+                "unit": "usd",
+                "value": 216297000
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 11094000
+            },
+            {
+                "label": "Prepaid and other",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 9692000
+            },
+            {
+                "label": "Subordinated loan to BUCKLER",
+                "concept": "DueFromRelatedParties",
+                "unit": "usd",
+                "value": 105000000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 5349500000
+            },
+            {
+                "label": "Repurchase agreements",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 3810790000
+            },
+            {
+                "label": "Cash collateral posted by counterparties",
+                "concept": "arr:CashCollateralHeldForCounterparties",
+                "unit": "usd",
+                "value": 165130000
+            },
+            {
+                "label": "Derivatives, at fair value",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 45015000
+            },
+            {
+                "label": "Accrued interest payable- repurchase agreements",
+                "concept": "arr:InterestPayableSecuritiesSoldunderAgreementstoRepurchase",
+                "unit": "usd",
+                "value": 1015000
+            },
+            {
+                "label": "Accounts payable and other accrued expenses",
+                "concept": "AccountsPayableAndOtherAccruedLiabilities",
+                "unit": "usd",
+                "value": 4373000
+            },
+            {
+                "label": "Liabilities and Stockholders\u2019 Equity",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4322314000
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.001 par value, 125,000 shares authorized, 69,748 and 65,290 shares issued and outstanding at March 31, 2021 and December 31, 2020, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 69000
+            },
+            {
+                "label": "Total Additional Paid-in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 3115352000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -2225038000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 136797000
+            },
+            {
+                "label": "Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1027186000
+            },
+            {
+                "label": "Liabilities and Stockholders\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 5349500000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss) available (related) to common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 71327000
+            },
+            {
+                "label": "Net amortization of premium on Agency Securities",
+                "concept": "arr:AccretionAmortizationofDiscountsandPremiumsInvestmentsAvailableforSale",
+                "unit": "usd",
+                "value": -15795000
+            },
+            {
+                "label": "Realized gain on sale of Agency Securities, available for sale",
+                "concept": "DebtSecuritiesAvailableForSaleRealizedGainLossExcludingOtherThanTemporaryImpairment",
+                "unit": "usd",
+                "value": 7354000
+            },
+            {
+                "label": "Credit loss expense",
+                "concept": "DebtSecuritiesAvailableForSaleAllowanceForCreditLossNotPreviouslyRecorded",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Loss on Agency Securities, trading",
+                "concept": "DebtSecuritiesTradingGainLoss",
+                "unit": "usd",
+                "value": -62586000
+            },
+            {
+                "label": "Loss on short sale of U.S. Treasury Securities",
+                "concept": "arr:GainLossonShortSaleofUSTreasurySecurities",
+                "unit": "usd",
+                "value": -28000
+            },
+            {
+                "label": "Granted (in shares)",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1199000
+            },
+            {
+                "label": "Increase in accrued interest receivable",
+                "concept": "IncreaseDecreaseInAccruedInterestReceivableNet",
+                "unit": "usd",
+                "value": -1952000
+            },
+            {
+                "label": "Increase (decrease) in prepaid and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 7715000
+            },
+            {
+                "label": "Change in derivatives, at fair value",
+                "concept": "IncreaseDecreaseInDerivativeAssetsAndLiabilities",
+                "unit": "usd",
+                "value": 117813000
+            },
+            {
+                "label": "Decrease in accrued interest payable- repurchase agreements",
+                "concept": "IncreaseDecreaseInPayablesUnderRepurchaseAgreements",
+                "unit": "usd",
+                "value": -610000
+            },
+            {
+                "label": "Increase in accounts payable and other accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 1802000
+            },
+            {
+                "label": "Net cash and cash collateral posted to counterparties provided by (used in) operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 21197000
+            },
+            {
+                "label": "Purchases of Agency Securities",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Principal repayments of Agency Securities",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 278722000
+            },
+            {
+                "label": "Principal repayments of Credit Risk and Non-Agency Securities",
+                "concept": "ProceedsFromMaturitiesRepaymentsAndCallsOfTradingSecuritiesHeldforinvestment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from sales of Agency Securities",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 405050000
+            },
+            {
+                "label": "Disbursements on reverse repurchase agreements",
+                "concept": "PaymentsForSecuritiesPurchasedUnderAgreementsToResell",
+                "unit": "usd",
+                "value": 391125000
+            },
+            {
+                "label": "Receipts from reverse repurchase agreements",
+                "concept": "ProceedsFromSecuritiesPurchasedUnderAgreementsToResell",
+                "unit": "usd",
+                "value": 391125000
+            },
+            {
+                "label": "Decrease in cash collateral posted by counterparties",
+                "concept": "IncreaseDecreaseCashCollateralFromCounterparties",
+                "unit": "usd",
+                "value": 120426000
+            },
+            {
+                "label": "Cash Flows From Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 804170000
+            },
+            {
+                "label": "Issuance of common stock, net of expenses",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 52960000
+            },
+            {
+                "label": "Proceeds from repurchase agreements",
+                "concept": "arr:ProceedsFromSecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 7044307000
+            },
+            {
+                "label": "Principal repayments on repurchase agreements",
+                "concept": "arr:PaymentsForSecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 7769582000
+            },
+            {
+                "label": "Common stock dividends paid",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 20057000
+            },
+            {
+                "label": "Common stock repurchased, net",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash Flows From Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -666685000
+            },
+            {
+                "label": "Net Increase in cash and cash collateral posted to counterparties",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 158682000
+            },
+            {
+                "label": "Cash paid during the period for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 4193000
+            },
+            {
+                "label": "Receivable for unsettled sales",
+                "concept": "arr:NoncashInvestingAndFinancingActivitiesReceivableForBrokerDealersAndClearingOrganizations",
+                "unit": "usd",
+                "value": 358670000
+            },
+            {
+                "label": "Payable for unsettled purchases",
+                "concept": "arr:NoncashInvestingandFinancingActivitiesPayablestoBrokerDealersAndClearingOrganizations",
+                "unit": "usd",
+                "value": 295991000
+            },
+            {
+                "label": "Net unrealized loss on available for sale Agency Securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": -34880000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Agency Securities, net of amortization of premium and fees",
+                "concept": "InterestIncomeDebtSecuritiesAvailableForSaleOperating",
+                "unit": "usd",
+                "value": 18558000
+            },
+            {
+                "label": "Total Interest Income",
+                "concept": "InterestIncomeDebtSecuritiesOperating",
+                "unit": "usd",
+                "value": 18575000
+            },
+            {
+                "label": "Interest expense- repurchase agreements",
+                "concept": "InterestExpenseSecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 2427000
+            },
+            {
+                "label": "Interest expense- U.S. Treasury Securities sold short",
+                "concept": "arr:InterestExpenseUSTreasurySecuritiesSoldShort",
+                "unit": "usd",
+                "value": 87000
+            },
+            {
+                "label": "Net Interest Income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 16061000
+            },
+            {
+                "label": "Realized gain on sale of available for sale Agency Securities (reclassified from Other comprehensive loss)",
+                "concept": "DebtSecuritiesAvailableForSaleRealizedGainLoss",
+                "unit": "usd",
+                "value": 7354000
+            },
+            {
+                "label": "Credit loss expense",
+                "concept": "DebtSecuritiesAvailableForSaleAllowanceForCreditLossNotPreviouslyRecorded",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Loss on Agency Securities, trading",
+                "concept": "DebtSecuritiesTradingGainLoss",
+                "unit": "usd",
+                "value": -62586000
+            },
+            {
+                "label": "Loss on short sale of U.S. Treasury Securities",
+                "concept": "arr:ShortSaleofUSTreasurySecuritiesUnrealizedGainLoss",
+                "unit": "usd",
+                "value": -28000
+            },
+            {
+                "label": "Subtotal",
+                "concept": "arr:GainLossonAvailableforsaleSecuritiesandShortSales",
+                "unit": "usd",
+                "value": -55260000
+            },
+            {
+                "label": "Realized gain (loss) on derivatives",
+                "concept": "GainLossOnOilAndGasHedgingActivity",
+                "unit": "usd",
+                "value": -27360000
+            },
+            {
+                "label": "Unrealized gain (loss) on derivatives",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": 145980000
+            },
+            {
+                "label": "Subtotal",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": 118620000
+            },
+            {
+                "label": "Total Other Income (Loss)",
+                "concept": "arr:OtherOperatingIncomeLoss",
+                "unit": "usd",
+                "value": 63360000
+            },
+            {
+                "label": "Management fees",
+                "concept": "RelatedPartyTransactionExpensesFromTransactionsWithRelatedParty",
+                "unit": "usd",
+                "value": 7437000
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 738000
+            },
+            {
+                "label": "Insurance",
+                "concept": "GeneralInsuranceExpense",
+                "unit": "usd",
+                "value": 193000
+            },
+            {
+                "label": "Compensation",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 1676000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -450000
+            },
+            {
+                "label": "Total Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 10494000
+            },
+            {
+                "label": "Less management fees waived",
+                "concept": "InvestmentCompanyContractualFeeWaived",
+                "unit": "usd",
+                "value": 2400000
+            },
+            {
+                "label": "Total Expenses after fees waived",
+                "concept": "arr:ExpensesAfterFeesWaived",
+                "unit": "usd",
+                "value": 8094000
+            },
+            {
+                "label": "Net Income (Loss) available (related) to common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 71327000
+            },
+            {
+                "label": "Dividends on preferred stock",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 2486000
+            },
+            {
+                "label": "Net Income (Loss) available (related) to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 68841000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 1.04
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 1.03
+            },
+            {
+                "label": "Dividends declared per common share (in dollars per share)",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": 0.3
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 65964000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 67018000
+            },
+            {
+                "label": "Reclassification adjustment for realized gain on sale of available for sale Agency Securities",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 7354000
+            },
+            {
+                "label": "Reclassification adjustment for credit loss expense on available for sale Agency Securities",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForWritedownOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net unrealized loss on available for sale Agency Securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": -34880000
+            },
+            {
+                "label": "Other comprehensive income (loss):",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -42234000
+            },
+            {
+                "label": "Comprehensive Income (Loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 29093000
+            }
+        ]
+    }
+}

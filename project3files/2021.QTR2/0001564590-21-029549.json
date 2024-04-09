@@ -1,0 +1,333 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "SWBKU",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 749381
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 892227
+            },
+            {
+                "label": "Current assets:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1641608
+            },
+            {
+                "label": "Investments held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 316257330
+            },
+            {
+                "label": "Assets:",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 317898938
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 297928
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 148748
+            },
+            {
+                "label": "Due to related party",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 466676
+            },
+            {
+                "label": "Deferred legal fees, noncurrent.",
+                "concept": "swbku:DeferredLegalFeesNoncurrent",
+                "unit": "usd",
+                "value": 175000
+            },
+            {
+                "label": "Deferred underwriting commissions, noncurrent.",
+                "concept": "swbku:DeferredUnderwritingCommissionsNoncurrent",
+                "unit": "usd",
+                "value": 11068750
+            },
+            {
+                "label": "Derivative warrant liabilities",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 25018750
+            },
+            {
+                "label": "Liabilities and Shareholders' Equity:",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 36729176
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preference shares, $0.0001 par value\u037e 5,000,000 shares authorized\u037e none issued and outstanding at March 31, 2021 and December 31, 2020",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 13009352
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -8010542
+            },
+            {
+                "label": "Shareholders' Equity:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000002
+            },
+            {
+                "label": "Liabilities and Shareholders' Equity:",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 317898938
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -7975959
+            },
+            {
+                "label": "Change in fair value of derivative warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 5858750
+            },
+            {
+                "label": "Financing costs derivative warrant liabilities.",
+                "concept": "swbku:FinancingCostsDerivativeWarrantLiabilities",
+                "unit": "usd",
+                "value": 567370
+            },
+            {
+                "label": "Loss upon issuance of private placement warrants.",
+                "concept": "swbku:LossUponIssuanceOfPrivatePlacementWarrants",
+                "unit": "usd",
+                "value": 1221000
+            },
+            {
+                "label": "Net gain from investments held in Trust Account",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": 7330
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 892227
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayableTrade",
+                "unit": "usd",
+                "value": 67870
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 43748
+            },
+            {
+                "label": "Due to related party",
+                "concept": "IncreaseDecreaseInDueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Cash Flows from Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -1096778
+            },
+            {
+                "label": "Cash deposited in Trust Account",
+                "concept": "PaymentsToAcquireRestrictedInvestments",
+                "unit": "usd",
+                "value": 316250000
+            },
+            {
+                "label": "Cash Flows from Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -316250000
+            },
+            {
+                "label": "Repayment of note payable to related party",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 82441
+            },
+            {
+                "label": "Proceeds received from initial public offering, gross",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": 316250000
+            },
+            {
+                "label": "Proceeds received from private placement",
+                "concept": "ProceedsFromIssuanceOfPrivatePlacement",
+                "unit": "usd",
+                "value": 8325000
+            },
+            {
+                "label": "Offering costs paid",
+                "concept": "PaymentOfFinancingAndStockIssuanceCosts",
+                "unit": "usd",
+                "value": 6396400
+            },
+            {
+                "label": "Cash Flows from Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 318096159
+            },
+            {
+                "label": "Net increase in cash",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 749381
+            },
+            {
+                "label": "Offering costs included in accounts payable.",
+                "concept": "swbku:OfferingCostsIncludedInAccountsPayable",
+                "unit": "usd",
+                "value": 188800
+            },
+            {
+                "label": "Offering costs included in accrued expenses.",
+                "concept": "swbku:OfferingCostsIncludedInAccruedExpenses",
+                "unit": "usd",
+                "value": 100000
+            },
+            {
+                "label": "Offering costs paid by related party under promissory note.",
+                "concept": "swbku:OfferingCostsPaidByRelatedPartyUnderPromissoryNote",
+                "unit": "usd",
+                "value": 7449
+            },
+            {
+                "label": "Reversal of accrued expenses.",
+                "concept": "swbku:ReversalOfAccruedExpenses",
+                "unit": "usd",
+                "value": 202000
+            },
+            {
+                "label": "Deferred underwriting commissions, noncurrent.",
+                "concept": "swbku:DeferredUnderwritingCommissions",
+                "unit": "usd",
+                "value": 11068750
+            },
+            {
+                "label": "Deferred legal fees, noncurrent.",
+                "concept": "swbku:DeferredLegalFees",
+                "unit": "usd",
+                "value": 175000
+            },
+            {
+                "label": "Initial value of Class A ordinary shares subject to possible redemption.",
+                "concept": "swbku:InitialValueOfClassAOrdinarySharesSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 282352680
+            },
+            {
+                "label": "Change in value of Class A ordinary shares subject to possible redemption.",
+                "concept": "swbku:ChangeInValueOfClassAOrdinarySharesSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": -6182920
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 283266
+            },
+            {
+                "label": "Administrative expenses - related party",
+                "concept": "RelatedPartyTransactionSellingGeneralAndAdministrativeExpensesFromTransactionsWithRelatedParty",
+                "unit": "usd",
+                "value": 52903
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -336169
+            },
+            {
+                "label": "Change in fair value of derivative warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 5858750
+            },
+            {
+                "label": "Financing costs derivative warrant liabilities.",
+                "concept": "swbku:FinancingCostsDerivativeWarrantLiabilities",
+                "unit": "usd",
+                "value": 567370
+            },
+            {
+                "label": "Loss upon issuance of private placement warrants.",
+                "concept": "swbku:LossUponIssuanceOfPrivatePlacementWarrants",
+                "unit": "usd",
+                "value": 1221000
+            },
+            {
+                "label": "Net gain from investments held in Trust Account",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": 7330
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -7975959
+            }
+        ]
+    }
+}
