@@ -1,0 +1,158 @@
+{
+    "startDate": "2020-04-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "RPLA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 1261642
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 83333
+            },
+            {
+                "label": "Current assets:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1344975
+            },
+            {
+                "label": "Assets Held-in-trust, Noncurrent",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 293168737
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 294513712
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 26078
+            },
+            {
+                "label": "Accrued Liabilities, Current",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 51078
+            },
+            {
+                "label": "It represents deferred underwriting commission.",
+                "concept": "rpla:DeferredUnderWritingCommission",
+                "unit": "usd",
+                "value": 9187500
+            },
+            {
+                "label": "Liabilities and Shareholders' Equity",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 9238578
+            },
+            {
+                "label": "Commitments and Contingencies.",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Temporary Equity, Carrying Amount, Attributable to Parent",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 280275130
+            },
+            {
+                "label": "Common Stock, Value, Issued",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 791
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 4999213
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000004
+            },
+            {
+                "label": "Liabilities and Shareholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 294513712
+            }
+        ],
+        "cf": [],
+        "ic": [
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 96052
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -96052
+            },
+            {
+                "label": "Amount of gain on marketable securities, dividends and interest held in Trust Account.",
+                "concept": "rpla:GainOnMarketableSecuritiesDividendAndInterestHeldInTrustAccount",
+                "unit": "usd",
+                "value": -14168
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -110220
+            },
+            {
+                "label": "Average number of  public shares or units issued and outstanding that are used in calculating basic and diluted earnings per share (EPS).",
+                "concept": "rpla:BasicAndDilutedWeightedAverageSharesOutstandingOfPublicShares",
+                "unit": "shares",
+                "value": 28750000
+            },
+            {
+                "label": "The amount of net income or loss for the period per each share in instances when basic and diluted earnings per share are the same amount and reported as a single line item on the face of the financial statements.  Basic earnings per share is the amount of net income or loss for the period per each share of common stock or unit outstanding during the reporting period.  Diluted earnings per share includes the amount of net income or loss for the period available to each share of common stock or common unit outstanding during the reporting period and to each share or unit that would have been outstanding assuming the issuance of common shares or units for all dilutive potential common shares or units outstanding during the reporting period.",
+                "concept": "rpla:BasicAndDilutedNetIncomePerSharePublicShare",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Average number of Founder shares or units issued and outstanding that are used in calculating basic and diluted earnings per share (EPS).",
+                "concept": "rpla:BasicAndDilutedWeightedAverageSharesOutstandingOfFounderShares",
+                "unit": "shares",
+                "value": 7187500
+            },
+            {
+                "label": "The amount of net income or loss for the period per each share in instances when basic and diluted earnings per share are the same amount and reported as a single line item on the face of the financial statements.  Basic earnings per share is the amount of net income or loss for the period per each share of common stock or unit outstanding during the reporting period.  Diluted earnings per share includes the amount of net income or loss for the period available to each share of common stock or common unit outstanding during the reporting period and to each share or unit that would have been outstanding assuming the issuance of common shares or units for all dilutive potential common shares or units outstanding during the reporting period.",
+                "concept": "rpla:BasicAndDilutedNetLossPerShareFounderShare",
+                "unit": "usd/shares",
+                "value": -0.01
+            }
+        ]
+    }
+}

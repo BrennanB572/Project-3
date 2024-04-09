@@ -1,0 +1,483 @@
+{
+    "startDate": "2018-01-01",
+    "endDate": "2018-03-31",
+    "year": "2018",
+    "quarter": "Q1",
+    "symbol": "CNFR",
+    "data": {
+        "bs": [
+            {
+                "label": "Debt securities, at fair value (amortized cost of $137,025 and $137,004, respectively)",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 134711000
+            },
+            {
+                "label": "Equity securities, at fair value (cost of $8,664 and $8,629, respectively)",
+                "concept": "AvailableForSaleSecuritiesEquitySecurities",
+                "unit": "usd",
+                "value": 9425000
+            },
+            {
+                "label": "Short-term investments, at fair value",
+                "concept": "ShortTermInvestments",
+                "unit": "usd",
+                "value": 2505000
+            },
+            {
+                "label": "Investments, Debt and Equity Securities [Abstract]",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 146641000
+            },
+            {
+                "label": "Cash and short-term investments",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 14406000
+            },
+            {
+                "label": "Premiums and agents' balances receivable, net",
+                "concept": "PremiumsReceivableAtCarryingValue",
+                "unit": "usd",
+                "value": 19895000
+            },
+            {
+                "label": "Receivable from Affiliate",
+                "concept": "DueFromAffiliates",
+                "unit": "usd",
+                "value": 1783000
+            },
+            {
+                "label": "Reinsurance recoverables on unpaid losses",
+                "concept": "ReinsuranceRecoverableForUnpaidClaimsAndClaimsAdjustments",
+                "unit": "usd",
+                "value": 20063000
+            },
+            {
+                "label": "Reinsurance recoverables on paid losses",
+                "concept": "ReinsuranceRecoverablesOnPaidLosses",
+                "unit": "usd",
+                "value": 4595000
+            },
+            {
+                "label": "Prepaid reinsurance premiums",
+                "concept": "PrepaidReinsurancePremiums",
+                "unit": "usd",
+                "value": 1050000
+            },
+            {
+                "label": "Deferred policy acquisition costs",
+                "concept": "DeferredPolicyAcquisitionCosts",
+                "unit": "usd",
+                "value": 12050000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 9171000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 229654000
+            },
+            {
+                "label": "Unpaid losses and loss adjustment expenses",
+                "concept": "LiabilityForClaimsAndClaimsAdjustmentExpense",
+                "unit": "usd",
+                "value": 85491000
+            },
+            {
+                "label": "Unearned premiums",
+                "concept": "UnearnedPremiums",
+                "unit": "usd",
+                "value": 53685000
+            },
+            {
+                "label": "Reinsurance premiums payable",
+                "concept": "ReinsurancePayable",
+                "unit": "usd",
+                "value": 3398000
+            },
+            {
+                "label": "Debt",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 29043000
+            },
+            {
+                "label": "Accounts payable and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 6613000
+            },
+            {
+                "label": "Liabilities and Shareholders' Equity",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 178230000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, no par value (100,000,000 shares authorized; 8,520,328 issued and outstanding, respectively)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 86430000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -32318000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -2688000
+            },
+            {
+                "label": "Shareholders' equity:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 51424000
+            },
+            {
+                "label": "Liabilities and Shareholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 229654000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 213000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "cnfr:DepreciationAndAmortizationOfPropertyAndEquipmentAndIntangibles",
+                "unit": "usd",
+                "value": 88000
+            },
+            {
+                "label": "Amortization of bond premium and discount, net",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 139000
+            },
+            {
+                "label": "Net realized investment (gains) losses",
+                "concept": "GainLossOnInvestmentsExcludingOtherThanTemporaryImpairments",
+                "unit": "usd",
+                "value": 161000
+            },
+            {
+                "label": "Gain (loss) in fair value of equity securities included in net income",
+                "concept": "cnfr:EquitySecuritiesFVNIGainLoss",
+                "unit": "usd",
+                "value": -297000
+            },
+            {
+                "label": "Equity Award [Domain]",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 231000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 55000
+            },
+            {
+                "label": "Premiums and agents' balances and other receivables",
+                "concept": "IncreaseDecreaseInPremiumsReceivable",
+                "unit": "usd",
+                "value": -2362000
+            },
+            {
+                "label": "Reinsurance recoverables",
+                "concept": "IncreaseDecreaseInReinsuranceRecoverable",
+                "unit": "usd",
+                "value": 119000
+            },
+            {
+                "label": "Prepaid reinsurance premiums",
+                "concept": "IncreaseDecreaseInPrepaidReinsurancePremiums",
+                "unit": "usd",
+                "value": -31000
+            },
+            {
+                "label": "Deferred policy acquisition costs",
+                "concept": "IncreaseDecreaseInDeferredPolicyAcquisitionCosts",
+                "unit": "usd",
+                "value": -731000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 2075000
+            },
+            {
+                "label": "Unpaid losses and loss adjustment expenses",
+                "concept": "IncreaseDecreaseInLiabilityForClaimsAndClaimsAdjustmentExpenseReserve",
+                "unit": "usd",
+                "value": -2405000
+            },
+            {
+                "label": "Unearned premiums",
+                "concept": "IncreaseDecreaseInUnearnedPremiums",
+                "unit": "usd",
+                "value": -3987000
+            },
+            {
+                "label": "Accounts payable and other liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 802000
+            },
+            {
+                "label": "Cash Flows From Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -3908000
+            },
+            {
+                "label": "Purchase of investments",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": 25175000
+            },
+            {
+                "label": "Proceeds from maturities and redemptions of investments",
+                "concept": "ProceedsFromSaleMaturityAndCollectionsOfInvestments",
+                "unit": "usd",
+                "value": 5079000
+            },
+            {
+                "label": "Proceeds from sales of investments",
+                "concept": "PaymentsForProceedsFromInvestments",
+                "unit": "usd",
+                "value": -26563000
+            },
+            {
+                "label": "Purchases of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 21000
+            },
+            {
+                "label": "Cash Flows From Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 6446000
+            },
+            {
+                "label": "Repayment of borrowings under debt arrangements",
+                "concept": "RepaymentsOfLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash Flows From Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net increase (decrease) in cash",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 2538000
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 619000
+            },
+            {
+                "label": "Net income taxes paid",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 0
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 213000
+            },
+            {
+                "label": "Unrealized investment gains (losses) during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": -1846000
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Unrealized investment gains (losses), net of tax",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": -1846000
+            },
+            {
+                "label": "Net realized investment gains (losses) included in net income (loss)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total reclassifications included in net income (loss), net of tax",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Other comprehensive income (loss), net of tax:",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -1846000
+            },
+            {
+                "label": "Total comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -1633000
+            },
+            {
+                "label": "Gross earned premiums",
+                "concept": "cnfr:PremiumsEarnedGross",
+                "unit": "usd",
+                "value": 27724000
+            },
+            {
+                "label": "Ceded earned premiums",
+                "concept": "CededPremiumsEarned",
+                "unit": "usd",
+                "value": 3924000
+            },
+            {
+                "label": "Net earned premiums",
+                "concept": "PremiumsEarnedNet",
+                "unit": "usd",
+                "value": 23800000
+            },
+            {
+                "label": "Net investment income",
+                "concept": "NetInvestmentIncome",
+                "unit": "usd",
+                "value": 802000
+            },
+            {
+                "label": "Net realized investment gains (losses)",
+                "concept": "RealizedInvestmentGainsLosses",
+                "unit": "usd",
+                "value": 161000
+            },
+            {
+                "label": "Change in fair value of equity securities",
+                "concept": "cnfr:EquitySecuritiesFVNIUnrealizedRealizedGainLoss",
+                "unit": "usd",
+                "value": -297000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 357000
+            },
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 24823000
+            },
+            {
+                "label": "Losses and loss adjustment expenses, net",
+                "concept": "LiabilityForUnpaidClaimsAndClaimsAdjustmentExpenseIncurredClaims1",
+                "unit": "usd",
+                "value": 13328000
+            },
+            {
+                "label": "Policy acquisition costs",
+                "concept": "DeferredPolicyAcquisitionCostAmortizationExpense",
+                "unit": "usd",
+                "value": 6513000
+            },
+            {
+                "label": "Operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 4187000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 619000
+            },
+            {
+                "label": "Expenses",
+                "concept": "BenefitsLossesAndExpenses",
+                "unit": "usd",
+                "value": 24647000
+            },
+            {
+                "label": "Income (loss) before equity earnings of affiliates and income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 176000
+            },
+            {
+                "label": "Equity earnings of affiliates, net of tax",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 55000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 18000
+            },
+            {
+                "label": "Earnings (loss) per per common share, basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.02
+            },
+            {
+                "label": "Weighted average common shares outstanding, basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 8520328
+            }
+        ]
+    }
+}

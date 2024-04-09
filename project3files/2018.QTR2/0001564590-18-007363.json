@@ -1,0 +1,387 @@
+{
+    "startDate": "2017-01-01",
+    "endDate": "2017-12-31",
+    "year": "2017",
+    "quarter": "FY",
+    "symbol": "TRILINC",
+    "data": {
+        "bs": [
+            {
+                "label": "Investments owned, at fair value (amortized cost of $335,328,569 and $203,854,890, respectively)",
+                "concept": "InvestmentOwnedAtFairValue",
+                "unit": "usd",
+                "value": 335269492
+            },
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 9641457
+            },
+            {
+                "label": "Interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 9210430
+            },
+            {
+                "label": "Due from affiliates (see Note 5)",
+                "concept": "DueFromAffiliates",
+                "unit": "usd",
+                "value": 3997314
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 189103
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 358307796
+            },
+            {
+                "label": "Due to unitholders",
+                "concept": "DueToOfficersOrStockholdersCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1295293
+            },
+            {
+                "label": "Management fee payable",
+                "concept": "ManagementFeePayable",
+                "unit": "usd",
+                "value": 1763018
+            },
+            {
+                "label": "Incentive fee payable.",
+                "concept": "trilinc:IncentiveFeePayable",
+                "unit": "usd",
+                "value": 1323929
+            },
+            {
+                "label": "Notes payable",
+                "concept": "SeniorNotes",
+                "unit": "usd",
+                "value": 28160000
+            },
+            {
+                "label": "Unit repurchases payable.",
+                "concept": "trilinc:UnitRepurchasesPayable",
+                "unit": "usd",
+                "value": 2153077
+            },
+            {
+                "label": "Distribution and other fee payable.",
+                "concept": "trilinc:DistributionAndOtherFeePayable",
+                "unit": "usd",
+                "value": 1895000
+            },
+            {
+                "label": "Other payables",
+                "concept": "AccountsPayableOtherCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 360742
+            },
+            {
+                "label": "LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 36951059
+            },
+            {
+                "label": "Commitments and Contingencies (see Note 5)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "NET ASSETS",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 321356737
+            },
+            {
+                "label": "Offering costs",
+                "concept": "OfferingCostsPartnershipInterests",
+                "unit": "usd",
+                "value": 17156501
+            }
+        ],
+        "cf": [
+            {
+                "label": "INVESTMENT INCOME",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 22167323
+            },
+            {
+                "label": "NET INCREASE IN NET ASSETS RESULTING FROM OPERATIONS",
+                "concept": "IncreaseDecreaseInOperatingAssets",
+                "unit": "usd",
+                "value": 22167323
+            },
+            {
+                "label": "DECREASE FROM DISTRIBUTIONS",
+                "concept": "PartnersCapitalAccountDistributions",
+                "unit": "usd",
+                "value": 25552855
+            },
+            {
+                "label": "Repurchase of units",
+                "concept": "PartnersCapitalAccountTreasuryUnitsPurchases",
+                "unit": "usd",
+                "value": 8699994
+            },
+            {
+                "label": "Offering costs",
+                "concept": "NoninterestExpenseOfferingCost",
+                "unit": "usd",
+                "value": 2612810
+            },
+            {
+                "label": "Partners capital account period increase decrease in capital transactions.",
+                "concept": "trilinc:PartnersCapitalAccountPeriodIncreaseDecreaseInCapitalTransactions",
+                "unit": "usd",
+                "value": 73986354
+            },
+            {
+                "label": "NET INCREASE IN NET ASSETS",
+                "concept": "PartnersCapitalAccountPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 70600822
+            },
+            {
+                "label": "Purchase of investments",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": 323243049
+            },
+            {
+                "label": "Maturity of investments",
+                "concept": "ProceedsFromSaleMaturityAndCollectionsOfInvestments",
+                "unit": "usd",
+                "value": 196587426
+            },
+            {
+                "label": "Payment-in-kind interest",
+                "concept": "PaidInKindInterest",
+                "unit": "usd",
+                "value": 3600991
+            },
+            {
+                "label": "Accretion of discounts on investments",
+                "concept": "AccretionAmortizationOfDiscountsAndPremiumsInvestments",
+                "unit": "usd",
+                "value": 1217065
+            },
+            {
+                "label": "Increase in interest receivable",
+                "concept": "IncreaseDecreaseInAccruedInterestReceivableNet",
+                "unit": "usd",
+                "value": 2343998
+            },
+            {
+                "label": "Increase in due from affiliates",
+                "concept": "IncreaseDecreaseDueFromAffiliates",
+                "unit": "usd",
+                "value": 821658
+            },
+            {
+                "label": "Increase decrease in other expenses.",
+                "concept": "trilinc:IncreaseDecreaseInOtherExpenses",
+                "unit": "usd",
+                "value": -31669
+            },
+            {
+                "label": "Increase in due to unitholders",
+                "concept": "IncreaseDecreaseInDueToOfficersAndStockholders",
+                "unit": "usd",
+                "value": 360488
+            },
+            {
+                "label": "Increase decrease in management and incentive fees payable.",
+                "concept": "trilinc:IncreaseDecreaseInManagementAndIncentiveFeesPayable",
+                "unit": "usd",
+                "value": 1920800
+            },
+            {
+                "label": "Increase in other payable",
+                "concept": "IncreaseDecreaseInOtherAccountsPayable",
+                "unit": "usd",
+                "value": 307841
+            },
+            {
+                "label": "Cash flows from operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -109851214
+            },
+            {
+                "label": "Net proceeds from issuance of units",
+                "concept": "ProceedsFromIssuanceOfCommonLimitedPartnersUnits",
+                "unit": "usd",
+                "value": 74019746
+            },
+            {
+                "label": "Distributions paid to unitholders",
+                "concept": "DistributionMadeToLimitedLiabilityCompanyLLCMemberCashDistributionsPaid",
+                "unit": "usd",
+                "value": 14285443
+            },
+            {
+                "label": "Payments of offering costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 2681122
+            },
+            {
+                "label": "Payments for repurchase of capital units.",
+                "concept": "trilinc:PaymentsForRepurchaseOfCapitalUnits",
+                "unit": "usd",
+                "value": 8705172
+            },
+            {
+                "label": "Repayments of notes payable",
+                "concept": "RepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": 1450000
+            },
+            {
+                "label": "Proceeds from issuance of notes payable",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": 27804350
+            },
+            {
+                "label": "Cash flows from financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 74702359
+            },
+            {
+                "label": "TOTAL INCREASE (DECREASE) IN CASH",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -35148855
+            },
+            {
+                "label": "Cash paid during the year for interest",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 294980
+            },
+            {
+                "label": "Issuance of units in connection with distribution reinvestment plan",
+                "concept": "ProceedsFromIssuanceOfCommonStockDividendReinvestmentPlan",
+                "unit": "usd",
+                "value": 11267412
+            }
+        ],
+        "ic": [
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 32494392
+            },
+            {
+                "label": "Interest from cash",
+                "concept": "InterestRevenueExpenseNet",
+                "unit": "usd",
+                "value": 359682
+            },
+            {
+                "label": "Total investment income",
+                "concept": "InvestmentIncomeInterestAndDividend",
+                "unit": "usd",
+                "value": 32854074
+            },
+            {
+                "label": "Management fees",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 6484850
+            },
+            {
+                "label": "Incentive fees",
+                "concept": "IncentiveFeeExpense",
+                "unit": "usd",
+                "value": 4599941
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 1187220
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1421712
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 606943
+            },
+            {
+                "label": "Board of managers fees.",
+                "concept": "trilinc:BoardOfManagersFees",
+                "unit": "usd",
+                "value": 217500
+            },
+            {
+                "label": "Operating expenses gross.",
+                "concept": "trilinc:OperatingExpensesGross",
+                "unit": "usd",
+                "value": 14518166
+            },
+            {
+                "label": "Operating expenses reimbursed by sponsor.",
+                "concept": "trilinc:OperatingExpensesReimbursedBySponsor",
+                "unit": "usd",
+                "value": 3831415
+            },
+            {
+                "label": "EXPENSES",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 10686751
+            },
+            {
+                "label": "INVESTMENT INCOME",
+                "concept": "InvestmentIncomeNet",
+                "unit": "usd",
+                "value": 22167323
+            },
+            {
+                "label": "NET INCREASE IN NET ASSETS RESULTING FROM OPERATIONS",
+                "concept": "IncreaseDecreaseInOperatingAssets",
+                "unit": "usd",
+                "value": 22167323
+            },
+            {
+                "label": "Net investment income per units basic and diluted.",
+                "concept": "trilinc:NetInvestmentIncomePerUnitsBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.62
+            },
+            {
+                "label": "EARNINGS PER UNITS - BASIC AND DILUTED",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.62
+            },
+            {
+                "label": "WEIGHTED AVERAGE UNITS OUTSTANDING - BASIC AND DILUTED",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 35541295
+            }
+        ]
+    }
+}

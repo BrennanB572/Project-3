@@ -1,0 +1,243 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-03-31",
+    "year": "2019",
+    "quarter": "Q1",
+    "symbol": "PACQ",
+    "data": {
+        "bs": [
+            {
+                "label": "us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 618078
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 618078
+            },
+            {
+                "label": "Cash and marketable securities held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 421017691
+            },
+            {
+                "label": "us-gaap_OtherAssetsNoncurrent",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 421017691
+            },
+            {
+                "label": "Cash and marketable securities held in Trust Account",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 421635769
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 51291
+            },
+            {
+                "label": "Accrued taxes payable",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 771665
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 822956
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized, none issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 797383
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 6014395
+            },
+            {
+                "label": "Stockholders' Equity Note Disclosure [Text Block]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 6812813
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 421635769
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (unaudited)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1745005
+            },
+            {
+                "label": "Other income - investment income on Trust Account",
+                "concept": "InvestmentIncomeNonoperating",
+                "unit": "usd",
+                "value": 2434969
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidExpense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": -3023
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 11424
+            },
+            {
+                "label": "Accrued franchise taxes",
+                "concept": "pacq:IncreaseDecreaseInAccruedFranchiseTaxesPayable",
+                "unit": "usd",
+                "value": -86927
+            },
+            {
+                "label": "Accrued income taxes",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 500833
+            },
+            {
+                "label": "CASH FLOWS FROM OPERATING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -261611
+            },
+            {
+                "label": "Cash released from Trust Account",
+                "concept": "pacq:ProceedsFromReleaseOfTrustAccount",
+                "unit": "usd",
+                "value": 144795
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 144795
+            },
+            {
+                "label": "Proceeds from promissory note from Sponsor",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -116816
+            },
+            {
+                "label": "Cash paid for franchise taxes",
+                "concept": "pacq:FranchiseTaxesPaid",
+                "unit": "usd",
+                "value": 144795
+            },
+            {
+                "label": "Common stock subject to redemption",
+                "concept": "pacq:CommonStockSubjectedToRedemptionAmount",
+                "unit": "usd",
+                "value": 414000000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenues",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Administrative expenses",
+                "concept": "pacq:AdministrativeExpenses",
+                "unit": "usd",
+                "value": 30000
+            },
+            {
+                "label": "General expenses",
+                "concept": "pacq:GeneralExpenses",
+                "unit": "usd",
+                "value": 101163
+            },
+            {
+                "label": "Cash paid for franchise taxes",
+                "concept": "pacq:FranchiseTaxes",
+                "unit": "usd",
+                "value": 57968
+            },
+            {
+                "label": "Expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 189131
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -189131
+            },
+            {
+                "label": "Other income - investment income on Trust Account",
+                "concept": "InvestmentIncomeNonoperating",
+                "unit": "usd",
+                "value": 2434969
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2245838
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 500833
+            },
+            {
+                "label": "Net income (unaudited)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1745005
+            }
+        ]
+    }
+}

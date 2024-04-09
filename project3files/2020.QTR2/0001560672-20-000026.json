@@ -1,0 +1,465 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "EARN",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 59671000
+            },
+            {
+                "label": "Mortgage-backed securities, at fair value",
+                "concept": "FinancialInstrumentsOwnedMortgagesMortgageBackedAndAssetBackedSecuritiesAtFairValue",
+                "unit": "usd",
+                "value": 1050521000
+            },
+            {
+                "label": "Other investments, at fair value",
+                "concept": "FinancialInstrumentsOwnedOtherAtFairValue",
+                "unit": "usd",
+                "value": 355000
+            },
+            {
+                "label": "Due from brokers",
+                "concept": "earn:DuefromBrokers",
+                "unit": "usd",
+                "value": 49966000
+            },
+            {
+                "label": "Financial derivatives\u2013assets, at fair value",
+                "concept": "DerivativeAssets",
+                "unit": "usd",
+                "value": 1732000
+            },
+            {
+                "label": "Reverse repurchase agreements",
+                "concept": "SecuritiesPurchasedUnderAgreementsToResell",
+                "unit": "usd",
+                "value": 2218000
+            },
+            {
+                "label": "Receivable for securities sold",
+                "concept": "earn:Receivableforsecuritiessold",
+                "unit": "usd",
+                "value": 111596000
+            },
+            {
+                "label": "Interest receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 4219000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 867000
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1281145000
+            },
+            {
+                "label": "Repurchase agreements",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 1109342000
+            },
+            {
+                "label": "Due to brokers",
+                "concept": "earn:Duetobrokers",
+                "unit": "usd",
+                "value": 2348000
+            },
+            {
+                "label": "Financial derivatives\u2013liabilities, at fair value",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 20234000
+            },
+            {
+                "label": "U.S. Treasury securities sold short, at fair value",
+                "concept": "FinancialInstrumentsSoldNotYetPurchasedUSGovernmentAndAgencyObligations",
+                "unit": "usd",
+                "value": 2154000
+            },
+            {
+                "label": "Dividend payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 3449000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 690000
+            },
+            {
+                "label": "Management fee payable to affiliate",
+                "concept": "ManagementFeePayable",
+                "unit": "usd",
+                "value": 526000
+            },
+            {
+                "label": "Interest payable",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 2679000
+            },
+            {
+                "label": "LIABILITIES AND SHAREHOLDERS' EQUITY",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1141422000
+            },
+            {
+                "label": "Preferred shares, par value $0.01 per share, 100,000,000 shares authorized; (0 shares issued and outstanding, respectively)",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common shares, par value $0.01 per share, 500,000,000 shares authorized; (12,319,616 and 12,455,758 shares issued and outstanding, respectively)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 123000
+            },
+            {
+                "label": "Additional Paid-in Capital [Member]",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 229432000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -89832000
+            },
+            {
+                "label": "Balance",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 139723000
+            },
+            {
+                "label": "LIABILITIES AND SHAREHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1281145000
+            }
+        ],
+        "cf": [
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -16745000
+            },
+            {
+                "label": "Net realized (gains) losses on securities",
+                "concept": "RealizedInvestmentGainsLosses",
+                "unit": "usd",
+                "value": 1093000
+            },
+            {
+                "label": "Change in net unrealized (gains) losses on securities",
+                "concept": "UnrealizedGainLossOnSecurities",
+                "unit": "usd",
+                "value": 6768000
+            },
+            {
+                "label": "Net realized gains (losses) on financial derivatives",
+                "concept": "earn:Netrealizedgainslossesonfinancialderivatives",
+                "unit": "usd",
+                "value": -6499000
+            },
+            {
+                "label": "Change in net unrealized gains (losses) on financial derivatives",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": -20600000
+            },
+            {
+                "label": "Net Amortization",
+                "concept": "AccretionAmortizationOfDiscountsAndPremiumsInvestments",
+                "unit": "usd",
+                "value": -3501000
+            },
+            {
+                "label": "Share Based Compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 59000
+            },
+            {
+                "label": "Interest receivable",
+                "concept": "IncreaseDecreaseInAccruedInterestReceivableNet",
+                "unit": "usd",
+                "value": -797000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 263000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 102000
+            },
+            {
+                "label": "Interest payable",
+                "concept": "earn:Increasedecreaseininterestpayable",
+                "unit": "usd",
+                "value": -1050000
+            },
+            {
+                "label": "Management fees payable to affiliate",
+                "concept": "earn:IncreaseDecreaseInManagementFeePayable",
+                "unit": "usd",
+                "value": -79000
+            },
+            {
+                "label": "Cash flows provided by (used in) operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 5560000
+            },
+            {
+                "label": "Purchases of securities",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": 232331000
+            },
+            {
+                "label": "Proceeds from sale of securities",
+                "concept": "ProceedsFromSaleOfOtherInvestments",
+                "unit": "usd",
+                "value": 398335000
+            },
+            {
+                "label": "Principal repayments of mortgage-backed securities",
+                "concept": "earn:PrincipalRepaymentsOfSecurities",
+                "unit": "usd",
+                "value": 66571000
+            },
+            {
+                "label": "Proceeds from investments sold short",
+                "concept": "InvestmentSoldNotYetPurchasedSaleProceeds",
+                "unit": "usd",
+                "value": 133603000
+            },
+            {
+                "label": "Repurchase of investments sold short",
+                "concept": "earn:Repurchaseofinvestmentssoldshort",
+                "unit": "usd",
+                "value": 136361000
+            },
+            {
+                "label": "Proceeds from disposition of financial derivatives",
+                "concept": "ProceedsFromDerivativeInstrumentInvestingActivities",
+                "unit": "usd",
+                "value": 7278000
+            },
+            {
+                "label": "Purchase of financial derivatives",
+                "concept": "PaymentsForDerivativeInstrumentInvestingActivities",
+                "unit": "usd",
+                "value": 14064000
+            },
+            {
+                "label": "Payments made on reverse repurchase agreements",
+                "concept": "PaymentsForSecuritiesPurchasedUnderAgreementsToResell",
+                "unit": "usd",
+                "value": 2481482000
+            },
+            {
+                "label": "Proceeds from reverse repurchase agreements",
+                "concept": "ProceedsFromSecuritiesPurchasedUnderAgreementsToResell",
+                "unit": "usd",
+                "value": 2481348000
+            },
+            {
+                "label": "Due from brokers, net",
+                "concept": "earn:Duefrombrokersnetinvestingactivities",
+                "unit": "usd",
+                "value": 17463000
+            },
+            {
+                "label": "Due to brokers, net",
+                "concept": "earn:Duetobrokersnetinvestingactivities",
+                "unit": "usd",
+                "value": 276000
+            },
+            {
+                "label": "Cash flows provided by (used in) investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 205710000
+            },
+            {
+                "label": "Repurchase of common shares",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 986000
+            },
+            {
+                "label": "Dividends paid",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 3488000
+            },
+            {
+                "label": "Borrowings under repurchase agreements",
+                "concept": "earn:Borrowingsunderrepurchaseagreements",
+                "unit": "usd",
+                "value": 598921000
+            },
+            {
+                "label": "Repayments of repurchase agreements",
+                "concept": "earn:Repaymentsofrepurchaseagreements",
+                "unit": "usd",
+                "value": 785851000
+            },
+            {
+                "label": "Due from brokers, net",
+                "concept": "earn:Duefrombrokersnetfinancingactivities",
+                "unit": "usd",
+                "value": -4075000
+            },
+            {
+                "label": "Due to brokers, net",
+                "concept": "earn:Duetobrokersnetfinancingactivities",
+                "unit": "usd",
+                "value": 379000
+            },
+            {
+                "label": "Cash flows provided by (used in) financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -186950000
+            },
+            {
+                "label": "NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 24320000
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 7152000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 9881000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "earn:Interestexpensegross",
+                "unit": "usd",
+                "value": 6100000
+            },
+            {
+                "label": "Total net interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 3781000
+            },
+            {
+                "label": "Management fees to affiliate",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 526000
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 208000
+            },
+            {
+                "label": "Compensation expense",
+                "concept": "SalariesAndWages",
+                "unit": "usd",
+                "value": 151000
+            },
+            {
+                "label": "Insurance expense",
+                "concept": "GeneralInsuranceExpense",
+                "unit": "usd",
+                "value": 76000
+            },
+            {
+                "label": "Other operating expenses",
+                "concept": "OtherExpenses",
+                "unit": "usd",
+                "value": 327000
+            },
+            {
+                "label": "EXPENSES",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 1288000
+            },
+            {
+                "label": "Net realized (gains) losses on securities",
+                "concept": "RealizedInvestmentGainsLosses",
+                "unit": "usd",
+                "value": 1093000
+            },
+            {
+                "label": "Net realized gains (losses) on financial derivatives",
+                "concept": "earn:Netrealizedgainslossesonfinancialderivatives",
+                "unit": "usd",
+                "value": -6499000
+            },
+            {
+                "label": "Change in net unrealized (gains) losses on securities",
+                "concept": "UnrealizedGainLossOnSecurities",
+                "unit": "usd",
+                "value": 6768000
+            },
+            {
+                "label": "Change in net unrealized gains (losses) on financial derivatives",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": -20600000
+            },
+            {
+                "label": "Total other income (loss)",
+                "concept": "earn:NetRealizedandUnrealizedGainLossOnInvestmentsandFinancialDerivatives",
+                "unit": "usd",
+                "value": -19238000
+            },
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -16745000
+            },
+            {
+                "label": "Basic and Diluted Earnings Per Share (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -1.35
+            }
+        ]
+    }
+}

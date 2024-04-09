@@ -1,0 +1,543 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "SAFE",
+    "data": {
+        "bs": [
+            {
+                "label": "Real estate, at cost",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 707381000
+            },
+            {
+                "label": "Less: accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 19300000
+            },
+            {
+                "label": "Real estate, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 688081000
+            },
+            {
+                "label": "Real estate-related intangible assets, net",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 240845000
+            },
+            {
+                "label": "Total real estate, net and real estate-related intangible assets, net",
+                "concept": "safe:RealEstateInvestmentPropertyIncludingFiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 928926000
+            },
+            {
+                "label": "Origination/acquisition",
+                "concept": "SalesTypeLeaseNetInvestmentInLease",
+                "unit": "usd",
+                "value": 1045003000
+            },
+            {
+                "label": "Ground Lease Receivables",
+                "concept": "safe:GroundLeaseReceivable",
+                "unit": "usd",
+                "value": 477460000
+            },
+            {
+                "label": "Equity Investments in Ground Leases",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 128736000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 96700000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 42373000
+            },
+            {
+                "label": "Deferred operating lease income receivable",
+                "concept": "DeferredRentReceivablesNet",
+                "unit": "usd",
+                "value": 75841000
+            },
+            {
+                "label": "Deferred expenses and other assets, net",
+                "concept": "DeferredCostsAndOtherAssets",
+                "unit": "usd",
+                "value": 34324000
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2829363000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 73825000
+            },
+            {
+                "label": "Real estate-related intangible liabilities, net",
+                "concept": "BelowMarketLeaseNet",
+                "unit": "usd",
+                "value": 57007000
+            },
+            {
+                "label": "2022",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 1460114000
+            },
+            {
+                "label": "LIABILITIES AND EQUITY",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1590946000
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 400,000 shares authorized, 51,110 and 47,782 shares issued and outstanding as of June 30, 2020 and December 31, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 511000
+            },
+            {
+                "label": "Additional Paid-In Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1287385000
+            },
+            {
+                "label": "Retained earnings (accumulated deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 11454000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -62744000
+            },
+            {
+                "label": "Equity:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1236606000
+            },
+            {
+                "label": "Distributions to noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 1811000
+            },
+            {
+                "label": "Equity:",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1238417000
+            },
+            {
+                "label": "LIABILITIES AND EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2829363000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 29958000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 4702000
+            },
+            {
+                "label": "Stock-based compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1366000
+            },
+            {
+                "label": "Deferred operating lease income",
+                "concept": "StraightLineRent",
+                "unit": "usd",
+                "value": 17538000
+            },
+            {
+                "label": "Non-cash interest income from sales-type leases",
+                "concept": "safe:NonCashInterestIncomeFromSalesTypeLeases",
+                "unit": "usd",
+                "value": 14162000
+            },
+            {
+                "label": "Amortization of real estate-related intangibles, net",
+                "concept": "AmortizationOfAboveAndBelowMarketLeases",
+                "unit": "usd",
+                "value": 1330000
+            },
+            {
+                "label": "Earnings from equity method investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1640000
+            },
+            {
+                "label": "Distributions from operations of equity method investments",
+                "concept": "EquityMethodInvestmentDividendsOrDistributions",
+                "unit": "usd",
+                "value": 427000
+            },
+            {
+                "label": "Amortization of premium, discount and deferred financing costs on debt obligations, net",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 1097000
+            },
+            {
+                "label": "Non-cash management fees",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 6048000
+            },
+            {
+                "label": "Other operating activities",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 1064000
+            },
+            {
+                "label": "Changes in deferred expenses and other assets, net",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -612000
+            },
+            {
+                "label": "Changes in accounts payable, accrued expenses and other liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 5512000
+            },
+            {
+                "label": "Cash flows provided by (used in) operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 18776000
+            },
+            {
+                "label": "Acquisitions of real estate",
+                "concept": "PaymentsToAcquireRealEstate",
+                "unit": "usd",
+                "value": 20276000
+            },
+            {
+                "label": "Origination/acquisition of net investment in sales-type leases and Ground Lease receivables",
+                "concept": "safe:PaymentstoOriginateAcquireSalesTypeLease",
+                "unit": "usd",
+                "value": 83424000
+            },
+            {
+                "label": "Fundings on Ground Lease receivables",
+                "concept": "safe:ProceedsFundingsonGroundLeasereceivables",
+                "unit": "usd",
+                "value": 43192000
+            },
+            {
+                "label": "Deposits on Ground Lease investments",
+                "concept": "IncreaseDecreaseInDepositOtherAssets",
+                "unit": "usd",
+                "value": -1550000
+            },
+            {
+                "label": "Other investing activities",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 361000
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -145703000
+            },
+            {
+                "label": "Proceeds from issuance of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 150086000
+            },
+            {
+                "label": "Proceeds from debt obligations",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 409600000
+            },
+            {
+                "label": "Repayments of debt obligations",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 317000000
+            },
+            {
+                "label": "Payments for deferred financing costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 6140000
+            },
+            {
+                "label": "Dividends paid to common shareholders",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 15412000
+            },
+            {
+                "label": "Payment of offering costs",
+                "concept": "safe:PaymentsofOfferingCosts",
+                "unit": "usd",
+                "value": 1919000
+            },
+            {
+                "label": "Distributions to noncontrolling interests",
+                "concept": "PaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": 21000
+            },
+            {
+                "label": "Contributions from noncontrolling interests (refer to Note 11)",
+                "concept": "ProceedsFromMinorityShareholders",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other financing activities",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": 24000
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 219218000
+            },
+            {
+                "label": "Changes in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 92291000
+            },
+            {
+                "label": "Origination of sales-type leases",
+                "concept": "safe:SalestypeLeaseOriginationAndAcquisitionOfLeasesDuringPeriodNonCashActivity",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Acquisition of real estate",
+                "concept": "NoncashOrPartNoncashAcquisitionFixedAssetsAcquired1",
+                "unit": "usd",
+                "value": 551000
+            },
+            {
+                "label": "Assumption of other liabilities/debt obligations",
+                "concept": "safe:NoncashOrPartNoncashAcquisitionDebtObligationsAndOtherLiabilitiesAssumed",
+                "unit": "usd",
+                "value": 551000
+            },
+            {
+                "label": "Investor unit conversion (refer to Note 11)",
+                "concept": "StockIssuedDuringPeriodValueConversionOfConvertibleSecurities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Dividends declared to common shareholders",
+                "concept": "DividendsCash",
+                "unit": "usd",
+                "value": 8296000
+            },
+            {
+                "label": "Accrued finance costs",
+                "concept": "safe:NonCashAccruedFinancingCosts",
+                "unit": "usd",
+                "value": 305000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Operating lease income",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 37893000
+            },
+            {
+                "label": "Interest income from sales-type leases",
+                "concept": "SalesTypeLeaseInterestIncome",
+                "unit": "usd",
+                "value": 38732000
+            },
+            {
+                "label": "Other Income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 893000
+            },
+            {
+                "label": "Revenues:",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 77518000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 31381000
+            },
+            {
+                "label": "Real estate expense",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 1335000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 4702000
+            },
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 11622000
+            },
+            {
+                "label": "Other expense",
+                "concept": "OtherExpenses",
+                "unit": "usd",
+                "value": 160000
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 49200000
+            },
+            {
+                "label": "Income from operations before other items",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 28318000
+            },
+            {
+                "label": "Earnings from equity method investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1640000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 29958000
+            },
+            {
+                "label": "Net income allocable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 97000
+            },
+            {
+                "label": "Net income attributable to Safehold Inc. common shareholders for basic and diluted earnings per common share",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 29861000
+            },
+            {
+                "label": "Per common share data:",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.6
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.6
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 49656000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 49664000
+            },
+            {
+                "label": "Reclassification of (gains) losses on derivatives into earnings",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": -813000
+            },
+            {
+                "label": "Unrealized loss on derivatives",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": -24434000
+            },
+            {
+                "label": "Other comprehensive income (loss):",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -23621000
+            },
+            {
+                "label": "Comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 6337000
+            },
+            {
+                "label": "Comprehensive (income) loss attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 97000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to Safehold Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 6240000
+            }
+        ]
+    }
+}

@@ -1,0 +1,279 @@
+{
+    "startDate": "2017-01-01",
+    "endDate": "2017-06-30",
+    "year": "2017",
+    "quarter": "Q2",
+    "symbol": "SRUNU",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 232578
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 146246
+            },
+            {
+                "label": "Current assets:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 378824
+            },
+            {
+                "label": "Assets Held-in-trust, Current",
+                "concept": "AssetsHeldInTrustCurrent",
+                "unit": "usd",
+                "value": 1036689994
+            },
+            {
+                "label": "ASSETS:",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1037068818
+            },
+            {
+                "label": "Carrying value as of the balance sheet date of obligations incurred and payable for franchise taxes. Used to reflect the current portion of the liabilities (due within one year or within the normal operating cycle if longer).",
+                "concept": "srunu:FranchiseTaxesPayableCurrent",
+                "unit": "usd",
+                "value": 45000
+            },
+            {
+                "label": "Carrying value as of the balance sheet date of obligations incurred and payable for income taxes. Used to reflect the current portion of the liabilities (due within one year or within the normal operating cycle if longer).",
+                "concept": "srunu:IncomeTaxesPayableCurrent",
+                "unit": "usd",
+                "value": 575748
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 620748
+            },
+            {
+                "label": "Aggregate carrying value as of the balance sheet date of the deferred underwriting discounts payable.",
+                "concept": "srunu:DeferredUnderwritingDiscounts",
+                "unit": "usd",
+                "value": 36225000
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 36845748
+            },
+            {
+                "label": "Temporary Equity, Carrying Amount, Attributable to Parent",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 995223060
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 4266631
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit).",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 730393
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000010
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1037068818
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 732393
+            },
+            {
+                "label": "Investment Income, Nonoperating",
+                "concept": "InvestmentIncomeNonoperating",
+                "unit": "usd",
+                "value": 1689994
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 146246
+            },
+            {
+                "label": "Increase (Decrease) in Property and Other Taxes Payable",
+                "concept": "IncreaseDecreaseInPropertyAndOtherTaxesPayable",
+                "unit": "usd",
+                "value": 45000
+            },
+            {
+                "label": "Increase (Decrease) in Income Taxes Payable",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 575748
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -483099
+            },
+            {
+                "label": "Payments to Acquire Investments",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": 1035000000
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -1035000000
+            },
+            {
+                "label": "Proceeds from Issuance Initial Public Offering",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": 1035000000
+            },
+            {
+                "label": "Proceeds from Issuance of Warrants",
+                "concept": "ProceedsFromIssuanceOfWarrants",
+                "unit": "usd",
+                "value": 22700000
+            },
+            {
+                "label": "The amount of trust income retained in trust account.",
+                "concept": "srunu:PaymentOfUnderwritingDiscounts",
+                "unit": "usd",
+                "value": 20700000
+            },
+            {
+                "label": "The cash outflow for costs incurred in connection with the issuance of an equity security, excluding the underwriting discount.",
+                "concept": "srunu:PaymentsOfStockIssuanceCostsExcludingUnderwritingDiscounts",
+                "unit": "usd",
+                "value": 1209823
+            },
+            {
+                "label": "Repayments of Related Party Debt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 300000
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1035490177
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Continuing Operations",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 7078
+            },
+            {
+                "label": "Aggregate carrying value as of the balance sheet date of the deferred underwriting discounts payable.",
+                "concept": "srunu:DeferredUnderwritingDiscountsNoncash",
+                "unit": "usd",
+                "value": 36225000
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 336853
+            },
+            {
+                "label": "Direct Taxes and Licenses Costs",
+                "concept": "DirectTaxesAndLicensesCosts",
+                "unit": "usd",
+                "value": 45000
+            },
+            {
+                "label": "Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 381853
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -381853
+            },
+            {
+                "label": "Investment Income, Nonoperating",
+                "concept": "InvestmentIncomeNonoperating",
+                "unit": "usd",
+                "value": 1689994
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1308141
+            },
+            {
+                "label": "Provision for Income Taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 575748
+            },
+            {
+                "label": "Net Income (Loss) Available to Common Stockholders, Basic",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 732393
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 27945143
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 129375000
+            },
+            {
+                "label": "Earnings Per Share, Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.03
+            },
+            {
+                "label": "Earnings Per Share, Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.01
+            }
+        ]
+    }
+}

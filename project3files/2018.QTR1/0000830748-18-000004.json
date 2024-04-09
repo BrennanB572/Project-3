@@ -1,0 +1,465 @@
+{
+    "startDate": "2017-01-01",
+    "endDate": "2017-12-31",
+    "year": "2017",
+    "quarter": "FY",
+    "symbol": "PCFO",
+    "data": {
+        "bs": [
+            {
+                "label": "Investments in real estate, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 188612000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1588000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 12418000
+            },
+            {
+                "label": "Rents and other receivables, net",
+                "concept": "AccountsAndNotesReceivableNet",
+                "unit": "usd",
+                "value": 977000
+            },
+            {
+                "label": "Deferred rents",
+                "concept": "DeferredRentReceivablesNet",
+                "unit": "usd",
+                "value": 3362000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "pcfo:FiniteLivedIntangibleAssetsNetExcludingOffMarketFavorableAndUnfavorableLeasesAndGoodwill",
+                "unit": "usd",
+                "value": 4765000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 1040000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 37665000
+            },
+            {
+                "label": "Investments in unconsolidated joint ventures",
+                "concept": "RealEstateInvestmentsUnconsolidatedRealEstateAndOtherJointVentures",
+                "unit": "usd",
+                "value": 298000
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 250725000
+            },
+            {
+                "label": "Mortgage and other loans, net",
+                "concept": "pcfo:SecuredDebtNetOfDiscount",
+                "unit": "usd",
+                "value": 301181000
+            },
+            {
+                "label": "Unsecured notes payable to current and former related parties",
+                "concept": "NotesPayableRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 32433000
+            },
+            {
+                "label": "Accounts payable and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 51318000
+            },
+            {
+                "label": "Accrued interest on unsecured notes payable to related parties",
+                "concept": "pcfo:InterestPayableRelatedParty",
+                "unit": "usd",
+                "value": 23001000
+            },
+            {
+                "label": "Acquired below-market leases, net",
+                "concept": "OffMarketLeaseUnfavorable",
+                "unit": "usd",
+                "value": 2778000
+            },
+            {
+                "label": "LIABILITIES AND EQUITY (DEFICIT)",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 410711000
+            },
+            {
+                "label": "Commitments and contingencies (Note 10)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, $0.0001 par value per share, 100,000,000 shares authorized, one share of Proportionate Voting Preferred Stock issued and outstanding at December 31, 2017 and 2016",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 161000
+            },
+            {
+                "label": "Cumulative deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -182747000
+            },
+            {
+                "label": "Total stockholders\u2019 equity (deficit)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -160993000
+            },
+            {
+                "label": "Total equity (deficit)",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -159986000
+            },
+            {
+                "label": "LIABILITIES AND EQUITY (DEFICIT)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 250725000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -13801000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 10361000
+            },
+            {
+                "label": "Gain on the sale of property",
+                "concept": "GainLossOnSaleOfProperties",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Deferred rent",
+                "concept": "StraightLineRent",
+                "unit": "usd",
+                "value": -622000
+            },
+            {
+                "label": "Deferred ground rents",
+                "concept": "OtherAmortizationOfDeferredCharges",
+                "unit": "usd",
+                "value": 1241000
+            },
+            {
+                "label": "Interest amortization and interest accrued on related party notes",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 6278000
+            },
+            {
+                "label": "Below-market lease amortization",
+                "concept": "AmortizationOfAboveAndBelowMarketLeases",
+                "unit": "usd",
+                "value": -232000
+            },
+            {
+                "label": "Equity in net (income) loss of unconsolidated joint ventures",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1349000
+            },
+            {
+                "label": "Bad debt expense",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 287000
+            },
+            {
+                "label": "Restricted cash for operating activities",
+                "concept": "IncreaseDecreaseInRestrictedCashForOperatingActivities",
+                "unit": "usd",
+                "value": -223000
+            },
+            {
+                "label": "Rents and other receivables",
+                "concept": "IncreaseDecreaseInAccountsAndOtherReceivables",
+                "unit": "usd",
+                "value": 335000
+            },
+            {
+                "label": "Changes in operating assets and liabilities:",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": -133000
+            },
+            {
+                "label": "Accounts payable and other liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 554000
+            },
+            {
+                "label": "Operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 3982000
+            },
+            {
+                "label": "Additions to and improvement of real estate",
+                "concept": "PaymentsForCapitalImprovements",
+                "unit": "usd",
+                "value": 5646000
+            },
+            {
+                "label": "Distributions from unconsolidated joint ventures",
+                "concept": "pcfo:ProceedsFromCapitalDistributionsReceivedFromUnconsolidatedJointVentures",
+                "unit": "usd",
+                "value": 1953000
+            },
+            {
+                "label": "Contributions to unconsolidated joint ventures",
+                "concept": "pcfo:CapitalContributionsToUnconsolidatedJointVentures",
+                "unit": "usd",
+                "value": 90000
+            },
+            {
+                "label": "Net sales proceeds from the sale of property",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Payment of leasing commissions",
+                "concept": "PaymentsForLeaseCommissions",
+                "unit": "usd",
+                "value": 703000
+            },
+            {
+                "label": "Restricted cash for operating activities",
+                "concept": "IncreaseDecreaseInRestrictedCash",
+                "unit": "usd",
+                "value": -1424000
+            },
+            {
+                "label": "Investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -3062000
+            },
+            {
+                "label": "Repayment of mortgage notes payable",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 834000
+            },
+            {
+                "label": "Proceeds from mortgage notes payable",
+                "concept": "ProceedsFromSecuredNotesPayable",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Borrowing from related party",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Security deposits",
+                "concept": "IncreaseDecreaseInSecurityDeposits",
+                "unit": "usd",
+                "value": 71000
+            },
+            {
+                "label": "Financing costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Senior Common Stock dividends",
+                "concept": "pcfo:PaymentsOfDividendsSeniorCommonStock",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -763000
+            },
+            {
+                "label": "Increase (decrease) in cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 157000
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 15961000
+            },
+            {
+                "label": "Change in accrued capital expenditures",
+                "concept": "pcfo:ChangeinCapitalExpendituresIncurredbutNotyetPaid",
+                "unit": "usd",
+                "value": 113000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Rental",
+                "concept": "OperatingLeasesIncomeStatementLeaseRevenue",
+                "unit": "usd",
+                "value": 21221000
+            },
+            {
+                "label": "Tenant reimbursements",
+                "concept": "TenantReimbursements",
+                "unit": "usd",
+                "value": 17406000
+            },
+            {
+                "label": "Parking",
+                "concept": "ParkingRevenue",
+                "unit": "usd",
+                "value": 6448000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherRealEstateRevenue",
+                "unit": "usd",
+                "value": 419000
+            },
+            {
+                "label": "Revenues:",
+                "concept": "RealEstateRevenueNet",
+                "unit": "usd",
+                "value": 45494000
+            },
+            {
+                "label": "Rental property operating",
+                "concept": "DirectCostsOfLeasedAndRentedPropertyOrEquipment",
+                "unit": "usd",
+                "value": 25951000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1964000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 10361000
+            },
+            {
+                "label": "Interest expense recognized to Lender",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 22368000
+            },
+            {
+                "label": "Expenses:",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 60644000
+            },
+            {
+                "label": "Loss before equity in net income (loss) of unconsolidated joint ventures",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -15150000
+            },
+            {
+                "label": "Equity in net (income) loss of unconsolidated joint ventures",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 1349000
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -13801000
+            },
+            {
+                "label": "Noncontrolling Interest in Net Income (Loss) Preferred Unit Holders, Redeemable",
+                "concept": "NoncontrollingInterestInNetIncomeLossPreferredUnitHoldersRedeemable",
+                "unit": "usd",
+                "value": 2273000
+            },
+            {
+                "label": "Common unitholders in the Operating Partnership",
+                "concept": "NoncontrollingInterestInNetIncomeLossOtherNoncontrollingInterestsRedeemable",
+                "unit": "usd",
+                "value": -13881000
+            },
+            {
+                "label": "Net loss attributable to non-controlling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -11608000
+            },
+            {
+                "label": "Net loss attributable to common stockholders - basic and diluted",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -2193000
+            },
+            {
+                "label": "Dividends paid and accrued on Senior Common Stock",
+                "concept": "pcfo:DividendsOnSeniorCommonStock",
+                "unit": "usd",
+                "value": 1737000
+            },
+            {
+                "label": "Net loss attributable to common stockholders - basic and diluted",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -3930000
+            },
+            {
+                "label": "Net loss per common share - basic and diluted (in usd per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -1.0
+            },
+            {
+                "label": "Weighted average number of shares outstanding - basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 3953784
+            }
+        ]
+    }
+}

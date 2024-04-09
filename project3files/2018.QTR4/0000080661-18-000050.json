@@ -1,0 +1,921 @@
+{
+    "startDate": "2018-01-01",
+    "endDate": "2018-09-30",
+    "year": "2018",
+    "quarter": "Q3",
+    "symbol": "PGR",
+    "data": {
+        "bs": [
+            {
+                "label": "Fixed maturities (amortized cost: $25,963.4, $18,583.1, and $20,209.9)",
+                "concept": "pgr:DebtSecuritiesAvailableforsaleFixedMaturities",
+                "unit": "usd",
+                "value": 25642700000
+            },
+            {
+                "label": "Short-term investments",
+                "concept": "ShortTermInvestments",
+                "unit": "usd",
+                "value": 2809700000
+            },
+            {
+                "label": "Total available-for-sale securities",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 28452400000
+            },
+            {
+                "label": "Nonredeemable preferred stocks (cost: $758.9, $700.6, and $698.6)",
+                "concept": "pgr:EquitySecuritiesFVNINonredeemablePreferredStock",
+                "unit": "usd",
+                "value": 840900000
+            },
+            {
+                "label": "Common equities (cost: $1,135.0, $1,485.5, and $1,499.0)",
+                "concept": "pgr:EquitySecuritiesFVNICommonEquities",
+                "unit": "usd",
+                "value": 3057300000
+            },
+            {
+                "label": "Cost",
+                "concept": "EquitySecuritiesFvNi",
+                "unit": "usd",
+                "value": 3898200000
+            },
+            {
+                "label": "Investments, Debt and Equity Securities [Abstract]",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 32350600000
+            },
+            {
+                "label": "Cash and Cash Equivalents [Member]",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 121900000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 800000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 122700000
+            },
+            {
+                "label": "Accrued investment income",
+                "concept": "AccruedInvestmentIncomeReceivable",
+                "unit": "usd",
+                "value": 159500000
+            },
+            {
+                "label": "Premiums receivable, net of allowance for doubtful accounts of $230.1, $189.3, and $210.9",
+                "concept": "PremiumsReceivableAtCarryingValue",
+                "unit": "usd",
+                "value": 6776600000
+            },
+            {
+                "label": "Reinsurance recoverables, paid losses and loss adjustment expenses",
+                "concept": "ReinsuranceRecoverables",
+                "unit": "usd",
+                "value": 2490500000
+            },
+            {
+                "label": "Prepaid reinsurance premiums",
+                "concept": "PrepaidReinsurancePremiums",
+                "unit": "usd",
+                "value": 379600000
+            },
+            {
+                "label": "Deferred acquisition costs",
+                "concept": "DeferredPolicyAcquisitionCosts",
+                "unit": "usd",
+                "value": 962700000
+            },
+            {
+                "label": "Property and equipment, net of accumulated depreciation of $1,004.6, $908.4, and $940.6",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 1139300000
+            },
+            {
+                "label": "Goodwill and Intangible Assets Disclosure [Abstract]",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 452700000
+            },
+            {
+                "label": "Total",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 312600000
+            },
+            {
+                "label": "Other Assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 396900000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 45543700000
+            },
+            {
+                "label": "Unearned premiums",
+                "concept": "UnearnedPremiums",
+                "unit": "usd",
+                "value": 11009200000
+            },
+            {
+                "label": "Liability for Claims and Claims Adjustment Expense [Table]",
+                "concept": "LiabilityForClaimsAndClaimsAdjustmentExpense",
+                "unit": "usd",
+                "value": 14620800000
+            },
+            {
+                "label": "Net deferred income taxes",
+                "concept": "DeferredTaxLiabilities",
+                "unit": "usd",
+                "value": 53500000
+            },
+            {
+                "label": "Accounts payable, accrued expenses, and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 3924100000
+            },
+            {
+                "label": "Debt",
+                "concept": "DebtLongtermAndShorttermCombinedAmount",
+                "unit": "usd",
+                "value": 3859900000
+            },
+            {
+                "label": "Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 33467500000
+            },
+            {
+                "label": "Redeemable noncontrolling interest (NCI)",
+                "concept": "RedeemableNoncontrollingInterestEquityCarryingAmount",
+                "unit": "usd",
+                "value": 217400000
+            },
+            {
+                "label": "Serial Preferred Shares, Series B, no par value (cumulative, liquidation preference $1,000 per share) (authorized, issued, and outstanding 0.5, 0, and 0)",
+                "concept": "PreferredStockValueOutstanding",
+                "unit": "usd",
+                "value": 493900000
+            },
+            {
+                "label": "Common shares, $1.00 par value (authorized 900.0; issued 797.5, including treasury shares of 214.4, 215.9, and 215.8)",
+                "concept": "CommonStockValueOutstanding",
+                "unit": "usd",
+                "value": 583100000
+            },
+            {
+                "label": "Paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1443400000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 9602100000
+            },
+            {
+                "label": "Net unrealized gains (losses) on securities",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": -249900000
+            },
+            {
+                "label": "Net unrealized losses on forecasted transactions",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossCumulativeChangesInNetGainLossFromCashFlowHedgesEffectNetOfTax",
+                "unit": "usd",
+                "value": -17400000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accumulated other comprehensive (income) loss attributable to NCI",
+                "concept": "pgr:AccumulatedOtherComprehensiveIncomeLossAttributableToNoncontrollingInterestNetOfTax",
+                "unit": "usd",
+                "value": 3600000
+            },
+            {
+                "label": "After tax total accumulated other comprehensive income, beginning balance",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -263700000
+            },
+            {
+                "label": "Shareholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 11858800000
+            },
+            {
+                "label": "Liabilities",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 45543700000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 2361200000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 137800000
+            },
+            {
+                "label": "Amortization of intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 54000000
+            },
+            {
+                "label": "Net amortization of fixed-income securities",
+                "concept": "AccretionAmortizationOfDiscountsAndPremiumsInvestments",
+                "unit": "usd",
+                "value": -29700000
+            },
+            {
+                "label": "Amortization of equity-based compensation",
+                "concept": "RestrictedStockExpense",
+                "unit": "usd",
+                "value": 54000000
+            },
+            {
+                "label": "Net realized gains (losses) on securities:",
+                "concept": "RealizedInvestmentGainsLosses",
+                "unit": "usd",
+                "value": 166700000
+            },
+            {
+                "label": "Net (gains) losses on disposition of property and equipment",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": -7400000
+            },
+            {
+                "label": "Other gains (losses)",
+                "concept": "OtherNonoperatingGainsLosses",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Premiums receivable",
+                "concept": "IncreaseDecreaseInPremiumsReceivable",
+                "unit": "usd",
+                "value": 1354100000
+            },
+            {
+                "label": "Reinsurance recoverables",
+                "concept": "IncreaseDecreaseInReinsuranceRecoverable",
+                "unit": "usd",
+                "value": 217100000
+            },
+            {
+                "label": "Prepaid reinsurance premiums",
+                "concept": "IncreaseDecreaseInPrepaidReinsurancePremiums",
+                "unit": "usd",
+                "value": 176300000
+            },
+            {
+                "label": "Deferred acquisition costs",
+                "concept": "IncreaseDecreaseInDeferredPolicyAcquisitionCosts",
+                "unit": "usd",
+                "value": 182200000
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncreaseDecreaseInIncomeTaxes",
+                "unit": "usd",
+                "value": 25000000
+            },
+            {
+                "label": "Unearned premiums",
+                "concept": "IncreaseDecreaseInUnearnedPremiums",
+                "unit": "usd",
+                "value": 2105700000
+            },
+            {
+                "label": "Loss and loss adjustment expense reserves",
+                "concept": "IncreaseDecreaseInLiabilityForClaimsAndClaimsAdjustmentExpenseReserve",
+                "unit": "usd",
+                "value": 1533900000
+            },
+            {
+                "label": "Accounts payable, accrued expenses, and other liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 1032800000
+            },
+            {
+                "label": "Other, net",
+                "concept": "IncreaseDecreaseInOtherOperatingCapitalNet",
+                "unit": "usd",
+                "value": 43600000
+            },
+            {
+                "label": "Cash Flows From Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 5201500000
+            },
+            {
+                "label": "Fixed maturities",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 14430600000
+            },
+            {
+                "label": "Equity securities",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesEquity",
+                "unit": "usd",
+                "value": 234900000
+            },
+            {
+                "label": "Fixed maturities",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 4659600000
+            },
+            {
+                "label": "Equity securities",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesEquity",
+                "unit": "usd",
+                "value": 773500000
+            },
+            {
+                "label": "Fixed maturities",
+                "concept": "pgr:ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecuritiesFixedMaturitySecurities",
+                "unit": "usd",
+                "value": 3911500000
+            },
+            {
+                "label": "Equity securities",
+                "concept": "pgr:ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecuritiesEquitySecurities",
+                "unit": "usd",
+                "value": 15000000
+            },
+            {
+                "label": "Net sales (purchases) of short-term investments",
+                "concept": "PaymentsForProceedsFromShortTermInvestments",
+                "unit": "usd",
+                "value": -91900000
+            },
+            {
+                "label": "Net unsettled security transactions",
+                "concept": "IncreaseDecreaseInPayablesToBrokerDealers",
+                "unit": "usd",
+                "value": 11000000
+            },
+            {
+                "label": "Purchases of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 164800000
+            },
+            {
+                "label": "Sales of property and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 8100000
+            },
+            {
+                "label": "Payments to Acquire Additional Interest in Subsidiaries",
+                "concept": "PaymentsToAcquireAdditionalInterestInSubsidiaries",
+                "unit": "usd",
+                "value": 296900000
+            },
+            {
+                "label": "Payments to Acquire Businesses, Net of Cash Acquired",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash Flows From Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -5656600000
+            },
+            {
+                "label": "Net proceeds from issuance of Serial Preferred Shares, Series B",
+                "concept": "ProceedsFromIssuanceOfPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 493900000
+            },
+            {
+                "label": "Net proceeds from debt issuances",
+                "concept": "ProceedsFromIssuanceOfDebt",
+                "unit": "usd",
+                "value": 589500000
+            },
+            {
+                "label": "Repayments of Debt",
+                "concept": "RepaymentsOfDebt",
+                "unit": "usd",
+                "value": 37100000
+            },
+            {
+                "label": "Repayment of debt",
+                "concept": "EarlyRepaymentOfSubordinatedDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Payments of Ordinary Dividends, Common Stock",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 654900000
+            },
+            {
+                "label": "Dividends paid to preferred shareholders",
+                "concept": "PaymentsOfDividendsPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 13500000
+            },
+            {
+                "label": "Proceeds from exercise of equity options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 3300000
+            },
+            {
+                "label": "Acquisition of treasury shares for restricted stock tax liabilities",
+                "concept": "pgr:PaymentsforRepurchaseofCommonStockforRestrictedStockTaxLiabilities",
+                "unit": "usd",
+                "value": 78300000
+            },
+            {
+                "label": "Acquisition of treasury shares acquired in open market",
+                "concept": "pgr:PaymentsforRepurchaseofCommonStockintheOpenMarket",
+                "unit": "usd",
+                "value": 400000
+            },
+            {
+                "label": "Cash Flows From Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 302500000
+            },
+            {
+                "label": "Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Increase (decrease) in cash, cash equivalents, and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -152600000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net premiums earned",
+                "concept": "PremiumsEarnedNetPropertyAndCasualty",
+                "unit": "usd",
+                "value": 22738700000
+            },
+            {
+                "label": "Period over prior year period percent change in net premiums earned",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseNetPremiumsEarned",
+                "unit": "pure",
+                "value": 0.2
+            },
+            {
+                "label": "Investment income",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 576500000
+            },
+            {
+                "label": "Period over prior year period percent change in investment income",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseInvestmentIncome",
+                "unit": "pure",
+                "value": 0.4
+            },
+            {
+                "label": "Gross Realized Gain (Loss), excluding Holding Period and OTTI",
+                "concept": "DebtAndEquitySecuritiesRealizedGainLossExcludingOtherThanTemporaryImpairment",
+                "unit": "usd",
+                "value": 205800000
+            },
+            {
+                "label": "Net Holding Period Realized Gain (Loss)",
+                "concept": "DebtAndEquitySecuritiesUnrealizedGainLossExcludingOtherThanTemporaryImpairment",
+                "unit": "usd",
+                "value": -5900000
+            },
+            {
+                "label": "Other than Temporary Impairment Losses, Investments, Portion Recognized in Earnings, Net",
+                "concept": "OtherThanTemporaryImpairmentLossesInvestmentsPortionRecognizedInEarningsNet",
+                "unit": "usd",
+                "value": 33200000
+            },
+            {
+                "label": "Total net realized gains (losses) on securities",
+                "concept": "DebtAndEquitySecuritiesGainLoss",
+                "unit": "usd",
+                "value": 166700000
+            },
+            {
+                "label": "Unrealized Gain (Loss) on Hybrid Instrument, Net",
+                "concept": "UnrealizedGainLossOnHybridInstrumentNet",
+                "unit": "usd",
+                "value": -4200000
+            },
+            {
+                "label": "Period Over Prior Year Period, Percent Increase (Decrease), Net Realized Gains (Losses) On Security Sales",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseNetRealizedGainsLossesOnSecuritySales",
+                "unit": "pure",
+                "value": 0.76
+            },
+            {
+                "label": "Period Over Prior Year Period, Percent Increase (Decrease), Net Impairment Losses Recognized In Earnings",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseNetImpairmentLossesRecognizedInEarnings",
+                "unit": "pure",
+                "value": -0.43
+            },
+            {
+                "label": "Period Over Prior Year Period, Percent Increase (Decrease), Total Net Realized Gains (Losses) On Securities",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseTotalNetRealizedGainsLossesOnSecurities",
+                "unit": "pure",
+                "value": 1.81
+            },
+            {
+                "label": "Fees and other revenues",
+                "concept": "pgr:FeesAndOtherRevenues",
+                "unit": "usd",
+                "value": 342400000
+            },
+            {
+                "label": "Period over prior year period percent change in fees and other revenues",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseFeesAndOtherRevenue",
+                "unit": "pure",
+                "value": 0.27
+            },
+            {
+                "label": "Service revenues",
+                "concept": "pgr:NonInsuranceServiceRevenues",
+                "unit": "usd",
+                "value": 119600000
+            },
+            {
+                "label": "Period over prior year period percent change in service revenues",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseServiceRevenue",
+                "unit": "pure",
+                "value": 0.27
+            },
+            {
+                "label": "Other gains (losses)",
+                "concept": "OtherNonoperatingGainsLosses",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Period Over Prior Year Period, Percent Increase (Decrease), Other Gains (Losses)",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseOtherGainsLosses",
+                "unit": "pure",
+                "value": -1.0
+            },
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 23943900000
+            },
+            {
+                "label": "Period over prior year period percent change in total revenues",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseRevenue",
+                "unit": "pure",
+                "value": 0.21
+            },
+            {
+                "label": "Period over prior year period percent change in losses and loss adjustment expenses",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseLossAndLossAdjustmentExpenses",
+                "unit": "pure",
+                "value": 0.13
+            },
+            {
+                "label": "Liability for Unpaid Claims and Claims Adjustment Expense, Incurred Claims",
+                "concept": "LiabilityForUnpaidClaimsAndClaimsAdjustmentExpenseIncurredClaims1",
+                "unit": "usd",
+                "value": 15769200000
+            },
+            {
+                "label": "Policy acquisition costs",
+                "concept": "DeferredPolicyAcquisitionCostAmortizationExpense",
+                "unit": "usd",
+                "value": 1889700000
+            },
+            {
+                "label": "Period over prior year period percent change in policy acquisition costs",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreasePolicyAcquisitionCosts",
+                "unit": "pure",
+                "value": 0.21
+            },
+            {
+                "label": "Other underwriting expenses",
+                "concept": "OtherUnderwritingExpense",
+                "unit": "usd",
+                "value": 3123000000
+            },
+            {
+                "label": "Period over prior year period percent change in other underwriting expenses",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseOtherUnderwritingExpenses",
+                "unit": "pure",
+                "value": 0.22
+            },
+            {
+                "label": "Investment expenses",
+                "concept": "InvestmentIncomeInvestmentExpense",
+                "unit": "usd",
+                "value": 18000000
+            },
+            {
+                "label": "Period over prior year period percent change in investment expenses",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseInvestmentExpenses",
+                "unit": "pure",
+                "value": 0.0
+            },
+            {
+                "label": "Service expenses",
+                "concept": "pgr:NonInsuranceServiceExpenses",
+                "unit": "usd",
+                "value": 102100000
+            },
+            {
+                "label": "Period over prior year period percent change in service expenses",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseServiceExpenses",
+                "unit": "pure",
+                "value": 0.25
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 120500000
+            },
+            {
+                "label": "Period over prior year period percent change in interest expense",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseInterestExpense",
+                "unit": "pure",
+                "value": 0.02
+            },
+            {
+                "label": "Expenses",
+                "concept": "BenefitsLossesAndExpenses",
+                "unit": "usd",
+                "value": 21022500000
+            },
+            {
+                "label": "Period over prior year period percent change in total expenses",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseExpenses",
+                "unit": "pure",
+                "value": 0.15
+            },
+            {
+                "label": "Pretax Profit (Loss)",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 2921400000
+            },
+            {
+                "label": "Period over prior year period percent change in income before income taxes",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseIncomeBeforeIncomeTaxExpense",
+                "unit": "pure",
+                "value": 1.02
+            },
+            {
+                "label": "Provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 560200000
+            },
+            {
+                "label": "Period over prior year period percent change in provision for income taxes",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseIncomeTaxExpenseBenefit",
+                "unit": "pure",
+                "value": 0.3
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 2361200000
+            },
+            {
+                "label": "Period over prior year period percent change in net income",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseNetIncomeLoss",
+                "unit": "pure",
+                "value": 1.32
+            },
+            {
+                "label": "Net (income) loss attributable to noncontrolling interest (NCI)",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 10600000
+            },
+            {
+                "label": "Period over prior year period percent change in net (income) loss attributable to noncontrolling interest",
+                "concept": "pgr:Periodoverprioryearperiodpercentchangeinnetincomelossattributabletononcontrollinginterestnetoftax",
+                "unit": "pure",
+                "value": 4.58
+            },
+            {
+                "label": "Net income attributable to Progressive",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2350600000
+            },
+            {
+                "label": "Period over prior year period percent change in net income attributable to Progressive",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseNetIncomeLossAttributableToParent",
+                "unit": "pure",
+                "value": 1.31
+            },
+            {
+                "label": "Total net unrealized gains (losses) on securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": -243600000
+            },
+            {
+                "label": "Period over prior year period percent change in total net unrealized gains (losses) on securities",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseUnrealizedGainLossOnSecurities",
+                "unit": "pure",
+                "value": -1.81
+            },
+            {
+                "label": "Net unrealized losses on forecasted transactions",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax",
+                "unit": "usd",
+                "value": 600000
+            },
+            {
+                "label": "Period Over Prior Year Period, Percent Increase (Decrease), Unrealized Gain (Loss) On Forecasted Transactions",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseUnrealizedGainLossOnForecastedTransactions",
+                "unit": "pure",
+                "value": -1.11
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Period over prior year period percent change in foreign currency translation adjustment",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseForeignCurrencyTranslationGainLoss",
+                "unit": "pure",
+                "value": -1.0
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -243000000
+            },
+            {
+                "label": "Period over prior year period percent change in other comprehensive income",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseOtherComprehensiveIncomeLoss",
+                "unit": "pure",
+                "value": -1.82
+            },
+            {
+                "label": "Other comprehensive (income) loss attributable to NCI",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -5000000
+            },
+            {
+                "label": "Period over prior year period change in Comprehensive (income) loss attributable to NCI",
+                "concept": "pgr:PeriodoverprioryearperiodchangeinComprehensiveincomelossattributabletoNCInetoftax",
+                "unit": "pure",
+                "value": -2.72
+            },
+            {
+                "label": "Other comprehensive income (loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2112600000
+            },
+            {
+                "label": "Period over prior year period percent change in comprehensive income",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseComprehensiveIncomeLossAttributableToParent",
+                "unit": "pure",
+                "value": 0.61
+            },
+            {
+                "label": "Less: Preferred share dividends",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 14600000
+            },
+            {
+                "label": "Net Income (Loss) Available to Common Stockholders, Basic",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 2336000000
+            },
+            {
+                "label": "Period Over Prior Year Period, Percent Increase (Decrease), Net Income (Loss) Available to Common Stockholders",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseNetIncomeLossAvailabletoCommonStockholders",
+                "unit": "pure",
+                "value": 1.3
+            },
+            {
+                "label": "Average common shares outstanding - Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 582200000
+            },
+            {
+                "label": "Period over prior year period percent change in average shares outstanding - basic",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseWeightedAverageSharesOutstandingBasic",
+                "unit": "pure",
+                "value": 0.0
+            },
+            {
+                "label": "Net effect of dilutive stock-based compensation",
+                "concept": "WeightedAverageNumberDilutedSharesOutstandingAdjustment",
+                "unit": "shares",
+                "value": 4500000
+            },
+            {
+                "label": "Period over prior year period percent change in net effect of dilutive stock-based compensation",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseNetEffectOfDilutiveStockBasedCompensation",
+                "unit": "pure",
+                "value": -0.1
+            },
+            {
+                "label": "Total average equivalent common shares - Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 586700000
+            },
+            {
+                "label": "Period over prior year period percent change in total equivalent shares - diluted",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseWeightedAverageSharesOutstandingDiluted",
+                "unit": "pure",
+                "value": 0.0
+            },
+            {
+                "label": "Basic: Earnings per common share",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 4.01
+            },
+            {
+                "label": "Period over prior year period percent change in basic: earnings per share",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseNetIncomeLossPerShareBasic",
+                "unit": "pure",
+                "value": 1.29
+            },
+            {
+                "label": "Diluted: Earnings per common share",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 3.98
+            },
+            {
+                "label": "Period over prior year period percent change in diluted: earnings per share",
+                "concept": "pgr:PeriodOverPriorYearPeriodPercentIncreaseDecreaseNetIncomeLossPerShareDiluted",
+                "unit": "pure",
+                "value": 1.3
+            },
+            {
+                "label": "Dividends declared per share",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": 0
+            }
+        ]
+    }
+}

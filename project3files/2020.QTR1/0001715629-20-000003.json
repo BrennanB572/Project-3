@@ -1,0 +1,75 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-12-31",
+    "year": "2019",
+    "quarter": "FY",
+    "symbol": "RLJ",
+    "data": {
+        "bs": [
+            {
+                "label": "Investment in hotel and other properties, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 1946826000
+            },
+            {
+                "label": "Restricted Cash and Cash Equivalents Items [Line Items]",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 4100000
+            },
+            {
+                "label": "Long-term Debt, Maturities, Repayments of Principal in Next Twelve Months",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 713727000
+            },
+            {
+                "label": "Related Party Debt",
+                "concept": "rlj:RelatedPartyDebt",
+                "unit": "usd",
+                "value": 85000000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Amortization of deferred financing costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 100000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Related party lease revenue",
+                "concept": "OperatingLeasesIncomeStatementLeaseRevenue",
+                "unit": "usd",
+                "value": 196695000
+            },
+            {
+                "label": "Impairment loss",
+                "concept": "ImpairmentOfRealEstate",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Transaction costs",
+                "concept": "BusinessCombinationAcquisitionRelatedCosts",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 31900000
+            },
+            {
+                "label": "Income Tax Expense (Benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-12-31",
+    "year": "2019",
+    "quarter": "FY",
+    "symbol": "SKT",
+    "data": {
+        "bs": [
+            {
+                "label": "Total rental property, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 100000000.0
+            },
+            {
+                "label": "Present value of lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 91237000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Gain on sale of assets",
+                "concept": "DisposalGroupNotDiscontinuedOperationGainLossOnDisposal",
+                "unit": "usd",
+                "value": 43422000
+            },
+            {
+                "label": "Net proceeds on sale of assets",
+                "concept": "ProceedsFromSaleOfOtherRealEstate",
+                "unit": "usd",
+                "value": 128505000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Rental revenues - fixed",
+                "concept": "OperatingLeaseLeaseIncome",
+                "unit": "usd",
+                "value": 463946000
+            },
+            {
+                "label": "Management, leasing and other services",
+                "concept": "skt:Managementleasingandotherservicesrevenue",
+                "unit": "usd",
+                "value": 5419000
+            },
+            {
+                "label": "Gain on sale of assets",
+                "concept": "DisposalGroupNotDiscontinuedOperationGainLossOnDisposal",
+                "unit": "usd",
+                "value": 43422000
+            }
+        ]
+    }
+}

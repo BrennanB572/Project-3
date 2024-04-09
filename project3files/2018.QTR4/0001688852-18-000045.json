@@ -1,0 +1,111 @@
+{
+    "startDate": "2017-04-14",
+    "endDate": "2017-12-31",
+    "year": "2017",
+    "quarter": "FY",
+    "symbol": "SAFE",
+    "data": {
+        "bs": [
+            {
+                "label": "Less: accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 4253000
+            },
+            {
+                "label": "Total real estate, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 408892000
+            },
+            {
+                "label": "Real estate-related intangible assets, net (refer to Note 4)",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 138725000
+            },
+            {
+                "label": "Total real estate, net and real estate-related intangible assets, net",
+                "concept": "safe:RealEstateInvestmentPropertyIncludingFiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 547617000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 1700000
+            },
+            {
+                "label": "Deferred expenses and other assets, net",
+                "concept": "DeferredCostsAndOtherAssets",
+                "unit": "usd",
+                "value": 6929000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 7545000
+            },
+            {
+                "label": "Real estate-related intangible liabilities, net",
+                "concept": "BelowMarketLeaseNet",
+                "unit": "usd",
+                "value": 57959000
+            },
+            {
+                "label": "2018",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 307074000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Amortization of above and below market leases assets",
+                "concept": "AmortizationOfAboveAndBelowMarketLeases",
+                "unit": "usd",
+                "value": 700000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Unrealized gains/(losses) on derivatives",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 100000
+            },
+            {
+                "label": "Net income attributable to noncontrolling interest",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -3669000
+            },
+            {
+                "label": "Per common share data:",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.25
+            },
+            {
+                "label": "Weighted average number of common shares: Basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 14648000
+            },
+            {
+                "label": "Tenant reimbursements",
+                "concept": "safe:ReimbursablePropertyTaxes",
+                "unit": "usd",
+                "value": 200000
+            },
+            {
+                "label": "Amortization of above and below market leases assets",
+                "concept": "AmortizationOfAboveAndBelowMarketLeases",
+                "unit": "usd",
+                "value": 700000
+            }
+        ]
+    }
+}

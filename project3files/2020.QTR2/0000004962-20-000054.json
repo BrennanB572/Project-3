@@ -1,0 +1,531 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "AXP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 2286000000
+            },
+            {
+                "label": "Interest-bearing deposits in other banks (includes securities purchased under resale agreements)",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 33662000000
+            },
+            {
+                "label": "Short-term investment securities",
+                "concept": "CashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 147000000
+            },
+            {
+                "label": "Total cash and cash equivalents",
+                "concept": "CashCashEquivalentsAndFederalFundsSold",
+                "unit": "usd",
+                "value": 36095000000
+            },
+            {
+                "label": "Card Member receivables (includes gross receivables available to settle obligations of consolidated variable interest entity), less reserves",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 44269000000
+            },
+            {
+                "label": "Loans",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 72464000000
+            },
+            {
+                "label": "Other loans, less reserves for credit losses",
+                "concept": "axp:OtherLoansReceivableNetAmount",
+                "unit": "usd",
+                "value": 4954000000
+            },
+            {
+                "label": "Investment securities",
+                "concept": "axp:DebtandEquitySecuritiesAvailableforsale",
+                "unit": "usd",
+                "value": 5032000000
+            },
+            {
+                "label": "Premises and equipment, less accumulated depreciation and amortization",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 4798000000
+            },
+            {
+                "label": "Other Assets [Member]",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 18448000000
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 186060000000
+            },
+            {
+                "label": "Other deposits:",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 77962000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 7977000000
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 3497000000
+            },
+            {
+                "label": "Long-term debt (includes debt issued by consolidated variable interest entities)",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 52588000000
+            },
+            {
+                "label": "Other Liabilities [Member]",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 23030000000
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 165054000000
+            },
+            {
+                "label": "Contingencies (Note 7)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred shares",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common shares",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 161000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 11680000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 12161000000
+            },
+            {
+                "label": "Net unrealized debt securities gains (losses), net of tax",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 90000000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net of tax",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": -2511000000
+            },
+            {
+                "label": "Net unrealized pension and other postretirement benefits, net of tax",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossDefinedBenefitPensionAndOtherPostretirementPlansNetOfTax",
+                "unit": "usd",
+                "value": 575000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -2996000000
+            },
+            {
+                "label": "Shareholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 21006000000
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 186060000000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Basic and diluted:",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 367000000
+            },
+            {
+                "label": "Provisions for credit losses",
+                "concept": "ProvisionForLoanLeaseAndOtherLosses",
+                "unit": "usd",
+                "value": 2621000000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAmortizationAndAccretionNet",
+                "unit": "usd",
+                "value": 337000000
+            },
+            {
+                "label": "Deferred taxes and other",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": -333000000
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 43000000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": -309000000
+            },
+            {
+                "label": "Accounts payable & other liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -6229000000
+            },
+            {
+                "label": "Cash Flows from Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -2219000000
+            },
+            {
+                "label": "Maturities and redemptions of investment securities",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 4376000000
+            },
+            {
+                "label": "Purchase of investments",
+                "concept": "PaymentsToAcquireInvestments",
+                "unit": "usd",
+                "value": 997000000
+            },
+            {
+                "label": "Net decrease (increase) in Card Member loans and receivables, and other loans",
+                "concept": "PaymentsForProceedsFromLoansAndLeases",
+                "unit": "usd",
+                "value": -18883000000
+            },
+            {
+                "label": "Purchase of premises and equipment, net of sales",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 335000000
+            },
+            {
+                "label": "Acquisitions/dispositions, net of cash acquired",
+                "concept": "PaymentsForProceedsFromBusinessesAndInterestInAffiliates",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other investing activities",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash Flows from Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 21927000000
+            },
+            {
+                "label": "Net increase in customer deposits",
+                "concept": "IncreaseDecreaseInDeposits",
+                "unit": "usd",
+                "value": 4701000000
+            },
+            {
+                "label": "Net decrease in short-term borrowings",
+                "concept": "ProceedsFromRepaymentsOfShortTermDebt",
+                "unit": "usd",
+                "value": -2880000000
+            },
+            {
+                "label": "Proceeds from long-term debt",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Payments of long-term debt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 5849000000
+            },
+            {
+                "label": "Issuance of American Express common shares",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 16000000
+            },
+            {
+                "label": "Repurchase of American Express common shares and other",
+                "concept": "axp:Paymentsforrepurchasesofcommonsharesandother",
+                "unit": "usd",
+                "value": 1023000000
+            },
+            {
+                "label": "Dividends paid",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 383000000
+            },
+            {
+                "label": "Net cash used in financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -5418000000
+            },
+            {
+                "label": "Effect of foreign currency exchange rates on cash, cash equivalents and restricted cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": -128000000
+            },
+            {
+                "label": "Net increase in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 14162000000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Non-interest revenues",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 7980000000
+            },
+            {
+                "label": "Interest on loans",
+                "concept": "InterestAndFeeIncomeLoansAndLeases",
+                "unit": "usd",
+                "value": 2909000000
+            },
+            {
+                "label": "Interest and dividends on investment securities",
+                "concept": "InterestAndDividendIncomeSecurities",
+                "unit": "usd",
+                "value": 38000000
+            },
+            {
+                "label": "Deposits with banks and other",
+                "concept": "InterestIncomeDepositsWithFinancialInstitutions",
+                "unit": "usd",
+                "value": 99000000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 3046000000
+            },
+            {
+                "label": "Deposits",
+                "concept": "InterestExpenseDeposits",
+                "unit": "usd",
+                "value": 326000000
+            },
+            {
+                "label": "Long-term debt and other",
+                "concept": "InterestExpenseLongTermDebt",
+                "unit": "usd",
+                "value": 390000000
+            },
+            {
+                "label": "Total interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 716000000
+            },
+            {
+                "label": "Net interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 2330000000
+            },
+            {
+                "label": "Total revenues net of interest expense",
+                "concept": "RevenuesNetOfInterestExpense",
+                "unit": "usd",
+                "value": 10310000000
+            },
+            {
+                "label": "Card Member receivables",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 597000000
+            },
+            {
+                "label": "Card Member loans",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 1876000000
+            },
+            {
+                "label": "Other",
+                "concept": "ProvisionForOtherLosses",
+                "unit": "usd",
+                "value": 148000000
+            },
+            {
+                "label": "Provisions for credit losses",
+                "concept": "ProvisionForLoanLeaseAndOtherLosses",
+                "unit": "usd",
+                "value": 2621000000
+            },
+            {
+                "label": "Total revenues net of interest expense after provisions for credit losses",
+                "concept": "axp:TotalRevenuesNetOfInterestExpenseAfterProvisionsForLosses",
+                "unit": "usd",
+                "value": 7689000000
+            },
+            {
+                "label": "Marketing and business development",
+                "concept": "MarketingAndAdvertisingExpense",
+                "unit": "usd",
+                "value": 1705000000
+            },
+            {
+                "label": "Card Member rewards",
+                "concept": "axp:CardMemberRewards",
+                "unit": "usd",
+                "value": 2392000000
+            },
+            {
+                "label": "Card Member services",
+                "concept": "axp:Cardmemberservices",
+                "unit": "usd",
+                "value": 456000000
+            },
+            {
+                "label": "Salaries and employee benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 1395000000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherNoninterestExpense",
+                "unit": "usd",
+                "value": 1289000000
+            },
+            {
+                "label": "Total expenses",
+                "concept": "NoninterestExpense",
+                "unit": "usd",
+                "value": 7237000000
+            },
+            {
+                "label": "Pretax income",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 452000000
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 85000000
+            },
+            {
+                "label": "Basic and diluted:",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 367000000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.41
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.41
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 807000000
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 808000000
+            },
+            {
+                "label": "Net unrealized debt securities gains, net of tax",
+                "concept": "OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": 57000000
+            },
+            {
+                "label": "Foreign currency translation adjustments, net of tax",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -322000000
+            },
+            {
+                "label": "Net unrealized pension and other postretirement benefits, net of tax",
+                "concept": "OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -6000000
+            },
+            {
+                "label": "Other comprehensive loss:",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -259000000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 108000000
+            }
+        ]
+    }
+}

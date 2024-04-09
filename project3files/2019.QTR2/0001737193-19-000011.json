@@ -1,0 +1,177 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-03-31",
+    "year": "2019",
+    "quarter": "Q1",
+    "symbol": "BAJA",
+    "data": {
+        "bs": [
+            {
+                "label": "Net change in cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 600
+            },
+            {
+                "label": "Current Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 600
+            },
+            {
+                "label": "Accounts Payable {1}",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Convertible Notes Due to Shareholder",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 13792
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY (DEFICIT)",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 13792
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value, 20,000,000 shares authorized; no shares issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common stock, $0.0001 par value, 100,000,000 shares authorized; 15,610,000 shares issued and outstanding as of December 31, 2018, and 15,610,000 shares issued and outstanding as of March 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1561
+            },
+            {
+                "label": "Retained Earnings (Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -14753
+            },
+            {
+                "label": "Stockholders' Equity (Deficit)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -13192
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY (DEFICIT)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 600
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Profit (Loss)",
+                "concept": "IncomeLossIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -2500
+            },
+            {
+                "label": "Accounts Payable {2}",
+                "concept": "IncreaseDecreaseInOtherAccruedLiabilities",
+                "unit": "usd",
+                "value": 750
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -3250
+            },
+            {
+                "label": "CASH FLOWS (USED) BY INVESTING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Proceeds from note issuance",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": 3250
+            },
+            {
+                "label": "FINANCING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 3250
+            },
+            {
+                "label": "Net change in cash",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 0
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cost of Goods Sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Gross Profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "General & Admin. Expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2500
+            },
+            {
+                "label": "Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 2500
+            },
+            {
+                "label": "Net Income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -2500
+            },
+            {
+                "label": "Basic Income (Loss) per Share",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": -0.0002
+            },
+            {
+                "label": "Weighted average shares - Basic",
+                "concept": "WeightedAverageNumberOfSharesIssuedBasic",
+                "unit": "shares",
+                "value": 15610000
+            },
+            {
+                "label": "Diluted Income (Loss) per Share",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": -0.0
+            },
+            {
+                "label": "Weighted average shares - Diluted",
+                "concept": "ProFormaWeightedAverageSharesOutstandingDiluted",
+                "unit": "shares",
+                "value": 100000000
+            }
+        ]
+    }
+}

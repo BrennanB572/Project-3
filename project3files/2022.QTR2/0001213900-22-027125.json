@@ -1,0 +1,200 @@
+{
+    "startDate": "2022-01-01",
+    "endDate": "2022-03-31",
+    "year": "2022",
+    "quarter": "Q1",
+    "symbol": "NHIC",
+    "data": {
+        "bs": [
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 133000
+            },
+            {
+                "label": "Cash and investments held in Trust",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 196889000
+            },
+            {
+                "label": "subtotal current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 2115000
+            },
+            {
+                "label": "Class B common stock, $0.0001 par value, 6,000,000 shares authorized, 4,872,500 issued and outstanding",
+                "concept": "nhic:CommonStockValueOne",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Other liabilities \u2013 Deferred underwriting compensation",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 6822000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 7053000
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value, 1,000,000 shares authorized, none issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total liabilities and stockholder\u2019s (deficit)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 199004000
+            },
+            {
+                "label": "Additional paid-in-capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 199004000
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 231000
+            },
+            {
+                "label": "Total stockholder\u2019s (deficit)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -4898000
+            },
+            {
+                "label": "Total stockholder\u2019s (deficit)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -4898000
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 660000
+            },
+            {
+                "label": "Accrued liabilities and taxes",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 98000
+            },
+            {
+                "label": "Class A common shares subject to possible redemption, $0.0001 par value; 19,490,000 shares issues and outstanding (at $10.10 per share redemption value)",
+                "concept": "nhic:CommonSharesSubjectToPossibleRedemptionValue",
+                "unit": "usd",
+                "value": 196849000
+            },
+            {
+                "label": "Class A common stock, $0.0001 par value, 45,000,000 shares authorized, no shares issued and outstanding",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -4899000
+            },
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1455000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Increase in accounts payable",
+                "concept": "IncreaseDecreaseInOtherAccountsPayable",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Decrease in prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpensesOther",
+                "unit": "usd",
+                "value": -48000
+            },
+            {
+                "label": "Proceeds from sale of Class B common stock to Sponsor",
+                "concept": "ProceedsFromRepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Increase in accrued liabilities",
+                "concept": "IncreaseDecreaseInOtherAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": -105000
+            },
+            {
+                "label": "Deferred offering costs included in accounts payable and accrued liabilities",
+                "concept": "nhic:FairValueOfFounderSharesIssuedOverCostToAnchorInvestors",
+                "unit": "usd",
+                "value": 70000
+            },
+            {
+                "label": "Withdrawal of interest from Trust Account",
+                "concept": "nhic:WithdrawInterestToPayTaxes",
+                "unit": "usd",
+                "value": 44000
+            },
+            {
+                "label": "Interest income retained in the Trust account",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": 68000
+            },
+            {
+                "label": "",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -461000
+            },
+            {
+                "label": "",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -461000
+            },
+            {
+                "label": "(Decrease) increase in cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -375000
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -419000
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 44000
+            }
+        ],
+        "ic": []
+    }
+}

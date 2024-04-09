@@ -1,0 +1,669 @@
+{
+    "startDate": "2018-01-01",
+    "endDate": "2018-12-31",
+    "year": "2018",
+    "quarter": "FY",
+    "symbol": "NHI",
+    "data": {
+        "bs": [
+            {
+                "label": "Land",
+                "concept": "Land",
+                "unit": "usd",
+                "value": 202196000
+            },
+            {
+                "label": "Buildings and improvements",
+                "concept": "InvestmentBuildingAndBuildingImprovements",
+                "unit": "usd",
+                "value": 2599526000
+            },
+            {
+                "label": "Construction in progress",
+                "concept": "ConstructionInProgressGross",
+                "unit": "usd",
+                "value": 16643000
+            },
+            {
+                "label": "Real estate properties, gross",
+                "concept": "RealEstateInvestmentPropertyAtCost",
+                "unit": "usd",
+                "value": 2818365000
+            },
+            {
+                "label": "Less accumulated depreciation",
+                "concept": "RealEstateInvestmentPropertyAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 451483000
+            },
+            {
+                "label": "Real estate properties, net",
+                "concept": "RealEstateInvestmentPropertyNet",
+                "unit": "usd",
+                "value": 2366882000
+            },
+            {
+                "label": "Loans and Leases Receivable, Net Amount",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 246111000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 4659000
+            },
+            {
+                "label": "Deferred Rent Receivables, Net",
+                "concept": "DeferredRentReceivablesNet",
+                "unit": "usd",
+                "value": 105620000
+            },
+            {
+                "label": "Equity-method investment and other assets",
+                "concept": "DeferredCostsAndOtherAssets",
+                "unit": "usd",
+                "value": 27298000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2750570000
+            },
+            {
+                "label": "Debt",
+                "concept": "DebtLongtermAndShorttermCombinedAmount",
+                "unit": "usd",
+                "value": 1281675000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 19890000
+            },
+            {
+                "label": "Dividends Payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 42700000
+            },
+            {
+                "label": "Lease deposit liabilities",
+                "concept": "SecurityDepositLiability",
+                "unit": "usd",
+                "value": 10638000
+            },
+            {
+                "label": "Deferred income",
+                "concept": "DeferredRevenue",
+                "unit": "usd",
+                "value": 5954000
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1360857000
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $.01 par value; 40,000,000 shares authorized; 38,396,727and 37,485,902 shares issued and outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 427000
+            },
+            {
+                "label": "Capital in excess of par value",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 1369919000
+            },
+            {
+                "label": "Cumulative net income in excess of dividends",
+                "concept": "CumulativeEarningsDeficit",
+                "unit": "usd",
+                "value": 18068000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1299000
+            },
+            {
+                "label": "Total Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1389713000
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2750570000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 154333000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 71349000
+            },
+            {
+                "label": "Amortization",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 4437000
+            },
+            {
+                "label": "Straight Line Rent",
+                "concept": "StraightLineRent",
+                "unit": "usd",
+                "value": 22787000
+            },
+            {
+                "label": "Non-cash interest income on construction loan",
+                "concept": "OtherNoncashIncome",
+                "unit": "usd",
+                "value": 1680000
+            },
+            {
+                "label": "Loan and realty losses (recoveries), net",
+                "concept": "nhi:LoanandLeaseLossesandRecoveriesNet",
+                "unit": "usd",
+                "value": 5115000
+            },
+            {
+                "label": "Gain on sale of real estate",
+                "concept": "GainLossOnSaleOfProperties",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Loss on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -738000
+            },
+            {
+                "label": "Gain on purchase liability settlement",
+                "concept": "BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net realized gains on sales of marketable securities",
+                "concept": "MarketableSecuritiesRealizedGainLoss",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Share-based compensation",
+                "concept": "AllocatedShareBasedCompensationExpense",
+                "unit": "usd",
+                "value": 2490000
+            },
+            {
+                "label": "Amortization of commitment fees and note receivable discounts",
+                "concept": "AmortizationOfDeferredLoanOriginationFeesNet",
+                "unit": "usd",
+                "value": 662000
+            },
+            {
+                "label": "Payment of lease incentives",
+                "concept": "nhi:PaymentofTenantLeaseIncentives",
+                "unit": "usd",
+                "value": -5280000
+            },
+            {
+                "label": "Amortization of Lease Incentives",
+                "concept": "AmortizationOfLeaseIncentives",
+                "unit": "usd",
+                "value": 387000
+            },
+            {
+                "label": "Income from equity-method investee",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Equity-method investment and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 5298000
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 4587000
+            },
+            {
+                "label": "Deferred income",
+                "concept": "IncreaseDecreaseInDeferredRevenue",
+                "unit": "usd",
+                "value": 140000
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 207869000
+            },
+            {
+                "label": "Investment in mortgage and other notes receivable",
+                "concept": "PaymentsToAcquireMortgageNotesReceivable",
+                "unit": "usd",
+                "value": 106991000
+            },
+            {
+                "label": "Collection of mortgage and other notes receivable",
+                "concept": "ProceedsFromSaleAndCollectionOfMortgageNotesReceivable",
+                "unit": "usd",
+                "value": 4346000
+            },
+            {
+                "label": "Payments to Acquire Real Estate",
+                "concept": "PaymentsToAcquireRealEstate",
+                "unit": "usd",
+                "value": 131758000
+            },
+            {
+                "label": "Investment in real estate development",
+                "concept": "PaymentsToDevelopRealEstateAssets",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Investment in renovations of existing real estate",
+                "concept": "PaymentsForCapitalImprovements",
+                "unit": "usd",
+                "value": 15887000
+            },
+            {
+                "label": "Payment allocated to cancellation of lease purchase option",
+                "concept": "PaymentsToAcquireEquityMethodInvestments",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Payment of real estate purchase liability",
+                "concept": "nhi:CashPaidInSettlementOfContingentPurchaseConsiderationLiability",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Proceeds from disposition of real estate properties",
+                "concept": "ProceedsFromSaleOfOtherRealEstate",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Proceeds from sales of marketable securities",
+                "concept": "ProceedsFromSaleAndMaturityOfMarketableSecurities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -250290000
+            },
+            {
+                "label": "Payments on revolving credit facility",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 306000000
+            },
+            {
+                "label": "Payments on revolving credit facility",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 443000000
+            },
+            {
+                "label": "Borrowings on term loan",
+                "concept": "ProceedsFromBankDebt",
+                "unit": "usd",
+                "value": 300000000
+            },
+            {
+                "label": "Payments of term loans",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 1144000
+            },
+            {
+                "label": "Debt issuance costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 2171000
+            },
+            {
+                "label": "Taxes remitted in relation to employee stock options exercised",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 1835000
+            },
+            {
+                "label": "Proceeds from equity offering, net",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 81784000
+            },
+            {
+                "label": "Convertible bond redemption",
+                "concept": "PaymentsForRepurchaseOfRedeemableConvertiblePreferredStock",
+                "unit": "usd",
+                "value": 29985000
+            },
+            {
+                "label": "Proceeds from exercise of stock options",
+                "concept": "ProceedsFromStockOptionsExercised",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Distributions to noncontrolling interest",
+                "concept": "PaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Distribution to acquire non-controlling interest",
+                "concept": "PaymentsToAcquireInterestInJointVenture",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Dividends paid to stockholders",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 165391000
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 44258000
+            },
+            {
+                "label": "Increase (decrease) in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1837000
+            },
+            {
+                "label": "Interest Paid, Including Capitalized Interest, Operating and Investing Activities",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 45882000
+            },
+            {
+                "label": "Settlement of mortgage note by real estate acquisition",
+                "concept": "nhi:SettlementOfMortgageNoteByRealEstateAcquisition",
+                "unit": "usd",
+                "value": 1800000
+            },
+            {
+                "label": "Tax deferred exchange funds applied to investment in real estate",
+                "concept": "EscrowDepositDisbursementsRelatedToPropertyAcquisition1",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Conditional consideration in asset acquisition",
+                "concept": "OtherSignificantNoncashTransactionValueOfConsiderationGiven1",
+                "unit": "usd",
+                "value": 750000
+            },
+            {
+                "label": "Settlement of contingent asset acquisition liability",
+                "concept": "nhi:SettlementofContingentAssetAcquisitionLiability",
+                "unit": "usd",
+                "value": 818000
+            },
+            {
+                "label": "Noncash or Part Noncash Acquisition, Value of Liabilities Assumed",
+                "concept": "NoncashOrPartNoncashAcquisitionValueOfLiabilitiesAssumed1",
+                "unit": "usd",
+                "value": 1689000
+            },
+            {
+                "label": "Lessee Payment To Acquire Purchase Option",
+                "concept": "nhi:LesseePaymentToAcquirePurchaseOption",
+                "unit": "usd",
+                "value": 3775000
+            },
+            {
+                "label": "Reclass of note balance into real estate investment",
+                "concept": "nhi:AdditionsThroughSettlementOfMortgageNote",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Assumption of debt in real estate acquisition",
+                "concept": "nhi:AdditionsThroughAssumptionOfDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Unsettled marketable securities sales transactions",
+                "concept": "nhi:UnsettledMarketableSecuritiesSalesTransactions",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Non-cash sale of equity-method investment",
+                "concept": "EquityMethodInvestmentSoldCarryingAmount",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Tenant forfeiture of lease escrow deposit",
+                "concept": "EscrowDepositsRelatedToPropertySales",
+                "unit": "usd",
+                "value": 10637000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 154333000
+            },
+            {
+                "label": "Change in unrealized gains on securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Less: reclassification adjustment for gains in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Increase (decrease) in fair value of cash flow hedge",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 1722000
+            },
+            {
+                "label": "Less: reclassification adjustment for amounts recognized in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+                "unit": "usd",
+                "value": -164000
+            },
+            {
+                "label": "Other comprehensive income (loss):",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1886000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 156219000
+            },
+            {
+                "label": "Less: comprehensive income attributable to noncontrolling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 156219000
+            },
+            {
+                "label": "Operating Leases, Income Statement, Lease Revenue",
+                "concept": "OperatingLeasesIncomeStatementLeaseRevenue",
+                "unit": "usd",
+                "value": 280813000
+            },
+            {
+                "label": "Interest income from mortgage and other notes",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 13799000
+            },
+            {
+                "label": "Net revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 294612000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 71349000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 49055000
+            },
+            {
+                "label": "Legal expense",
+                "concept": "LegalFees",
+                "unit": "usd",
+                "value": 309000
+            },
+            {
+                "label": "Franchise, excise and other taxes",
+                "concept": "nhi:FranchiseExciseAndOtherTaxes",
+                "unit": "usd",
+                "value": 1166000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 12547000
+            },
+            {
+                "label": "Loan and realty losses (recoveries), net",
+                "concept": "nhi:LoanandLeaseLossesandRecoveriesNet",
+                "unit": "usd",
+                "value": 5115000
+            },
+            {
+                "label": "Expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 139541000
+            },
+            {
+                "label": "Income before equity-method investee, tax benefit (expense), investment and other gains, discontinued operations and noncontrolling interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 155071000
+            },
+            {
+                "label": "Income from equity-method investee",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Loss on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -738000
+            },
+            {
+                "label": "Income tax benefit (expense) of taxable REIT subsidiary",
+                "concept": "IncomeLossFromSubsidiariesTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Investment and other gains",
+                "concept": "OtherNonoperatingIncome",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Less: net income attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net income attributable to common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 154333000
+            },
+            {
+                "label": "Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 41943873
+            },
+            {
+                "label": "Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 42091731
+            },
+            {
+                "label": "Weighted average common shares outstanding:",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 3.68
+            },
+            {
+                "label": "Diluted:",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 3.67
+            }
+        ]
+    }
+}

@@ -1,0 +1,543 @@
+{
+    "startDate": "2017-01-01",
+    "endDate": "2017-09-30",
+    "year": "2017",
+    "quarter": "Q3",
+    "symbol": "GEL",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 9694000
+            },
+            {
+                "label": "Accounts receivable - trade, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 437039000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 98558000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 45533000
+            },
+            {
+                "label": "CURRENT ASSETS:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 590824000
+            },
+            {
+                "label": "Fixed assets, at cost",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 5522292000
+            },
+            {
+                "label": "Less: Accumulated depreciation",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 681900000
+            },
+            {
+                "label": "Net fixed assets",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 4840392000
+            },
+            {
+                "label": "MINERAL LEASEHOLDS, net",
+                "concept": "MineralPropertiesNet",
+                "unit": "usd",
+                "value": 622756000
+            },
+            {
+                "label": "NET INVESTMENT IN DIRECT FINANCING LEASES, net of unearned income",
+                "concept": "CapitalLeasesLessorBalanceSheetNetInvestmentInDirectFinancingLeasesNoncurrent",
+                "unit": "usd",
+                "value": 127248000
+            },
+            {
+                "label": "EQUITY INVESTEES",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 383191000
+            },
+            {
+                "label": "INTANGIBLE ASSETS, net of amortization",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 187441000
+            },
+            {
+                "label": "GOODWILL",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 325046000
+            },
+            {
+                "label": "OTHER ASSETS, net of amortization",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 60736000
+            },
+            {
+                "label": "Total consolidated assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 7137634000
+            },
+            {
+                "label": "Accounts payable - trade",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 203717000
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 160294000
+            },
+            {
+                "label": "CURRENT LIABILITIES:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 364011000
+            },
+            {
+                "label": "SENIOR SECURED CREDIT FACILITY",
+                "concept": "SecuredLongTermDebt",
+                "unit": "usd",
+                "value": 1372500000
+            },
+            {
+                "label": "Senior unsecured notes",
+                "concept": "UnsecuredLongTermDebt",
+                "unit": "usd",
+                "value": 2358049000
+            },
+            {
+                "label": "DEFERRED TAX LIABILITIES",
+                "concept": "DeferredTaxLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 26399000
+            },
+            {
+                "label": "OTHER LONG-TERM LIABILITIES",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 256462000
+            },
+            {
+                "label": "CURRENT LIABILITIES:",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4377421000
+            },
+            {
+                "label": "Series A Convertible Preferred Units, 22,249,494 issued and outstanding at September 30, 2017",
+                "concept": "TemporaryEquityCarryingAmountIncludingPortionAttributableToNoncontrollingInterests",
+                "unit": "usd",
+                "value": 691708000
+            },
+            {
+                "label": "Common unitholders, 122,579,218 and 117,979,218 units issued and outstanding at September 30, 2017 and December 31, 2016, respectively",
+                "concept": "PartnersCapitalIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2077393000
+            },
+            {
+                "label": "Noncontrolling interests",
+                "concept": "PartnersCapitalAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -8888000
+            },
+            {
+                "label": "Common units, issued",
+                "concept": "LimitedPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 2068505000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND PARTNERS' CAPITAL",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 7137634000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 66678000
+            },
+            {
+                "label": "Depreciation, depletion and amortization",
+                "concept": "gel:DepreciationDepletionAndAmortizationIncludingDiscOps",
+                "unit": "usd",
+                "value": 176453000
+            },
+            {
+                "label": "Non-cash provision for leased items no longer in use",
+                "concept": "gel:WriteoffofAmortizationofLeasedAssets",
+                "unit": "usd",
+                "value": 12589000
+            },
+            {
+                "label": "Gain on sale of assets",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": 26684000
+            },
+            {
+                "label": "Amortization of debt issuance costs and discount",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 8154000
+            },
+            {
+                "label": "Amortization of unearned income and initial direct costs on direct financing leases",
+                "concept": "gel:AmortizationOfUnearnedIncomeAndInitialDirectCostsOnDirectFinancingLeases",
+                "unit": "usd",
+                "value": -10374000
+            },
+            {
+                "label": "Payments received under direct financing leases",
+                "concept": "IncreaseDecreaseInLeasingReceivables",
+                "unit": "usd",
+                "value": -15501000
+            },
+            {
+                "label": "Equity in earnings of investments in equity investees",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 34805000
+            },
+            {
+                "label": "Cash distributions of earnings of equity investees",
+                "concept": "EquityMethodInvestmentDividendsOrDistributions",
+                "unit": "usd",
+                "value": 45854000
+            },
+            {
+                "label": "Non-cash effect of equity-based compensation plans",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": -5524000
+            },
+            {
+                "label": "Deferred and other tax liabilities",
+                "concept": "IncreaseDecreaseInDeferredIncomeTaxes",
+                "unit": "usd",
+                "value": -508000
+            },
+            {
+                "label": "Unrealized loss on derivative transactions",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": -3040000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 7338000
+            },
+            {
+                "label": "Net changes in components of operating assets and liabilities",
+                "concept": "IncreaseDecreaseInOperatingCapital",
+                "unit": "usd",
+                "value": 26262000
+            },
+            {
+                "label": "CASH FLOWS FROM OPERATING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 217790000
+            },
+            {
+                "label": "Payments to acquire fixed and intangible assets",
+                "concept": "PaymentsToAcquireProductiveAssets",
+                "unit": "usd",
+                "value": 182653000
+            },
+            {
+                "label": "Cash distributions received from equity investees - return of investment",
+                "concept": "gel:DistributionsFromJointVenturesReturnOfInvestmentFromInvestingActivities",
+                "unit": "usd",
+                "value": 14517000
+            },
+            {
+                "label": "Cash payment to acquire business",
+                "concept": "PaymentsToAcquireBusinessesGross",
+                "unit": "usd",
+                "value": 1325759000
+            },
+            {
+                "label": "Contributions in aid of construction costs",
+                "concept": "ProceedsFromContributionInAidOfConstruction",
+                "unit": "usd",
+                "value": 124000
+            },
+            {
+                "label": "Proceeds from asset sales",
+                "concept": "ProceedsFromSalesOfAssetsInvestingActivities",
+                "unit": "usd",
+                "value": 39204000
+            },
+            {
+                "label": "Other, net",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "CASH FLOWS FROM INVESTING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -1454567000
+            },
+            {
+                "label": "Borrowings on senior secured credit facility",
+                "concept": "ProceedsFromLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 1247700000
+            },
+            {
+                "label": "Repayments on senior secured credit facility",
+                "concept": "RepaymentsOfLongTermLinesOfCredit",
+                "unit": "usd",
+                "value": 1153400000
+            },
+            {
+                "label": "Proceeds from issuance of unsecured debt",
+                "concept": "ProceedsFromIssuanceOfUnsecuredDebt",
+                "unit": "usd",
+                "value": 550000000
+            },
+            {
+                "label": "Proceeds from issuance of Series A convertible preferred units, net",
+                "concept": "ProceedsFromIssuanceOfPreferredLimitedPartnersUnits",
+                "unit": "usd",
+                "value": 729958000
+            },
+            {
+                "label": "Debt issuance costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 17808000
+            },
+            {
+                "label": "Issuance of common units for cash, net",
+                "concept": "ProceedsFromIssuanceOfCommonLimitedPartnersUnits",
+                "unit": "usd",
+                "value": 140513000
+            },
+            {
+                "label": "Contributions from noncontrolling interest",
+                "concept": "ProceedsFromPaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": 1850000
+            },
+            {
+                "label": "Distributions to common unitholders",
+                "concept": "gel:PaymentsOfDistributionsToCommonUnitholders",
+                "unit": "usd",
+                "value": 260586000
+            },
+            {
+                "label": "Other, net",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": 1215000
+            },
+            {
+                "label": "CASH FLOWS FROM FINANCING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1239442000
+            },
+            {
+                "label": "Net increase in cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 2665000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Offshore pipeline transportation services",
+                "concept": "gel:OffshorePipelineTransportationServicesRevenues",
+                "unit": "usd",
+                "value": 243437000
+            },
+            {
+                "label": "Sodium minerals and sulfur services",
+                "concept": "gel:SodiummineralsandsulfurservicesRevenues",
+                "unit": "usd",
+                "value": 197879000
+            },
+            {
+                "label": "Marine transportation",
+                "concept": "gel:MarineTransportationRevenues",
+                "unit": "usd",
+                "value": 152038000
+            },
+            {
+                "label": "Onshore facilities and transportation",
+                "concept": "gel:OnshoreFacilitiesandTransportationRevenues",
+                "unit": "usd",
+                "value": 714974000
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 1308328000
+            },
+            {
+                "label": "Onshore facilities and transportation product costs",
+                "concept": "gel:OnshoreFacilitiesandTransportationProductCosts",
+                "unit": "usd",
+                "value": 582535000
+            },
+            {
+                "label": "Onshore facilities and transportation operating costs",
+                "concept": "gel:OnshoreFacilitiesandTransportationOperatingCosts",
+                "unit": "usd",
+                "value": 80160000
+            },
+            {
+                "label": "Marine transportation costs",
+                "concept": "gel:MarineTransportationOperatingCosts",
+                "unit": "usd",
+                "value": 111980000
+            },
+            {
+                "label": "Sodium minerals and sulfur services operating costs",
+                "concept": "gel:SodiumMineralsandSulfurServicesOperatingCosts",
+                "unit": "usd",
+                "value": 133335000
+            },
+            {
+                "label": "Offshore pipeline transportation operating costs",
+                "concept": "gel:OffshorePipelineTransportationOperatingCosts",
+                "unit": "usd",
+                "value": 54682000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 38723000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 176453000
+            },
+            {
+                "label": "Gain on sale of assets",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": 26684000
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 1151184000
+            },
+            {
+                "label": "OPERATING INCOME",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 157144000
+            },
+            {
+                "label": "Equity in earnings of investments in equity investees",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 34805000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": -122117000
+            },
+            {
+                "label": "Other expense",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -2276000
+            },
+            {
+                "label": "Income from continuing operations before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 67556000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 878000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 66678000
+            },
+            {
+                "label": "Net loss attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -457000
+            },
+            {
+                "label": "NET INCOME ATTRIBUTABLE TO GENESIS ENERGY, L.P.",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 67135000
+            },
+            {
+                "label": "Less: Accumulated distributions attributable to Series A Convertible Preferred Units",
+                "concept": "gel:AccumulateddistributionsattributabletoSeriesAPreferredUnitholders",
+                "unit": "usd",
+                "value": 5469000
+            },
+            {
+                "label": "Net Income Available to Common Unitholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 61666000
+            },
+            {
+                "label": "Basic and Diluted Net Income per Common Unit (in dollars per unit)",
+                "concept": "NetIncomeLossPerOutstandingLimitedPartnershipAndGeneralPartnershipUnitBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.51
+            },
+            {
+                "label": "Weighted Average Outstanding Shares (in shares)",
+                "concept": "WeightedAverageNumberOfLimitedPartnershipAndGeneralPartnershipUnitOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 121198000
+            }
+        ]
+    }
+}

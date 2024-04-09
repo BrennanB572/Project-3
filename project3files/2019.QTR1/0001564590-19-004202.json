@@ -1,0 +1,519 @@
+{
+    "startDate": "2018-01-01",
+    "endDate": "2018-12-31",
+    "year": "2018",
+    "quarter": "FY",
+    "symbol": "TRTX",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 39720000
+            },
+            {
+                "label": "Restricted Cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Accounts Receivable",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 38000
+            },
+            {
+                "label": "Accounts Receivable from Servicer/Trustee",
+                "concept": "AccountsReceivableFromSecuritization",
+                "unit": "usd",
+                "value": 96464000
+            },
+            {
+                "label": "Accrued Interest Receivable",
+                "concept": "InterestReceivable",
+                "unit": "usd",
+                "value": 20731000
+            },
+            {
+                "label": "Loans Held for Investment, net (includes $2,219,574 and $2,694,106 pledged as collateral under secured revolving repurchase and secured credit agreements)",
+                "concept": "LoansReceivableNet",
+                "unit": "usd",
+                "value": 4293787000
+            },
+            {
+                "label": "Investment in Commercial Mortgage-Backed Securities, Available-for-Sale (includes $36,307 and $47,762 pledged as collateral under secured revolving repurchase agreements)",
+                "concept": "AvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 74381000
+            },
+            {
+                "label": "Other Assets, Net",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 669000
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 4526790000
+            },
+            {
+                "label": "Accrued Interest Payable",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 6146000
+            },
+            {
+                "label": "Accrued Expenses",
+                "concept": "AccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 8151000
+            },
+            {
+                "label": "Collateralized Loan Obligations (net of deferred financing costs of $12,447 and $0)",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 1509930000
+            },
+            {
+                "label": "Secured Revolving Repurchase, Senior Secured, and Secured Credit Agreements (net of deferred financing costs of $10,448 and $8,697)",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 1494078000
+            },
+            {
+                "label": "Term Loan Facility (net of deferred financing costs of $758 and $0)",
+                "concept": "LongTermLoansPayable",
+                "unit": "usd",
+                "value": 113504000
+            },
+            {
+                "label": "Asset-specific financings.",
+                "concept": "trtx:AssetSpecificFinancings",
+                "unit": "usd",
+                "value": 32371000
+            },
+            {
+                "label": "Payable to Affiliates",
+                "concept": "DueToAffiliateCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 5996000
+            },
+            {
+                "label": "Deferred Revenue",
+                "concept": "DeferredRevenue",
+                "unit": "usd",
+                "value": 463000
+            },
+            {
+                "label": "Dividends Payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 28981000
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS EQUITY",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 3199620000
+            },
+            {
+                "label": "Commitments and Contingencies\u2014See Note 14",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock ($0.001 par value; 100,000,000 shares authorized; 0 and 125 shares issued and outstanding, respectively)",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid-in-Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1355002000
+            },
+            {
+                "label": "Accumulated Deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -25915000
+            },
+            {
+                "label": "Accumulated Other Comprehensive (Loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -1985000
+            },
+            {
+                "label": "Stockholders\u2019 Equity:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1327170000
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 4526790000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 106941000
+            },
+            {
+                "label": "Amortization and accretion of premiums discounts and loan origination fees net.",
+                "concept": "trtx:AmortizationAndAccretionOfPremiumsDiscountsAndLoanOriginationFeesNet",
+                "unit": "usd",
+                "value": 15915000
+            },
+            {
+                "label": "Amortization of Deferred Financing Costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 17157000
+            },
+            {
+                "label": "Loss (Gain) on Sales of Loans Held for Investment and Commercial Mortgage-Backed Securities, net",
+                "concept": "GainLossOnSaleOfInvestments",
+                "unit": "usd",
+                "value": -524000
+            },
+            {
+                "label": "Stock Compensation Expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 665000
+            },
+            {
+                "label": "Accounts Receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -103000
+            },
+            {
+                "label": "Accrued Interest Receivable",
+                "concept": "IncreaseDecreaseInAccruedInterestReceivableNet",
+                "unit": "usd",
+                "value": 5270000
+            },
+            {
+                "label": "Accrued Expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 1626000
+            },
+            {
+                "label": "Accrued Interest Payable",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": 761000
+            },
+            {
+                "label": "Payable to Affiliates",
+                "concept": "IncreaseDecreaseInDueToAffiliates",
+                "unit": "usd",
+                "value": 769000
+            },
+            {
+                "label": "Deferred Fee Income",
+                "concept": "IncreaseDecreaseInDeferredRevenue",
+                "unit": "usd",
+                "value": 146000
+            },
+            {
+                "label": "Other Assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": -190000
+            },
+            {
+                "label": "Cash Flows from Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 107697000
+            },
+            {
+                "label": "Origination of Loans Held for Investment",
+                "concept": "PaymentsForProceedsFromLoansReceivable",
+                "unit": "usd",
+                "value": 2071391000
+            },
+            {
+                "label": "Payments for advances on loans held for investment.",
+                "concept": "trtx:PaymentsForAdvancesOnLoansHeldForInvestment",
+                "unit": "usd",
+                "value": 258308000
+            },
+            {
+                "label": "Principal Repayments of Loans Held for Investment",
+                "concept": "ProceedsFromPrincipalRepaymentsOnLoansAndLeasesHeldForInvestment",
+                "unit": "usd",
+                "value": 1131294000
+            },
+            {
+                "label": "Proceeds from Sales of Loans Held for Investment",
+                "concept": "ProceedsFromSaleOfLoansHeldForInvestment",
+                "unit": "usd",
+                "value": 2174000
+            },
+            {
+                "label": "Purchase of Commercial Mortgage-Backed Securities",
+                "concept": "PaymentsToAcquireMortgageBackedSecuritiesMBSCategorizedAsAvailableForSale",
+                "unit": "usd",
+                "value": 143503000
+            },
+            {
+                "label": "Sales and Principal Repayments of Commercial Mortgage-Backed Securities",
+                "concept": "ProceedsFromSaleAndMaturityOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 146869000
+            },
+            {
+                "label": "Cash Flows from Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -1192865000
+            },
+            {
+                "label": "Payments on Collateralized Loan Obligations",
+                "concept": "RepaymentsOfFirstMortgageBond",
+                "unit": "usd",
+                "value": 13800000
+            },
+            {
+                "label": "Proceeds from Collateralized Loan Obligations",
+                "concept": "ProceedsFromIssuanceOfFirstMortgageBond",
+                "unit": "usd",
+                "value": 1541037000
+            },
+            {
+                "label": "Payments on Secured Financing Agreements",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 2544583000
+            },
+            {
+                "label": "Proceeds from Secured Financing Agreements",
+                "concept": "ProceedsFromIssuanceOfSecuredDebt",
+                "unit": "usd",
+                "value": 2070584000
+            },
+            {
+                "label": "Payment for (proceeds from) financing costs.",
+                "concept": "trtx:PaymentForProceedsFromFinancingCosts",
+                "unit": "usd",
+                "value": 29279000
+            },
+            {
+                "label": "Payments for retirement of common stock.",
+                "concept": "trtx:PaymentsForRetirementOfCommonStock",
+                "unit": "usd",
+                "value": 8842000
+            },
+            {
+                "label": "Proceeds from Issuance of Common Stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 139440000
+            },
+            {
+                "label": "Cash Flows from Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1050151000
+            },
+            {
+                "label": "Net Change in Cash, Cash Equivalents, and Restricted Cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -35017000
+            },
+            {
+                "label": "Interest Paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 108106000
+            },
+            {
+                "label": "Income taxes paid refund.",
+                "concept": "trtx:IncomeTaxesPaidRefund",
+                "unit": "usd",
+                "value": 341000
+            },
+            {
+                "label": "Principal repayments of loans held for investment by servicer trustee net.",
+                "concept": "trtx:PrincipalRepaymentsOfLoansHeldForInvestmentByServicerTrusteeNet",
+                "unit": "usd",
+                "value": 94633000
+            },
+            {
+                "label": "Principal repayments of commercial mortgage-backed securities held by servicer/trustee, net.",
+                "concept": "trtx:PrincipalRepaymentsOfCommercialMortgageBackedSecuritiesHeldByServicerTrusteeNet",
+                "unit": "usd",
+                "value": 213000
+            },
+            {
+                "label": "Interest payments of loans held for investment and commercial mortgage-backed securities held by servicer trustee, net.",
+                "concept": "trtx:InterestPaymentsOfLoansHeldForInvestmentAndCommercialMortgageBackedSecuritiesHeldByServicerTrusteeNet",
+                "unit": "usd",
+                "value": 1488000
+            },
+            {
+                "label": "Accrued Deferred Financing Costs",
+                "concept": "DebtIssuanceCostsIncurredDuringNoncashOrPartialNoncashTransaction",
+                "unit": "usd",
+                "value": 2926000
+            },
+            {
+                "label": "Accrued common stock retirement costs.",
+                "concept": "trtx:AccruedCommonStockRetirementCosts",
+                "unit": "usd",
+                "value": 95000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Interest Income",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 265594000
+            },
+            {
+                "label": "Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 126025000
+            },
+            {
+                "label": "INTEREST INCOME",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 139569000
+            },
+            {
+                "label": "OTHER REVENUE",
+                "concept": "NoninterestIncomeOther",
+                "unit": "usd",
+                "value": 1307000
+            },
+            {
+                "label": "OTHER REVENUE",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 1307000
+            },
+            {
+                "label": "Professional Fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 3162000
+            },
+            {
+                "label": "General and Administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 4039000
+            },
+            {
+                "label": "Servicing and asset management fees.",
+                "concept": "trtx:ServicingAndAssetManagementFees",
+                "unit": "usd",
+                "value": 2646000
+            },
+            {
+                "label": "Management Fee",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 19364000
+            },
+            {
+                "label": "Incentive Management Fee",
+                "concept": "IncentiveFeeExpense",
+                "unit": "usd",
+                "value": 4384000
+            },
+            {
+                "label": "OTHER EXPENSES",
+                "concept": "OtherExpenses",
+                "unit": "usd",
+                "value": 33595000
+            },
+            {
+                "label": "Income Before Income Taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 107281000
+            },
+            {
+                "label": "Income Tax (Expense) Income, net",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 340000
+            },
+            {
+                "label": "Net Income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 106941000
+            },
+            {
+                "label": "Preferred Stock Dividends",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Net Income Attributable to TPG RE Finance Trust, Inc.",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 106938000
+            },
+            {
+                "label": "Basic Earnings per Common Share",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 1.7
+            },
+            {
+                "label": "Diluted Earnings per Common Share",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 1.7
+            },
+            {
+                "label": "Basic:",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 63034806
+            },
+            {
+                "label": "Diluted:",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 63034806
+            },
+            {
+                "label": "Unrealized (Loss) Gain on Commercial Mortgage-Backed Securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": -1951000
+            },
+            {
+                "label": "Comprehensive Net Income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 104990000
+            }
+        ]
+    }
+}

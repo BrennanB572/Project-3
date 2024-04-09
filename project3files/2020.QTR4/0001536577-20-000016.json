@@ -1,0 +1,417 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-09-30",
+    "year": "2020",
+    "quarter": "Q3",
+    "symbol": "MDLY",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 5823000
+            },
+            {
+                "label": "Investments, at fair value",
+                "concept": "InvestmentsFairValueDisclosure",
+                "unit": "usd",
+                "value": 9637000
+            },
+            {
+                "label": "Management fees receivable",
+                "concept": "mdly:ManagementFeesReceivable",
+                "unit": "usd",
+                "value": 5799000
+            },
+            {
+                "label": "Right-of-use assets under operating leases",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 5206000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 10073000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 36538000
+            },
+            {
+                "label": "Senior unsecured debt, net",
+                "concept": "UnsecuredDebt",
+                "unit": "usd",
+                "value": 118958000
+            },
+            {
+                "label": "Loans payable",
+                "concept": "LoansPayable",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Due to former minority interest holder, net",
+                "concept": "NotesPayable",
+                "unit": "usd",
+                "value": 7233000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 7420000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "AccountsPayableAndOtherAccruedLiabilities",
+                "unit": "usd",
+                "value": 25942000
+            },
+            {
+                "label": "Liabilities, Redeemable Non-controlling Interests and Members' Deficit",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 169553000
+            },
+            {
+                "label": "Commitments and Contingencies (Note 12)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redeemable Non-controlling Interests",
+                "concept": "RedeemableNoncontrollingInterestEquityCarryingAmount",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Members' Capital",
+                "concept": "MembersCapital",
+                "unit": "usd",
+                "value": -132538000
+            },
+            {
+                "label": "Non-controlling interests in consolidated subsidiaries",
+                "concept": "MembersEquityAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -477000
+            },
+            {
+                "label": "Members' Deficit",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -133015000
+            },
+            {
+                "label": "Liabilities, Redeemable Non-controlling Interests and Members' Deficit",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 36538000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -17039000
+            },
+            {
+                "label": "Share-based Compensation Arrangement by Share-based Payment Award [Line Items]",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 2946000
+            },
+            {
+                "label": "Amortization of debt issuance costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 519000
+            },
+            {
+                "label": "Accretion of debt discount",
+                "concept": "AccretionExpense",
+                "unit": "usd",
+                "value": 720000
+            },
+            {
+                "label": "Benefit from deferred taxes",
+                "concept": "DeferredIncomeTaxesAndTaxCredits",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 539000
+            },
+            {
+                "label": "Net unrealized depreciation on investments",
+                "concept": "mdly:NetChangeInUnrealizedAppreciationOrDepreciationOnInvestments",
+                "unit": "usd",
+                "value": -1288000
+            },
+            {
+                "label": "Losses (income) from equity method investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -330000
+            },
+            {
+                "label": "Reclassification of cumulative dividends paid on forfeited restricted stock units to compensation and benefits expense",
+                "concept": "mdly:ReclassificationOfCumulativeDividendsPaidReceivedOnForfeitedRestrictedStockUnitsToCompensationExpense",
+                "unit": "usd",
+                "value": 375000
+            },
+            {
+                "label": "Non-cash lease costs",
+                "concept": "mdly:LesseeOperatingLeaseNonCash",
+                "unit": "usd",
+                "value": 1823000
+            },
+            {
+                "label": "Other non-cash amounts",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": -330000
+            },
+            {
+                "label": "Management fees receivable",
+                "concept": "mdly:IncreaseDecreaseInManagementFeesReceivable",
+                "unit": "usd",
+                "value": -2305000
+            },
+            {
+                "label": "Income distributions received from equity method investments",
+                "concept": "mdly:IncreaseDecreaseFromDistributionsIfIncomeReceivedFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 772000
+            },
+            {
+                "label": "Purchase of investments",
+                "concept": "mdly:DecreaseInInvestments",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Sale of investments",
+                "concept": "mdly:IncreaseInInvestments",
+                "unit": "usd",
+                "value": 95000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 872000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeasePayments",
+                "unit": "usd",
+                "value": 1313000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 5339000
+            },
+            {
+                "label": "Cash flows from operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -1843000
+            },
+            {
+                "label": "Purchases of fixed assets",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 16000
+            },
+            {
+                "label": "Distributions received from investment held at cost less impairment",
+                "concept": "EquityMethodInvestmentDividendsOrDistributions",
+                "unit": "usd",
+                "value": 27000
+            },
+            {
+                "label": "Decrease in cash resulting from the deconsolidation of STRF",
+                "concept": "CashDivestedFromDeconsolidation",
+                "unit": "usd",
+                "value": 471000
+            },
+            {
+                "label": "Capital contributions to equity method investments",
+                "concept": "mdly:ContributionsToEquityMethodInvestments",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash flows from investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -460000
+            },
+            {
+                "label": "Payments to former minority interest holder",
+                "concept": "PaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": 1575000
+            },
+            {
+                "label": "Distributions to members and redeemable non-controlling interests",
+                "concept": "PaymentsOfCapitalDistribution",
+                "unit": "usd",
+                "value": 551000
+            },
+            {
+                "label": "Payments of tax withholdings related to net share settlement of restricted stock units",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 125000
+            },
+            {
+                "label": "Cash flows from financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -2251000
+            },
+            {
+                "label": "Net decrease in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -4554000
+            },
+            {
+                "label": "Recognition of right-of-use assets under operating leases upon adoption of new leasing standard",
+                "concept": "mdly:NonCashOperatingLeaseRightofUseAsset",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Recognition of operating lease liabilities arising from obtaining right-of-use assets under operating leases upon adoption of new leasing standard",
+                "concept": "mdly:NonCashOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accretion of operating lease liabilities recorded against right-of-use assets",
+                "concept": "mdly:OperatingLeaseRightofUseAssetAccretion",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Fair value adjustment to redeemable non-controlling interest in STRF Advisors LLC (Note 17)",
+                "concept": "mdly:SignificantNoncashTransactionReclassificationFromPermanentToTemporaryEquity",
+                "unit": "usd",
+                "value": 752000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenues from contracts with customers",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 26076000
+            },
+            {
+                "label": "Carried interest distribution",
+                "concept": "mdly:InvestmentIncomeCarriedInterest",
+                "unit": "usd",
+                "value": 83000
+            },
+            {
+                "label": "Other investment income (loss), net",
+                "concept": "PrincipalInvestmentGainsLosses",
+                "unit": "usd",
+                "value": -1384000
+            },
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 24775000
+            },
+            {
+                "label": "Compensation and benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 17119000
+            },
+            {
+                "label": "General, administrative and other expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 11682000
+            },
+            {
+                "label": "Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 28801000
+            },
+            {
+                "label": "Dividend income",
+                "concept": "InvestmentIncomeDividend",
+                "unit": "usd",
+                "value": 137000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 7950000
+            },
+            {
+                "label": "Other (expenses) income, net",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -5592000
+            },
+            {
+                "label": "Total expenses, net",
+                "concept": "mdly:TotalOtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -13405000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -17431000
+            },
+            {
+                "label": "Benefit from income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -392000
+            },
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -17039000
+            },
+            {
+                "label": "Net income (loss) attributable to non-controlling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 60000
+            },
+            {
+                "label": "Net income (losses) allocated to non-controlling interest, less than",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -17099000
+            }
+        ]
+    }
+}

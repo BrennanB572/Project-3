@@ -1,0 +1,279 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2020",
+    "quarter": "Q1",
+    "symbol": "DFPHU",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 1507436
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 292933
+            },
+            {
+                "label": "Assets, Current [Abstract]",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1800369
+            },
+            {
+                "label": "Investments held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 230042685
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 231843054
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 288257
+            },
+            {
+                "label": "Accrued Liabilities, Current",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 35122
+            },
+            {
+                "label": "Carrying value as of the balance sheet date of obligations incurred and payable, pertaining to costs that are statutory in nature, are incurred on contractual obligations, or accumulate over time and for which invoices have not yet been received or will not be rendered under related party transactions. Examples include taxes, interest, rent and utilities. Used to reflect the current portion of the liabilities (due within one year or within the normal operating cycle if longer).",
+                "concept": "dfphu:AccruedLiabilitiesCurrentRelatedParties",
+                "unit": "usd",
+                "value": 17500
+            },
+            {
+                "label": "Carrying value as of the balance sheet date of obligations incurred and payable, pertaining to franchise tax. (due within one year or within the normal operating cycle if longer).",
+                "concept": "dfphu:FranchiseTaxPayableCurrent",
+                "unit": "usd",
+                "value": 50050
+            },
+            {
+                "label": "Liabilities, Current [Abstract]",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 390929
+            },
+            {
+                "label": "Carrying value as of the balance sheet date of deferred underwriting commissions incurred through that date and due after one year (or beyond the operating cycle if longer).",
+                "concept": "dfphu:DeferredUnderwritingCommissionsNoncurrent",
+                "unit": "usd",
+                "value": 6300000
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 6690929
+            },
+            {
+                "label": "Temporary Equity, Carrying Amount, Attributable to Parent",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 220152120
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 5046721
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -47389
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000005
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 231843054
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -45089
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 42685
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 57933
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 51707
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": -1500
+            },
+            {
+                "label": "The increase (decrease) during the reporting period in the aggregate amount of expenses incurred but not yet paid pertaining to related parties.",
+                "concept": "dfphu:IncreaseDecreaseInAccruedLiabilitiesRelatedParties",
+                "unit": "usd",
+                "value": 17500
+            },
+            {
+                "label": "The increase (decrease) during the reporting period of franchise tax payable.",
+                "concept": "dfphu:IncreaseDecreaseInFranchiseTaxPayable",
+                "unit": "usd",
+                "value": 49250
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities, Continuing Operations [Abstract]",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -28750
+            },
+            {
+                "label": "The cash outflow for the purchase of investments that will be held in a trust account.",
+                "concept": "dfphu:PaymentsToAcquireInvestmentsToBeHeldInTrustAccount",
+                "unit": "usd",
+                "value": 230000000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities, Continuing Operations [Abstract]",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -230000000
+            },
+            {
+                "label": "Proceeds from Related Party Debt",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 200000
+            },
+            {
+                "label": "Repayments of Related Party Debt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 200000
+            },
+            {
+                "label": "Proceeds from Issuance Initial Public Offering",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": 230000000
+            },
+            {
+                "label": "Proceeds from Issuance of Private Placement",
+                "concept": "ProceedsFromIssuanceOfPrivatePlacement",
+                "unit": "usd",
+                "value": 5600000
+            },
+            {
+                "label": "Payments of Stock Issuance Costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 4088814
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities, Continuing Operations [Abstract]",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 231511186
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Excluding Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1482436
+            },
+            {
+                "label": "Amount of prepaid expenses included in accounts payable in noncash investing or financing activities.",
+                "concept": "dfphu:PrepaidExpensesIncludedInAccountsPayable",
+                "unit": "usd",
+                "value": 235000
+            },
+            {
+                "label": "The amount of offering costs included in accrued expenses that were incurred during a noncash or partial noncash transaction.",
+                "concept": "dfphu:OfferingCostsIncludedInAccruedExpensesIncurredDuringNoncashOrPartialNoncashTransaction",
+                "unit": "usd",
+                "value": 35122
+            },
+            {
+                "label": "The amount of offering costs included in accounts payable that were incurred during a noncash or partial noncash transaction.",
+                "concept": "dfphu:OfferingCostsIncludedInAccountsPayableIncurredDuringNoncashOrPartialNoncashTransaction",
+                "unit": "usd",
+                "value": 1550
+            },
+            {
+                "label": "The amount of deferred underwriting commissions with initial public offering that were incurred during a noncash or partial noncash transaction.",
+                "concept": "dfphu:DeferredUnderwritingCommissionsInConnectionWithInitialPublicOffering",
+                "unit": "usd",
+                "value": 6300000
+            },
+            {
+                "label": "The amount of common stock subject to possible redemption during a noncash or partial noncash transaction.",
+                "concept": "dfphu:CommonStockSubjectToPossibleRedemptionNoncash",
+                "unit": "usd",
+                "value": 220152120
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 38074
+            },
+            {
+                "label": "Amount of franchise tax expense.",
+                "concept": "dfphu:FranchiseTaxExpense",
+                "unit": "usd",
+                "value": 49700
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -87774
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 42685
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -45089
+            }
+        ]
+    }
+}

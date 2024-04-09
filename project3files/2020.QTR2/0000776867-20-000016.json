@@ -1,0 +1,471 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-03-31",
+    "year": "2019",
+    "quarter": "Q3",
+    "symbol": "WTM",
+    "data": {
+        "bs": [
+            {
+                "label": "Goodwill and intangible assets, net carrying value",
+                "concept": "IntangibleAssetsNetIncludingGoodwill",
+                "unit": "usd",
+                "value": 646800000.0
+            },
+            {
+                "label": "Assets, fair value",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 3739700000.0
+            },
+            {
+                "label": "Total debt",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 294700000.0
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 780600000.0
+            },
+            {
+                "label": "White Mountains\u2019s common shares at $1 par value per share\u2014authorized 50,000,000 shares; issued and outstanding 3,135,005 and 3,185,353 shares and paid-in surplus",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 589300000.0
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 2498000000.0
+            },
+            {
+                "label": "Accumulated other comprehensive loss, after tax:",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -10600000.0
+            },
+            {
+                "label": "Beginning Balances",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 3076700000.0
+            },
+            {
+                "label": "Non-controlling Interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": -117600000.0
+            },
+            {
+                "label": "Beginning Balances",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2959100000.0
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 3739700000.0
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -139600000.0
+            },
+            {
+                "label": "Net realized and unrealized investment gains",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": -156700000.0
+            },
+            {
+                "label": "Realized gain from the MediaAlpha Transaction",
+                "concept": "EquityMethodInvestmentRealizedGainLossOnDisposal",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Deferred income tax (benefit) expense",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -27900000.0
+            },
+            {
+                "label": "Net gain from sale of discontinued operations, net of tax",
+                "concept": "DiscontinuedOperationGainLossOnDisposalOfDiscontinuedOperationNetOfTax",
+                "unit": "usd",
+                "value": 900000.0
+            },
+            {
+                "label": "Amortization of restricted share and option awards",
+                "concept": "wtm:AmortizationofRestrictedSharesandOptionAwards",
+                "unit": "usd",
+                "value": 5100000.0
+            },
+            {
+                "label": "Amortization and depreciation",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 7100000.0
+            },
+            {
+                "label": "Net change in Premiums and Commissions Receivable",
+                "concept": "IncreaseDecreaseInPremiumsReceivable",
+                "unit": "usd",
+                "value": 700000.0
+            },
+            {
+                "label": "Net change in Premiums Payable",
+                "concept": "IncreaseDecreaseInOtherAccountsPayable",
+                "unit": "usd",
+                "value": 8500000.0
+            },
+            {
+                "label": "Net change in unearned insurance premiums",
+                "concept": "IncreaseDecreaseInUnearnedPremiums",
+                "unit": "usd",
+                "value": 4300000.0
+            },
+            {
+                "label": "Net change in deferred acquisition costs",
+                "concept": "IncreaseDecreaseInDeferredPolicyAcquisitionCosts",
+                "unit": "usd",
+                "value": 1200000.0
+            },
+            {
+                "label": "Net change in restricted cash",
+                "concept": "IncreaseDecreaseInRestrictedCashForOperatingActivities",
+                "unit": "usd",
+                "value": -8600000.0
+            },
+            {
+                "label": "Investments in asset management firms - Kudu",
+                "concept": "IncreaseDecreaseInTradingSecurities",
+                "unit": "usd",
+                "value": 21000000.0
+            },
+            {
+                "label": "Net change in other assets and liabilities, net",
+                "concept": "IncreaseDecreaseInOtherOperatingCapitalNet",
+                "unit": "usd",
+                "value": 58800000.0
+            },
+            {
+                "label": "Cash flows from operations:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -59800000.0
+            },
+            {
+                "label": "Net change in short-term investments",
+                "concept": "PaymentsForProceedsFromShortTermInvestments",
+                "unit": "usd",
+                "value": -63900000.0
+            },
+            {
+                "label": "Sales of fixed maturity and convertible investments",
+                "concept": "wtm:ProceedsFromSaleOfTradingFixedMaturityAndConvertibleFixedMaturityInvestments",
+                "unit": "usd",
+                "value": 116100000.0
+            },
+            {
+                "label": "Maturities, calls and paydowns of fixed maturity and convertible investments",
+                "concept": "wtm:ProceedsFromMaturitiesOfTradingFixedMaturityAndConvertibleFixedMaturityInvestments",
+                "unit": "usd",
+                "value": 58900000.0
+            },
+            {
+                "label": "Sales of common equity securities",
+                "concept": "wtm:ProceedsFromSaleOfTradingCommonEquitySecurities",
+                "unit": "usd",
+                "value": 40300000.0
+            },
+            {
+                "label": "Distributions and redemptions of other long-term investments and settlements of forward contracts",
+                "concept": "ProceedsFromSaleAndMaturityOfOtherInvestments",
+                "unit": "usd",
+                "value": 64099999.99999999
+            },
+            {
+                "label": "Purchases of other long-term investments",
+                "concept": "PaymentsToAcquireOtherInvestments",
+                "unit": "usd",
+                "value": 10900000.0
+            },
+            {
+                "label": "Purchases of common equity securities",
+                "concept": "wtm:PaymentsToAcquireTradingCommonEquitySecurities",
+                "unit": "usd",
+                "value": 20900000.0
+            },
+            {
+                "label": "Purchases of fixed maturity and convertible investments",
+                "concept": "wtm:PaymentsToAcquireTradingFixedMaturityAndConvertibleFixedMaturityInvestments",
+                "unit": "usd",
+                "value": 180100000.0
+            },
+            {
+                "label": "Payments to Acquire Businesses and Interest in Affiliates",
+                "concept": "PaymentsToAcquireBusinessesAndInterestInAffiliates",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other investing activities, net",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 50900000.0
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 80500000.0
+            },
+            {
+                "label": "Draw down of debt and revolving line of credit",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 12000000.0
+            },
+            {
+                "label": "Repayments of debt",
+                "concept": "RepaymentsOfDebt",
+                "unit": "usd",
+                "value": 1000000.0
+            },
+            {
+                "label": "Cash dividends paid to the Company\u2019s common shareholders",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 3200000.0
+            },
+            {
+                "label": "Common shares repurchased",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 47800000.0
+            },
+            {
+                "label": "Distribution to non-controlling interest shareholders",
+                "concept": "PaymentsOfCapitalDistribution",
+                "unit": "usd",
+                "value": 700000.0
+            },
+            {
+                "label": "Payments on contingent consideration earnout liability",
+                "concept": "PaymentForContingentConsiderationLiabilityFinancingActivities",
+                "unit": "usd",
+                "value": 6400000.0
+            },
+            {
+                "label": "Repurchase of shares from non-controlling interest shareholders",
+                "concept": "wtm:RepurchaseofSharesFromNoncontrollingInterestShareholders",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from issuance of shares to non-controlling interest shareholders",
+                "concept": "wtm:ProceedsFromIssuanceofSharestoNoncontrollingInterestShareholders",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Capital contributions to non-controlling interest shareholders",
+                "concept": "ProceedsFromPartnershipContribution",
+                "unit": "usd",
+                "value": 400000.0
+            },
+            {
+                "label": "Members Capital Contribution",
+                "concept": "wtm:MembersCapitalContribution",
+                "unit": "usd",
+                "value": -10000000.0
+            },
+            {
+                "label": "Fidus Re premium payment",
+                "concept": "wtm:FidusRePremiumPayment",
+                "unit": "usd",
+                "value": 800000.0
+            },
+            {
+                "label": "Restricted share statutory withholding tax payments",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": -6700000.0
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -44200000.0
+            },
+            {
+                "label": "Effect of exchange rate changes on cash",
+                "concept": "EffectOfExchangeRateOnCashAndCashEquivalents",
+                "unit": "usd",
+                "value": -1100000.0
+            },
+            {
+                "label": "Net change in cash during the period - continuing operations, including the effect of exchange rate changes",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -24600000.0
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 5200000.0
+            },
+            {
+                "label": "Net income tax refunds",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net (loss) income attributable to White Mountains\u2019s common shareholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -128800000.00000001
+            },
+            {
+                "label": "Other comprehensive loss, net of tax",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -3400000.0
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -132199999.99999999
+            },
+            {
+                "label": "Comprehensive loss attributable to non-controlling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive (loss) income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -132199999.99999999
+            },
+            {
+                "label": "Continuing operations (in usd per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": -40.82
+            },
+            {
+                "label": "Discontinued operations (in usd per share)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare",
+                "unit": "usd/shares",
+                "value": 0.28
+            },
+            {
+                "label": "Basic and diluted earnings per share numerators (in millions):",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -40.54
+            },
+            {
+                "label": "Continuing operations (in usd per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": -40.82
+            },
+            {
+                "label": "Discontinued operations (in usd per share)",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.28
+            },
+            {
+                "label": "Undistributed (losses) earnings",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -40.54
+            },
+            {
+                "label": "Distributed earnings - dividends declared and paid",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": 1.0
+            },
+            {
+                "label": "Net investment income",
+                "concept": "NetInvestmentIncome",
+                "unit": "usd",
+                "value": 22900000.0
+            },
+            {
+                "label": "Net realized and unrealized investment gains",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": -156700000.0
+            },
+            {
+                "label": "Total revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": -59200000.0
+            },
+            {
+                "label": "Total expenses",
+                "concept": "BenefitsLossesAndExpenses",
+                "unit": "usd",
+                "value": 106800000.0
+            },
+            {
+                "label": "Pre-tax income (loss)",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -166000000.0
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -25500000.0
+            },
+            {
+                "label": "Net (loss) income from continuing operations",
+                "concept": "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -140500000.0
+            },
+            {
+                "label": "Net gain from sale of discontinued operations, net of tax",
+                "concept": "DiscontinuedOperationGainLossOnDisposalOfDiscontinuedOperationNetOfTax",
+                "unit": "usd",
+                "value": 900000.0
+            },
+            {
+                "label": "Net (loss) income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -139600000.0
+            },
+            {
+                "label": "Net loss attributable to non-controlling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -10800000.0
+            }
+        ]
+    }
+}

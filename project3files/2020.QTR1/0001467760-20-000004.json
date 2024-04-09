@@ -1,0 +1,591 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-12-31",
+    "year": "2019",
+    "quarter": "FY",
+    "symbol": "ARI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 452282000
+            },
+            {
+                "label": "Commercial mortgage loans and subordinate loans and other lending assets, net",
+                "concept": "MortgageLoansOnRealEstateCommercialAndConsumerNet",
+                "unit": "usd",
+                "value": 6375093000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 52716000
+            },
+            {
+                "label": "Loan proceeds held by servicer",
+                "concept": "ari:LoanPrincipalProceedsHeldByServicer",
+                "unit": "usd",
+                "value": 8272000
+            },
+            {
+                "label": "Derivative assets, net",
+                "concept": "DerivativeAssets",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Assets:",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 6888363000
+            },
+            {
+                "label": "Securities sold under agreements to repurchase, gross",
+                "concept": "SecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 3078366000
+            },
+            {
+                "label": "Convertible senior notes, net",
+                "concept": "ConvertibleNotesPayable",
+                "unit": "usd",
+                "value": 561573000
+            },
+            {
+                "label": "Senior secured term loan, net (net of deferred financing costs of $7,277 and $0 in 2019 and 2018, respectively)",
+                "concept": "NotesPayableToBank",
+                "unit": "usd",
+                "value": 487961000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "ari:AccountsPayableAccruedLiabilitiesandOtherLiabilities",
+                "unit": "usd",
+                "value": 100712000
+            },
+            {
+                "label": "Derivative liabilities, net",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 19346000
+            },
+            {
+                "label": "Payable to related party",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 10430000
+            },
+            {
+                "label": "Liabilities and Stockholders\u2019 Equity",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4258388000
+            },
+            {
+                "label": "Commitments and Contingencies (see Note 15)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 450,000,000 shares authorized, 153,537,296 and 133,853,565 shares issued and outstanding in 2019 and 2018, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1535000
+            },
+            {
+                "label": "Additional paid-in-capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 2825317000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -196945000
+            },
+            {
+                "label": "Stockholders\u2019 Equity:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2629975000
+            },
+            {
+                "label": "Liabilities and Stockholders\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 6888363000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Basic Earnings",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 230174000
+            },
+            {
+                "label": "Amortization of discount/premium and PIK",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": -81611000
+            },
+            {
+                "label": "Amortization of deferred financing costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 11969000
+            },
+            {
+                "label": "Share-based Payments",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 15897000
+            },
+            {
+                "label": "Unrealized gain on securities",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Provision for loan losses and impairments, net of reversals",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 20000000
+            },
+            {
+                "label": "Loss from unconsolidated joint venture",
+                "concept": "ari:IncomeLossfromUnconsolidatedJointVenture",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Foreign currency (gain) loss",
+                "concept": "ForeignCurrencyTransactionGainLossRealized",
+                "unit": "usd",
+                "value": -3768000
+            },
+            {
+                "label": "Realized loss on derivative instruments",
+                "concept": "GainLossOnSaleOfDerivatives",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Unrealized (gain) loss on derivative instruments",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": -43046000
+            },
+            {
+                "label": "Loss on early extinguishment of debt",
+                "concept": "ari:GainLossOnExtinguishmentOfDebtNonCash",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Realized loss on investment",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": -12513000
+            },
+            {
+                "label": "Proceeds received from PIK",
+                "concept": "ari:IncreaseDecreaseFromPaidInKind",
+                "unit": "usd",
+                "value": 16469000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 4926000
+            },
+            {
+                "label": "Loan proceeds held by servicer",
+                "concept": "ari:IncreaseDecreaseInLoanPrincipalProceedsHeldByServicer",
+                "unit": "usd",
+                "value": -454000
+            },
+            {
+                "label": "Accounts payable, accrued expenses and other liabilities",
+                "concept": "ari:IncreaseDecreaseinAccountsPayableAccruedLiabilitiesandOtherLiabilities",
+                "unit": "usd",
+                "value": 5056000
+            },
+            {
+                "label": "Payable to related party",
+                "concept": "IncreaseDecreaseInAccountsPayableRelatedParties",
+                "unit": "usd",
+                "value": 626000
+            },
+            {
+                "label": "Cash flows (used in) provided by operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 273435000
+            },
+            {
+                "label": "New funding of commercial mortgage loans",
+                "concept": "ari:PaymentstoPurchaseCommercialRealEstateLoansHeldforsale",
+                "unit": "usd",
+                "value": 2526384000
+            },
+            {
+                "label": "Add-on funding of commercial mortgage loans",
+                "concept": "ari:PaymentstoPurchaseCommercialRealEstateLoansHeldforsaleAddonFunding",
+                "unit": "usd",
+                "value": 385508000
+            },
+            {
+                "label": "New funding of subordinate loans and other lending assets",
+                "concept": "ari:PaymentstoPurchaseSubordinateCommercialRealEstateLoansHeldforsale",
+                "unit": "usd",
+                "value": 493017000
+            },
+            {
+                "label": "Add-on funding of subordinate loans and other lending assets",
+                "concept": "ari:PaymentstoPurchaseSubordinateCommercialRealEstateLoansHeldforsaleAddonFunding",
+                "unit": "usd",
+                "value": 30549000
+            },
+            {
+                "label": "Loan repayments",
+                "concept": "ProceedsFromLoanAndLeaseOriginationsAndPrincipalCollections1",
+                "unit": "usd",
+                "value": 1428535000
+            },
+            {
+                "label": "Proceeds and payments received on subordinate loans and other lending assets, net",
+                "concept": "ari:ProceedsfromCollectionofCommercialRealEstateLoansHeldforsale",
+                "unit": "usd",
+                "value": 560089000
+            },
+            {
+                "label": "Origination and exit fees received on commercial mortgage and subordinate loans and other lending assets, net",
+                "concept": "ProceedsFromLoanOriginations1",
+                "unit": "usd",
+                "value": 45882000
+            },
+            {
+                "label": "Funding of unconsolidated joint venture",
+                "concept": "PaymentsToAcquireEquityMethodInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Funding of other assets",
+                "concept": "PaymentsToAcquireOtherInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Payments on settlements of derivative instruments",
+                "concept": "PaymentsForDerivativeInstrumentInvestingActivities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Increase (decrease) in collateral related to derivative contracts",
+                "concept": "ari:IncreaseinCollateralHeldInvestingActivities",
+                "unit": "usd",
+                "value": -34160000
+            },
+            {
+                "label": "Payments and proceeds received on securities",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from sale of investments in unconsolidated joint venture",
+                "concept": "ProceedsFromDivestitureOfInterestInJointVenture",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash flows used in investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -1435112000
+            },
+            {
+                "label": "Proceeds from issuance of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 315158000
+            },
+            {
+                "label": "Redemption of preferred stock",
+                "concept": "PaymentsForRepurchaseOfRedeemablePreferredStock",
+                "unit": "usd",
+                "value": 172500000
+            },
+            {
+                "label": "Payment of offering costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 333000
+            },
+            {
+                "label": "Proceeds from secured debt arrangements",
+                "concept": "ari:ProceedsFromSecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 3451172000
+            },
+            {
+                "label": "Repayments of secured debt arrangements",
+                "concept": "ari:PaymentsForSecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 2273750000
+            },
+            {
+                "label": "Repayments of senior secured term loan principal",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 2500000
+            },
+            {
+                "label": "Proceeds from issuance of senior secured term loan",
+                "concept": "ProceedsFromIssuanceOfSecuredDebt",
+                "unit": "usd",
+                "value": 497500000
+            },
+            {
+                "label": "Proceeds from issuance of convertible senior notes",
+                "concept": "ProceedsFromConvertibleDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash payment for debt redemption",
+                "concept": "RepaymentsOfConvertibleDebt",
+                "unit": "usd",
+                "value": 704000
+            },
+            {
+                "label": "Repayments of participations sold",
+                "concept": "ari:PaymentsforParticipatingMortgageLoans",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Payment of deferred financing costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 13688000
+            },
+            {
+                "label": "Other financing activities",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": -4996000
+            },
+            {
+                "label": "Dividends on common stock",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 269232000
+            },
+            {
+                "label": "Dividends on preferred stock",
+                "concept": "PaymentsOfDividendsPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 21974000
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 1504153000
+            },
+            {
+                "label": "Net increase (decrease) in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 342476000
+            },
+            {
+                "label": "Interest paid",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 133469000
+            },
+            {
+                "label": "Exchange of Notes for common stock",
+                "concept": "DebtConversionConvertedInstrumentAmount1",
+                "unit": "usd",
+                "value": 33778000
+            },
+            {
+                "label": "Loan proceeds held by servicer",
+                "concept": "ari:LoanProceedsHeldByServicer",
+                "unit": "usd",
+                "value": 7775000
+            },
+            {
+                "label": "Deferred financing costs, not yet paid",
+                "concept": "ari:DeferredFinancingCostsNetYetPaid",
+                "unit": "usd",
+                "value": 5193000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Basic Earnings",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 211649000
+            },
+            {
+                "label": "Foreign currency translation adjustment",
+                "concept": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 211649000
+            },
+            {
+                "label": "Interest income from commercial mortgage loans",
+                "concept": "InterestAndFeeIncomeLoansCommercial",
+                "unit": "usd",
+                "value": 322475000
+            },
+            {
+                "label": "Interest income from subordinate loans and other lending assets",
+                "concept": "ari:InterestandFeeIncomeLoansSubordinateCommercialRealEstate",
+                "unit": "usd",
+                "value": 164933000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 152926000
+            },
+            {
+                "label": "Net interest income:",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 334482000
+            },
+            {
+                "label": "General and administrative expenses (includes equity-based compensation of $15,897 in 2019, $13,588 in 2018, and $13,314 in 2017)",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 24097000
+            },
+            {
+                "label": "Management fees to related party",
+                "concept": "RelatedPartyTransactionExpensesFromTransactionsWithRelatedParty",
+                "unit": "usd",
+                "value": 40734000
+            },
+            {
+                "label": "Operating expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 64831000
+            },
+            {
+                "label": "Loss from unconsolidated joint venture",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncome",
+                "unit": "usd",
+                "value": 2113000
+            },
+            {
+                "label": "Provision for loan losses and impairments, net of reversals",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 20000000
+            },
+            {
+                "label": "Realized loss on investments",
+                "concept": "DebtSecuritiesAvailableForSaleRealizedLoss",
+                "unit": "usd",
+                "value": 12513000
+            },
+            {
+                "label": "Unrealized gain on securities",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Foreign currency gain (loss)",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 19818000
+            },
+            {
+                "label": "Loss on early extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Gain (loss) on foreign currency forwards",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": -14425000
+            },
+            {
+                "label": "Gain on derivative instruments - unrealized",
+                "concept": "DerivativeInstrumentsNotDesignatedAsHedgingInstrumentsGainLossNet",
+                "unit": "usd",
+                "value": -14470000
+            },
+            {
+                "label": "Basic Earnings",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 230174000
+            },
+            {
+                "label": "Less: Preferred dividends",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 18525000
+            },
+            {
+                "label": "Number of Shares:",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 1.41
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 1.4
+            },
+            {
+                "label": "Basic weighted-average shares of common stock outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 146881231
+            },
+            {
+                "label": "Diluted weighted-average shares of common stock outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 175794896
+            }
+        ]
+    }
+}

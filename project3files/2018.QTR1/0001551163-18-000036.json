@@ -1,0 +1,123 @@
+{
+    "startDate": "2017-01-01",
+    "endDate": "2017-12-31",
+    "year": "2017",
+    "quarter": "FY",
+    "symbol": "LOGC",
+    "data": {
+        "bs": [
+            {
+                "label": "Accounts Payable and Accrued Expenses",
+                "concept": "AccountsPayableAndOtherAccruedLiabilities",
+                "unit": "usd",
+                "value": 6753
+            },
+            {
+                "label": "Shareholder Loan",
+                "concept": "RelatedPartyTransactionDueFromToRelatedPartyCurrent",
+                "unit": "usd",
+                "value": 13411
+            },
+            {
+                "label": "CURRENT LIABILITIES",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 20164
+            },
+            {
+                "label": "Common stock, $0.0001 par value, 550,000,000shares authorized, 127,061 shares issued and outstanding as of December 31, 2017 and December 31, 2016.",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 13
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 2667846
+            },
+            {
+                "label": "Accumulated Deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -2688023
+            },
+            {
+                "label": "Note 5 - Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -20164
+            }
+        ],
+        "cf": [
+            {
+                "label": "Profit (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -15664
+            },
+            {
+                "label": "Change in accounts payable & accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 2253
+            },
+            {
+                "label": "Net Cash Used in Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -13411
+            },
+            {
+                "label": "Proceeds from shareholder loan",
+                "concept": "ProceedsFromIssuanceOfDebt",
+                "unit": "usd",
+                "value": 13411
+            },
+            {
+                "label": "CASH FLOWS FROM FINANCING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 13411
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 15664
+            },
+            {
+                "label": "Total Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 15664
+            },
+            {
+                "label": "LOSS BEFORE INCOME TAXES",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic",
+                "unit": "usd",
+                "value": -15664
+            },
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -15664
+            },
+            {
+                "label": "BASIC AND DILUTED LOSS PER SHARE",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.12
+            },
+            {
+                "label": "BASIC AND DILUTED WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 127061
+            }
+        ]
+    }
+}

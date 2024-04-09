@@ -1,0 +1,357 @@
+{
+    "startDate": "2018-01-01",
+    "endDate": "2018-09-30",
+    "year": "2018",
+    "quarter": "Q3",
+    "symbol": "NURO",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 7530598
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 1615842
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 2597340
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 827823
+            },
+            {
+                "label": "Current assets:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 12571603
+            },
+            {
+                "label": "Fixed assets, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 380468
+            },
+            {
+                "label": "Other long-term assets",
+                "concept": "PrepaidExpenseAndOtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 86255
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 13038326
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1151235
+            },
+            {
+                "label": "Accrued expenses and compensation",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1921406
+            },
+            {
+                "label": "Accrued Sales Return provisions",
+                "concept": "nuro:AccruedSalesReturnProvisions",
+                "unit": "usd",
+                "value": 1105960
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "DeferredRevenueCurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4178601
+            },
+            {
+                "label": "Liabilities [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4178601
+            },
+            {
+                "label": "Commitments and Contingencies Disclosure [Abstract]",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.0001 par value; 100,000,000 shares authorized at September 30, 2018 and December 31, 2017; 7,365,038 and 2,706,066 shares issued and outstanding at September 30, 2018 and December 31, 2017, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 737
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 197072928
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -188213958
+            },
+            {
+                "label": "Stockholders\u2019 equity:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 8859725
+            },
+            {
+                "label": "Liabilities and Stockholders\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 13038326
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss) Available to Common Stockholders, Diluted",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2826238
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 166262
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 414722
+            },
+            {
+                "label": "Change in fair value of warrant liability",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -786986
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 454779
+            },
+            {
+                "label": "Prepaid expenses and other current and long-term assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -425242
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 417930
+            },
+            {
+                "label": "Accrued expenses and compensation",
+                "concept": "IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -146454
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Product Returns",
+                "concept": "nuro:IncreaseDecreaseinAccruedProductReturns",
+                "unit": "usd",
+                "value": -852596
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "IncreaseDecreaseInDeferredRevenue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 3583551
+            },
+            {
+                "label": "Purchases of fixed assets",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 105888
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -105888
+            },
+            {
+                "label": "Net proceeds from issuance of stock and warrants",
+                "concept": "ProceedsFromIssuanceOrSaleOfEquity",
+                "unit": "usd",
+                "value": 9254
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 9254
+            },
+            {
+                "label": "Net increase in cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 3486917
+            },
+            {
+                "label": "Change in fair value of warrant liability from repricing",
+                "concept": "nuro:FairValueAdjustmentofWarrantsRepricing",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Exchange of warrant liability for Series F Preferred Stock",
+                "concept": "nuro:ExchangeOfWarrantLiabilityForPreferredStock",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common stock issued to settle employee incentive compensation obligation",
+                "concept": "nuro:StockIssuanceSettleIncentiveCompensationObligation",
+                "unit": "usd",
+                "value": 294264
+            }
+        ],
+        "ic": [
+            {
+                "label": "Noninterest Income",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 12255704
+            },
+            {
+                "label": "Other Income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 12296669
+            },
+            {
+                "label": "Other income",
+                "concept": "InterestAndOtherIncome",
+                "unit": "usd",
+                "value": 40965
+            },
+            {
+                "label": "Net Income (Loss) Available to Common Stockholders, Diluted",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2826238
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -9470431
+            },
+            {
+                "label": "Deemed dividends attributable to preferred shareholders",
+                "concept": "PreferredStockDividendsAndOtherAdjustments",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net Income (Loss) Available to Common Stockholders, Diluted",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersDiluted",
+                "unit": "usd",
+                "value": 2826238
+            },
+            {
+                "label": "Earnings Per Share, Basic, by Common Class, Including Two Class Method [Line Items]",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.4
+            },
+            {
+                "label": "Earnings Per Share, Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.2
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 7016789
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 4074895
+            },
+            {
+                "label": "Sales and marketing",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 7039933
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3990266
+            },
+            {
+                "label": "Operating expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 15105094
+            },
+            {
+                "label": "Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 12361338
+            },
+            {
+                "label": "Gross Profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 5634663
+            },
+            {
+                "label": "Cost of revenues",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 6726675
+            }
+        ]
+    }
+}

@@ -1,0 +1,405 @@
+{
+    "startDate": "2017-01-01",
+    "endDate": "2017-12-31",
+    "year": "2017",
+    "quarter": "FY",
+    "symbol": "BIOC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 2146611
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 1193426
+            },
+            {
+                "label": "Inventories, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 498702
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 416600
+            },
+            {
+                "label": "Current assets:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 4255339
+            },
+            {
+                "label": "Fixed assets, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 3123567
+            },
+            {
+                "label": "Current assets:",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 7378906
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 1269953
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 1752363
+            },
+            {
+                "label": "Supplier financings.",
+                "concept": "bioc:SupplierFinancings",
+                "unit": "usd",
+                "value": 61226
+            },
+            {
+                "label": "Current portion of equipment financings",
+                "concept": "CapitalLeaseObligationsCurrent",
+                "unit": "usd",
+                "value": 408992
+            },
+            {
+                "label": "Current portion of credit facility, net",
+                "concept": "LinesOfCreditCurrent",
+                "unit": "usd",
+                "value": 1168811
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4661345
+            },
+            {
+                "label": "Non-current portion of equipment financings",
+                "concept": "CapitalLeaseObligationsNoncurrent",
+                "unit": "usd",
+                "value": 1150063
+            },
+            {
+                "label": "Non-current portion of deferred rent",
+                "concept": "DeferredRentCreditNoncurrent",
+                "unit": "usd",
+                "value": 271464
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 6082872
+            },
+            {
+                "label": "Commitments and contingencies (see Note 16)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value, 5,000,000 shares authorized; no shares issued and outstanding at December 31, 2016 and 2017.",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.0001 par value, 150,000,000 shares authorized; 17,499,397 shares issued and outstanding at December 31, 2016; 35,183,743 shares issued and outstanding at December 31, 2017.",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 3518
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 196542123
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -195249607
+            },
+            {
+                "label": "Shareholders\u2019 equity:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 1296034
+            },
+            {
+                "label": "Total liabilities and shareholders\u2019 equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 7378906
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss and comprehensive loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -21613737
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 575717
+            },
+            {
+                "label": "Increase decrease in inventory reserve.",
+                "concept": "bioc:IncreaseDecreaseInInventoryReserve",
+                "unit": "usd",
+                "value": 50532
+            },
+            {
+                "label": "Stock-based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 1247481
+            },
+            {
+                "label": "Non-cash interest expense related to credit facility and other financing activities",
+                "concept": "PaidInKindInterest",
+                "unit": "usd",
+                "value": 45788
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 1064457
+            },
+            {
+                "label": "Inventory",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": -100875
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -518863
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 349932
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 236927
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": 78649
+            },
+            {
+                "label": "Deferred rent",
+                "concept": "IncreaseDecreaseInDeferredLiabilities",
+                "unit": "usd",
+                "value": -76232
+            },
+            {
+                "label": "Cash Flows from Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -19650726
+            },
+            {
+                "label": "Purchases of fixed assets",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1400180
+            },
+            {
+                "label": "Cash Flows from Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -1400180
+            },
+            {
+                "label": "Proceeds from issuance of common stock and warrants.",
+                "concept": "bioc:ProceedsFromIssuanceOfCommonStockAndWarrants",
+                "unit": "usd",
+                "value": 13505094
+            },
+            {
+                "label": "Proceeds from exercise of common stock warrants",
+                "concept": "ProceedsFromWarrantExercises",
+                "unit": "usd",
+                "value": 7498535
+            },
+            {
+                "label": "Net proceeds from sale-leaseback transaction",
+                "concept": "SaleLeasebackTransactionNetProceedsFinancingActivities",
+                "unit": "usd",
+                "value": 150848
+            },
+            {
+                "label": "Payments on equipment financings",
+                "concept": "RepaymentsOfLongTermCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 166348
+            },
+            {
+                "label": "Payments on supplier and other third-party financings",
+                "concept": "RepaymentsOfOtherDebt",
+                "unit": "usd",
+                "value": 465279
+            },
+            {
+                "label": "Payments on credit facility",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 1934665
+            },
+            {
+                "label": "Cash Flows from Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 18588185
+            },
+            {
+                "label": "Net decrease in Cash",
+                "concept": "CashPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -2462721
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 358471
+            },
+            {
+                "label": "Income taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 5273
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 5068663
+            },
+            {
+                "label": "Cost of revenues",
+                "concept": "CostOfRevenue",
+                "unit": "usd",
+                "value": 9345122
+            },
+            {
+                "label": "Research and development expenses",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 3364747
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 7189529
+            },
+            {
+                "label": "Sales and marketing expenses",
+                "concept": "SellingAndMarketingExpense",
+                "unit": "usd",
+                "value": 6343971
+            },
+            {
+                "label": "Costs and expenses:",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 26243369
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -21174706
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 482623
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 51216
+            },
+            {
+                "label": "Other income/(expense):",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -431407
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -21606113
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 7624
+            },
+            {
+                "label": "Net loss and comprehensive loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -21613737
+            },
+            {
+                "label": "Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 27246292
+            },
+            {
+                "label": "Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 27246292
+            },
+            {
+                "label": "Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.79
+            },
+            {
+                "label": "Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.79
+            }
+        ]
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-06-30",
+    "year": "2019",
+    "quarter": "Q2",
+    "symbol": "BAJA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash at beginning of period",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 600
+            },
+            {
+                "label": "Current Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 600
+            },
+            {
+                "label": "Accounts Payable {1}",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Convertible Notes Due to Shareholder",
+                "concept": "ConvertibleDebtCurrent",
+                "unit": "usd",
+                "value": 14592
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 16592
+            },
+            {
+                "label": "Retained Earnings (Deficit)",
+                "concept": "RetainedEarningsAppropriated",
+                "unit": "usd",
+                "value": -17553
+            },
+            {
+                "label": "Total stockholders' equity (deficit)",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -15992
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY (DEFICIT)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 600
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -5300
+            },
+            {
+                "label": "Accrued Liabilities {1}",
+                "concept": "IncreaseDecreaseInOtherAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -3300
+            },
+            {
+                "label": "Proceeds from note issuance",
+                "concept": "ProceedsFromRepaymentsOfDebt",
+                "unit": "usd",
+                "value": 3300
+            },
+            {
+                "label": "Net cash from financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 3300
+            },
+            {
+                "label": "Net change in cash",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 0
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net Sales",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cost of Goods Sold",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Gross Profit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "General & Admin. Expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 5300
+            },
+            {
+                "label": "Total Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 5300
+            },
+            {
+                "label": "Net Income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -5300
+            },
+            {
+                "label": "Basic Income (Loss) per Share",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": -0.0003
+            },
+            {
+                "label": "Weighted average shares - basic",
+                "concept": "WeightedAverageNumberOfSharesIssuedBasic",
+                "unit": "shares",
+                "value": 15610000
+            },
+            {
+                "label": "Diluted Income (Loss) per Share",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": -0.0001
+            },
+            {
+                "label": "Weighted average shares - diluted",
+                "concept": "ProFormaWeightedAverageSharesOutstandingDiluted",
+                "unit": "shares",
+                "value": 100000000
+            }
+        ]
+    }
+}

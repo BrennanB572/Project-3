@@ -1,0 +1,291 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-12-31",
+    "year": "2021",
+    "quarter": "FY",
+    "symbol": "SCLE",
+    "data": {
+        "bs": [
+            {
+                "label": "Warrant liability \u2013 public",
+                "concept": "scle:WarrantLiabilityPublic",
+                "unit": "usd",
+                "value": 8047125
+            },
+            {
+                "label": "Class B common stock, $0.0001 par value; 10,000,000 shares authorized; 8,625,000 shares issued and outstanding as of December 31, 2021 and 2020",
+                "concept": "scle:CommonStockValue1",
+                "unit": "usd",
+                "value": 863
+            },
+            {
+                "label": "Class A common stock subject to possible redemption, $0.0001 par value; 34,500,000 shares and no shares at $10.00 per share redemption value as of December 31, 2021 and 2020, respectively",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 345000000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 (DEFICIT) EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 345831765
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 28441363
+            },
+            {
+                "label": "Deferred underwriting fee payable",
+                "concept": "DeferredCompensationLiabilityClassifiedNoncurrent",
+                "unit": "usd",
+                "value": 12075000
+            },
+            {
+                "label": "Warrant liability \u2013 private placement",
+                "concept": "scle:WarrantLiabilityPrivate",
+                "unit": "usd",
+                "value": 5846800
+            },
+            {
+                "label": "Accrued offering costs",
+                "concept": "scle:AccruedOfferingCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2472438
+            },
+            {
+                "label": "Class A common stock, $0.0001 par value; 100,000,000 shares authorized; no shares issued or outstanding (excluding 34,500,000 and no shares subject to possible redemption) as of December 31, 2021 and 2020, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Investments held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 345019584
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 812181
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -27610461
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized; none issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 513431
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 345831765
+            },
+            {
+                "label": "Total Stockholders\u2019 (Deficit) Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -27609598
+            },
+            {
+                "label": "Total Stockholders\u2019 (Deficit) Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -27609598
+            },
+            {
+                "label": "Deferred offering costs",
+                "concept": "DeferredCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 298750
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2472438
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "cf": [
+            {
+                "label": "Transaction costs associated with the Initial Public Offering",
+                "concept": "scle:TransactionCostsAllocableToWarrantLiability",
+                "unit": "usd",
+                "value": -882336
+            },
+            {
+                "label": "Proceeds from issuance of Class B common stock to Sponsor",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Deferred underwriting fee payable",
+                "concept": "scle:DeferredUnderwritingFeePayable",
+                "unit": "usd",
+                "value": 12075000
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 2471438
+            },
+            {
+                "label": "Interest earned on investments held in Trust Account",
+                "concept": "scle:IncreaseDecreaseCashDepositedInTrustAccount",
+                "unit": "usd",
+                "value": -31251
+            },
+            {
+                "label": "Payment of offering costs",
+                "concept": "PaymentOfFinancingAndStockIssuanceCosts",
+                "unit": "usd",
+                "value": 441464
+            },
+            {
+                "label": "Offering costs included in accrued offering costs",
+                "concept": "scle:OfferingCostsIncludedInAccruedOfferingCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from sale of Private Placement Warrants",
+                "concept": "ProceedsFromIssuanceOfPrivatePlacement",
+                "unit": "usd",
+                "value": 9400000
+            },
+            {
+                "label": "Purchase of investments held in Trust Account",
+                "concept": "PaymentsToInvestInDecommissioningFund",
+                "unit": "usd",
+                "value": 345000000
+            },
+            {
+                "label": "Proceeds from sale of Units, net of underwriting discounts paid",
+                "concept": "ProceedsFromOtherEquity",
+                "unit": "usd",
+                "value": 338100000
+            },
+            {
+                "label": "Proceeds from promissory note \u2013 related party",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 252000
+            },
+            {
+                "label": "Repayment of promissory note \u2013 related party",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 252000
+            },
+            {
+                "label": "",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 6339281
+            },
+            {
+                "label": "",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 6339281
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 298750
+            },
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "IncreaseDecreaseInDerivativeLiabilities",
+                "unit": "usd",
+                "value": -10944826
+            },
+            {
+                "label": "Cash withdrawn from Trust Account to pay franchise and income taxes",
+                "concept": "ProceedsFromDecommissioningFund",
+                "unit": "usd",
+                "value": 11667
+            }
+        ],
+        "ic": [
+            {
+                "label": "Total other income, net",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 10976077
+            },
+            {
+                "label": "Basic and diluted net income per share, Class B common stock (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.16
+            },
+            {
+                "label": "Weighted average shares outstanding of Class A common stock (in Shares)",
+                "concept": "scle:BasicAndDilutedWeightedAverageSharesOutstandingCommonStockSubjectToPossibleRedemptio",
+                "unit": "shares",
+                "value": 29963014
+            },
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -10944826
+            },
+            {
+                "label": "Weighted average shares outstanding of Class B common stock (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 8477055
+            },
+            {
+                "label": "Interest earned on Investments held in Trust Account",
+                "concept": "InterestIncomeSecuritiesOtherUSGovernment",
+                "unit": "usd",
+                "value": 31251
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -4636796
+            }
+        ]
+    }
+}

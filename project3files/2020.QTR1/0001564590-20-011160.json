@@ -1,0 +1,489 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-12-31",
+    "year": "2019",
+    "quarter": "FY",
+    "symbol": "SOHO",
+    "data": {
+        "bs": [
+            {
+                "label": "Real estate investment property excluding held for sale net.",
+                "concept": "soho:RealEstateInvestmentPropertyExcludingHeldForSaleNet",
+                "unit": "usd",
+                "value": 443267448
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 23738066
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 4246170
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 4812479
+            },
+            {
+                "label": "Accounts receivable - affiliate",
+                "concept": "AccountsReceivableRelatedParties",
+                "unit": "usd",
+                "value": 101771
+            },
+            {
+                "label": "Prepaid expenses, inventory and other assets",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 5648772
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredTaxAssetsNet",
+                "unit": "usd",
+                "value": 5412084
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 487226790
+            },
+            {
+                "label": "Long term debt excluding unsecured debt.",
+                "concept": "soho:LongTermDebtExcludingUnsecuredDebt",
+                "unit": "usd",
+                "value": 358633884
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndOtherAccruedLiabilities",
+                "unit": "usd",
+                "value": 20189903
+            },
+            {
+                "label": "Advance deposits.",
+                "concept": "soho:AdvanceDeposits",
+                "unit": "usd",
+                "value": 2785338
+            },
+            {
+                "label": "Dividends and distributions payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 4210494
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 385819619
+            },
+            {
+                "label": "Commitments and contingencies (See Note 6)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, par value $0.01, 69,000,000 shares authorized, 14,272,378 shares and 14,209,378 shares issued and outstanding at December 31, 2019 and 2018, respectively.",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 142723
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 180515861
+            },
+            {
+                "label": "Unearned ESOP shares",
+                "concept": "UnearnedESOPShares",
+                "unit": "usd",
+                "value": 4105637
+            },
+            {
+                "label": "Distributions in excess of retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -73990690
+            },
+            {
+                "label": "EQUITY",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 102605903
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": -1198732
+            },
+            {
+                "label": "EQUITY",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 101407171
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 487226790
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 1175568
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 21637316
+            },
+            {
+                "label": "Amortization of deferred financing costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 789525
+            },
+            {
+                "label": "Amortization of mortgage premium",
+                "concept": "MortgageLoansOnRealEstateAmortizationOfPremium",
+                "unit": "usd",
+                "value": 24681
+            },
+            {
+                "label": "Gain (loss) on exercise of development right.",
+                "concept": "soho:GainLossOnExerciseOfDevelopmentRight",
+                "unit": "usd",
+                "value": 3940000
+            },
+            {
+                "label": "Gain loss due to Involuntary conversion of assets.",
+                "concept": "soho:GainLossDueToInvoluntaryConversionOfAssets",
+                "unit": "usd",
+                "value": 293534
+            },
+            {
+                "label": "Unrealized loss on hedging activities",
+                "concept": "UnrealizedGainLossOnCashFlowHedgingInstruments",
+                "unit": "usd",
+                "value": -1177871
+            },
+            {
+                "label": "Gain loss on disposition of assets operating and non operating.",
+                "concept": "soho:GainLossOnDispositionOfAssetsOperatingAndNonOperating",
+                "unit": "usd",
+                "value": -123739
+            },
+            {
+                "label": "Loss on early extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -1152356
+            },
+            {
+                "label": "ESOP and share / unit - based compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 385561
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -1954217
+            },
+            {
+                "label": "Prepaid expenses, inventory and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 162621
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "IncreaseDecreaseInDeferredIncomeTaxes",
+                "unit": "usd",
+                "value": 280905
+            },
+            {
+                "label": "Accounts payable and other accrued liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": -1364458
+            },
+            {
+                "label": "Increase decrease in advances deposits.",
+                "concept": "soho:IncreaseDecreaseInAdvancesDeposits",
+                "unit": "usd",
+                "value": -29945
+            },
+            {
+                "label": "Accounts receivable - affiliate",
+                "concept": "IncreaseDecreaseDueFromAffiliates",
+                "unit": "usd",
+                "value": -160801
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 22460810
+            },
+            {
+                "label": "Acquisitions of hotel properties",
+                "concept": "PaymentsToAcquireBusinessesGross",
+                "unit": "usd",
+                "value": 6346378
+            },
+            {
+                "label": "Improvements and additions to hotel properties",
+                "concept": "PaymentsForCapitalImprovements",
+                "unit": "usd",
+                "value": 12661169
+            },
+            {
+                "label": "Proceeds from involuntary conversion.",
+                "concept": "soho:ProceedsFromInvoluntaryConversion",
+                "unit": "usd",
+                "value": 293534
+            },
+            {
+                "label": "Proceeds from the disposal of assets",
+                "concept": "ProceedsFromSalesOfAssetsInvestingActivities",
+                "unit": "usd",
+                "value": 4934
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -18709079
+            },
+            {
+                "label": "Proceeds from issuance of preferred stock, net",
+                "concept": "ProceedsFromIssuanceOfPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 33066665
+            },
+            {
+                "label": "Redemption of unsecured notes",
+                "concept": "RepaymentsOfUnsecuredDebt",
+                "unit": "usd",
+                "value": 25000000
+            },
+            {
+                "label": "Payments on mortgage loans",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 6633624
+            },
+            {
+                "label": "Payments of deferred financing costs.",
+                "concept": "soho:PaymentsOfDeferredFinancingCosts",
+                "unit": "usd",
+                "value": 106950
+            },
+            {
+                "label": "Payments of dividends common stock and cash distributions paid.",
+                "concept": "soho:PaymentsOfDividendsCommonStockAndDistributionMadeToGeneralAndLimitedPartnerCashDistributionsPaid",
+                "unit": "usd",
+                "value": 7859575
+            },
+            {
+                "label": "Preferred dividends paid",
+                "concept": "PaymentsOfDividendsPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 7102292
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -13635776
+            },
+            {
+                "label": "Net (decrease) increase in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -9884045
+            },
+            {
+                "label": "Cash paid during the period for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 19262904
+            },
+            {
+                "label": "Cash paid (received) during the period for income taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": -76104
+            },
+            {
+                "label": "Increase decrease in capital expenditures incurred but not yet paid.",
+                "concept": "soho:IncreaseDecreaseInCapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 347269
+            },
+            {
+                "label": "Initial recognition of non-cash operating lease right of use assets.",
+                "concept": "soho:InitialRecognitionOfNonCashOperatingLeaseRightOfUseAssets",
+                "unit": "usd",
+                "value": 4414962
+            },
+            {
+                "label": "Initial recognition of non-cash operating lease obligations.",
+                "concept": "soho:InitialRecognitionOfNonCashOperatingLeaseObligations",
+                "unit": "usd",
+                "value": 4414962
+            }
+        ],
+        "ic": [
+            {
+                "label": "Total revenue",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 185788133
+            },
+            {
+                "label": "Hotel operating expenses",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 138850209
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 21637316
+            },
+            {
+                "label": "Loss on disposal of assets",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": -123739
+            },
+            {
+                "label": "Corporate general and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 6830354
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 167441618
+            },
+            {
+                "label": "NET OPERATING INCOME",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 18346515
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 19768193
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 444459
+            },
+            {
+                "label": "Loss on early extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": -1152356
+            },
+            {
+                "label": "Unrealized loss on hedging activities",
+                "concept": "UnrealizedGainLossOnCashFlowHedgingInstruments",
+                "unit": "usd",
+                "value": -1177871
+            },
+            {
+                "label": "Gain (loss) on exercise of development right.",
+                "concept": "soho:GainLossOnExerciseOfDevelopmentRight",
+                "unit": "usd",
+                "value": 3940000
+            },
+            {
+                "label": "Gain loss due to Involuntary conversion of assets.",
+                "concept": "soho:GainLossDueToInvoluntaryConversionOfAssets",
+                "unit": "usd",
+                "value": 293534
+            },
+            {
+                "label": "Net income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 926088
+            },
+            {
+                "label": "Income tax benefit (provision)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -249480
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 1175568
+            },
+            {
+                "label": "Less: Net loss attributable to noncontrolling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -733876
+            },
+            {
+                "label": "Less: Net loss attributable to noncontrolling interest",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1909444
+            },
+            {
+                "label": "Distributions to preferred stockholders",
+                "concept": "RedeemablePreferredStockDividends",
+                "unit": "usd",
+                "value": 7820695
+            },
+            {
+                "label": "Net loss available to common stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -5911251
+            },
+            {
+                "label": "Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.43
+            },
+            {
+                "label": "Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 13642573
+            }
+        ]
+    }
+}

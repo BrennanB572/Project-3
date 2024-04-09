@@ -1,0 +1,669 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "NNI",
+    "data": {
+        "bs": [
+            {
+                "label": "Loans and accrued interest receivable, net of allowance",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 20460873000
+            },
+            {
+                "label": "Cash and cash equivalents - not held at a related party",
+                "concept": "nni:CashAndCashEquivalentsNotHeldAtRelatedParty",
+                "unit": "usd",
+                "value": 14242000
+            },
+            {
+                "label": "Cash and cash equivalents - held at a related party",
+                "concept": "nni:CashAndCashEquivalentsHeldAtRelatedParty",
+                "unit": "usd",
+                "value": 53298000
+            },
+            {
+                "label": "Total cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 67540000
+            },
+            {
+                "label": "Investments (at fair value):",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 449700000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCash",
+                "unit": "usd",
+                "value": 585236000
+            },
+            {
+                "label": "Restricted cash - due to customers",
+                "concept": "nni:RestrictedCashDueToCustomers",
+                "unit": "usd",
+                "value": 268539000
+            },
+            {
+                "label": "Accounts receivable (net of allowance for doubtful accounts of $3,901 and $4,455, respectively)",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 73783000
+            },
+            {
+                "label": "Goodwill [Line Items]",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 156912000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 66733000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 350043000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 131849000
+            },
+            {
+                "label": "Assets:",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 22611208000
+            },
+            {
+                "label": "Bonds and notes payable",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 19726158000
+            },
+            {
+                "label": "Accrued interest payable",
+                "concept": "InterestPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 32760000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 242965000
+            },
+            {
+                "label": "Total liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 20270422000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.01 par value. Authorized 50,000,000 shares; no shares issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1867000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 2331312000
+            },
+            {
+                "label": "Accumulated other comprehensive earnings",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3233000
+            },
+            {
+                "label": "Total Nelnet, Inc. shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2336796000
+            },
+            {
+                "label": "Distribution to noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 3990000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2340786000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 22611208000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income attributable to noncontrolling interests",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 45950000
+            },
+            {
+                "label": "Net income attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 895000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 46845000
+            },
+            {
+                "label": "Depreciation and amortization, including debt discounts\u00a0and loan premiums and deferred origination costs",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 99282000
+            },
+            {
+                "label": "Loan discount accretion",
+                "concept": "nni:StudentLoanDiscountAccretion",
+                "unit": "usd",
+                "value": -19196000
+            },
+            {
+                "label": "Less provision for loan losses",
+                "concept": "ProvisionForLoanLeaseAndOtherLosses",
+                "unit": "usd",
+                "value": 79297000
+            },
+            {
+                "label": "Derivative market value adjustments",
+                "concept": "DerivativeInstrumentsNotDesignatedAsHedgingInstrumentsGainLossNet",
+                "unit": "usd",
+                "value": -24513000
+            },
+            {
+                "label": "Proceeds from termination of derivative instruments",
+                "concept": "nni:ProceedsFromTerminationOfDerivativeInstrument",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Payments to clearinghouse - initial and variation margin, net",
+                "concept": "nni:ProceedsFromPaymentsToClearinghouse",
+                "unit": "usd",
+                "value": -24453000
+            },
+            {
+                "label": "Gain on sale of loans",
+                "concept": "GainLossOnSalesOfLoansNet",
+                "unit": "usd",
+                "value": 18206000
+            },
+            {
+                "label": "Gain from investments, net",
+                "concept": "nni:GainLossOnInvestmentsAndNotesReceivable",
+                "unit": "usd",
+                "value": 48402000
+            },
+            {
+                "label": "(Gain) loss on repurchases and extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 403000
+            },
+            {
+                "label": "Deferred income tax benefit",
+                "concept": "DeferredIncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": -14762000
+            },
+            {
+                "label": "Non-cash compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 3581000
+            },
+            {
+                "label": "Impairment expense",
+                "concept": "AssetImpairmentCharges",
+                "unit": "usd",
+                "value": 34419000
+            },
+            {
+                "label": "Increase in accrued interest receivable",
+                "concept": "IncreaseDecreaseInAccruedInterestReceivableNet",
+                "unit": "usd",
+                "value": 123276000
+            },
+            {
+                "label": "Decrease (increase) in accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": -41608000
+            },
+            {
+                "label": "Decrease (increase) in other assets, net",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": -22992000
+            },
+            {
+                "label": "Decrease in the carrying amount of ROU asset",
+                "concept": "nni:IncreaseDecreaseInOperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": -5948000
+            },
+            {
+                "label": "Decrease in accrued interest payable",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": -14525000
+            },
+            {
+                "label": "Decrease in other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -26817000
+            },
+            {
+                "label": "Decrease in the carrying amount of lease liability",
+                "concept": "nni:IncreaseDecreaseInOperatingLeaseLiability",
+                "unit": "usd",
+                "value": -4829000
+            },
+            {
+                "label": "Decrease in due to customers",
+                "concept": "IncreaseDecreaseInPayablesToCustomers",
+                "unit": "usd",
+                "value": -169217000
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -105601000
+            },
+            {
+                "label": "Purchases of loans",
+                "concept": "PaymentsToAcquireFinanceReceivables",
+                "unit": "usd",
+                "value": 872987000
+            },
+            {
+                "label": "Purchases of loans from a related party",
+                "concept": "PaymentsToFundLongtermLoansToRelatedParties",
+                "unit": "usd",
+                "value": 75118000
+            },
+            {
+                "label": "Net proceeds from loan repayments, claims, and capitalized interest",
+                "concept": "ProceedsFromCollectionOfFinanceReceivables",
+                "unit": "usd",
+                "value": 1800286000
+            },
+            {
+                "label": "Proceeds from sale of loans",
+                "concept": "ProceedsFromSaleOfFinanceReceivables",
+                "unit": "usd",
+                "value": 90465000
+            },
+            {
+                "label": "Purchases of available-for-sale securities",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 112675000
+            },
+            {
+                "label": "Proceeds from sales of available-for-sale securities",
+                "concept": "ProceedsFromSaleAndMaturityOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 23372000
+            },
+            {
+                "label": "Proceeds from beneficial interest in loan securitizations",
+                "concept": "ProceedsFromCollectionOfRetainedInterestInSecuritizedReceivables",
+                "unit": "usd",
+                "value": 21765000
+            },
+            {
+                "label": "Purchases of other investments",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 117598000
+            },
+            {
+                "label": "Proceeds from other investments",
+                "concept": "nni:ProceedsFromInvestmentsAndNotesReceivables",
+                "unit": "usd",
+                "value": 6770000
+            },
+            {
+                "label": "Purchases of property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 46994000
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 717286000
+            },
+            {
+                "label": "Payments on bonds and notes payable",
+                "concept": "RepaymentsOfDebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 2073710000
+            },
+            {
+                "label": "Proceeds from issuance of bonds and notes payable",
+                "concept": "ProceedsFromIssuanceOfDebt",
+                "unit": "usd",
+                "value": 1252360000
+            },
+            {
+                "label": "Payments of debt issuance costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 5863000
+            },
+            {
+                "label": "Payments to extinguish debt",
+                "concept": "PaymentsOfDebtExtinguishmentCosts",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Dividends paid",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 15679000
+            },
+            {
+                "label": "Repurchases of common stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 68527000
+            },
+            {
+                "label": "Proceeds from issuance of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 781000
+            },
+            {
+                "label": "Acquisition of noncontrolling interest",
+                "concept": "PaymentsToMinorityShareholders",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Distribution to noncontrolling interests",
+                "concept": "PaymentsOfDividendsMinorityInterest",
+                "unit": "usd",
+                "value": 333000
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -912971000
+            },
+            {
+                "label": "Net decrease in cash, cash equivalents, and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -301286000
+            },
+            {
+                "label": "Cash disbursements made for interest",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash disbursements made for income taxes, net of refunds and credits received",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 7949000
+            },
+            {
+                "label": "Cash disbursements made for operating leases",
+                "concept": "OperatingLeasePayments",
+                "unit": "usd",
+                "value": 5442000
+            },
+            {
+                "label": "ROU assets obtained in exchange for lease obligations",
+                "concept": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 3265000
+            },
+            {
+                "label": "Receipt of beneficial interest in consumer loan securitizations",
+                "concept": "ConsiderationReceivedForBeneficialInterestObtainedForTransferringFinancialAsset",
+                "unit": "usd",
+                "value": 38490000
+            },
+            {
+                "label": "Distribution to noncontrolling interest",
+                "concept": "nni:NoncashDistributionsToNoncontrollingInterestHolders",
+                "unit": "usd",
+                "value": 33000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Loan interest",
+                "concept": "nni:LoanInterest",
+                "unit": "usd",
+                "value": 327933000
+            },
+            {
+                "label": "Investment interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 13141000
+            },
+            {
+                "label": "Total interest income",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 341074000
+            },
+            {
+                "label": "Interest on bonds and notes payable",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 219366000
+            },
+            {
+                "label": "Net interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 121708000
+            },
+            {
+                "label": "Less provision for loan losses",
+                "concept": "ProvisionForLoanLeaseAndOtherLosses",
+                "unit": "usd",
+                "value": 79297000
+            },
+            {
+                "label": "Net interest income after provision for loan losses",
+                "concept": "InterestIncomeExpenseAfterProvisionForLoanLoss",
+                "unit": "usd",
+                "value": 42411000
+            },
+            {
+                "label": "Gain on sale of loans",
+                "concept": "GainLossOnSalesOfLoansNet",
+                "unit": "usd",
+                "value": 18206000
+            },
+            {
+                "label": "Other income/expense:",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 68408000
+            },
+            {
+                "label": "Impairment expense",
+                "concept": "AssetImpairmentCharges",
+                "unit": "usd",
+                "value": 34419000
+            },
+            {
+                "label": "Derivative market value adjustments and derivative settlements, net",
+                "concept": "nni:DerivativeMarketValueAdjustmentsAndDerivativeSettlementsNet",
+                "unit": "usd",
+                "value": -14455000
+            },
+            {
+                "label": "Total other income/expense",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 441676000
+            },
+            {
+                "label": "Cost of services",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 49506000
+            },
+            {
+                "label": "Salaries and benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 239125000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 57041000
+            },
+            {
+                "label": "Other expenses",
+                "concept": "OtherExpenses",
+                "unit": "usd",
+                "value": 80439000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 376605000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 57976000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 11131000
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 46845000
+            },
+            {
+                "label": "Net income attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 895000
+            },
+            {
+                "label": "Net income attributable to noncontrolling interests",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 45950000
+            },
+            {
+                "label": "Net (loss) income attributable to Nelnet, Inc. shareholders - basic and diluted (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 1.16
+            },
+            {
+                "label": "Weighted average common shares outstanding - basic and diluted (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 39579459
+            },
+            {
+                "label": "Unrealized holding gains (losses) arising during period, net",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 221000
+            },
+            {
+                "label": "Reclassification adjustment for (gains) losses recognized in net income, net",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax",
+                "unit": "usd",
+                "value": -123000
+            },
+            {
+                "label": "Income tax effect",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 83000
+            },
+            {
+                "label": "Other comprehensive income (loss):",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 261000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 47106000
+            },
+            {
+                "label": "Comprehensive income attributable to noncontrolling interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 895000
+            },
+            {
+                "label": "Comprehensive income attributable to Nelnet, Inc.",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 46211000
+            }
+        ]
+    }
+}

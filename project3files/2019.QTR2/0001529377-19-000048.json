@@ -1,0 +1,363 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-03-31",
+    "year": "2019",
+    "quarter": "Q1",
+    "symbol": "ACRE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 12814000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 379000
+            },
+            {
+                "label": "Loans held for investment ($557,000 and $289,576 related to consolidated VIEs, respectively)",
+                "concept": "acre:MortgageLoansOnRealEstateTotalCommitmentAmountIncludingNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1548158000
+            },
+            {
+                "label": "Real estate owned, net",
+                "concept": "RealEstateAcquiredThroughForeclosure",
+                "unit": "usd",
+                "value": 36814000
+            },
+            {
+                "label": "Other assets ($1,708 and $843 of interest receivable related to consolidated VIEs, respectively; $51,582 of other receivables related to consolidated VIEs as of December 31, 2018)",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 20275000
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1618440000
+            },
+            {
+                "label": "Secured funding agreements",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 621549000
+            },
+            {
+                "label": "Secured term loan",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 108537000
+            },
+            {
+                "label": "Collateralized loan obligation securitization debt (consolidated VIE)",
+                "concept": "acre:VariableInterestEntityCollateralizedLoanObligationSecuritiesLongTermDebt",
+                "unit": "usd",
+                "value": 442202000
+            },
+            {
+                "label": "Due to affiliate",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 2259000
+            },
+            {
+                "label": "Dividends payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 9520000
+            },
+            {
+                "label": "Other liabilities ($882 and $541 of interest payable related to consolidated VIEs, respectively)",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 9271000
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1193338000
+            },
+            {
+                "label": "Commitments and contingencies (Note 6)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, par value $0.01 per share, 450,000,000 shares authorized at March 31, 2019 and December 31, 2018 and 28,849,070 and 28,755,665 shares issued and outstanding at March 31, 2019 and December 31, 2018, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 283000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 422231000
+            },
+            {
+                "label": "Accumulated earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 2588000
+            },
+            {
+                "label": "STOCKHOLDERS' EQUITY",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 425102000
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1618440000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 8543000
+            },
+            {
+                "label": "Amortization of deferred financing costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 1665000
+            },
+            {
+                "label": "Origination fee accretion",
+                "concept": "AmortizationOfDeferredLoanOriginationFeesNet",
+                "unit": "usd",
+                "value": 1266000
+            },
+            {
+                "label": "Equity Award [Domain]",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 492000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 54000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 1694000
+            },
+            {
+                "label": "Due to affiliate",
+                "concept": "IncreaseDecreaseInDueToAffiliates",
+                "unit": "usd",
+                "value": -904000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -101000
+            },
+            {
+                "label": "Operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 6789000
+            },
+            {
+                "label": "Issuance of and fundings on loans held for investment",
+                "concept": "PaymentsToAcquireLoansHeldForInvestment",
+                "unit": "usd",
+                "value": 120305000
+            },
+            {
+                "label": "Principal repayment of loans held for investment",
+                "concept": "ProceedsFromCollectionOfLoansReceivable",
+                "unit": "usd",
+                "value": 109894000
+            },
+            {
+                "label": "Receipt of origination fees",
+                "concept": "ProceedsFromLoanAndLeaseOriginationsAndPrincipalCollections1",
+                "unit": "usd",
+                "value": 1426000
+            },
+            {
+                "label": "Investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -8985000
+            },
+            {
+                "label": "Proceeds from secured funding agreements",
+                "concept": "ProceedsFromIssuanceOfSecuredDebt",
+                "unit": "usd",
+                "value": 107019000
+            },
+            {
+                "label": "Repayments of secured funding agreements",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 263444000
+            },
+            {
+                "label": "Payment of secured funding costs",
+                "concept": "acre:PaymentsOfSecuredFundingCosts",
+                "unit": "usd",
+                "value": 3413000
+            },
+            {
+                "label": "Proceeds from issuance of debt of consolidated VIEs",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 172673000
+            },
+            {
+                "label": "Dividends paid",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 8914000
+            },
+            {
+                "label": "Financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 3921000
+            },
+            {
+                "label": "Change in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1725000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Interest income from loans held for investment",
+                "concept": "InterestAndFeeIncomeLoansAndLeasesHeldInPortfolio",
+                "unit": "usd",
+                "value": 27986000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseBorrowings",
+                "unit": "usd",
+                "value": 15740000
+            },
+            {
+                "label": "Revenue:",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 12246000
+            },
+            {
+                "label": "Operating revenue from real estate owned",
+                "concept": "acre:OperatingRevenuefromRealEstateOwned",
+                "unit": "usd",
+                "value": 1911000
+            },
+            {
+                "label": "Total revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 14157000
+            },
+            {
+                "label": "Management and incentive fees to affiliate",
+                "concept": "CostsAndExpensesRelatedParty",
+                "unit": "usd",
+                "value": 1574000
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 478000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 1120000
+            },
+            {
+                "label": "General and administrative expenses reimbursed to affiliate",
+                "concept": "acre:GeneralAndAdministrativeExpensesReimbursedToAffiliate",
+                "unit": "usd",
+                "value": 659000
+            },
+            {
+                "label": "Operating expenses from real estate owned",
+                "concept": "acre:OperatingExpensesFromRealEstateOwned",
+                "unit": "usd",
+                "value": 1633000
+            },
+            {
+                "label": "Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 54000
+            },
+            {
+                "label": "Expenses:",
+                "concept": "NoninterestExpense",
+                "unit": "usd",
+                "value": 5518000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 8639000
+            },
+            {
+                "label": "Income tax expense, including excise tax",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 96000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 8543000
+            },
+            {
+                "label": "Basic and diluted earnings per common share (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.3
+            },
+            {
+                "label": "Basic weighted average shares of common stock outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 28561827
+            },
+            {
+                "label": "Diluted weighted average shares of common stock outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 28780980
+            },
+            {
+                "label": "Dividends declared per share of common stock (in dollars per share)",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": 0.33
+            }
+        ]
+    }
+}

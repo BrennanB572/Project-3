@@ -1,0 +1,639 @@
+{
+    "startDate": "2018-01-01",
+    "endDate": "2018-03-31",
+    "year": "2018",
+    "quarter": "Q1",
+    "symbol": "FTAI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 80916000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 25823000
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "AccountsReceivableNet",
+                "unit": "usd",
+                "value": 36847000
+            },
+            {
+                "label": "Leasing equipment, net",
+                "concept": "PropertySubjectToOrAvailableForOperatingLeaseNet",
+                "unit": "usd",
+                "value": 1128493000
+            },
+            {
+                "label": "Finance leases, net",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 9115000
+            },
+            {
+                "label": "Property, plant, and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 512052000
+            },
+            {
+                "label": "Investments",
+                "concept": "ftai:EquityMethodInvestmentIncludingAvailableforSaleSecurities",
+                "unit": "usd",
+                "value": 43702000
+            },
+            {
+                "label": "Intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 37978000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 116584000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 56316000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2047826000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 56031000
+            },
+            {
+                "label": "Debt, net",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 710638000
+            },
+            {
+                "label": "Maintenance deposits",
+                "concept": "ftai:MaintenanceDepositLiability",
+                "unit": "usd",
+                "value": 107444000
+            },
+            {
+                "label": "Security deposits",
+                "concept": "SecurityDepositLiability",
+                "unit": "usd",
+                "value": 28921000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 18298000
+            },
+            {
+                "label": "Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 921332000
+            },
+            {
+                "label": "Commitments and Contingencies Disclosure [Abstract]",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common shares ($0.01 par value per share; 2,000,000,000 shares authorized; 82,779,232 and 75,771,738 shares issued and outstanding as of March 31, 2018 and December 31, 2017, respectively)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 828000
+            },
+            {
+                "label": "Additional paid in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 1085492000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -39271000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Equity",
+                "concept": "MembersEquity",
+                "unit": "usd",
+                "value": 1047049000
+            },
+            {
+                "label": "Non-controlling interest in equity of consolidated subsidiaries",
+                "concept": "MembersEquityAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 79445000
+            },
+            {
+                "label": "Total equity",
+                "concept": "LimitedLiabilityCompanyLlcMembersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1126494000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2047826000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -9333000
+            },
+            {
+                "label": "Equity in earnings (losses) of unconsolidated entities",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 95000
+            },
+            {
+                "label": "Loss (gain) on sale of equipment, net",
+                "concept": "GainLossOnDispositionOfAssets",
+                "unit": "usd",
+                "value": -5000
+            },
+            {
+                "label": "Security deposits and maintenance claims included in earnings",
+                "concept": "ftai:ProceedsfromForfeitedSecurityDeposits",
+                "unit": "usd",
+                "value": 383000
+            },
+            {
+                "label": "Loss on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Equity-based compensation",
+                "concept": "AllocatedShareBasedCompensationExpense",
+                "unit": "usd",
+                "value": 208000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 29587000
+            },
+            {
+                "label": "Change in current and deferred income taxes",
+                "concept": "DeferredIncomeTaxesAndTaxCredits",
+                "unit": "usd",
+                "value": 504000
+            },
+            {
+                "label": "Change in fair value of non-hedge derivative",
+                "concept": "DerivativeInstrumentsNotDesignatedAsHedgingInstrumentsGainLossNet",
+                "unit": "usd",
+                "value": 624000
+            },
+            {
+                "label": "Amortization of lease intangibles and incentives",
+                "concept": "ftai:AmortizationofLeaseIntangiblesandIncentives",
+                "unit": "usd",
+                "value": 7226000
+            },
+            {
+                "label": "Amortization of deferred financing costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 1151000
+            },
+            {
+                "label": "Bad debt expense",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 1441000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherOperatingActivitiesCashFlowStatement",
+                "unit": "usd",
+                "value": 9000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 7387000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": -1176000
+            },
+            {
+                "label": "Accounts payable and accrued liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": -9768000
+            },
+            {
+                "label": "Management fees payable to affiliate",
+                "concept": "IncreaseDecreaseInDueToRelatedParties",
+                "unit": "usd",
+                "value": -1300000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -947000
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 11470000
+            },
+            {
+                "label": "Investment in notes receivable",
+                "concept": "PaymentsToAcquireNotesReceivable",
+                "unit": "usd",
+                "value": 912000
+            },
+            {
+                "label": "Investment in unconsolidated entities and available for sale securities",
+                "concept": "PaymentsForAdvanceToAffiliate",
+                "unit": "usd",
+                "value": 1115000
+            },
+            {
+                "label": "Principal collections on finance leases",
+                "concept": "ProceedsFromCollectionOfLeaseReceivables",
+                "unit": "usd",
+                "value": 129000
+            },
+            {
+                "label": "Acquisition of leasing equipment",
+                "concept": "PaymentsToAcquireEquipmentOnLease",
+                "unit": "usd",
+                "value": 86043000
+            },
+            {
+                "label": "Acquisition of property plant and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 23641000
+            },
+            {
+                "label": "Acquisition of lease intangibles",
+                "concept": "PaymentsToAcquireIntangibleAssets",
+                "unit": "usd",
+                "value": 1029000
+            },
+            {
+                "label": "Purchase deposits for acquisitions",
+                "concept": "ftai:PaymentsforDepositsonLeasingEquipment",
+                "unit": "usd",
+                "value": 6886000
+            },
+            {
+                "label": "Proceeds from sale of leasing equipment",
+                "concept": "ftai:ProceedsFromSaleofEquipmentonLease",
+                "unit": "usd",
+                "value": 6136000
+            },
+            {
+                "label": "Proceeds from sale of property, plant and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 38000
+            },
+            {
+                "label": "Proceeds from deposit on sale of leasing equipment",
+                "concept": "ProceedsFromSaleOfOtherAssetsInvestingActivities",
+                "unit": "usd",
+                "value": 240000
+            },
+            {
+                "label": "Return of deposit on sale of engine",
+                "concept": "ftai:PaymentsforDepositsonSaleofMachineryandEquipment",
+                "unit": "usd",
+                "value": 400000
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -113483000
+            },
+            {
+                "label": "Proceeds from debt",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 18600000
+            },
+            {
+                "label": "Repayment of debt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 12612000
+            },
+            {
+                "label": "Payment of deferred financing costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 71000
+            },
+            {
+                "label": "Receipt of security deposits",
+                "concept": "ftai:IncreaseinSecurityDeposits",
+                "unit": "usd",
+                "value": 1864000
+            },
+            {
+                "label": "Return of security deposits",
+                "concept": "ftai:DecreaseinSecurityDeposits",
+                "unit": "usd",
+                "value": 700000
+            },
+            {
+                "label": "Receipt of maintenance deposits",
+                "concept": "ftai:IncreaseinMaintenanceDeposits",
+                "unit": "usd",
+                "value": 9720000
+            },
+            {
+                "label": "Release of maintenance deposits",
+                "concept": "ftai:DecreaseinMaintenanceDeposits",
+                "unit": "usd",
+                "value": 1840000
+            },
+            {
+                "label": "Proceeds from issuance of common shares, net of underwriter's discount",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 128450000
+            },
+            {
+                "label": "Common shares issuance costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 132000
+            },
+            {
+                "label": "Cash dividends",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 27333000
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 115946000
+            },
+            {
+                "label": "Net increase in cash and cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 13933000
+            },
+            {
+                "label": "Proceeds from borrowings of debt",
+                "concept": "ftai:NoncashorPartNoncashProceedsfromBorrowingsofDebt",
+                "unit": "usd",
+                "value": 511000
+            },
+            {
+                "label": "Repayment and settlement of debt",
+                "concept": "ftai:NoncashorPartNoncashRepaymentofDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Acquisition of leasing equipment",
+                "concept": "ftai:NoncashorPartNoncashAcquisitionLeasingEquipmentAcquired",
+                "unit": "usd",
+                "value": 2938000
+            },
+            {
+                "label": "Acquisition of property, plant and equipment",
+                "concept": "NoncashOrPartNoncashAcquisitionFixedAssetsAcquired1",
+                "unit": "usd",
+                "value": 5849000
+            },
+            {
+                "label": "Settled and assumed security deposits",
+                "concept": "ftai:NoncashorPartNoncashAcquisitionSecurityDepositsSettledandAssumed",
+                "unit": "usd",
+                "value": 500000
+            },
+            {
+                "label": "Billed, assumed and settled maintenance deposits",
+                "concept": "ftai:NoncashorPartNoncashAcquisitionMaintenanceDepositsBilledandAssumed",
+                "unit": "usd",
+                "value": -3517000
+            },
+            {
+                "label": "Deferred financing costs",
+                "concept": "ftai:DeferredFinancingCostsNonCash",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Issuance of common shares",
+                "concept": "ftai:StockIssuanceCostsIncurredDuringNoncashorPartialNoncashTransaction",
+                "unit": "usd",
+                "value": 150000
+            },
+            {
+                "label": "Common share issuance costs",
+                "concept": "StockIssued1",
+                "unit": "usd",
+                "value": 591000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -9333000
+            },
+            {
+                "label": "Change in fair value of available-for-sale securities",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Comprehensive loss:",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -9333000
+            },
+            {
+                "label": "Comprehensive loss attributable to non-controlling interest",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -8761000
+            },
+            {
+                "label": "Comprehensive loss:",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -572000
+            },
+            {
+                "label": "Total revenues",
+                "concept": "SalesRevenueNet",
+                "unit": "usd",
+                "value": 68844000
+            },
+            {
+                "label": "Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 27579000
+            },
+            {
+                "label": "General and administrative expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3586000
+            },
+            {
+                "label": "Acquisition and transaction expenses",
+                "concept": "BusinessCombinationAcquisitionRelatedCosts",
+                "unit": "usd",
+                "value": 1766000
+            },
+            {
+                "label": "Management fees and incentive allocation to affiliate",
+                "concept": "RelatedPartyTransactionExpensesFromTransactionsWithRelatedParty",
+                "unit": "usd",
+                "value": 3739000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 29587000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 11871000
+            },
+            {
+                "label": "Total expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 78128000
+            },
+            {
+                "label": "Equity in earnings (losses) of unconsolidated entities",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 95000
+            },
+            {
+                "label": "Loss (gain) on sale of equipment, net",
+                "concept": "GainLossOnDispositionOfAssets",
+                "unit": "usd",
+                "value": -5000
+            },
+            {
+                "label": "Loss on extinguishment of debt",
+                "concept": "GainsLossesOnExtinguishmentOfDebt",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 176000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 180000
+            },
+            {
+                "label": "Total other income (expense)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 446000
+            },
+            {
+                "label": "Loss before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -8838000
+            },
+            {
+                "label": "Total provision for income taxes",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 495000
+            },
+            {
+                "label": "Net income (loss) attributable to non-controlling interest",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -8761000
+            },
+            {
+                "label": "Net income (loss) attributable to non-controlling interest",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -572000
+            },
+            {
+                "label": "Loss per share",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 81534454
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 81534454
+            }
+        ]
+    }
+}

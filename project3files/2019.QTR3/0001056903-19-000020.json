@@ -1,0 +1,735 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-06-30",
+    "year": "2019",
+    "quarter": "Q2",
+    "symbol": "AWR",
+    "data": {
+        "bs": [
+            {
+                "label": "Property, Plant and Equipment",
+                "concept": "awr:UtilitiesPropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 1898157000
+            },
+            {
+                "label": "Non-utility property, at cost",
+                "concept": "awr:NonUtilitiesPropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 30201000
+            },
+            {
+                "label": "Total",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 1928358000
+            },
+            {
+                "label": "Less - Accumulated depreciation",
+                "concept": "PublicUtilitiesPropertyPlantAndEquipmentAccumulatedDepreciation",
+                "unit": "usd",
+                "value": 572695000
+            },
+            {
+                "label": "Utility plant",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 1355663000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 1116000
+            },
+            {
+                "label": "Other property and investments",
+                "concept": "awr:PropertyPlantAndEquipmentAndInvestmentsOtherNet",
+                "unit": "usd",
+                "value": 27312000
+            },
+            {
+                "label": "Total other property and investments",
+                "concept": "awr:PropertyPlantAndEquipmentAndInvestmentsOtherAndGoodwillNet",
+                "unit": "usd",
+                "value": 28428000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1516000
+            },
+            {
+                "label": "Accounts receivable - customers, less allowance for doubtful accounts",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 24245000
+            },
+            {
+                "label": "Unbilled receivable",
+                "concept": "UnbilledReceivablesCurrent",
+                "unit": "usd",
+                "value": 18064000
+            },
+            {
+                "label": "Receivable from the U.S. government",
+                "concept": "awr:AccountsReceivableFromUSGovernmentNetCurrent",
+                "unit": "usd",
+                "value": 20949000
+            },
+            {
+                "label": "Other accounts receivable, less allowance for doubtful accounts",
+                "concept": "AccountsAndOtherReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 3065000
+            },
+            {
+                "label": "Income taxes receivable",
+                "concept": "IncomeTaxesReceivable",
+                "unit": "usd",
+                "value": 1545000
+            },
+            {
+                "label": "Materials and supplies, at average cost",
+                "concept": "InventoryRawMaterialsAndSupplies",
+                "unit": "usd",
+                "value": 6189000
+            },
+            {
+                "label": "Regulatory assets \u2014 current",
+                "concept": "RegulatoryAssetsCurrent",
+                "unit": "usd",
+                "value": 13671000
+            },
+            {
+                "label": "Prepayments and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 7005000
+            },
+            {
+                "label": "Contract assets",
+                "concept": "ContractWithCustomerAssetGrossCurrent",
+                "unit": "usd",
+                "value": 25776000
+            },
+            {
+                "label": "Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 122025000
+            },
+            {
+                "label": "Receivable from the U.S. government",
+                "concept": "awr:AccountReceivablefromUSGovernmentNetNoncurrent",
+                "unit": "usd",
+                "value": 38910000
+            },
+            {
+                "label": "Contract assets",
+                "concept": "ContractWithCustomerAssetGrossNoncurrent",
+                "unit": "usd",
+                "value": 5781000
+            },
+            {
+                "label": "Operating lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 11058000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 5418000
+            },
+            {
+                "label": "Other Assets",
+                "concept": "awr:RegulatoryAndOtherAssets",
+                "unit": "usd",
+                "value": 61167000
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1567283000
+            },
+            {
+                "label": "Common Stock, Value, Issued",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 254969000
+            },
+            {
+                "label": "Earnings reinvested in the business",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 323818000
+            },
+            {
+                "label": "Beginning balances",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 578787000
+            },
+            {
+                "label": "Long-term debt",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 281014000
+            },
+            {
+                "label": "Capitalization",
+                "concept": "CapitalizationLongtermDebtAndEquity",
+                "unit": "usd",
+                "value": 859801000
+            },
+            {
+                "label": "Long-term debt \u2014 current",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 339000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 55645000
+            },
+            {
+                "label": "Income taxes payable",
+                "concept": "TaxesPayableCurrent",
+                "unit": "usd",
+                "value": 3104000
+            },
+            {
+                "label": "Accrued other taxes",
+                "concept": "awr:FranchiseAndAssessmentFeesTaxes",
+                "unit": "usd",
+                "value": 8140000
+            },
+            {
+                "label": "Accrued employee expenses",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 12363000
+            },
+            {
+                "label": "Accrued interest",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 3109000
+            },
+            {
+                "label": "Unrealized loss on purchased power contracts",
+                "concept": "EnergyMarketingContractLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 267000
+            },
+            {
+                "label": "Contract liabilities",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 11564000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 1808000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 10007000
+            },
+            {
+                "label": "Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 106346000
+            },
+            {
+                "label": "Notes payable to bank",
+                "concept": "NotesPayableToBankNoncurrent",
+                "unit": "usd",
+                "value": 185500000
+            },
+            {
+                "label": "Advances for construction",
+                "concept": "CustomerAdvancesForConstruction",
+                "unit": "usd",
+                "value": 63582000
+            },
+            {
+                "label": "Contributions in aid of construction - net",
+                "concept": "ContributionsInAidOfConstruction",
+                "unit": "usd",
+                "value": 128898000
+            },
+            {
+                "label": "Deferred income taxes",
+                "concept": "DeferredTaxLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 114418000
+            },
+            {
+                "label": "Regulatory liabilities",
+                "concept": "RegulatoryLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 26955000
+            },
+            {
+                "label": "Unamortized investment tax credits",
+                "concept": "AccumulatedDeferredInvestmentTaxCredit",
+                "unit": "usd",
+                "value": 1331000
+            },
+            {
+                "label": "Accrued pension and other postretirement benefits",
+                "concept": "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 59889000
+            },
+            {
+                "label": "Operating lease liabilities",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 9548000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 11015000
+            },
+            {
+                "label": "Total other credits",
+                "concept": "LiabilitiesOtherThanLongtermDebtNoncurrent",
+                "unit": "usd",
+                "value": 601136000
+            },
+            {
+                "label": "Commitments and Contingencies Disclosure [Abstract]",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "CAPITALIZATION AND LIABILITIES",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1567283000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 39636000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 17640000
+            },
+            {
+                "label": "Provision for doubtful accounts",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 281000
+            },
+            {
+                "label": "Deferred income taxes and investment tax credits",
+                "concept": "DeferredIncomeTaxesAndTaxCredits",
+                "unit": "usd",
+                "value": -1703000
+            },
+            {
+                "label": "Award Type [Domain]",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 2179000
+            },
+            {
+                "label": "Gain on sale of assets",
+                "concept": "GainLossOnSalesOfAssetsAndAssetImpairmentCharges",
+                "unit": "usd",
+                "value": 112000
+            },
+            {
+                "label": "Gain on investments held in a trust",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": 2187000
+            },
+            {
+                "label": "Other \u2014 net",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": -130000
+            },
+            {
+                "label": "Accounts receivable \u2014 customers",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 1129000
+            },
+            {
+                "label": "Unbilled receivable",
+                "concept": "IncreaseDecreaseInUnbilledReceivables",
+                "unit": "usd",
+                "value": -5524000
+            },
+            {
+                "label": "Other accounts receivable",
+                "concept": "IncreaseDecreaseInAccountsAndOtherReceivables",
+                "unit": "usd",
+                "value": -36000
+            },
+            {
+                "label": "Receivables from the U.S. government",
+                "concept": "awr:IncreaseDecreaseReceivableFromGovernment",
+                "unit": "usd",
+                "value": 2909000
+            },
+            {
+                "label": "Materials and supplies",
+                "concept": "IncreaseDecreaseInMaterialsAndSupplies",
+                "unit": "usd",
+                "value": 414000
+            },
+            {
+                "label": "Prepayments and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -1901000
+            },
+            {
+                "label": "Contract assets",
+                "concept": "awr:IncreaseDecreaseinContractAssets",
+                "unit": "usd",
+                "value": 2934000
+            },
+            {
+                "label": "Increase (Decrease) in Regulatory Assets and Liabilities",
+                "concept": "IncreaseDecreaseInRegulatoryAssetsAndLiabilities",
+                "unit": "usd",
+                "value": 13932000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 83000
+            },
+            {
+                "label": "Income taxes receivable/payable",
+                "concept": "IncreaseDecreaseInIncomeTaxes",
+                "unit": "usd",
+                "value": 3363000
+            },
+            {
+                "label": "Contract liabilities",
+                "concept": "IncreaseDecreaseInBillingInExcessOfCostOfEarnings",
+                "unit": "usd",
+                "value": 4034000
+            },
+            {
+                "label": "Accrued pension and other post-retirement benefits",
+                "concept": "IncreaseDecreaseInPensionAndPostretirementObligations",
+                "unit": "usd",
+                "value": 3116000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -7936000
+            },
+            {
+                "label": "Cash Flows From Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 44667000
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 81155000
+            },
+            {
+                "label": "Proceeds from Sale of Property, Plant, and Equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 102000
+            },
+            {
+                "label": "Other investing activities",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": -184000
+            },
+            {
+                "label": "Cash Flows From Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -80869000
+            },
+            {
+                "label": "Proceeds from stock option exercises",
+                "concept": "awr:ProceedsFromIssuanceOfCommonSharesAndStockOptionExercises",
+                "unit": "usd",
+                "value": 366000
+            },
+            {
+                "label": "Receipt of advances for and contributions in aid of construction",
+                "concept": "ProceedsFromContributionInAidOfConstruction",
+                "unit": "usd",
+                "value": 6290000
+            },
+            {
+                "label": "Refunds on advances for construction",
+                "concept": "RepaymentsOfAdvancesForConstruction",
+                "unit": "usd",
+                "value": 4074000
+            },
+            {
+                "label": "Retirement or repayments of long-term debt",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 40200000
+            },
+            {
+                "label": "Net change in notes payable to banks",
+                "concept": "IncreaseDecreaseInNotesPayableCurrent",
+                "unit": "usd",
+                "value": 90000000
+            },
+            {
+                "label": "Dividends paid",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 20232000
+            },
+            {
+                "label": "Payments Related to Tax Withholding for Share-based Compensation",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 1573000
+            },
+            {
+                "label": "Cash Flows From Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 30577000
+            },
+            {
+                "label": "Net change in cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -5625000
+            },
+            {
+                "label": "Accrued payables for investment in utility plant",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 23433000
+            },
+            {
+                "label": "Property installed by developers and conveyed",
+                "concept": "ContributionOfProperty",
+                "unit": "usd",
+                "value": 1241000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Water",
+                "concept": "RegulatedOperatingRevenueWater",
+                "unit": "usd",
+                "value": 152863000
+            },
+            {
+                "label": "Electric",
+                "concept": "RegulatedOperatingRevenueElectricNonNuclear",
+                "unit": "usd",
+                "value": 18037000
+            },
+            {
+                "label": "Contracted services",
+                "concept": "RegulatedOperatingRevenueOther",
+                "unit": "usd",
+                "value": 55480000
+            },
+            {
+                "label": "Total operating revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 226380000
+            },
+            {
+                "label": "Water purchased",
+                "concept": "CostOfPurchasedWater",
+                "unit": "usd",
+                "value": 31902000
+            },
+            {
+                "label": "Power purchased for pumping",
+                "concept": "awr:PowerPurchasedForPumping",
+                "unit": "usd",
+                "value": 3520000
+            },
+            {
+                "label": "Groundwater production assessment",
+                "concept": "awr:GroundwaterProductionAssessment",
+                "unit": "usd",
+                "value": 8386000
+            },
+            {
+                "label": "Power purchased for resale",
+                "concept": "UtilitiesOperatingExpensePurchasedPower",
+                "unit": "usd",
+                "value": 6095000
+            },
+            {
+                "label": "Supply cost balancing accounts",
+                "concept": "awr:SupplyCostBalancingAccounts",
+                "unit": "usd",
+                "value": -165000
+            },
+            {
+                "label": "Other operation",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 16279000
+            },
+            {
+                "label": "Administrative and general",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 41201000
+            },
+            {
+                "label": "Depreciation and amortization expense",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 17487000
+            },
+            {
+                "label": "Maintenance",
+                "concept": "CostOfPropertyRepairsAndMaintenance",
+                "unit": "usd",
+                "value": 5619000
+            },
+            {
+                "label": "Property and other taxes",
+                "concept": "TaxesExcludingIncomeAndExciseTaxes",
+                "unit": "usd",
+                "value": 9766000
+            },
+            {
+                "label": "ASUS construction",
+                "concept": "CostOfGoodsAndServicesSold",
+                "unit": "usd",
+                "value": 26777000
+            },
+            {
+                "label": "Gain on sale of assets",
+                "concept": "GainLossOnSalesOfAssetsAndAssetImpairmentCharges",
+                "unit": "usd",
+                "value": 112000
+            },
+            {
+                "label": "Operating Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 166755000
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 59625000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 12599000
+            },
+            {
+                "label": "Interest income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 1818000
+            },
+            {
+                "label": "Other, net",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 1933000
+            },
+            {
+                "label": "Other Income and Expenses",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -8848000
+            },
+            {
+                "label": "Income from operations before income tax expense",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 50777000
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 11141000
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 39636000
+            },
+            {
+                "label": "Weighted average Common Shares outstanding, basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 36788000
+            },
+            {
+                "label": "Additional disclosure",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 1.07
+            },
+            {
+                "label": "Weighted average common shares outstanding, diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 36942000
+            },
+            {
+                "label": "Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 1.07
+            },
+            {
+                "label": "Dividends Declared Per Common Share (in dollars per share)",
+                "concept": "CommonStockDividendsPerShareCashPaid",
+                "unit": "usd/shares",
+                "value": 0.55
+            }
+        ]
+    }
+}

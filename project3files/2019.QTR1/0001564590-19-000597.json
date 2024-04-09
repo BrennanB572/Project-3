@@ -1,0 +1,213 @@
+{
+    "startDate": "2017-11-01",
+    "endDate": "2018-10-31",
+    "year": "2018",
+    "quarter": "FY",
+    "symbol": "FXE",
+    "data": {
+        "bs": [
+            {
+                "label": "Euro deposits, interest bearing",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 249553480
+            },
+            {
+                "label": "Euro deposits, non-interest bearing",
+                "concept": "DueFromBanks",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Subscriptions receivable.",
+                "concept": "fxe:SubscriptionsReceivable",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Current Assets:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 249553480
+            },
+            {
+                "label": "Accrued Sponsor's fee",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 80060
+            },
+            {
+                "label": "Interest payable on currency deposits current.",
+                "concept": "fxe:InterestPayableOnCurrencyDepositsCurrent",
+                "unit": "usd",
+                "value": 80897
+            },
+            {
+                "label": "Current Liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 160957
+            },
+            {
+                "label": "Commitments and Contingent Liabilities (note 9)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Redeemable Capital Shares, at redemption value, no par value, 146,500,000 and 137,000,000 authorized, respectively \u2013 2,300,000 and 3,500,000 issued and outstanding, respectively",
+                "concept": "RedeemableNoncontrollingInterestEquityCarryingAmount",
+                "unit": "usd",
+                "value": 249392523
+            },
+            {
+                "label": "Retained Earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Liabilities, Redeemable Capital Shares and Shareholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 249553480
+            }
+        ],
+        "cf": [
+            {
+                "label": "Cash received for accrued income",
+                "concept": "ProceedsFromOperatingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash paid for expenses",
+                "concept": "PaymentsForOperatingActivities",
+                "unit": "usd",
+                "value": 2484735
+            },
+            {
+                "label": "Cash flows from operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -2484735
+            },
+            {
+                "label": "Cash received to purchase redeemable shares",
+                "concept": "ProceedsFromIssuanceOfRedeemablePreferredStock",
+                "unit": "usd",
+                "value": 554200425
+            },
+            {
+                "label": "Cash paid to redeem redeemable shares",
+                "concept": "PaymentsForRepurchaseOfRedeemablePreferredStock",
+                "unit": "usd",
+                "value": 674227051
+            },
+            {
+                "label": "Cash flows from financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -120026626
+            },
+            {
+                "label": "Adjustment to period cash flows due to currency movement",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": -4669267
+            },
+            {
+                "label": "Increase/(Decrease) in cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -127180628
+            },
+            {
+                "label": "Net Comprehensive Loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -2437574
+            },
+            {
+                "label": "Effect of exchange rate on cash",
+                "concept": "EffectOfExchangeRateOnCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 9973
+            },
+            {
+                "label": "Accrued sponsor fee",
+                "concept": "IncreaseDecreaseInDueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 80060
+            },
+            {
+                "label": "Increase decrease in interest payable on currency deposits.",
+                "concept": "fxe:IncreaseDecreaseInInterestPayableOnCurrencyDeposits",
+                "unit": "usd",
+                "value": 80897
+            },
+            {
+                "label": "Prior period accrued sponsor fee increase decrease.",
+                "concept": "fxe:PriorPeriodAccruedSponsorFeeIncreaseDecrease",
+                "unit": "usd",
+                "value": 108181
+            },
+            {
+                "label": "Increase decrease in prior period accrued interest expense on currency deposits.",
+                "concept": "fxe:IncreaseDecreaseInPriorPeriodAccruedInterestExpenseOnCurrencyDeposits",
+                "unit": "usd",
+                "value": 109910
+            }
+        ],
+        "ic": [
+            {
+                "label": "Interest Income",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Income",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Sponsor's fee",
+                "concept": "SponsorFees",
+                "unit": "usd",
+                "value": 1202350
+            },
+            {
+                "label": "Interest Expense on currency deposits",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 1235224
+            },
+            {
+                "label": "Total Expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 2437574
+            },
+            {
+                "label": "Net Comprehensive Loss",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -2437574
+            },
+            {
+                "label": "Basic and Diluted Earnings per Share",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.93
+            },
+            {
+                "label": "Weighted-average Shares Outstanding",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 2623288
+            }
+        ]
+    }
+}

@@ -1,0 +1,543 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-12-31",
+    "year": "2019",
+    "quarter": "FY",
+    "symbol": "USAC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents, beginning of year",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "Accounts receivable:",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 80276000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 11057000
+            },
+            {
+                "label": "Related party receivables",
+                "concept": "AccountsReceivableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 45461000
+            },
+            {
+                "label": "Total inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 91923000
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 2196000
+            },
+            {
+                "label": "Current assets:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 230923000
+            },
+            {
+                "label": "Lease right-of-use assets",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 18317000
+            },
+            {
+                "label": "Property and Equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 2482943000
+            },
+            {
+                "label": "Identifiable intangible assets, net",
+                "concept": "FiniteLivedIntangibleAssetsNet",
+                "unit": "usd",
+                "value": 363171000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 619411000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 15642000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 3730407000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 21703000
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 119383000
+            },
+            {
+                "label": "Deferred revenue",
+                "concept": "ContractWithCustomerLiabilityCurrent",
+                "unit": "usd",
+                "value": 48289000
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 189375000
+            },
+            {
+                "label": "Long-term debt, net",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 1852360000
+            },
+            {
+                "label": "Lease liabilities, noncurrent",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 17343000
+            },
+            {
+                "label": "Other Liabilities Disclosure [Abstract]",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 13422000
+            },
+            {
+                "label": "Liabilities, fair value disclosure",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2072500000
+            },
+            {
+                "label": "Commitments and Contingencies Disclosure [Abstract]",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Units",
+                "concept": "RedeemableNoncontrollingInterestEquityPreferredCarryingAmount",
+                "unit": "usd",
+                "value": 477309000
+            },
+            {
+                "label": "Partners' Capital Notes [Abstract]",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 1180598000
+            },
+            {
+                "label": "Liabilities, Preferred Units and Partners\u2019 Capital",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 3730407000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 39132000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 231447000
+            },
+            {
+                "label": "Bad debt expense (recovery)",
+                "concept": "usac:BadDebtExpenseRecovery",
+                "unit": "usd",
+                "value": 1050000
+            },
+            {
+                "label": "Amortization of debt issuance costs",
+                "concept": "AmortizationOfFinancingCostsAndDiscounts",
+                "unit": "usd",
+                "value": 7607000
+            },
+            {
+                "label": "Award Type [Domain]",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 10814000
+            },
+            {
+                "label": "Deferred income tax expense (benefit)",
+                "concept": "DeferredIncomeTaxesAndTaxCredits",
+                "unit": "usd",
+                "value": 1376000
+            },
+            {
+                "label": "Loss (gain) on disposition of assets",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": -940000
+            },
+            {
+                "label": "Impairment of compression equipment",
+                "concept": "ImpairmentOfLongLivedAssetsHeldForUse",
+                "unit": "usd",
+                "value": 5894000
+            },
+            {
+                "label": "Impairment of goodwill",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accounts receivable and related party receivables, net",
+                "concept": "IncreaseDecreaseInReceivables",
+                "unit": "usd",
+                "value": 5657000
+            },
+            {
+                "label": "Inventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": 25137000
+            },
+            {
+                "label": "Prepaid expenses and other current assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 604000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherNoncurrentAssets",
+                "unit": "usd",
+                "value": -2589000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": -5764000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherCurrentLiabilities",
+                "unit": "usd",
+                "value": -8000
+            },
+            {
+                "label": "Accrued liabilities and deferred revenue",
+                "concept": "usac:IncreaseDecreaseInAccruedLiabilitiesAndDeferredRevenue",
+                "unit": "usd",
+                "value": 36901000
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 300580000
+            },
+            {
+                "label": "Capital expenditures, net",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 171149000
+            },
+            {
+                "label": "Proceeds from disposition of property and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 22478000
+            },
+            {
+                "label": "Proceeds from insurance recovery",
+                "concept": "ProceedsFromInsuranceSettlementInvestingActivities",
+                "unit": "usd",
+                "value": 4181000
+            },
+            {
+                "label": "Acquisition of USA Compression Predecessor",
+                "concept": "PaymentsForPreviousAcquisition",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Assumed cash acquired in business combination of USA Compression Partners, LP",
+                "concept": "CashAcquiredFromAcquisition",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -144490000
+            },
+            {
+                "label": "Proceeds from revolving credit facility",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 852265000
+            },
+            {
+                "label": "Proceeds from issuance of senior notes",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": 750000000
+            },
+            {
+                "label": "Payments on revolving credit facility",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 1499090000
+            },
+            {
+                "label": "Proceeds from issuance of Preferred Units and Warrants, net",
+                "concept": "usac:NetProceedsFromIssuanceOfPreferredUnitsAndWarrants",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash paid related to net settlement of unit-based awards",
+                "concept": "usac:CashPaidForNetSettlementOfUnitBasedAwards",
+                "unit": "usd",
+                "value": 1714000
+            },
+            {
+                "label": "Deferred financing costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 13679000
+            },
+            {
+                "label": "Contributions from (distributions to) Parent, net",
+                "concept": "usac:PaymentsforProceedsfromParent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": -1035000
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -156179000
+            },
+            {
+                "label": "Decrease in cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -89000
+            },
+            {
+                "label": "Cash paid for interest, net of capitalized amounts",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 105356000
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 493000
+            },
+            {
+                "label": "Non-cash distributions",
+                "concept": "usac:DistributionMadeToMemberOrLimitedPartnerNonCashDistributionsPaid",
+                "unit": "usd",
+                "value": 997000
+            },
+            {
+                "label": "Transfers from (to) inventories to (from) property and equipment",
+                "concept": "usac:TransfersToFromInventoryToPropertyAndEquipment",
+                "unit": "usd",
+                "value": 21822000
+            },
+            {
+                "label": "Change in capital expenditures included in accounts payable and accrued liabilities",
+                "concept": "usac:IncreaseDecreaseInCapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 3408000
+            },
+            {
+                "label": "Conversion of Class B Units to common units",
+                "concept": "ConversionOfStockAmountIssued1",
+                "unit": "usd",
+                "value": 67302000
+            },
+            {
+                "label": "Predecessor\u2019s non-cash contribution (to) from Predecessor\u2019s Parent",
+                "concept": "usac:NoncashContributionToFromParentCompany",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Deemed distribution for additional interest in USA Compression Predecessor",
+                "concept": "usac:DeemedDistributionForAdditionalInterestPredecessor",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Issuance of common units for the Equity Restructuring",
+                "concept": "usac:NoncashOrPartNoncashIssuanceOfCommonUnitsForGeneralPartnershipInterestAndIncentiveDistributionRights",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 664162000
+            },
+            {
+                "label": "Parts and service",
+                "concept": "usac:PartsAndServiceRevenue",
+                "unit": "usd",
+                "value": 14236000
+            },
+            {
+                "label": "Revenue from related parties",
+                "concept": "RevenueFromRelatedParties",
+                "unit": "usd",
+                "value": 19967000
+            },
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 698365000
+            },
+            {
+                "label": "Cost of operations, exclusive of depreciation and amortization",
+                "concept": "CostOfGoodsAndServiceExcludingDepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 227303000
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 64397000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 231447000
+            },
+            {
+                "label": "Loss (gain) on disposition of assets",
+                "concept": "GainLossOnSaleOfPropertyPlantEquipment",
+                "unit": "usd",
+                "value": -940000
+            },
+            {
+                "label": "Impairment of compression equipment",
+                "concept": "ImpairmentOfLongLivedAssetsHeldForUse",
+                "unit": "usd",
+                "value": 5894000
+            },
+            {
+                "label": "Impairment of goodwill",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Total costs and expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 529981000
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 168384000
+            },
+            {
+                "label": "Interest expense, net",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 127146000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 80000
+            },
+            {
+                "label": "Other income (expense):",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -127066000
+            },
+            {
+                "label": "Net loss before income tax expense (benefit)",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 41318000
+            },
+            {
+                "label": "Total income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 2186000
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 39132000
+            },
+            {
+                "label": "Cash distributions on Preferred Units",
+                "concept": "usac:PreferredUnitDistributions",
+                "unit": "usd",
+                "value": 48750000
+            },
+            {
+                "label": "Net income (loss) attributable to common and Class B unitholders\u2019 interests",
+                "concept": "usac:NetIncomeLossAttributableToCommonAndClassBUnitholders",
+                "unit": "usd",
+                "value": -9618000
+            },
+            {
+                "label": "Distributions declared per common unit",
+                "concept": "DistributionsPerLimitedPartnershipUnitOutstanding",
+                "unit": "usd/shares",
+                "value": 2.1
+            }
+        ]
+    }
+}

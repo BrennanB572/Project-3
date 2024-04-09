@@ -1,0 +1,417 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-06-30",
+    "year": "2019",
+    "quarter": "Q2",
+    "symbol": "LMFA",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 3093733
+            },
+            {
+                "label": "Finance receivables original product.",
+                "concept": "lmfa:FinanceReceivablesOriginalProduct",
+                "unit": "usd",
+                "value": 329770
+            },
+            {
+                "label": "Finance receivables special product.",
+                "concept": "lmfa:FinanceReceivablesSpecialProduct",
+                "unit": "usd",
+                "value": 157169
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "PrepaidExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": 112767
+            },
+            {
+                "label": "Fixed assets, net (Note 1)",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 30328
+            },
+            {
+                "label": "Real estate assets owned (Note 1)",
+                "concept": "RealEstateInvestmentsOther",
+                "unit": "usd",
+                "value": 46533
+            },
+            {
+                "label": "Operating lease - right of use assets (Note 8)",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 21833
+            },
+            {
+                "label": "Goodwill (Note 2)",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 5689586
+            },
+            {
+                "label": "Other Assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 42036
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 9523755
+            },
+            {
+                "label": "Note payable",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 660793
+            },
+            {
+                "label": "Related party convertible note payable",
+                "concept": "NotesPayableRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 3461782
+            },
+            {
+                "label": "Due from related party (Note 5)",
+                "concept": "DueToRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 6888
+            },
+            {
+                "label": "Operating lease liability (Note 8)",
+                "concept": "OperatingLeaseLiability",
+                "unit": "usd",
+                "value": 22259
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 359160
+            },
+            {
+                "label": "Tax liability",
+                "concept": "TaxesPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 14226
+            },
+            {
+                "label": "Other liabilities and obligations",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 68268
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 4593376
+            },
+            {
+                "label": "Common stock, par value $.001; 30,000,000 shares authorized; 3,134,261 and 3,124,961 shares issued and outstanding as of June 30, 2019 and December 31, 2018, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 3134
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 17324650
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -12397405
+            },
+            {
+                "label": "Stockholders\u2019 equity:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 4930379
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 9523755
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -907521
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 32550
+            },
+            {
+                "label": "Right to use asset depreciation.",
+                "concept": "lmfa:RightToUseAssetDepreciation",
+                "unit": "usd",
+                "value": 4852
+            },
+            {
+                "label": "Stock compensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 6931
+            },
+            {
+                "label": "Prepaid expenses and other assets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -52389
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 89329
+            },
+            {
+                "label": "Advances (repayments) to related party",
+                "concept": "IncreaseDecreaseInDueToRelatedParties",
+                "unit": "usd",
+                "value": 32395
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 48578
+            },
+            {
+                "label": "Lease liability payments",
+                "concept": "OperatingLeasePayments",
+                "unit": "usd",
+                "value": 4426
+            },
+            {
+                "label": "Increase decrease in deferred taxes.",
+                "concept": "lmfa:IncreaseDecreaseInDeferredTaxes",
+                "unit": "usd",
+                "value": -14200
+            },
+            {
+                "label": "CASH FLOWS FROM OPERATING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -659123
+            },
+            {
+                "label": "Net cash received from business acquisition",
+                "concept": "CashAcquiredFromAcquisition",
+                "unit": "usd",
+                "value": 51327
+            },
+            {
+                "label": "Proceeds from (payments) for real estate assets owned.",
+                "concept": "lmfa:ProceedsFromPaymentsForRealEstateAssetsOwned",
+                "unit": "usd",
+                "value": 64101
+            },
+            {
+                "label": "CASH FLOWS FROM INVESTING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 290544
+            },
+            {
+                "label": "Principal repayments",
+                "concept": "RepaymentsOfDebt",
+                "unit": "usd",
+                "value": 80761
+            },
+            {
+                "label": "Exercise of warrants",
+                "concept": "ProceedsFromWarrantExercises",
+                "unit": "usd",
+                "value": 22320
+            },
+            {
+                "label": "CASH FLOWS FROM FINANCING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -58441
+            },
+            {
+                "label": "NET INCREASE (DECREASE) IN CASH",
+                "concept": "CashPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -427020
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 16743
+            },
+            {
+                "label": "ROU asset obligation recognized",
+                "concept": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 26685
+            }
+        ],
+        "ic": [
+            {
+                "label": "Interest on delinquent association fees.",
+                "concept": "lmfa:InterestOnDelinquentAssociationFees",
+                "unit": "usd",
+                "value": 878013
+            },
+            {
+                "label": "Administrative and late fees.",
+                "concept": "lmfa:AdministrativeAndLateFees",
+                "unit": "usd",
+                "value": 82807
+            },
+            {
+                "label": "Recoveries on collection of assessments in excess of cost.",
+                "concept": "lmfa:RecoveriesOnCollectionOfAssessmentsInExcessOfCost",
+                "unit": "usd",
+                "value": 26272
+            },
+            {
+                "label": "Underwriting fees and other revenues.",
+                "concept": "lmfa:UnderwritingFeesAndOtherRevenues",
+                "unit": "usd",
+                "value": 115515
+            },
+            {
+                "label": "Net commission revenue",
+                "concept": "BrokerageCommissionsRevenue",
+                "unit": "usd",
+                "value": 280159
+            },
+            {
+                "label": "Rental revenue.",
+                "concept": "lmfa:RentalRevenue",
+                "unit": "usd",
+                "value": 219954
+            },
+            {
+                "label": "Revenues:",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 1602720
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 1150535
+            },
+            {
+                "label": "Settlement costs with associations",
+                "concept": "LitigationSettlementExpense",
+                "unit": "usd",
+                "value": 40178
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 237633
+            },
+            {
+                "label": "Provision for credit losses",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": -7375
+            },
+            {
+                "label": "Real estate management and disposal.",
+                "concept": "lmfa:RealEstateManagementAndDisposal",
+                "unit": "usd",
+                "value": 297434
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAndAmortization",
+                "unit": "usd",
+                "value": 39902
+            },
+            {
+                "label": "Collection cost.",
+                "concept": "lmfa:CollectionCost",
+                "unit": "usd",
+                "value": -13301
+            },
+            {
+                "label": "Other operating expenses",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 30687
+            },
+            {
+                "label": "Operating Expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 2439768
+            },
+            {
+                "label": "Operating income (loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -837048
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 70473
+            },
+            {
+                "label": "Income (loss) before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -907521
+            },
+            {
+                "label": "Net income (loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -907521
+            },
+            {
+                "label": "Basic",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.29
+            },
+            {
+                "label": "Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.29
+            },
+            {
+                "label": "Basic",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 3133106
+            },
+            {
+                "label": "Diluted",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 3133106
+            }
+        ]
+    }
+}

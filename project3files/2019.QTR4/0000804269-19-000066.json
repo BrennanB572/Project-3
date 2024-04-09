@@ -1,0 +1,375 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-09-30",
+    "year": "2019",
+    "quarter": "Q3",
+    "symbol": "ACF",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 3218000000
+            },
+            {
+                "label": "Finance receivables, net (Note 3; Note 7 VIEs)",
+                "concept": "LoansAndLeasesReceivableNetReportedAmount",
+                "unit": "usd",
+                "value": 54332000000
+            },
+            {
+                "label": "Leased vehicles, net (Note 4; Note 7 VIEs)",
+                "concept": "PropertySubjectToOrAvailableForOperatingLeaseNet",
+                "unit": "usd",
+                "value": 42527000000
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 1182000000
+            },
+            {
+                "label": "Equity in net assets of non-consolidated affiliates (Note 5)",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 1381000000
+            },
+            {
+                "label": "Related party receivables (Note 2)",
+                "concept": "DueFromRelatedParties",
+                "unit": "usd",
+                "value": 696000000
+            },
+            {
+                "label": "Other assets (Note 7 VIEs)",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 6025000000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 109361000000
+            },
+            {
+                "label": "Secured debt (Note 6; Note 7 VIEs)",
+                "concept": "SecuredDebt",
+                "unit": "usd",
+                "value": 39029000000
+            },
+            {
+                "label": "Unsecured debt (Note 6)",
+                "concept": "UnsecuredDebt",
+                "unit": "usd",
+                "value": 50099000000
+            },
+            {
+                "label": "Deferred income",
+                "concept": "ContractWithCustomerLiability",
+                "unit": "usd",
+                "value": 3708000000
+            },
+            {
+                "label": "Related party payables (Note 2)",
+                "concept": "AccountsPayableRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 67000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 3770000000
+            },
+            {
+                "label": "LIABILITIES AND SHAREHOLDERS' EQUITY",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 96673000000
+            },
+            {
+                "label": "Commitments and contingencies (Note 9)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.0001 par value per share",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Preferred stock, $0.01 par value per share",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 8085000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -1210000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 5813000000
+            },
+            {
+                "label": "Shareholders' equity (Note 10)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 12688000000
+            },
+            {
+                "label": "LIABILITIES AND SHAREHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 109361000000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 6304000000
+            },
+            {
+                "label": "Purchases of retail finance receivables, net",
+                "concept": "PaymentsToAcquireReceivables",
+                "unit": "usd",
+                "value": 19866000000
+            },
+            {
+                "label": "Principal collections and recoveries on retail finance receivables",
+                "concept": "acf:PrincipalCollectionAndRecoveriesOnReceivables",
+                "unit": "usd",
+                "value": 17733000000
+            },
+            {
+                "label": "Net funding of commercial finance receivables",
+                "concept": "acf:NetChangeinCommercialFinanceReceivables",
+                "unit": "usd",
+                "value": -599000000
+            },
+            {
+                "label": "Purchases of leased vehicles, net",
+                "concept": "PaymentsToAcquireLeasesHeldForInvestment",
+                "unit": "usd",
+                "value": 12488000000
+            },
+            {
+                "label": "Proceeds from termination of leased vehicles",
+                "concept": "ProceedsFromLeasesHeldForInvestment",
+                "unit": "usd",
+                "value": 9983000000
+            },
+            {
+                "label": "Other investing activities",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 37000000
+            },
+            {
+                "label": "Cash flows from investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -5274000000
+            },
+            {
+                "label": "Net change in debt (original maturities less than three months)",
+                "concept": "ProceedsFromRepaymentsOfShortTermDebt",
+                "unit": "usd",
+                "value": 27000000
+            },
+            {
+                "label": "Borrowings and issuances of secured debt",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 17880000000
+            },
+            {
+                "label": "Payments on secured debt",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 21707000000
+            },
+            {
+                "label": "Borrowings and issuances of unsecured debt",
+                "concept": "ProceedsFromIssuanceOfUnsecuredDebt",
+                "unit": "usd",
+                "value": 8796000000
+            },
+            {
+                "label": "Payments on unsecured debt",
+                "concept": "RepaymentsOfUnsecuredDebt",
+                "unit": "usd",
+                "value": 7278000000
+            },
+            {
+                "label": "Debt issuance costs",
+                "concept": "PaymentsOfDebtIssuanceCosts",
+                "unit": "usd",
+                "value": 102000000
+            },
+            {
+                "label": "Proceeds from issuance of preferred stock",
+                "concept": "ProceedsFromIssuanceOfPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Dividends paid",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 91000000
+            },
+            {
+                "label": "Cash flows from financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -2475000000
+            },
+            {
+                "label": "Net (decrease) increase in cash, cash equivalents and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -1445000000
+            },
+            {
+                "label": "Effect of foreign exchange rate changes on cash, cash equivalents and restricted cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": -20000000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1190000000
+            },
+            {
+                "label": "Unrealized (loss) gain on hedges, net of income tax (benefit) expense of $(4), $2, $(15) and $1",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": -45000000
+            },
+            {
+                "label": "Foreign currency translation adjustment, net of income tax benefit of $0, $0, $0 and $1",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax",
+                "unit": "usd",
+                "value": -99000000
+            },
+            {
+                "label": "Other comprehensive loss, net of tax (Note 10)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -144000000
+            },
+            {
+                "label": "Comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 1046000000
+            },
+            {
+                "label": "Finance charge income",
+                "concept": "InterestAndFeeIncomeLoansConsumer",
+                "unit": "usd",
+                "value": 3038000000
+            },
+            {
+                "label": "Leased vehicle income",
+                "concept": "OperatingLeasesIncomeStatementLeaseRevenue",
+                "unit": "usd",
+                "value": 7536000000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherIncome",
+                "unit": "usd",
+                "value": 344000000
+            },
+            {
+                "label": "Revenue",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 10918000000
+            },
+            {
+                "label": "Operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 1100000000
+            },
+            {
+                "label": "Leased vehicle expenses",
+                "concept": "OperatingLeasesIncomeStatementDepreciationExpenseOnPropertySubjectToOrHeldForLease",
+                "unit": "usd",
+                "value": 5025000000
+            },
+            {
+                "label": "Provision for loan losses (Note 3)",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 504000000
+            },
+            {
+                "label": "Interest Expense [Member]",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 2800000000
+            },
+            {
+                "label": "Costs and expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 9438000000
+            },
+            {
+                "label": "Net income",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 126000000
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1606000000
+            },
+            {
+                "label": "Income tax provision (Note 11)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 416000000
+            },
+            {
+                "label": "Less: cumulative dividends on preferred stock",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 68000000
+            },
+            {
+                "label": "Net income attributable to common shareholder",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 1122000000
+            }
+        ]
+    }
+}

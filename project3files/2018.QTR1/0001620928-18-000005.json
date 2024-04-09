@@ -1,0 +1,471 @@
+{
+    "startDate": "2017-11-13",
+    "endDate": "2017-12-31",
+    "year": "2017",
+    "quarter": "FY",
+    "symbol": "RMP",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 10538000
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 12246000
+            },
+            {
+                "label": "Accounts receivable - affiliate",
+                "concept": "DueFromRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 46182000
+            },
+            {
+                "label": "Prepaid expenses, deposits and other",
+                "concept": "rmp:PrepaidExpenseDepositsAssetsandOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 1327000
+            },
+            {
+                "label": "Current assets:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 70293000
+            },
+            {
+                "label": "Property and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 1431802000
+            },
+            {
+                "label": "Deferred financing costs, net",
+                "concept": "DeferredFinanceCostsNoncurrentNet",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Goodwill",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 1346918000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Segment assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2849013000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Accrued capital expenditures",
+                "concept": "rmp:AccruedCapitalExpendituresCurrent",
+                "unit": "usd",
+                "value": 24630000
+            },
+            {
+                "label": "Other accrued liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4200000
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 28834000
+            },
+            {
+                "label": "Revolving credit facility",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 286000000
+            },
+            {
+                "label": "Other long-term liabilities",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 9360000
+            },
+            {
+                "label": "Liabilities and partners\u2019 capital",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 324194000
+            },
+            {
+                "label": "Parent net equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "General Partner",
+                "concept": "GeneralPartnersCapitalAccount",
+                "unit": "usd",
+                "value": 345740000
+            },
+            {
+                "label": "Partners\u2019 capital:",
+                "concept": "PartnersCapital",
+                "unit": "usd",
+                "value": 2524819000
+            },
+            {
+                "label": "Liabilities and partners\u2019 capital",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2849013000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 25134000
+            },
+            {
+                "label": "Depreciation expense",
+                "concept": "rmp:DepreciationandAmortizationExcludingAmortizationofIntangibleAssetsandFinancingCosts",
+                "unit": "usd",
+                "value": 7480000
+            },
+            {
+                "label": "Amortization of intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Amortization of deferred finance costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Incentive unit expense",
+                "concept": "rmp:IncentiveUnitExpenseRelatedParty",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Equity Award [Domain]",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 17000
+            },
+            {
+                "label": "Deferred income tax expense",
+                "concept": "DeferredIncomeTaxesAndTaxCredits",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "IncreaseDecreaseInReceivables",
+                "unit": "usd",
+                "value": 7283000
+            },
+            {
+                "label": "Prepaid expenses and other",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -176000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": -2327000
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": -767000
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 22430000
+            },
+            {
+                "label": "Capital expenditures",
+                "concept": "PaymentsToAcquireOilAndGasPropertyAndEquipment",
+                "unit": "usd",
+                "value": 34553000
+            },
+            {
+                "label": "Acquisition of Water Assets",
+                "concept": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Acquisition of Vantage Midstream Assets",
+                "concept": "PaymentsToAcquireBusinessTwoNetOfCashAcquired",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Other acquisitions",
+                "concept": "rmp:PaymentstoAcquireOtherBusinessesNetofCashAcquired",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -34553000
+            },
+            {
+                "label": "Purchase price in excess of related party net assets",
+                "concept": "PaymentsOfCapitalDistribution",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Proceeds from borrowings",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 20000000
+            },
+            {
+                "label": "Repayments of borrowings",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Costs related to initial public offering",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common units issuance, net of offering costs",
+                "concept": "ProceedsFromIssuanceOfCommonLimitedPartnersUnits",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Additions to deferred financing costs",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Contributions from parent, net",
+                "concept": "ProceedsFromContributionsFromParent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Distributions paid to GP Holdings",
+                "concept": "PaymentsOfDistributionsToAffiliates",
+                "unit": "usd",
+                "value": 10041000
+            },
+            {
+                "label": "Distributions paid to common unitholders",
+                "concept": "PaymentsOfDividends",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Employee tax withholding for settlement of phantom unit award vestings",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 9959000
+            },
+            {
+                "label": "Net (decrease) increase in cash",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -2164000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 1836000
+            },
+            {
+                "label": "Capital expenditures financed by accounts payable",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid",
+                "unit": "usd",
+                "value": 4000
+            },
+            {
+                "label": "Noncash elimination of deferred tax liabilities for the Water Assets",
+                "concept": "rmp:NoncashEliminationofDeferredTaxLiabilities",
+                "unit": "usd",
+                "value": 0
+            }
+        ],
+        "ic": [
+            {
+                "label": "Affiliate",
+                "concept": "RevenueFromRelatedParties",
+                "unit": "usd",
+                "value": 44134000
+            },
+            {
+                "label": "Third-party",
+                "concept": "OilAndGasRevenue",
+                "unit": "usd",
+                "value": 85000
+            },
+            {
+                "label": "Total operating revenues",
+                "concept": "SalesRevenueNet",
+                "unit": "usd",
+                "value": 44219000
+            },
+            {
+                "label": "Operation and maintenance expense",
+                "concept": "OilAndGasProductionExpense",
+                "unit": "usd",
+                "value": 7182000
+            },
+            {
+                "label": "General and administrative expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3612000
+            },
+            {
+                "label": "Incentive unit expense",
+                "concept": "rmp:IncentiveUnitExpenseRelatedParty",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Depreciation expense",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 7480000
+            },
+            {
+                "label": "Acquisition costs",
+                "concept": "BusinessCombinationAcquisitionRelatedCosts",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Amortization of intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Other expense",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Operating expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 18274000
+            },
+            {
+                "label": "Operating income",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 25945000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 15000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpenseRelatedParty",
+                "unit": "usd",
+                "value": 826000
+            },
+            {
+                "label": "Amortization of deferred finance costs",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Income before income taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 25134000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 25134000
+            },
+            {
+                "label": "Less: Pre-acquisition net income allocated to general partner",
+                "concept": "NetIncomeLossAllocatedToGeneralPartners",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Less: General partner interest in net income attributable to incentive distribution rights",
+                "concept": "rmp:NetIncomeLossAllocatedtoGeneralPartnersIncentiveDistributionRightEmbeddedinGeneralPartnerInterest",
+                "unit": "usd",
+                "value": 1599000
+            },
+            {
+                "label": "Limited partner net income",
+                "concept": "NetIncomeLossAllocatedToLimitedPartners",
+                "unit": "usd",
+                "value": 23535000
+            },
+            {
+                "label": "Common units (basic) (in dollars per share)",
+                "concept": "NetIncomeLossPerOutstandingLimitedPartnershipUnitBasicNetOfTax",
+                "unit": "usd/shares",
+                "value": 0.23
+            },
+            {
+                "label": "Common units (diluted) (in dollars per share)",
+                "concept": "NetIncomeLossNetOfTaxPerOutstandingLimitedPartnershipUnitDiluted",
+                "unit": "usd/shares",
+                "value": 0.23
+            }
+        ]
+    }
+}

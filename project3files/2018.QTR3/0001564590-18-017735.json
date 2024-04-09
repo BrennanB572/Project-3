@@ -1,0 +1,267 @@
+{
+    "startDate": "2018-01-01",
+    "endDate": "2018-06-30",
+    "year": "2018",
+    "quarter": "Q2",
+    "symbol": "PACQ",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 760175
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 15164
+            },
+            {
+                "label": "Current assets:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 775339
+            },
+            {
+                "label": "Cash and marketable securities held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 415484040
+            },
+            {
+                "label": "Total other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 415484040
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 416259379
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 45563
+            },
+            {
+                "label": "Accrued taxes payable",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 355000
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 400563
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized, none issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 3938542
+            },
+            {
+                "label": "Retained earnings (accumulated deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1060398
+            },
+            {
+                "label": "Stockholders' equity:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000006
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 416259379
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income attributable to common shares",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1066279
+            },
+            {
+                "label": "Other income - investment income on Trust Account",
+                "concept": "InvestmentIncomeNonoperating",
+                "unit": "usd",
+                "value": 1484040
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 15164
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 39682
+            },
+            {
+                "label": "Increase decrease in accrued franchise taxes payable.",
+                "concept": "pacq:IncreaseDecreaseInAccruedFranchiseTaxesPayable",
+                "unit": "usd",
+                "value": 71000
+            },
+            {
+                "label": "Accrued income taxes",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 284000
+            },
+            {
+                "label": "CASH FLOWS FROM OPERATING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -38243
+            },
+            {
+                "label": "Investment of cash in Trust Account",
+                "concept": "PaymentsToInvestInDecommissioningFund",
+                "unit": "usd",
+                "value": 414000000
+            },
+            {
+                "label": "CASH FLOWS FROM INVESTING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -414000000
+            },
+            {
+                "label": "Proceeds from public offering of Units",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": 414000000
+            },
+            {
+                "label": "Proceeds from sale of Private Placement Warrants",
+                "concept": "ProceedsFromIssuanceOfWarrants",
+                "unit": "usd",
+                "value": 10280000
+            },
+            {
+                "label": "Proceeds from promissory note from Sponsor",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": 200000
+            },
+            {
+                "label": "Payment of promissory note from Sponsor",
+                "concept": "RepaymentsOfNotesPayable",
+                "unit": "usd",
+                "value": 200000
+            },
+            {
+                "label": "Payment of underwriting commissions",
+                "concept": "PaymentsForUnderwritingExpense",
+                "unit": "usd",
+                "value": 8280000
+            },
+            {
+                "label": "Payments of offering costs excluding related party.",
+                "concept": "pacq:PaymentsOfOfferingCostsExcludingRelatedParty",
+                "unit": "usd",
+                "value": 1192422
+            },
+            {
+                "label": "Payments of offering costs to related party.",
+                "concept": "pacq:PaymentsOfOfferingCostsToRelatedParty",
+                "unit": "usd",
+                "value": 34160
+            },
+            {
+                "label": "CASH FLOWS FROM FINANCING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 414773418
+            },
+            {
+                "label": "NET CHANGE IN CASH",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 735175
+            },
+            {
+                "label": "Common stock subjected to redemption amount.",
+                "concept": "pacq:CommonStockSubjectedToRedemptionAmount",
+                "unit": "usd",
+                "value": 410858810
+            }
+        ],
+        "ic": [
+            {
+                "label": "Administrative expenses.",
+                "concept": "pacq:AdministrativeExpenses",
+                "unit": "usd",
+                "value": 26000
+            },
+            {
+                "label": "General expenses.",
+                "concept": "pacq:GeneralExpenses",
+                "unit": "usd",
+                "value": 36761
+            },
+            {
+                "label": "Franchise taxes.",
+                "concept": "pacq:FranchiseTaxes",
+                "unit": "usd",
+                "value": 71000
+            },
+            {
+                "label": "Expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 133761
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -133761
+            },
+            {
+                "label": "Other income - investment income on Trust Account",
+                "concept": "InvestmentIncomeNonoperating",
+                "unit": "usd",
+                "value": 1484040
+            },
+            {
+                "label": "Net income before income tax provision",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 1350279
+            },
+            {
+                "label": "Income tax provision",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 284000
+            },
+            {
+                "label": "Net income attributable to common shares",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1066279
+            }
+        ]
+    }
+}

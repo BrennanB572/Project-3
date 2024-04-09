@@ -1,0 +1,201 @@
+{
+    "startDate": "2017-01-01",
+    "endDate": "2017-06-30",
+    "year": "2017",
+    "quarter": "Q2",
+    "symbol": "IRON",
+    "data": {
+        "bs": [
+            {
+                "label": "Current assets, cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 4531
+            },
+            {
+                "label": "us-gaap_Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 4531
+            },
+            {
+                "label": "Current liabilities, accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 6950
+            },
+            {
+                "label": "Long-term Payable to Parent",
+                "concept": "DueToRelatedPartiesNoncurrent",
+                "unit": "usd",
+                "value": 122802
+            },
+            {
+                "label": "us-gaap_Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 129752
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value, 10,000,000 shares authorized, no shares issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common stock, $0.0001 par value; 100,000,000 shares authorized; 5,000,000 shares issued and outstanding",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 500
+            },
+            {
+                "label": "Additional Paid-in Capital [Member]",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 176112
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -301833
+            },
+            {
+                "label": "Stockholder's deficit:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -125221
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 4531
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -45179
+            },
+            {
+                "label": "Parent services expense allocation",
+                "concept": "iron:ParentServicesExpenseAllocation",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Decrease in accounts payable and accrued expenses",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": -8711
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -48890
+            },
+            {
+                "label": "Cash flows from investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash advances from Parent",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 51474
+            },
+            {
+                "label": "us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": 2584
+            },
+            {
+                "label": "Cash payments for income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash payments for interest",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Revenue",
+                "concept": "SalesRevenueNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Audit and tax services",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 17598
+            },
+            {
+                "label": "Legal fees",
+                "concept": "LegalFees",
+                "unit": "usd",
+                "value": 6250
+            },
+            {
+                "label": "Accounting fees",
+                "concept": "iron:AccountingFees",
+                "unit": "usd",
+                "value": 12828
+            },
+            {
+                "label": "Conversion and filing costs",
+                "concept": "iron:ConversionAndFilingCosts",
+                "unit": "usd",
+                "value": 2930
+            },
+            {
+                "label": "Parent services expense allocation",
+                "concept": "iron:ParentServicesExpenseAllocation",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Administrative costs",
+                "concept": "iron:AdministrativeExpense",
+                "unit": "usd",
+                "value": 573
+            },
+            {
+                "label": "us-gaap_GeneralAndAdministrativeExpense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 45179
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -45179
+            },
+            {
+                "label": "Net loss per share (basic and diluted) (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "Weighted average number of shares outstanding (basic and diluted) (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 5000000
+            }
+        ]
+    }
+}

@@ -1,0 +1,489 @@
+{
+    "startDate": "2018-01-01",
+    "endDate": "2018-03-31",
+    "year": "2018",
+    "quarter": "Q1",
+    "symbol": "NAVI",
+    "data": {
+        "bs": [
+            {
+                "label": "Available-for-sale",
+                "concept": "AvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherInvestments",
+                "unit": "usd",
+                "value": 354000000
+            },
+            {
+                "label": "Investments",
+                "concept": "MarketableSecurities",
+                "unit": "usd",
+                "value": 356000000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 2398000000
+            },
+            {
+                "label": "Restricted cash and cash equivalents",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 3399000000
+            },
+            {
+                "label": "Goodwill and acquired intangible assets, net",
+                "concept": "IntangibleAssetsNetIncludingGoodwill",
+                "unit": "usd",
+                "value": 802000000
+            },
+            {
+                "label": "Other assets",
+                "concept": "InterestReceivableAndOtherAssets",
+                "unit": "usd",
+                "value": 3928000000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 113209000000
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 5131000000
+            },
+            {
+                "label": "Long-term borrowings",
+                "concept": "LongTermDebt",
+                "unit": "usd",
+                "value": 102797000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 1613000000
+            },
+            {
+                "label": "Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 109541000000
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, par value $0.01 per share, 1.125 billion shares authorized: 445 million and 440 million shares issued, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 4000000
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 3127000000
+            },
+            {
+                "label": "Accumulated other comprehensive income (net of tax expense of $55 and $36, respectively)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 173000000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 3073000000
+            },
+            {
+                "label": "Total Navient Corporation stockholders\u2019 equity before treasury stock",
+                "concept": "StockholdersEquityBeforeTreasuryStock",
+                "unit": "usd",
+                "value": 6377000000
+            },
+            {
+                "label": "Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 3637000000
+            },
+            {
+                "label": "Noncontrolling interest",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 31000000
+            },
+            {
+                "label": "Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3668000000
+            },
+            {
+                "label": "Total liabilities and equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 113209000000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 126000000
+            },
+            {
+                "label": "The aggregate expense charged against earnings to allocate the cost of intangible assets (nonphysical assets not used in production) in a systematic and rational manner to the periods expected to benefit from such assets. As a noncash expense, this element is added back to net income when calculating cash provided by or used in operations using the indirect method. Also includes the amount of loss from the write-down of an asset representing the future economic benefits arising from other assets acquired in a business combination that are not individually identified and separately recognized.",
+                "concept": "navi:GoodwillAndAcquiredIntangibleAssetsImpairmentAndAmortizationExpense",
+                "unit": "usd",
+                "value": 9000000
+            },
+            {
+                "label": "Stock-based compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 13000000
+            },
+            {
+                "label": "The unrealized gain (loss) from derivative and hedging activities.",
+                "concept": "navi:UnrealizedGainsOrLossesOnDerivativeAndHedgingActivities",
+                "unit": "usd",
+                "value": 63000000
+            },
+            {
+                "label": "Less: provisions for loan losses",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 87000000
+            },
+            {
+                "label": "Decrease in accrued interest receivable",
+                "concept": "IncreaseDecreaseInAccruedInterestReceivableNet",
+                "unit": "usd",
+                "value": -18000000
+            },
+            {
+                "label": "Decrease in accrued interest payable",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": -33000000
+            },
+            {
+                "label": "Decrease in other assets",
+                "concept": "IncreaseDecreaseInOperatingAssets",
+                "unit": "usd",
+                "value": -167000000
+            },
+            {
+                "label": "(Decrease) increase in other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -40000000
+            },
+            {
+                "label": "Operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 284000000
+            },
+            {
+                "label": "Education loans acquired",
+                "concept": "PaymentsToAcquireLoansHeldForInvestment",
+                "unit": "usd",
+                "value": 821000000
+            },
+            {
+                "label": "Installment payments",
+                "concept": "navi:InstallmentPayments",
+                "unit": "usd",
+                "value": 3547000000
+            },
+            {
+                "label": "Other investing activities, net",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 9000000
+            },
+            {
+                "label": "Purchases of other securities",
+                "concept": "PaymentsToAcquireOtherInvestments",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Proceeds from maturities of other securities",
+                "concept": "ProceedsFromSaleAndMaturityOfOtherInvestments",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 2721000000
+            },
+            {
+                "label": "Borrowings collateralized by loans in trust \u2014 issued",
+                "concept": "ProceedsFromAccountsReceivableSecuritization",
+                "unit": "usd",
+                "value": 3930000000
+            },
+            {
+                "label": "Borrowings collateralized by loans in trust \u2014 repaid",
+                "concept": "RepaymentsOfAccountsReceivableSecuritization",
+                "unit": "usd",
+                "value": 3668000000
+            },
+            {
+                "label": "Long-term notes repaid",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 167000000
+            },
+            {
+                "label": "Other financing activities, net",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": -59000000
+            },
+            {
+                "label": "Common dividends paid",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 42000000
+            },
+            {
+                "label": "Financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -1854000000
+            },
+            {
+                "label": "Net increase in cash, cash equivalents, restricted cash and restricted cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1151000000
+            },
+            {
+                "label": "Interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 798000000
+            },
+            {
+                "label": "Income taxes paid",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Income taxes received",
+                "concept": "ProceedsFromIncomeTaxRefunds",
+                "unit": "usd",
+                "value": 2000000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Interest income, net of discount accretion and premium amortization from the cash and investment portfolio.",
+                "concept": "navi:CashAndInvestmentsInterestIncomeLoss",
+                "unit": "usd",
+                "value": 17000000
+            },
+            {
+                "label": "Total interest income",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 1172000000
+            },
+            {
+                "label": "Total interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 843000000
+            },
+            {
+                "label": "Interest income:",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 329000000
+            },
+            {
+                "label": "Less: provisions for loan losses",
+                "concept": "ProvisionForLoanAndLeaseLosses",
+                "unit": "usd",
+                "value": 87000000
+            },
+            {
+                "label": "Net interest income after provisions for loan losses",
+                "concept": "InterestIncomeExpenseAfterProvisionForLoanLoss",
+                "unit": "usd",
+                "value": 242000000
+            },
+            {
+                "label": "Servicing revenue",
+                "concept": "ServicingFeesNet",
+                "unit": "usd",
+                "value": 69000000
+            },
+            {
+                "label": "Asset recovery and business processing revenue.",
+                "concept": "navi:AssetRecoveryAndBusinessProcessingRevenue",
+                "unit": "usd",
+                "value": 109000000
+            },
+            {
+                "label": "Noninterest Income Expenses Other Operating Income Expenses",
+                "concept": "navi:NoninterestIncomeExpensesOtherOperatingIncomeExpenses",
+                "unit": "usd",
+                "value": -15000000
+            },
+            {
+                "label": "Gains (losses) on derivative and hedging activities, net",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": 48000000
+            },
+            {
+                "label": "Other income (loss):",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 211000000
+            },
+            {
+                "label": "Salaries and benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 134000000
+            },
+            {
+                "label": "Other operating expenses",
+                "concept": "OtherNoninterestExpense",
+                "unit": "usd",
+                "value": 141000000
+            },
+            {
+                "label": "Total operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 275000000
+            },
+            {
+                "label": "The aggregate expense charged against earnings to allocate the cost of intangible assets (nonphysical assets not used in production) in a systematic and rational manner to the periods expected to benefit from such assets. As a noncash expense, this element is added back to net income when calculating cash provided by or used in operations using the indirect method. Also includes the amount of loss from the write-down of an asset representing the future economic benefits arising from other assets acquired in a business combination that are not individually identified and separately recognized.",
+                "concept": "navi:GoodwillAndAcquiredIntangibleAssetsImpairmentAndAmortizationExpense",
+                "unit": "usd",
+                "value": 9000000
+            },
+            {
+                "label": "Restructuring/other reorganization expenses",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Expenses:",
+                "concept": "NoninterestExpense",
+                "unit": "usd",
+                "value": 291000000
+            },
+            {
+                "label": "Income before income tax expense",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 162000000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 36000000
+            },
+            {
+                "label": "Net income attributable to Navient Corporation",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 126000000
+            },
+            {
+                "label": "Basic earnings per common share attributable to Navient Corporation",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.48
+            },
+            {
+                "label": "Average common shares outstanding",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 264000000
+            },
+            {
+                "label": "Diluted earnings per common share attributable to Navient Corporation",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.47
+            },
+            {
+                "label": "Average common and common equivalent shares outstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 269000000
+            },
+            {
+                "label": "Dividends per common share attributable to Navient Corporation",
+                "concept": "CommonStockDividendsPerShareCashPaid",
+                "unit": "usd/shares",
+                "value": 0.16
+            },
+            {
+                "label": "Net income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 126000000
+            },
+            {
+                "label": "Unrealized hedging gains (losses) on derivatives",
+                "concept": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodBeforeTax",
+                "unit": "usd",
+                "value": 131000000
+            },
+            {
+                "label": "Total unrealized gains (losses) on derivatives",
+                "concept": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesBeforeTax",
+                "unit": "usd",
+                "value": 131000000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "OtherComprehensiveIncomeLossTax",
+                "unit": "usd",
+                "value": 32000000
+            },
+            {
+                "label": "Other comprehensive income:",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 99000000
+            },
+            {
+                "label": "Total comprehensive income attributable to Navient Corporation",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 225000000
+            }
+        ]
+    }
+}

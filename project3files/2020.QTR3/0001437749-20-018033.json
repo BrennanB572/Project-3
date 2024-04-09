@@ -1,0 +1,411 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-06-30",
+    "year": "2020",
+    "quarter": "Q2",
+    "symbol": "CTDH",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1008355
+            },
+            {
+                "label": "Accounts receivable",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 161233
+            },
+            {
+                "label": "Inventory, net",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 216609
+            },
+            {
+                "label": "Current portion of mortgage note receivable",
+                "concept": "NotesAndLoansReceivableNetCurrent",
+                "unit": "usd",
+                "value": 39061
+            },
+            {
+                "label": "Prepaid insurance and services",
+                "concept": "PrepaidInsurance",
+                "unit": "usd",
+                "value": 71151
+            },
+            {
+                "label": "Prepaid clinical expenses",
+                "concept": "ctdh:PrepaidExpensesCurrentExcludingPrepaidInsurance",
+                "unit": "usd",
+                "value": 591676
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 2088085
+            },
+            {
+                "label": "FURNITURE AND EQUIPMENT, NET",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 60437
+            },
+            {
+                "label": "RIGHT-TO-USE LEASE ASSET, NET",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 42515
+            },
+            {
+                "label": "MORTGAGE NOTE RECEIVABLE, LESS CURRENT PORTION",
+                "concept": "LongTermAccountsNotesAndLoansReceivableNetNoncurrent",
+                "unit": "usd",
+                "value": 71264
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 2262301
+            },
+            {
+                "label": "Current portion of lease liability",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 16968
+            },
+            {
+                "label": "Current portion of long-term debt",
+                "concept": "LongTermDebtCurrent",
+                "unit": "usd",
+                "value": 60879
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 3979395
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4057242
+            },
+            {
+                "label": "Long-term lease liability, less current portion",
+                "concept": "OperatingLeaseLiabilityNoncurrent",
+                "unit": "usd",
+                "value": 27453
+            },
+            {
+                "label": "Long-term debt, less current portion",
+                "concept": "LongTermDebtNoncurrent",
+                "unit": "usd",
+                "value": 97645
+            },
+            {
+                "label": "LONG-TERM LIABILITIES",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 125098
+            },
+            {
+                "label": "Common stock, par value $.0001 per share, 500,000,000 shares authorized, 141,671,462 and 121,564,990 shares issued and outstanding, at June 30, 2020 and December 31, 2019",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 14155
+            },
+            {
+                "label": "Preferred stock, par value $.0001 per share, 5,000,000 shares authorized",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 28012423
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -29946617
+            },
+            {
+                "label": "Stockholders' Equity Note Disclosure [Text Block]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -1920039
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 2262301
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -4826384
+            },
+            {
+                "label": "us-gaap_Depreciation",
+                "concept": "Depreciation",
+                "unit": "usd",
+                "value": 6236
+            },
+            {
+                "label": "Accrued stock compensation to employees",
+                "concept": "ctdh:SharebasedCompensationEmployees",
+                "unit": "usd",
+                "value": 4810
+            },
+            {
+                "label": "Accrued stock compensation to non-employees",
+                "concept": "ctdh:SharebasedCompensationNonemployees",
+                "unit": "usd",
+                "value": 9250
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsReceivable",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 17804
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInInventories",
+                "concept": "IncreaseDecreaseInInventories",
+                "unit": "usd",
+                "value": -26021
+            },
+            {
+                "label": "ctdh_IncreaseDecreasePrepaidClinicalExpenses",
+                "concept": "ctdh:IncreaseDecreasePrepaidClinicalExpenses",
+                "unit": "usd",
+                "value": -20485
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidInsurance",
+                "concept": "IncreaseDecreaseInPrepaidInsurance",
+                "unit": "usd",
+                "value": -65918
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInOtherNoncurrentAssets",
+                "concept": "IncreaseDecreaseInOtherNoncurrentAssets",
+                "unit": "usd",
+                "value": -412
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 840600
+            },
+            {
+                "label": "Adjustments to reconcile net loss to net cash used in operating activities:",
+                "concept": "AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 955928
+            },
+            {
+                "label": "CASH FLOWS FROM OPERATING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -3870456
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquirePropertyPlantAndEquipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 53127
+            },
+            {
+                "label": "us-gaap_PaymentsForProceedsFromLoansReceivable",
+                "concept": "PaymentsForProceedsFromLoansReceivable",
+                "unit": "usd",
+                "value": -19332
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -33795
+            },
+            {
+                "label": "Proceeds from PPP loan",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 158524
+            },
+            {
+                "label": "ctdh_ProceedsFromCollectionOfStockSubscription",
+                "concept": "ctdh:ProceedsFromCollectionOfStockSubscription",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net proceeds from sale of common and preferred stock and warrants, net of issue costs",
+                "concept": "ctdh:ProceedsFromSaleOfCommonStockAndWarrantsNetOfIssueCosts",
+                "unit": "usd",
+                "value": 1970363
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 2128887
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -1775364
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Capitalization of right-to-use asset and lease liability",
+                "concept": "CapitalLeaseObligationsIncurred",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Product sales",
+                "concept": "RevenueFromContractWithCustomerIncludingAssessedTax",
+                "unit": "usd",
+                "value": 535328
+            },
+            {
+                "label": "Personnel",
+                "concept": "SalariesAndWages",
+                "unit": "usd",
+                "value": 903333
+            },
+            {
+                "label": "Cost of products sold (exclusive of direct and indirect overhead and handling costs)",
+                "concept": "ctdh:CostOfGoodsAndServicesSoldExcludingDirectAndIndirectOverheadAndHandlingCosts",
+                "unit": "usd",
+                "value": 39380
+            },
+            {
+                "label": "Research and Development Expense, Policy [Policy Text Block]",
+                "concept": "ResearchAndDevelopmentExpense",
+                "unit": "usd",
+                "value": 3773041
+            },
+            {
+                "label": "Repairs and maintenance",
+                "concept": "ctdh:RepairsAndMaintenance",
+                "unit": "usd",
+                "value": 3113
+            },
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 362963
+            },
+            {
+                "label": "Office and other",
+                "concept": "OtherSellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 258185
+            },
+            {
+                "label": "Board of Director fees and costs",
+                "concept": "NoninterestExpenseDirectorsFees",
+                "unit": "usd",
+                "value": 28716
+            },
+            {
+                "label": "Depreciation",
+                "concept": "DepreciationNonproduction",
+                "unit": "usd",
+                "value": 6236
+            },
+            {
+                "label": "Freight and shipping",
+                "concept": "ctdh:FreightAndShipping",
+                "unit": "usd",
+                "value": 3032
+            },
+            {
+                "label": "Bad debt expense",
+                "concept": "ProvisionForDoubtfulAccounts",
+                "unit": "usd",
+                "value": 1272
+            },
+            {
+                "label": "us-gaap_CostsAndExpenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 5379271
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -4843943
+            },
+            {
+                "label": "Investment and other income",
+                "concept": "InvestmentIncomeNonoperating",
+                "unit": "usd",
+                "value": 17559
+            },
+            {
+                "label": "us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -4826384
+            },
+            {
+                "label": "PROVISION FOR INCOME TAXES",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -4826384
+            },
+            {
+                "label": "BASIC AND DILUTED NET LOSS PER COMMON SHARE (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.04
+            },
+            {
+                "label": "WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 129120546
+            }
+        ]
+    }
+}

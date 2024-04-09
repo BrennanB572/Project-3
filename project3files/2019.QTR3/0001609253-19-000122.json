@@ -1,0 +1,495 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-06-30",
+    "year": "2019",
+    "quarter": "Q2",
+    "symbol": "CRC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 27000000
+            },
+            {
+                "label": "Trade receivables",
+                "concept": "AccountsReceivableNetCurrent",
+                "unit": "usd",
+                "value": 234000000
+            },
+            {
+                "label": "Inventories",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 70000000
+            },
+            {
+                "label": "Other current assets, net",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 191000000
+            },
+            {
+                "label": "CURRENT ASSETS",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 522000000
+            },
+            {
+                "label": "PROPERTY, PLANT AND EQUIPMENT",
+                "concept": "PropertyPlantAndEquipmentGross",
+                "unit": "usd",
+                "value": 22717000000
+            },
+            {
+                "label": "Accumulated depreciation, depletion and amortization",
+                "concept": "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 16308000000
+            },
+            {
+                "label": "Total property, plant and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 6409000000
+            },
+            {
+                "label": "OTHER ASSETS",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 101000000
+            },
+            {
+                "label": "CURRENT ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 7032000000
+            },
+            {
+                "label": "Less: Current Maturities",
+                "concept": "crc:DebtInstrumentCarryingAmountCurrent",
+                "unit": "usd",
+                "value": 100000000
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 290000000
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 220000000
+            },
+            {
+                "label": "CURRENT LIABILITIES",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 610000000
+            },
+            {
+                "label": "Long-Term Debt",
+                "concept": "crc:DebtInstrumentCarryingAmountNoncurrent",
+                "unit": "usd",
+                "value": 5060000000
+            },
+            {
+                "label": "DEFERRED GAIN AND ISSUANCE COSTS, NET",
+                "concept": "crc:DeferredGainLossAndIssuanceCostsNet",
+                "unit": "usd",
+                "value": 185000000
+            },
+            {
+                "label": "OTHER LONG-TERM LIABILITIES",
+                "concept": "OtherLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 679000000
+            },
+            {
+                "label": "MEZZANINE EQUITY",
+                "concept": "RedeemableNoncontrollingInterestEquityCarryingAmount",
+                "unit": "usd",
+                "value": 777000000
+            },
+            {
+                "label": "Preferred stock (20 million shares authorized at $0.01 par value) no shares outstanding at June 30, 2019 and December 31, 2018",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock (200 million shares authorized at $0.01 par value) outstanding shares (June 30, 2019 - 49,004,413 and December 31, 2018 - 48,650,420)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 4994000000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -5397000000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -5000000
+            },
+            {
+                "label": "EQUITY",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -408000000
+            },
+            {
+                "label": "Equity attributable to noncontrolling interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 129000000
+            },
+            {
+                "label": "EQUITY",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -279000000
+            },
+            {
+                "label": "TOTAL LIABILITIES AND EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 7032000000
+            }
+        ],
+        "cf": [
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -3000000
+            },
+            {
+                "label": "Depreciation, depletion and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 239000000
+            },
+            {
+                "label": "Net derivative loss from commodity contracts",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": -68000000
+            },
+            {
+                "label": "Net proceeds (payments) on settled commodity derivatives",
+                "concept": "crc:ProceedsPaymentsOnDerivativeSettlementsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -28000000
+            },
+            {
+                "label": "Net gain on early extinguishment of debt",
+                "concept": "GainLossOnRepurchaseOfDebtInstrument",
+                "unit": "usd",
+                "value": 26000000
+            },
+            {
+                "label": "Amortization of deferred gain",
+                "concept": "crc:AmortizationOfDeferredGainsAndDebtIssuanceCost",
+                "unit": "usd",
+                "value": 36000000
+            },
+            {
+                "label": "Gain on asset divestitures",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Dry hole expenses",
+                "concept": "ResultsOfOperationsDryHoleCosts",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Other non-cash charges to income, net",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": -47000000
+            },
+            {
+                "label": "Changes in operating assets and liabilities, net",
+                "concept": "IncreaseDecreaseInOperatingCapital",
+                "unit": "usd",
+                "value": 52000000
+            },
+            {
+                "label": "CASH FLOW FROM OPERATING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 272000000
+            },
+            {
+                "label": "Capital investments",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 271000000
+            },
+            {
+                "label": "Changes in capital investment accruals",
+                "concept": "crc:IncreaseDecreaseInCapitalInvestmentAccrual",
+                "unit": "usd",
+                "value": 57000000
+            },
+            {
+                "label": "Asset divestitures",
+                "concept": "ProceedsFromSaleOfProductiveAssets",
+                "unit": "usd",
+                "value": 165000000
+            },
+            {
+                "label": "Acquisitions",
+                "concept": "crc:PurchaseOfAssetsNet",
+                "unit": "usd",
+                "value": 2000000
+            },
+            {
+                "label": "Other",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "CASH FLOW FROM INVESTING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -170000000
+            },
+            {
+                "label": "Proceeds from 2014 Revolving Credit Facility",
+                "concept": "ProceedsFromLinesOfCredit",
+                "unit": "usd",
+                "value": 1274000000
+            },
+            {
+                "label": "Repayments of 2014 Revolving Credit Facility",
+                "concept": "RepaymentsOfLinesOfCredit",
+                "unit": "usd",
+                "value": 1289000000
+            },
+            {
+                "label": "Debt repurchases",
+                "concept": "RepaymentsOfSubordinatedDebt",
+                "unit": "usd",
+                "value": 59000000
+            },
+            {
+                "label": "Contributions from noncontrolling interest holders, net",
+                "concept": "ProceedsFromMinorityShareholders",
+                "unit": "usd",
+                "value": 49000000
+            },
+            {
+                "label": "Distributions paid to noncontrolling interest holders",
+                "concept": "PaymentsOfDividendsMinorityInterest",
+                "unit": "usd",
+                "value": 65000000
+            },
+            {
+                "label": "Issuance of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 1000000
+            },
+            {
+                "label": "Shares canceled for taxes",
+                "concept": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+                "unit": "usd",
+                "value": 3000000
+            },
+            {
+                "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -92000000
+            },
+            {
+                "label": "Increase in cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 10000000
+            }
+        ],
+        "ic": [
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -3000000
+            },
+            {
+                "label": "Net income attributable to noncontrolling interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 52000000
+            },
+            {
+                "label": "Reclassification of realized losses on pension and postretirement benefits to income(a)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": -1000000
+            },
+            {
+                "label": "Comprehensive income (loss) attributable to common stock",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -54000000
+            },
+            {
+                "label": "Oil and gas sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 1179000000
+            },
+            {
+                "label": "Net derivative gain (loss) from commodity contracts",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": -68000000
+            },
+            {
+                "label": "Other revenue",
+                "concept": "OtherOperatingIncome",
+                "unit": "usd",
+                "value": 232000000
+            },
+            {
+                "label": "Total revenues and other",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 1343000000
+            },
+            {
+                "label": "Production costs",
+                "concept": "ProductionCosts",
+                "unit": "usd",
+                "value": 463000000
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 162000000
+            },
+            {
+                "label": "Depreciation, depletion and amortization",
+                "concept": "DepreciationDepletionAndAmortization",
+                "unit": "usd",
+                "value": 239000000
+            },
+            {
+                "label": "Taxes other than on income",
+                "concept": "TaxesExcludingIncomeAndExciseTaxes",
+                "unit": "usd",
+                "value": 77000000
+            },
+            {
+                "label": "Exploration expense",
+                "concept": "ExplorationExpense",
+                "unit": "usd",
+                "value": 20000000
+            },
+            {
+                "label": "Other expenses, net",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -203000000
+            },
+            {
+                "label": "Total costs and other",
+                "concept": "crc:CostsAndOtherDeductions",
+                "unit": "usd",
+                "value": 1164000000
+            },
+            {
+                "label": "OPERATING INCOME",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 179000000
+            },
+            {
+                "label": "Interest and debt expense, net",
+                "concept": "InterestAndDebtExpense",
+                "unit": "usd",
+                "value": 198000000
+            },
+            {
+                "label": "Net gain on early extinguishment of debt",
+                "concept": "GainLossOnRepurchaseOfDebtInstrument",
+                "unit": "usd",
+                "value": 26000000
+            },
+            {
+                "label": "Gain on asset divestitures",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other non-operating expenses",
+                "concept": "OtherNonoperatingExpense",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "INCOME (LOSS) BEFORE INCOME TAXES",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -3000000
+            },
+            {
+                "label": "Income tax",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Mezzanine equity",
+                "concept": "NoncontrollingInterestInNetIncomeLossJointVenturePartnersRedeemable",
+                "unit": "usd",
+                "value": 57000000
+            },
+            {
+                "label": "Equity",
+                "concept": "NoncontrollingInterestInNetIncomeLossJointVenturePartnersNonredeemable",
+                "unit": "usd",
+                "value": -5000000
+            },
+            {
+                "label": "Net income attributable to noncontrolling interests",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -55000000
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -1.13
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -1.13
+            }
+        ]
+    }
+}
