@@ -1,0 +1,255 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "SCAQ",
+    "data": {
+        "bs": [
+            {
+                "label": "Deferred underwriting fee payable",
+                "concept": "DeferredCompensationLiabilityClassifiedNoncurrent",
+                "unit": "usd",
+                "value": 8750000
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized; none issued or outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Class A common stock subject to possible redemption 21,816,112 at redemption value at March 31, 2021",
+                "concept": "scaq:ClassACommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": -218161120
+            },
+            {
+                "label": "Class B common stock, $0.0001 par value; 10,000,000 shares authorized; 6,250,000 and 7,187,500 shares issued and outstanding at March 31, 2021 and December 31, 2020, respectively (1)",
+                "concept": "scaq:CommonStockValueOne",
+                "unit": "usd",
+                "value": 625
+            },
+            {
+                "label": "Total Stockholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000004
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1829841
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 22430
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -1318902
+            },
+            {
+                "label": "Warrant liabilities",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 19493333
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 251829841
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 28668717
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 251829841
+            },
+            {
+                "label": "Cash held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 250000000
+            },
+            {
+                "label": "Class A common stock, $0.0001 par value; 75,000,000 shares authorized; 3,183,888 and no shares issued and outstanding (excluding 21,816,112 and no shares subject to possible redemption) at March 31, 2021 and December 31, 2020, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 318
+            },
+            {
+                "label": "",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1447661
+            },
+            {
+                "label": "Accrued offering costs",
+                "concept": "scaq:AccruedOfferingCosts",
+                "unit": "usd",
+                "value": 402954
+            },
+            {
+                "label": "Total Current Liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 425384
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 6317963
+            }
+        ],
+        "cf": [
+            {
+                "label": "Deferred underwriting fee payable",
+                "concept": "scaq:DeferredUnderwritingFeePayable",
+                "unit": "usd",
+                "value": 8750000
+            },
+            {
+                "label": "Transaction costs allocable to warrant liabilities",
+                "concept": "AmortizationOfFinancingCosts",
+                "unit": "usd",
+                "value": 698388
+            },
+            {
+                "label": "Offering costs included in accrued offering costs",
+                "concept": "scaq:OfferingCostsIncludedInAccruedOfferingCosts",
+                "unit": "usd",
+                "value": 257162
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 251826258
+            },
+            {
+                "label": "Proceeds from sale of Private Placement Warrants",
+                "concept": "ProceedsFromIssuanceOfPrivatePlacement",
+                "unit": "usd",
+                "value": 7000000
+            },
+            {
+                "label": "Change in value of Class A common stock subject to possible redemption",
+                "concept": "scaq:ChangeInValueOfClassACommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": -386180
+            },
+            {
+                "label": "Proceeds from sale of Units, net of underwriting discounts paid",
+                "concept": "ProceedsFromOtherEquity",
+                "unit": "usd",
+                "value": 245000000
+            },
+            {
+                "label": "Proceeds from promissory note \u2013 related party",
+                "concept": "ProceedsFromBankDebt",
+                "unit": "usd",
+                "value": 251375
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 382180
+            },
+            {
+                "label": "Repayment of advances from related party",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 292312
+            },
+            {
+                "label": "Advances from related party",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 292312
+            },
+            {
+                "label": "Initial classification of Class A common stock subject to possible redemption",
+                "concept": "scaq:InitialClassificationOfClassACommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 218547300
+            },
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "IncreaseDecreaseInDerivativeLiabilities",
+                "unit": "usd",
+                "value": 576667
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -403597
+            },
+            {
+                "label": "Repayment of promissory note \u2013 related party",
+                "concept": "scaq:RepaymentOfPromissoryNoteRelatedParty",
+                "unit": "usd",
+                "value": -300000
+            },
+            {
+                "label": "",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1317902
+            },
+            {
+                "label": "Net cash used in investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -250000000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Basic and diluted weighted average shares outstanding, Class A common stock subject to redemption (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 21854730
+            },
+            {
+                "label": "Basic and diluted net loss per share, Non-redeemable common stock (in Dollars per share)",
+                "concept": "scaq:BasicAndDilutedNetLossPerShareNonredeemableCommonStockinDollarsPerShare",
+                "unit": "usd/shares",
+                "value": -0.19
+            },
+            {
+                "label": "Basic and diluted weighted average shares outstanding, Non-redeemable common stock (in Shares)",
+                "concept": "scaq:BasicAndDilutedWeightedAverageSharesOutstandingNonredeemableCommonStock",
+                "unit": "shares",
+                "value": 6774212
+            },
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 576667
+            },
+            {
+                "label": "Other expense, net",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": -1275055
+            }
+        ]
+    }
+}

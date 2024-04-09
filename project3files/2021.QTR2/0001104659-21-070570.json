@@ -1,0 +1,285 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "BOAS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash held outside the Trust Account",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 1162779
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 299639
+            },
+            {
+                "label": "Assets, Current [Abstract]",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1462418
+            },
+            {
+                "label": "Investments held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 230000000
+            },
+            {
+                "label": "Other Assets, Noncurrent",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 229167
+            },
+            {
+                "label": "Assets, Noncurrent [Abstract]",
+                "concept": "AssetsNoncurrent",
+                "unit": "usd",
+                "value": 230229167
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 231691585
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 3307
+            },
+            {
+                "label": "Carrying value as of the balance sheet date of obligations incurred and payable, pertaining to franchise tax.",
+                "concept": "boas:FranchiseTaxPayable",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Liabilities, Current [Abstract]",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 53307
+            },
+            {
+                "label": "The carrying value as of balance sheet date of underwriting compensation deferred, classified as noncurrent.",
+                "concept": "boas:DeferredUnderwritingCompensationNoncurrent",
+                "unit": "usd",
+                "value": 8050000
+            },
+            {
+                "label": "Financial Instruments Subject to Mandatory Redemption, Settlement Terms, Fair Value of Shares",
+                "concept": "SharesSubjectToMandatoryRedemptionSettlementTermsFairValueOfShares",
+                "unit": "usd",
+                "value": 15214516
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 23317823
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Temporary Equity, Carrying Amount, Attributable to Parent",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 203373760
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 6051712
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -1052551
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000002
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 231691585
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -1051608
+            },
+            {
+                "label": "The amount of underwriting discounts and offering costs relating to derivative warrant liabilities.",
+                "concept": "boas:UnderwritingDiscountsAndOfferingCostsDerivativeWarrantLiabilities",
+                "unit": "usd",
+                "value": 438197
+            },
+            {
+                "label": "Fair Value Adjustment of Warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 490767
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 528806
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable and Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 2314
+            },
+            {
+                "label": "The increase (decrease) during the reporting period of franchise tax payable.",
+                "concept": "boas:IncreaseDecreaseFranchiseTaxPayable",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Cash Flows from Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -599136
+            },
+            {
+                "label": "The amount of cash outflow for investment of cash in trust account.",
+                "concept": "boas:PaymentsForInvestmentOfCashInTrustAccount",
+                "unit": "usd",
+                "value": 230000000
+            },
+            {
+                "label": "Cash Flows from Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -230000000
+            },
+            {
+                "label": "The cash inflow associated with the amount received from entity's first offering of stock to the public, net of underwriting discounts paid.",
+                "concept": "boas:NetProceedsFromInitialPublicOffering",
+                "unit": "usd",
+                "value": 225161865
+            },
+            {
+                "label": "Proceeds from Issuance of Warrants",
+                "concept": "ProceedsFromIssuanceOfWarrants",
+                "unit": "usd",
+                "value": 6575000
+            },
+            {
+                "label": "Cash Flows from Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 231736865
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1137729
+            },
+            {
+                "label": "The initial fair value classification of warrant liabilities disclosed in the supplemental non-cash cash flow activities.",
+                "concept": "boas:InitialFairValueOfWarrantLiabilities",
+                "unit": "usd",
+                "value": 14723749
+            },
+            {
+                "label": "Amount of initial classification of common stock subject to possible redemption, classified as non-cash investing and financing activity.",
+                "concept": "boas:InitialClassificationOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 204007980
+            },
+            {
+                "label": "Amount of change in value of common stock subject to possible redemption, classified as non-cash investing and financing activity.",
+                "concept": "boas:ChangeInValueOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": -634220
+            },
+            {
+                "label": "Amount of deferred underwriting fee payable charged to additional paid in capital",
+                "concept": "boas:DeferredUnderwritingFeesChargedToAdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 8050000
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and administrative expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 72644
+            },
+            {
+                "label": "Amount of franchise tax expense incurred during the period.",
+                "concept": "boas:FranchiseTaxExpense",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -122644
+            },
+            {
+                "label": "The amount of underwriting discounts and offering costs relating to derivative warrant liabilities.",
+                "concept": "boas:UnderwritingDiscountsAndOfferingCostsDerivativeWarrantLiabilities",
+                "unit": "usd",
+                "value": 438197
+            },
+            {
+                "label": "Fair Value Adjustment of Warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 490767
+            },
+            {
+                "label": "Other income:",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -928964
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -1051608
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -1051608
+            }
+        ]
+    }
+}

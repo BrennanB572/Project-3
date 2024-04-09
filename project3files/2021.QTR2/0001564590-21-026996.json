@@ -1,0 +1,315 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "EVOK",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 18185974
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "ReceivablesNetCurrent",
+                "unit": "usd",
+                "value": 127795
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 614508
+            },
+            {
+                "label": "Inventory",
+                "concept": "InventoryNet",
+                "unit": "usd",
+                "value": 236044
+            },
+            {
+                "label": "Other current assets",
+                "concept": "OtherAssetsCurrent",
+                "unit": "usd",
+                "value": 11703
+            },
+            {
+                "label": "Current Assets:",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 19176024
+            },
+            {
+                "label": "Operating lease right-of-use asset",
+                "concept": "OperatingLeaseRightOfUseAsset",
+                "unit": "usd",
+                "value": 119926
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 19295950
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 691225
+            },
+            {
+                "label": "Accrued compensation",
+                "concept": "EmployeeRelatedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 428794
+            },
+            {
+                "label": "Operating lease liability",
+                "concept": "OperatingLeaseLiabilityCurrent",
+                "unit": "usd",
+                "value": 119926
+            },
+            {
+                "label": "Milestone payable.",
+                "concept": "evok:MilestonePayable",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Other current liabilities",
+                "concept": "OtherLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 9038
+            },
+            {
+                "label": "Current Liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 6248983
+            },
+            {
+                "label": "Note payable",
+                "concept": "LongTermNotesPayable",
+                "unit": "usd",
+                "value": 5000000
+            },
+            {
+                "label": "Accrued interest payable",
+                "concept": "AccountsPayableAndAccruedLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 235583
+            },
+            {
+                "label": "Long-term liabilities",
+                "concept": "LiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 5235583
+            },
+            {
+                "label": "Liabilities and stockholders' (deficit) equity",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 11484566
+            },
+            {
+                "label": "Common stock, $0.0001 par value; authorized shares - 50,000,000; issued and outstanding shares - 32,371,954 and 26,621,954 at March 31, 2021 and December 31, 2020, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 3237
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 109298703
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -101490556
+            },
+            {
+                "label": "Stockholders' (deficit) equity:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 7811384
+            },
+            {
+                "label": "Liabilities and stockholders' (deficit) equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 19295950
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -2605495
+            },
+            {
+                "label": "Forgiveness of paycheck protection loan and accrued interest.",
+                "concept": "evok:ForgivenessOfPaycheckProtectionLoanAndAccruedInterest1",
+                "unit": "usd",
+                "value": -104168
+            },
+            {
+                "label": "Stock-based compensation expense",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 561348
+            },
+            {
+                "label": "Accounts receivable, net",
+                "concept": "IncreaseDecreaseInAccountsReceivable",
+                "unit": "usd",
+                "value": 104484
+            },
+            {
+                "label": "Increase decrease in prepaid deferred expense inventory and other assets.",
+                "concept": "evok:IncreaseDecreaseInPrepaidDeferredExpenseInventoryAndOtherAssets",
+                "unit": "usd",
+                "value": -359617
+            },
+            {
+                "label": "Increase (decrease) in accounts payable and other current liabilities.",
+                "concept": "evok:IncreaseDecreaseInAccountsPayableAndOtherCurrentLiabilities",
+                "unit": "usd",
+                "value": -604126
+            },
+            {
+                "label": "Accrued compensation.",
+                "concept": "evok:AccruedCompensation",
+                "unit": "usd",
+                "value": 587438
+            },
+            {
+                "label": "Accrued interest expense.",
+                "concept": "evok:AccruedInterestExpense",
+                "unit": "usd",
+                "value": 122589
+            },
+            {
+                "label": "Increase decrease in deferred rent expense.",
+                "concept": "evok:IncreaseDecreaseInDeferredRentExpense",
+                "unit": "usd",
+                "value": -9038
+            },
+            {
+                "label": "Operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -2953119
+            },
+            {
+                "label": "Proceeds from issuance of common stock, net of cost of $1,304,846",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 13070154
+            },
+            {
+                "label": "Financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 13070154
+            },
+            {
+                "label": "Net increase (decrease) in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 10117035
+            },
+            {
+                "label": "Forgiveness of paycheck protection loan and accrued interest",
+                "concept": "LoansAssumed1",
+                "unit": "usd",
+                "value": 104168
+            }
+        ],
+        "ic": [
+            {
+                "label": "Net product sales",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 90421
+            },
+            {
+                "label": "Cost of goods sold expenses.",
+                "concept": "evok:CostOfGoodsSoldExpenses",
+                "unit": "usd",
+                "value": 64751
+            },
+            {
+                "label": "Research and development",
+                "concept": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+                "unit": "usd",
+                "value": 277825
+            },
+            {
+                "label": "Selling, general and administrative",
+                "concept": "SellingGeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2338295
+            },
+            {
+                "label": "Operating expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 2680871
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -2590450
+            },
+            {
+                "label": "Forgiveness of paycheck protection loan and accrued interest.",
+                "concept": "evok:ForgivenessOfPaycheckProtectionLoanAndAccruedInterest",
+                "unit": "usd",
+                "value": 105130
+            },
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeExpenseNonoperatingNet",
+                "unit": "usd",
+                "value": 3164
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 123339
+            },
+            {
+                "label": "Other income (expense):",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -15045
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -2605495
+            },
+            {
+                "label": "Net loss per share of common stock, basic and diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.08
+            },
+            {
+                "label": "Weighted-average shares used to compute basic and diluted net loss per share",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 31158065
+            }
+        ]
+    }
+}

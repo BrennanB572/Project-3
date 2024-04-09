@@ -1,0 +1,297 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "IVAN",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash held outside the Trust Account",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 133515
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 1078502
+            },
+            {
+                "label": "Assets, Current [Abstract]",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1212017
+            },
+            {
+                "label": "Marketable securities held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 276044513
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 277256530
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 62898
+            },
+            {
+                "label": "Accrued expenses",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 122511
+            },
+            {
+                "label": "Accrued expenses related parties Current",
+                "concept": "ivan:AccruedExpensesRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 1659
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 187068
+            },
+            {
+                "label": "The carrying value as of balance sheet date of underwriting fee payable deferred, classified as noncurrent.",
+                "concept": "ivan:DeferredUnderwritingFeePayableNoncurrent",
+                "unit": "usd",
+                "value": 9660000
+            },
+            {
+                "label": "Financial Instruments Subject to Mandatory Redemption, Settlement Terms, Fair Value of Shares",
+                "concept": "SharesSubjectToMandatoryRedemptionSettlementTermsFairValueOfShares",
+                "unit": "usd",
+                "value": 19488800
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 29335868
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 3503723
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 1495258
+            },
+            {
+                "label": "Shareholders' equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000002
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 277256530
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 1528079
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 44512
+            },
+            {
+                "label": "Fair Value Adjustment of Warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -2659200
+            },
+            {
+                "label": "Represents the amount of offering costs incurred during issuance of warrants.",
+                "concept": "ivan:TransactionsExpenseWarrantsIssuance",
+                "unit": "usd",
+                "value": 855043
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 1078502
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 49113
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 11298
+            },
+            {
+                "label": "Increase Decrease in accrued expenses realted parties",
+                "concept": "ivan:IncreaseDecreaseInAccruedExpensesRealtedParties",
+                "unit": "usd",
+                "value": 1659
+            },
+            {
+                "label": "Cash Flows from Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -1337022
+            },
+            {
+                "label": "The amount of cash outflow for investment of cash in trust account.",
+                "concept": "ivan:PaymentsForInvestmentOfCashInTrustAccount",
+                "unit": "usd",
+                "value": 276000000
+            },
+            {
+                "label": "Cash Flows from Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -276000000
+            },
+            {
+                "label": "Repayments of Related Party Debt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 500000
+            },
+            {
+                "label": "Proceeds received from initial public offering, gross",
+                "concept": "ivan:ProceedsReceivedFromInitialPublicOfferingGross",
+                "unit": "usd",
+                "value": 276000000
+            },
+            {
+                "label": "Proceeds from Issuance of Private Placement",
+                "concept": "ProceedsFromIssuanceOfPrivatePlacement",
+                "unit": "usd",
+                "value": 7520000
+            },
+            {
+                "label": "Payments of Stock Issuance Costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 5710734
+            },
+            {
+                "label": "Cash Flows from Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 277309266
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -27756
+            },
+            {
+                "label": "Reversal of offering costs included in accrued expenses in prior year",
+                "concept": "ivan:ReversalOfOfferingCostsIncludedInAccruedExpensesInPriorYear",
+                "unit": "usd",
+                "value": -42133
+            },
+            {
+                "label": "The amount of offering costs included in accounts payable or accrued expenses that were incurred during a noncash or partial noncash transaction.",
+                "concept": "ivan:OfferingCostsIncludedInAccountsPayableAccruedExpenses",
+                "unit": "usd",
+                "value": 85000
+            },
+            {
+                "label": "The amount of deferred underwriter commission during a noncash or partial noncash transaction.",
+                "concept": "ivan:Underwritingcommissiondeferred",
+                "unit": "usd",
+                "value": 9660000
+            },
+            {
+                "label": "Common Stock Subject To Possible Redemption Of Non-Cash Financing Activities",
+                "concept": "ivan:Commonstocksubjecttopossibleredemptionofnoncashfinancingactivities",
+                "unit": "usd",
+                "value": 240513990
+            },
+            {
+                "label": "Amount of change in value of common stock subject to possible redemption, classified as non-cash investing and financing activity.",
+                "concept": "ivan:ChangeInValueOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 2406670
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and administrative expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 290590
+            },
+            {
+                "label": "Related Party Transaction, Selling, General and Administrative Expenses from Transactions with Related Party",
+                "concept": "RelatedPartyTransactionSellingGeneralAndAdministrativeExpensesFromTransactionsWithRelatedParty",
+                "unit": "usd",
+                "value": 30000
+            },
+            {
+                "label": "Costs and Expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 320590
+            },
+            {
+                "label": "Gain (Loss) on Investments",
+                "concept": "GainLossOnInvestments",
+                "unit": "usd",
+                "value": 44512
+            },
+            {
+                "label": "Fair Value Adjustment of Warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -2659200
+            },
+            {
+                "label": "Represents the amount of offering costs incurred during issuance of warrants.",
+                "concept": "ivan:TransactionsExpenseWarrantsIssuance",
+                "unit": "usd",
+                "value": 855043
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 1528079
+            }
+        ]
+    }
+}
