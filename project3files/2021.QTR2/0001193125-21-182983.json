@@ -1,0 +1,363 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "DMYQ",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 858767
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 609092
+            },
+            {
+                "label": "Assets, Current [Abstract]",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1467859
+            },
+            {
+                "label": "Assets Held-in-trust, Noncurrent",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 345051009
+            },
+            {
+                "label": "Deferred Costs, Noncurrent",
+                "concept": "DeferredCosts",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 346518868
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 104527
+            },
+            {
+                "label": "Accrued Liabilities, Current",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 280310
+            },
+            {
+                "label": "Sales and Excise Tax Payable, Current",
+                "concept": "SalesAndExciseTaxPayableCurrent",
+                "unit": "usd",
+                "value": 50450
+            },
+            {
+                "label": "Due to Related Parties, Current",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Liabilities, Current [Abstract]",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 435287
+            },
+            {
+                "label": "Deferred Underwriting Commissions",
+                "concept": "dmyq:DeferredUnderwritingCommissions",
+                "unit": "usd",
+                "value": 12075000
+            },
+            {
+                "label": "Derivative Liability, Noncurrent",
+                "concept": "DerivativeLiabilitiesNoncurrent",
+                "unit": "usd",
+                "value": 34679665
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 47189952
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Temporary Equity, Carrying Amount, Attributable to Parent",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 294328910
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 19549351
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -14550715
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000006
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 346518868
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -14549315
+            },
+            {
+                "label": "General And Administrative Expenses Paid In Kind",
+                "concept": "dmyq:GeneralAndAdministrativeExpensesPaidInKind",
+                "unit": "usd",
+                "value": 1000
+            },
+            {
+                "label": "Adjustment For Gain Loss On Investment Dividend Interest Held In Trust Account",
+                "concept": "dmyq:AdjustmentForGainLossOnInvestmentDividendInterestHeldInTrustAccount",
+                "unit": "usd",
+                "value": -51009
+            },
+            {
+                "label": "Gain Loss Upon Issuance Of Private Placemen tWarrants",
+                "concept": "dmyq:GainLossUponIssuanceOfPrivatePlacemenTwarrants",
+                "unit": "usd",
+                "value": -14062000
+            },
+            {
+                "label": "Offering costs associated with derivative warrant liabilities",
+                "concept": "dmyq:OfferingCostsAssociatedWithDerivativeWarrantLiabilities",
+                "unit": "usd",
+                "value": 710745
+            },
+            {
+                "label": "Fair Value Adjustment of Warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -495335
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 184092
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 85333
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 109290
+            },
+            {
+                "label": "Increase Decrease in Franchise tax payable",
+                "concept": "dmyq:IncreasedecreaseInFranchiseTaxPayable",
+                "unit": "usd",
+                "value": 50050
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities [Abstract]",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -261333
+            },
+            {
+                "label": "Payments to Acquire Restricted Investments",
+                "concept": "PaymentsToAcquireRestrictedInvestments",
+                "unit": "usd",
+                "value": 345000000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities [Abstract]",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -345000000
+            },
+            {
+                "label": "Proceeds from Related Party Debt",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 125006
+            },
+            {
+                "label": "Repayments of Related Party Debt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 990856
+            },
+            {
+                "label": "Proceeds from Issuance Initial Public Offering",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": 345000000
+            },
+            {
+                "label": "Proceeds from Issuance of Private Placement",
+                "concept": "ProceedsFromIssuanceOfPrivatePlacement",
+                "unit": "usd",
+                "value": 8900000
+            },
+            {
+                "label": "Payments of Stock Issuance Costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 6914050
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities [Abstract]",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 346120100
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 858767
+            },
+            {
+                "label": "Deferred Offering Costs Included In Note Payable",
+                "concept": "dmyq:DeferredOfferingCostsIncludedInNotePayable",
+                "unit": "usd",
+                "value": 9194
+            },
+            {
+                "label": "Offering costs included in accrued expenses",
+                "concept": "dmyq:OfferingCostsIncludedInAccruedExpenses",
+                "unit": "usd",
+                "value": 170020
+            },
+            {
+                "label": "Offering costs paid by related party under promissory note",
+                "concept": "dmyq:OfferingCostsPaidByRelatedPartyUnderPromissoryNote",
+                "unit": "usd",
+                "value": 439100
+            },
+            {
+                "label": "Prepaid expenses paid by related party under promissory note",
+                "concept": "dmyq:PrepaidExpensesPaidByRelatedPartyUnderPromissoryNote",
+                "unit": "usd",
+                "value": 425000
+            },
+            {
+                "label": "Reversal of accrued expenses",
+                "concept": "dmyq:ReversalOfAccruedExpenses",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Deferred Underwriting Commissions In Connection With The Initial Public Offering",
+                "concept": "dmyq:DeferredUnderwritingCommissionsInConnectionWithTheInitialPublicOffering",
+                "unit": "usd",
+                "value": 12075000
+            },
+            {
+                "label": "Change Value Of ClassA Common Stock Subject To Possible Redemption",
+                "concept": "dmyq:ChangeValueOfClassaCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 294328910
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 272868
+            },
+            {
+                "label": "Franchisor Costs",
+                "concept": "FranchisorCosts",
+                "unit": "usd",
+                "value": 50050
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -322918
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 4
+            },
+            {
+                "label": "Gain Loss On Investment Dividend Interest Held In Trust Account",
+                "concept": "dmyq:GainLossOnInvestmentDividendInterestHeldInTrustAccount",
+                "unit": "usd",
+                "value": 51009
+            },
+            {
+                "label": "Gain Loss Upon Issuance Of Private Placemen tWarrants",
+                "concept": "dmyq:GainLossUponIssuanceOfPrivatePlacemenTwarrants",
+                "unit": "usd",
+                "value": -14062000
+            },
+            {
+                "label": "Offering costs associated with derivative warrant liabilities",
+                "concept": "dmyq:OfferingCostsAssociatedWithDerivativeWarrantLiabilities",
+                "unit": "usd",
+                "value": 710745
+            },
+            {
+                "label": "Fair Value Adjustment of Warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -495335
+            },
+            {
+                "label": "Other Nonoperating Income (Expense) [Abstract]",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -14226397
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -14549315
+            }
+        ]
+    }
+}

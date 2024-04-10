@@ -1,0 +1,309 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "ACII",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 605853
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 875778
+            },
+            {
+                "label": "Due from Related Parties, Current",
+                "concept": "DueFromRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 4404
+            },
+            {
+                "label": "Assets, Current [Abstract]",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1486035
+            },
+            {
+                "label": "Marketable securities held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 345017860
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 346503895
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 16040
+            },
+            {
+                "label": "Carrying value as of the balance sheet date of obligations incurred through that date and payable for offering of shares. Used to reflect the current portion of the liabilities (due within one year or within the normal operating cycle if longer).",
+                "concept": "acii:AccruedOfferingCostsCurrent",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "Accrued liabilities - current",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 458
+            },
+            {
+                "label": "Carrying value as of the balance sheet date of obligations incurred and payable, pertaining to franchise tax. (due within one year or within the normal operating cycle if longer).",
+                "concept": "acii:FranchiseTaxPayableCurrent",
+                "unit": "usd",
+                "value": 49180
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 90678
+            },
+            {
+                "label": "Financial Instruments Subject to Mandatory Redemption, Settlement Terms, Fair Value of Shares",
+                "concept": "SharesSubjectToMandatoryRedemptionSettlementTermsFairValueOfShares",
+                "unit": "usd",
+                "value": 12493254
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 12583932
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 4998979
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000003
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 346503895
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 9060857
+            },
+            {
+                "label": "Expensed offering costs",
+                "concept": "acii:OfferingCosts",
+                "unit": "usd",
+                "value": 289922
+            },
+            {
+                "label": "Unrealized Gain (Loss) on Investments",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": 17860
+            },
+            {
+                "label": "Amount of gain(loss) on sale of private placement warrants",
+                "concept": "acii:GainLossOnSaleOfPrivatePlacementWarrants",
+                "unit": "usd",
+                "value": -118670
+            },
+            {
+                "label": "Fair Value Adjustment of Warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -9635416
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 875778
+            },
+            {
+                "label": "Increase (Decrease) in Due from Related Parties",
+                "concept": "IncreaseDecreaseInDueFromRelatedParties",
+                "unit": "usd",
+                "value": 4404
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 16040
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": -1809
+            },
+            {
+                "label": "The increase (decrease) during the reporting period of franchise tax payable.",
+                "concept": "acii:IncreaseDecreaseFranchiseTaxPayable",
+                "unit": "usd",
+                "value": 49180
+            },
+            {
+                "label": "Cash Flows from Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -1000598
+            },
+            {
+                "label": "The amount of cash outflow for investment of cash in trust account.",
+                "concept": "acii:PaymentsForInvestmentOfCashInTrustAccount",
+                "unit": "usd",
+                "value": 345000000
+            },
+            {
+                "label": "Cash Flows from Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -345000000
+            },
+            {
+                "label": "Repayments of Related Party Debt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 300000
+            },
+            {
+                "label": "The cash inflow associated with the amount received from entity's first offering of stock to the public, net of underwriting discounts paid.",
+                "concept": "acii:NetProceedsFromInitialPublicOffering",
+                "unit": "usd",
+                "value": 338100000
+            },
+            {
+                "label": "Proceeds from Issuance of Warrants",
+                "concept": "ProceedsFromIssuanceOfWarrants",
+                "unit": "usd",
+                "value": 8900000
+            },
+            {
+                "label": "Payments of Stock Issuance Costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 418549
+            },
+            {
+                "label": "Cash Flows from Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 346281451
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 280853
+            },
+            {
+                "label": "Amount of initial classification of common stock subject to possible redemption, classified as non-cash investing and financing activity.",
+                "concept": "acii:InitialClassificationOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 328919960
+            },
+            {
+                "label": "The amount of initial classification of warrant liability.",
+                "concept": "acii:InitialClassificationOfWarrantLiability",
+                "unit": "usd",
+                "value": 22128670
+            },
+            {
+                "label": "Amount of reclassification of deferred offering costs to equity upon completion of the initial public offering",
+                "concept": "acii:ReclassificationOfDeferredOfferingCostsToEquityUponCompletionOfInitialPublicOffering",
+                "unit": "usd",
+                "value": 60000
+            },
+            {
+                "label": "The amount of offering costs included in accounts payable or accrued expenses that were incurred during a noncash or partial noncash transaction.",
+                "concept": "acii:OfferingCostsIncludedInAccountsPayableAccruedExpenses",
+                "unit": "usd",
+                "value": -35000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Costs and Expenses",
+                "concept": "CostsAndExpenses",
+                "unit": "usd",
+                "value": 134647
+            },
+            {
+                "label": "Amount of franchise tax expense incurred during the period.",
+                "concept": "acii:FranchiseTaxExpense",
+                "unit": "usd",
+                "value": 49180
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -183827
+            },
+            {
+                "label": "Unrealized Gain (Loss) on Investments",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": 17860
+            },
+            {
+                "label": "Amount of gain(loss) on sale of private placement warrants",
+                "concept": "acii:GainLossOnSaleOfPrivatePlacementWarrants",
+                "unit": "usd",
+                "value": -118670
+            },
+            {
+                "label": "Expensed offering costs",
+                "concept": "acii:OfferingCosts",
+                "unit": "usd",
+                "value": 289922
+            },
+            {
+                "label": "Fair Value Adjustment of Warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -9635416
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 9060857
+            }
+        ]
+    }
+}

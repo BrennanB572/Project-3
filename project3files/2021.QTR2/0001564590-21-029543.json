@@ -1,0 +1,309 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "CK1832351",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 479301
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 725543
+            },
+            {
+                "label": "Total current assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1204844
+            },
+            {
+                "label": "Marketable securities held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 345009612
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssetsNoncurrent",
+                "unit": "usd",
+                "value": 626153
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 346840609
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 123625
+            },
+            {
+                "label": "Franchise tax payable.",
+                "concept": "ck1832351:FranchiseTaxPayable",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Accrued offering costs.",
+                "concept": "ck1832351:AccruedOfferingCosts",
+                "unit": "usd",
+                "value": 44089
+            },
+            {
+                "label": "Payable to related party",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 5274
+            },
+            {
+                "label": "Current liabilities:",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 222988
+            },
+            {
+                "label": "Warrant liabilities",
+                "concept": "WarrantsAndRightsOutstanding",
+                "unit": "usd",
+                "value": 14692363
+            },
+            {
+                "label": "Deferred underwriting commission noncurrent.",
+                "concept": "ck1832351:DeferredUnderwritingCommissionNoncurrent",
+                "unit": "usd",
+                "value": 12075000
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 26990351
+            },
+            {
+                "label": "Commitments and Contingencies (Note 5)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized; none issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Retained earnings (accumulated deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 4998844
+            },
+            {
+                "label": "Stockholders' Equity:",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000008
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 346840609
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 8028639
+            },
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -9055313
+            },
+            {
+                "label": "Offering costs allocated to derivative warrant liabilities.",
+                "concept": "ck1832351:OfferingCostsAllocatedToDerivativeWarrantLiabilities",
+                "unit": "usd",
+                "value": 750742
+            },
+            {
+                "label": "Interest and dividends earned on marketable securities held in Trust Account",
+                "concept": "NetInvestmentIncome",
+                "unit": "usd",
+                "value": 9612
+            },
+            {
+                "label": "General and administrative expenses paid by related party.",
+                "concept": "ck1832351:GeneralAndAdministrativeExpensesPaidByRelatedParty",
+                "unit": "usd",
+                "value": 11775
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 725543
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 626153
+            },
+            {
+                "label": "Accounts payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 123625
+            },
+            {
+                "label": "Increase decrease in franchise tax payable.",
+                "concept": "ck1832351:IncreaseDecreaseInFranchiseTaxPayable",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Cash Flows from Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -1451840
+            },
+            {
+                "label": "Investment of cash into Trust Account",
+                "concept": "PaymentsToAcquireTrustPreferredInvestments",
+                "unit": "usd",
+                "value": 345000000
+            },
+            {
+                "label": "Cash Flows from Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -345000000
+            },
+            {
+                "label": "Proceeds from Initial Public Offering, net of underwriters\u2019 fees",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": 338100000
+            },
+            {
+                "label": "Proceeds from Private Placement Warrants",
+                "concept": "ProceedsFromIssuanceOfWarrants",
+                "unit": "usd",
+                "value": 9400000
+            },
+            {
+                "label": "Repayment of Sponsor loan",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 182875
+            },
+            {
+                "label": "Payments of other offering costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 410964
+            },
+            {
+                "label": "Cash Flows from Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 346906161
+            },
+            {
+                "label": "Net increase in cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 454321
+            },
+            {
+                "label": "Initial classification of class a common stock subject to possible redemption.",
+                "concept": "ck1832351:InitialClassificationOfClassACommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 306070895
+            },
+            {
+                "label": "Change in value of class a ordinary shares subject to possible redemption.",
+                "concept": "ck1832351:ChangeInValueOfClassAOrdinarySharesSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 8779355
+            },
+            {
+                "label": "Warrant liabilities in connection with initial public offering private placement and forward purchase agreement.",
+                "concept": "ck1832351:WarrantLiabilitiesInConnectionWithInitialPublicOfferingPrivatePlacementAndForwardPurchaseAgreement",
+                "unit": "usd",
+                "value": 23747676
+            },
+            {
+                "label": "Deferred offering costs paid through promissory note \u2013 related party.",
+                "concept": "ck1832351:DeferredOfferingCostsPaidThroughPromissoryNoteRelatedParty",
+                "unit": "usd",
+                "value": 176374
+            },
+            {
+                "label": "Deferred underwriting commission noncurrent.",
+                "concept": "ck1832351:DeferredUnderwritingCommission",
+                "unit": "usd",
+                "value": 12075000
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 235544
+            },
+            {
+                "label": "Franchise tax expense.",
+                "concept": "ck1832351:FranchiseTaxExpense",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -285544
+            },
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -9055313
+            },
+            {
+                "label": "Offering costs allocated to derivative warrant liabilities.",
+                "concept": "ck1832351:OfferingCostsAllocatedToDerivativeWarrantLiabilities",
+                "unit": "usd",
+                "value": 750742
+            },
+            {
+                "label": "Interest and dividends earned on marketable securities held in Trust Account",
+                "concept": "NetInvestmentIncome",
+                "unit": "usd",
+                "value": 9612
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 8028639
+            }
+        ]
+    }
+}

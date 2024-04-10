@@ -1,0 +1,285 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "MAACU",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 1463385
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 236522
+            },
+            {
+                "label": "The amount due to the entity within one year of the balance sheet date (or one operating cycle, if longer) from underwriters.",
+                "concept": "maacu:DueFromUnderwritersCurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Assets, Current [Abstract]",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1699907
+            },
+            {
+                "label": "Assets Held-in-trust, Noncurrent",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 410790995
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 412490902
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 113460
+            },
+            {
+                "label": "Accrued Liabilities, Current",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4020875
+            },
+            {
+                "label": "Accrued Income Taxes, Current",
+                "concept": "AccruedIncomeTaxesCurrent",
+                "unit": "usd",
+                "value": 19504
+            },
+            {
+                "label": "Carrying value as of the balance sheet date of obligations incurred and payable for franchise taxes. Used to reflect the current portion of the liabilities (due within one year or within the normal operating cycle if longer).",
+                "concept": "maacu:AccruedFranchiseTaxesCurrent",
+                "unit": "usd",
+                "value": 49315
+            },
+            {
+                "label": "Liabilities, Current [Abstract]",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 4203154
+            },
+            {
+                "label": "Derivative Assets (Liabilities), at Fair Value, Net",
+                "concept": "DerivativeAssetsLiabilitiesAtFairValueNet",
+                "unit": "usd",
+                "value": 26137730
+            },
+            {
+                "label": "Amount of unrecognized fee revenue received from underwriting that is deferred.",
+                "concept": "maacu:DeferredUnderwritingCommissions",
+                "unit": "usd",
+                "value": 14375138
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 44716022
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Temporary Equity, Carrying Amount, Attributable to Parent",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 362774870
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 4998504
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000010
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 412490902
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 19019100
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 92877
+            },
+            {
+                "label": "Liabilities, Fair Value Adjustment",
+                "concept": "LiabilitiesFairValueAdjustment",
+                "unit": "usd",
+                "value": 22959500
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": -39571
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": -93569
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 3780473
+            },
+            {
+                "label": "Increase (Decrease) in Income Taxes Payable",
+                "concept": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+                "unit": "usd",
+                "value": 2795
+            },
+            {
+                "label": "The increase (decrease) during the reporting period in the aggregate amount of obligations incurred and payable for franchise taxes, classified as current.",
+                "concept": "maacu:IncreaseDecreaseInAccruedFranchiseTaxesCurrent",
+                "unit": "usd",
+                "value": 66024
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities [Abstract]",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -237983
+            },
+            {
+                "label": "Amount of offering costs reimbursed by the underwriter.",
+                "concept": "maacu:ReimbursementOfOfferingCostsFromUnderwriter",
+                "unit": "usd",
+                "value": 4877
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities [Abstract]",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 4877
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Excluding Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -233106
+            },
+            {
+                "label": "Represents the amount of change in value of common stock subject to possible redemption in a non cash investing and financing activities.",
+                "concept": "maacu:ChangeInValueOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 19019091
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 3934458
+            },
+            {
+                "label": "Related Party Transaction, Selling, General and Administrative Expenses from Transactions with Related Party",
+                "concept": "RelatedPartyTransactionSellingGeneralAndAdministrativeExpensesFromTransactionsWithRelatedParty",
+                "unit": "usd",
+                "value": 30000
+            },
+            {
+                "label": "Amount of franchise tax expense incurred by the company.",
+                "concept": "maacu:FranchiseTaxExpense",
+                "unit": "usd",
+                "value": 49315
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -4013773
+            },
+            {
+                "label": "Liabilities, Fair Value Adjustment",
+                "concept": "LiabilitiesFairValueAdjustment",
+                "unit": "usd",
+                "value": 22959500
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 92877
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": 19038604
+            },
+            {
+                "label": "Income Tax Expense (Benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 19504
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 19019100
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic and Diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 16943069
+            },
+            {
+                "label": "Earnings Per Share, Basic and Diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 1.12
+            },
+            {
+                "label": "Weighted Average Number of Shares, Common Stock Subject to Repurchase or Cancellation",
+                "concept": "WeightedAverageNumberOfSharesCommonStockSubjectToRepurchaseOrCancellation",
+                "unit": "shares",
+                "value": 34396710
+            },
+            {
+                "label": "The amount of baisc and diluted net income (loss) for the period per each share of common stock or unit subject to redemption, outstanding during the reporting period.",
+                "concept": "maacu:EarningsPerShareBasicAndDilutedCommonStockSubjectToRedemption",
+                "unit": "usd/shares",
+                "value": 0.0
+            }
+        ]
+    }
+}
