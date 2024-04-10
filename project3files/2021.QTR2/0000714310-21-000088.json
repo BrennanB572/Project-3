@@ -1,0 +1,801 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "VLY",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and due from banks",
+                "concept": "CashAndDueFromBanks",
+                "unit": "usd",
+                "value": 280915000
+            },
+            {
+                "label": "Interest bearing deposits with banks",
+                "concept": "InterestBearingDepositsInBanks",
+                "unit": "usd",
+                "value": 1352918000
+            },
+            {
+                "label": "Equity securities:",
+                "concept": "EquitySecuritiesFvNi",
+                "unit": "usd",
+                "value": 32973000
+            },
+            {
+                "label": "Available for sale debt securities",
+                "concept": "AvailableForSaleSecuritiesDebtSecurities",
+                "unit": "usd",
+                "value": 1116221000
+            },
+            {
+                "label": "Held to maturity debt securities (net of allowance for credit losses of $1,070 at March\u00a031, 2021 and $1,428 at December\u00a031, 2020)",
+                "concept": "vly:DebtSecuritiesHeldToMaturityAmortizedCostAfterAllowanceForCreditLoss",
+                "unit": "usd",
+                "value": 2389956000
+            },
+            {
+                "label": "Total investment securities",
+                "concept": "MarketableSecurities",
+                "unit": "usd",
+                "value": 3539150000
+            },
+            {
+                "label": "Loans held for sale, at fair value",
+                "concept": "LoansReceivableHeldForSaleAmount",
+                "unit": "usd",
+                "value": 232068000
+            },
+            {
+                "label": "Loans",
+                "concept": "NotesReceivableGross",
+                "unit": "usd",
+                "value": 32686416000
+            },
+            {
+                "label": "Individually evaluated for credit losses",
+                "concept": "FinancingReceivableAllowanceForCreditLosses",
+                "unit": "usd",
+                "value": 342880000
+            },
+            {
+                "label": "Net loans",
+                "concept": "NotesReceivableNet",
+                "unit": "usd",
+                "value": 32343536000
+            },
+            {
+                "label": "Premises and equipment, net",
+                "concept": "PropertyPlantAndEquipmentNet",
+                "unit": "usd",
+                "value": 323841000
+            },
+            {
+                "label": "Lease right of use assets",
+                "concept": "vly:OperatingAndFinanceLeaseRightofUseAsset",
+                "unit": "usd",
+                "value": 242190000
+            },
+            {
+                "label": "Bank owned life insurance",
+                "concept": "BankOwnedLifeInsurance",
+                "unit": "usd",
+                "value": 535620000
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "AccruedInvestmentIncomeReceivable",
+                "unit": "usd",
+                "value": 107790000
+            },
+            {
+                "label": "Goodwill and Other Intangible Assets",
+                "concept": "Goodwill",
+                "unit": "usd",
+                "value": 1382442000
+            },
+            {
+                "label": "Other intangible assets, net",
+                "concept": "IntangibleAssetsNetExcludingGoodwill",
+                "unit": "usd",
+                "value": 67972000
+            },
+            {
+                "label": "Other Assets:",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 769569000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 41178011000
+            },
+            {
+                "label": "Non-interest bearing",
+                "concept": "NoninterestBearingDepositLiabilities",
+                "unit": "usd",
+                "value": 10053026000
+            },
+            {
+                "label": "Savings, NOW and money market",
+                "concept": "vly:SavingsNowAndMoneyMarket",
+                "unit": "usd",
+                "value": 17081105000
+            },
+            {
+                "label": "Time",
+                "concept": "TimeDeposits",
+                "unit": "usd",
+                "value": 5451078000
+            },
+            {
+                "label": "Total deposits",
+                "concept": "Deposits",
+                "unit": "usd",
+                "value": 32585209000
+            },
+            {
+                "label": "Short-term borrowings",
+                "concept": "ShortTermBorrowings",
+                "unit": "usd",
+                "value": 1084666000
+            },
+            {
+                "label": "Long-term borrowings",
+                "concept": "vly:LongTermDebtExcludingJuniorSubordinatedDebentureOwedToUnconsolidatedSubsidiaryTrust",
+                "unit": "usd",
+                "value": 2242931000
+            },
+            {
+                "label": "Junior subordinated debentures issued to capital trusts",
+                "concept": "JuniorSubordinatedDebentureOwedToUnconsolidatedSubsidiaryTrust",
+                "unit": "usd",
+                "value": 56152000
+            },
+            {
+                "label": "Lease liabilities",
+                "concept": "vly:OperatingAndFinanceLeaseLiability",
+                "unit": "usd",
+                "value": 266407000
+            },
+            {
+                "label": "Accrued expenses and other liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 282976000
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 36518341000
+            },
+            {
+                "label": "Common stock (no par value, authorized 650,000,000 shares; issued 405,801,304 shares at March\u00a031, 2021 and 403,881,488 shares at December\u00a031, 2020)",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 142435000
+            },
+            {
+                "label": "Surplus",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 3651948000
+            },
+            {
+                "label": "Retained earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 672651000
+            },
+            {
+                "label": "Accumulated other comprehensive loss",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -17005000
+            },
+            {
+                "label": "Treasury stock, at cost (3,766 common shares at March\u00a031, 2021 and 22,490 common shares at December\u00a031, 2020)",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "Total Shareholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 4659670000
+            },
+            {
+                "label": "Total Liabilities and Shareholders\u2019 Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 41178011000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income Available to Common Shareholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 115710000
+            },
+            {
+                "label": "Depreciation and amortization",
+                "concept": "DepreciationAmortizationAndAccretionNet",
+                "unit": "usd",
+                "value": 13848000
+            },
+            {
+                "label": "Number of shares granted during the period (in shares)",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 5465000
+            },
+            {
+                "label": "Provision for credit losses",
+                "concept": "vly:AllowanceForCreditLossExpenseReversalIncludingDebtSecuritiesHeldToMaturity",
+                "unit": "usd",
+                "value": 8656000
+            },
+            {
+                "label": "Net amortization of premiums and accretion of discounts on securities and borrowings",
+                "concept": "vly:AccretionAmortizationOfDiscountsAndPremiumsInvestmentsAndBorrowings",
+                "unit": "usd",
+                "value": 8293000
+            },
+            {
+                "label": "Amortization of other intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 6006000
+            },
+            {
+                "label": "Losses on securities transactions, net",
+                "concept": "DebtAndEquitySecuritiesGainLoss",
+                "unit": "usd",
+                "value": -118000
+            },
+            {
+                "label": "Proceeds from sales of loans held for sale",
+                "concept": "ProceedsFromSaleOfLoansHeldForSale",
+                "unit": "usd",
+                "value": 357108000
+            },
+            {
+                "label": "Gains on sales of loans, net",
+                "concept": "GainLossOnSalesOfLoansNet",
+                "unit": "usd",
+                "value": 3513000
+            },
+            {
+                "label": "Originations of loans held for sale",
+                "concept": "PaymentsForOriginationAndPurchasesOfLoansHeldForSale",
+                "unit": "usd",
+                "value": 287765000
+            },
+            {
+                "label": "(Losses) gains on sales of assets, net",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": -196000
+            },
+            {
+                "label": "Bank owned life insurance",
+                "concept": "BankOwnedLifeInsuranceIncome",
+                "unit": "usd",
+                "value": 2331000
+            },
+            {
+                "label": "Accrued interest receivable",
+                "concept": "IncreaseDecreaseInAccruedInterestReceivableNet",
+                "unit": "usd",
+                "value": 1560000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": -204729000
+            },
+            {
+                "label": "Accrued expenses and other liabilities",
+                "concept": "IncreaseDecreaseInOtherAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": -111562000
+            },
+            {
+                "label": "Net cash provided by (used in) operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 313398000
+            },
+            {
+                "label": "Net loan originations and purchases",
+                "concept": "PaymentsToAcquireLoansReceivable",
+                "unit": "usd",
+                "value": 475142000
+            },
+            {
+                "label": "Purchases",
+                "concept": "vly:PaymentsToAcquireEquitySecuritiesFVNI",
+                "unit": "usd",
+                "value": 1878000
+            },
+            {
+                "label": "Sales",
+                "concept": "vly:ProceedsFromSaleOfEquitySecuritiesFVNI",
+                "unit": "usd",
+                "value": 319000
+            },
+            {
+                "label": "Purchases",
+                "concept": "PaymentsToAcquireHeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 407793000
+            },
+            {
+                "label": "Maturities, calls and principal repayments",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfHeldToMaturitySecurities",
+                "unit": "usd",
+                "value": 184163000
+            },
+            {
+                "label": "Purchases",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Sales",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 41134000
+            },
+            {
+                "label": "Maturities, calls and principal repayments",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 164235000
+            },
+            {
+                "label": "Death benefit proceeds from bank owned life insurance",
+                "concept": "ProceedsFromLifeInsurancePolicies",
+                "unit": "usd",
+                "value": 1628000
+            },
+            {
+                "label": "Proceeds from sales of real estate property and equipment",
+                "concept": "ProceedsFromSaleOfPropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 1742000
+            },
+            {
+                "label": "Proceeds from sales of loans held for investment",
+                "concept": "ProceedsFromSaleOfLoansHeldForInvestment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Purchases of real estate property and equipment",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 8042000
+            },
+            {
+                "label": "Cash flows from investing activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -499634000
+            },
+            {
+                "label": "Net change in deposits",
+                "concept": "IncreaseDecreaseInDeposits",
+                "unit": "usd",
+                "value": 649607000
+            },
+            {
+                "label": "Net change in short-term borrowings",
+                "concept": "ProceedsFromRepaymentsOfShortTermDebt",
+                "unit": "usd",
+                "value": -63292000
+            },
+            {
+                "label": "Proceeds from issuance of long-term borrowings, net",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Repayments of long-term borrowings",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 51769000
+            },
+            {
+                "label": "Cash dividends paid to preferred shareholders",
+                "concept": "PaymentsOfDividendsPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 3172000
+            },
+            {
+                "label": "Cash dividends paid to common shareholders",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 45526000
+            },
+            {
+                "label": "Purchase of common shares to treasury",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 542000
+            },
+            {
+                "label": "Common stock issued, net",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 5723000
+            },
+            {
+                "label": "Other, net",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities",
+                "unit": "usd",
+                "value": -165000
+            },
+            {
+                "label": "Cash flows from financing activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 490864000
+            },
+            {
+                "label": "Net change in cash and cash equivalents",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 304628000
+            },
+            {
+                "label": "Interest on deposits and borrowings",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 37997000
+            },
+            {
+                "label": "Federal and state income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 5855000
+            },
+            {
+                "label": "Transfer of loans to other real estate owned",
+                "concept": "vly:TransferOfLoansHeldForInvestmentToOtherRealEstate",
+                "unit": "usd",
+                "value": 141000
+            },
+            {
+                "label": "Transfer of loans to loans held for sale",
+                "concept": "FinancingReceivableReclassificationToHeldForSale",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Lease right of use assets obtained in exchange for operating lease liabilities",
+                "concept": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 21000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Interest and fees on loans",
+                "concept": "InterestAndFeeIncomeLoansAndLeases",
+                "unit": "usd",
+                "value": 313181000
+            },
+            {
+                "label": "Taxable",
+                "concept": "InterestIncomeSecuritiesTaxable",
+                "unit": "usd",
+                "value": 13166000
+            },
+            {
+                "label": "Tax-exempt",
+                "concept": "InterestIncomeSecuritiesTaxExempt",
+                "unit": "usd",
+                "value": 3356000
+            },
+            {
+                "label": "Dividends",
+                "concept": "DividendIncomeOperating",
+                "unit": "usd",
+                "value": 1871000
+            },
+            {
+                "label": "Interest on federal funds sold and other short-term investments",
+                "concept": "vly:InterestOnFederalFundsSoldAndOtherShortTermInvestments",
+                "unit": "usd",
+                "value": 224000
+            },
+            {
+                "label": "Total interest income",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 331798000
+            },
+            {
+                "label": "Savings, NOW and money market",
+                "concept": "InterestExpenseNOWAccountsMoneyMarketAccountsAndSavingsDeposits",
+                "unit": "usd",
+                "value": 11125000
+            },
+            {
+                "label": "Time",
+                "concept": "InterestExpenseTimeDeposits",
+                "unit": "usd",
+                "value": 11093000
+            },
+            {
+                "label": "Interest on short-term borrowings",
+                "concept": "InterestExpenseShortTermBorrowings",
+                "unit": "usd",
+                "value": 1758000
+            },
+            {
+                "label": "Interest on long-term borrowings and junior subordinated debentures",
+                "concept": "InterestExpenseLongTermDebt",
+                "unit": "usd",
+                "value": 15155000
+            },
+            {
+                "label": "Savings, NOW and money market",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 39131000
+            },
+            {
+                "label": "Net Interest Income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 292667000
+            },
+            {
+                "label": "(Credit) provision for credit losses for held to maturity securities",
+                "concept": "DebtSecuritiesHeldToMaturityCreditLossExpenseReversal",
+                "unit": "usd",
+                "value": -358000
+            },
+            {
+                "label": "Provision for credit losses for loans",
+                "concept": "vly:AllowanceForCreditLossExpenseReversal",
+                "unit": "usd",
+                "value": 9014000
+            },
+            {
+                "label": "Net Interest Income After Provision for Credit Losses",
+                "concept": "InterestIncomeExpenseAfterProvisionForLoanLoss",
+                "unit": "usd",
+                "value": 284011000
+            },
+            {
+                "label": "Insurance commissions",
+                "concept": "InsuranceCommissionsAndFees",
+                "unit": "usd",
+                "value": 1558000
+            },
+            {
+                "label": "Losses on securities transactions, net",
+                "concept": "DebtAndEquitySecuritiesGainLoss",
+                "unit": "usd",
+                "value": -118000
+            },
+            {
+                "label": "Fees from loan servicing",
+                "concept": "vly:ServicingFeesNet1",
+                "unit": "usd",
+                "value": 2899000
+            },
+            {
+                "label": "Gains on sales of loans, net",
+                "concept": "GainLossOnSalesOfLoansNet",
+                "unit": "usd",
+                "value": 3513000
+            },
+            {
+                "label": "(Losses) gains on sales of assets, net",
+                "concept": "GainLossOnDispositionOfAssets1",
+                "unit": "usd",
+                "value": -196000
+            },
+            {
+                "label": "Bank owned life insurance",
+                "concept": "BankOwnedLifeInsuranceIncome",
+                "unit": "usd",
+                "value": 2331000
+            },
+            {
+                "label": "Other",
+                "concept": "NoninterestIncomeOther",
+                "unit": "usd",
+                "value": 12814000
+            },
+            {
+                "label": "Non-Interest Income",
+                "concept": "NoninterestIncome",
+                "unit": "usd",
+                "value": 31233000
+            },
+            {
+                "label": "Salary and employee benefits expense",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 88103000
+            },
+            {
+                "label": "Net occupancy and equipment expense",
+                "concept": "OccupancyNet",
+                "unit": "usd",
+                "value": 32259000
+            },
+            {
+                "label": "FDIC insurance assessment",
+                "concept": "FederalDepositInsuranceCorporationPremiumExpense",
+                "unit": "usd",
+                "value": 3276000
+            },
+            {
+                "label": "Amortization of other intangible assets",
+                "concept": "AmortizationOfIntangibleAssets",
+                "unit": "usd",
+                "value": 6006000
+            },
+            {
+                "label": "Professional and legal fees",
+                "concept": "vly:ProfessionalAndLegalFees",
+                "unit": "usd",
+                "value": 6272000
+            },
+            {
+                "label": "Amortization of tax credit investments",
+                "concept": "vly:InvestmentTaxCreditAmortization",
+                "unit": "usd",
+                "value": 2744000
+            },
+            {
+                "label": "Telecommunication expense",
+                "concept": "CommunicationsAndInformationTechnology",
+                "unit": "usd",
+                "value": 3160000
+            },
+            {
+                "label": "Other",
+                "concept": "OtherNoninterestExpense",
+                "unit": "usd",
+                "value": 18393000
+            },
+            {
+                "label": "Non-Interest Expense",
+                "concept": "NoninterestExpense",
+                "unit": "usd",
+                "value": 160213000
+            },
+            {
+                "label": "Income Before Income Taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 155031000
+            },
+            {
+                "label": "Income tax expense",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 39321000
+            },
+            {
+                "label": "Net Income Available to Common Shareholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 115710000
+            },
+            {
+                "label": "Dividends on preferred stock",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 3172000
+            },
+            {
+                "label": "Net Income Available to Common Shareholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 112538000
+            },
+            {
+                "label": "Earnings per common share:",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.28
+            },
+            {
+                "label": "Diluted (usd per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.28
+            },
+            {
+                "label": "Cash Dividends Declared per Common Share (usd per share)",
+                "concept": "CommonStockDividendsPerShareDeclared",
+                "unit": "usd/shares",
+                "value": 0.11
+            },
+            {
+                "label": "Basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 405152605
+            },
+            {
+                "label": "Diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 407636765
+            },
+            {
+                "label": "Net (losses) gains arising during the period",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": -10436000
+            },
+            {
+                "label": "Less reclassification adjustment for net losses included in net income",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": -44000
+            },
+            {
+                "label": "Total",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": -10392000
+            },
+            {
+                "label": "Net gains (losses) on derivatives arising during the period",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax",
+                "unit": "usd",
+                "value": 174000
+            },
+            {
+                "label": "Less reclassification adjustment for net losses included in net income",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax",
+                "unit": "usd",
+                "value": -651000
+            },
+            {
+                "label": "Total",
+                "concept": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+                "unit": "usd",
+                "value": 825000
+            },
+            {
+                "label": "Amortization of actuarial net loss",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax",
+                "unit": "usd",
+                "value": -280000
+            },
+            {
+                "label": "Other comprehensive (loss) income, net of tax:",
+                "concept": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+                "unit": "usd",
+                "value": -9287000
+            },
+            {
+                "label": "Total comprehensive income",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 106423000
+            }
+        ]
+    }
+}
