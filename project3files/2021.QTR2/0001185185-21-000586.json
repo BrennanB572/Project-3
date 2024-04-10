@@ -1,0 +1,123 @@
+{
+    "startDate": "2019-01-01",
+    "endDate": "2019-06-30",
+    "year": "2019",
+    "quarter": "Q2",
+    "symbol": "APEX",
+    "data": {
+        "bs": [
+            {
+                "label": "RECEIVABLE FROM CONTROLLING STOCKHOLDER",
+                "concept": "DueFromRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Controlling stockholder payable",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 179
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 1522
+            },
+            {
+                "label": "Preferred stock; $.0001 par value; 5,000,000 shares authorized; none issued and outstanding, respectively",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "Common stock; $.0001 par value; 100,000,000 shares authorized; 15,647,216 issued and outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 1565
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapitalCommonStock",
+                "unit": "usd",
+                "value": 41307
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -44394
+            },
+            {
+                "label": "Total stockholders\u2019 equity (deficiency)",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -1522
+            },
+            {
+                "label": "Total liabilities and stockholders\u2019 equity (deficiency)",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 0
+            }
+        ],
+        "cf": [
+            {
+                "label": "NET LOSS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -2488
+            },
+            {
+                "label": "Accrued liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 1267
+            },
+            {
+                "label": "Controlling stockholder payable",
+                "concept": "IncreaseDecreaseInDueToRelatedParties",
+                "unit": "usd",
+                "value": 179
+            },
+            {
+                "label": "CASH FLOWS FROM OPERATING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "CASH FLOWS FROM INVESTING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 0
+            },
+            {
+                "label": "CASH FLOWS FROM FINANCING ACTIVITIES",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 0
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 2488
+            },
+            {
+                "label": "Basic and diluted loss per common share (in Dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Basic and diluted weighted-average common shares outstanding (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 15647216
+            }
+        ]
+    }
+}

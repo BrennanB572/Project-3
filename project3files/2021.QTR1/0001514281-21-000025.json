@@ -1,0 +1,771 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-12-31",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "MITT",
+    "data": {
+        "bs": [
+            {
+                "label": "Residential mortgage loans, at fair value - $46,571 and $171,224 pledged as collateral, respectively (1)",
+                "concept": "MortgageLoansOnRealEstate",
+                "unit": "usd",
+                "value": 435441000
+            },
+            {
+                "label": "Commercial loans, at fair value - $0 and $4,674 pledged as collateral, respectively",
+                "concept": "NotesReceivableGross",
+                "unit": "usd",
+                "value": 111549000
+            },
+            {
+                "label": "Commercial loans held for sale, at fair value",
+                "concept": "LoansReceivableHeldForSaleNetNotPartOfDisposalGroup",
+                "unit": "usd",
+                "value": 13959000
+            },
+            {
+                "label": "Investments in debt and equity of affiliates",
+                "concept": "InvestmentsInAndAdvancesToAffiliatesAtFairValue",
+                "unit": "usd",
+                "value": 150667000
+            },
+            {
+                "label": "Excess mortgage servicing rights, at fair value",
+                "concept": "mitt:ExcessMortgageServicingRightsAtFairValue",
+                "unit": "usd",
+                "value": 3158000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 47926000
+            },
+            {
+                "label": "Restricted cash",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 14392000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 9407000
+            },
+            {
+                "label": "Assets held for sale - Single-family rental properties, net",
+                "concept": "AssetsHeldForSaleNotPartOfDisposalGroupCurrent",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 1400045000
+            },
+            {
+                "label": "Financing arrangements",
+                "concept": "DebtLongtermAndShorttermCombinedAmount",
+                "unit": "usd",
+                "value": 564047000
+            },
+            {
+                "label": "Securitized debt, at fair value",
+                "concept": "CollateralizedFinancings",
+                "unit": "usd",
+                "value": 355159000
+            },
+            {
+                "label": "Dividend payable",
+                "concept": "DividendsPayableCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 1243000
+            },
+            {
+                "label": "Payable on unsettled trades",
+                "concept": "AccountsPayableTradeCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 51136000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 18755000
+            },
+            {
+                "label": "Liabilities held for sale - Single-family rental properties, net",
+                "concept": "mitt:LiabilitiesHeldforsale",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 990340000
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, par value $0.01 per share; 450,000 shares of common stock authorized and 41,434 and 32,742 shares issued and outstanding at December\u00a031, 2020 and December\u00a031, 2019, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 414000
+            },
+            {
+                "label": "Additional Paid-in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 688871000
+            },
+            {
+                "label": "Retained earnings/(deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -518058000
+            },
+            {
+                "label": "Dividends on Preferred Stock",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 409705000
+            },
+            {
+                "label": "Total Liabilities & Stockholders' Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 1400045000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net income/(loss) from continuing operations available to common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -420919000
+            },
+            {
+                "label": "Net Income/(Loss) from Discontinued Operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity",
+                "unit": "usd",
+                "value": 666000
+            },
+            {
+                "label": "Continuing Operations (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": -421585000
+            },
+            {
+                "label": "Net amortization of premium",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": -5212000
+            },
+            {
+                "label": "Net realized gain/(loss)",
+                "concept": "mitt:InvestmentAndDerivativeRealizedGainLossFVO",
+                "unit": "usd",
+                "value": -256522000
+            },
+            {
+                "label": "Unrealized gain/(loss) on real estate securities and loans, net",
+                "concept": "mitt:InvestmentUnrealizedGainLossFVO",
+                "unit": "usd",
+                "value": -159466000
+            },
+            {
+                "label": "Unrealized (gain)/loss on derivative and other instruments, net",
+                "concept": "UnrealizedGainLossOnDerivatives",
+                "unit": "usd",
+                "value": -10347000
+            },
+            {
+                "label": "Foreign currency gain/(loss), net",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 1528000
+            },
+            {
+                "label": "Equity based compensation to affiliate",
+                "concept": "mitt:ShareBasedCompensationToAffiliates",
+                "unit": "usd",
+                "value": 163000
+            },
+            {
+                "label": "Shares of restricted common stock under equity incentive plans (in shares)",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 419000
+            },
+            {
+                "label": "(Income) loss from equity method investments, net of distributions received",
+                "concept": "mitt:IncomeLossFromInvestmentInAffiliatesInExcessOfDistributionsReceived",
+                "unit": "usd",
+                "value": -11057000
+            },
+            {
+                "label": "Other assets",
+                "concept": "IncreaseDecreaseInOtherCurrentAssets",
+                "unit": "usd",
+                "value": -8872000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": -13639000
+            },
+            {
+                "label": "Net cash provided by (used in) continuing operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 4882000
+            },
+            {
+                "label": "Net cash provided by (used in) discontinued operating activities",
+                "concept": "CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": -726000
+            },
+            {
+                "label": "Net cash provided by (used in) continuing operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 4156000
+            },
+            {
+                "label": "Purchase of real estate securities",
+                "concept": "mitt:PurchaseOfAvailableForSaleSecuritiesDebtFVO",
+                "unit": "usd",
+                "value": 502801000
+            },
+            {
+                "label": "Purchase of residential mortgage loans",
+                "concept": "mitt:PaymentsForPurchaseofResidentialMortgageLoans",
+                "unit": "usd",
+                "value": 541823000
+            },
+            {
+                "label": "Purchase of commercial loans",
+                "concept": "mitt:PaymentsForPurchaseOfCommercialLoans",
+                "unit": "usd",
+                "value": 10560000
+            },
+            {
+                "label": "Origination of commercial loans",
+                "concept": "mitt:PaymentsForOriginationOfCommercialLoans",
+                "unit": "usd",
+                "value": 22694000
+            },
+            {
+                "label": "Purchase of U.S. treasury securities",
+                "concept": "PaymentsToAcquireShortTermInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Investments in debt and equity of affiliates",
+                "concept": "mitt:PaymentsForProceedsFromInvestmentsInDebtAndEquityOfAffiliates",
+                "unit": "usd",
+                "value": 46363000
+            },
+            {
+                "label": "Proceeds from sale of real estate securities",
+                "concept": "mitt:ProceedsFromSaleOfAvailableForSaleSecuritiesDebtFVO",
+                "unit": "usd",
+                "value": 2731163000
+            },
+            {
+                "label": "Proceeds from sale of residential mortgage loans",
+                "concept": "ProceedsFromSaleOfLoansReceivable",
+                "unit": "usd",
+                "value": 393950000
+            },
+            {
+                "label": "Proceeds from sale of commercial loans",
+                "concept": "mitt:ProceedsFromSaleOfCommercialLoans",
+                "unit": "usd",
+                "value": 36935000
+            },
+            {
+                "label": "Proceeds from sale of excess mortgage servicing rights",
+                "concept": "mitt:ProceedsFromSaleOfExcessMortgageServicingRightsMSR",
+                "unit": "usd",
+                "value": 8038000
+            },
+            {
+                "label": "Proceeds from sales of U.S. treasury securities",
+                "concept": "mitt:ProceedsFromRepaymentOfSaleAndPurchaseOfUsTreasurySecurities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Distributions received in excess of income from investments in debt and equity of affiliates",
+                "concept": "ProceedsFromEquityMethodInvestmentDividendsOrDistributionsReturnOfCapital",
+                "unit": "usd",
+                "value": 30614000
+            },
+            {
+                "label": "Principal repayments on real estate securities",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfMortgageBackedSecuritiesMBS",
+                "unit": "usd",
+                "value": 111703000
+            },
+            {
+                "label": "Principal repayments on excess mortgage servicing rights",
+                "concept": "mitt:ProceedsfromMaturitiesPrepaymentsOnExcessMortgageServicingRights",
+                "unit": "usd",
+                "value": 2818000
+            },
+            {
+                "label": "Principal repayments on residential mortgage loans",
+                "concept": "mitt:PrincipalRepaymentsOnResidentialMortgageLoans",
+                "unit": "usd",
+                "value": -63882000
+            },
+            {
+                "label": "Principal repayments on commercial loans",
+                "concept": "mitt:ProceedsFromPrincipalRepaymentOnCommercialMortgageLoan",
+                "unit": "usd",
+                "value": 6369000
+            },
+            {
+                "label": "Net proceeds from (payment made on) reverse repurchase agreements",
+                "concept": "mitt:NetProceedsPaymentsForSecuritiesPurchasedUnderAgreementsToResell",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net proceeds from (payment made on) sales of securities borrowed under reverse repurchase agreements",
+                "concept": "mitt:NetProceedsPaymentsForUsTreasurySecuritiesPurchasedUnderAgreementsToResell",
+                "unit": "usd",
+                "value": -30000
+            },
+            {
+                "label": "Net settlement of interest rate swaps and other instruments",
+                "concept": "mitt:NetSettlementOfInterestRateSwaps",
+                "unit": "usd",
+                "value": 72484000
+            },
+            {
+                "label": "Net settlement of TBAs",
+                "concept": "mitt:NetSettlementOfSecuritiesToBeAnnounced",
+                "unit": "usd",
+                "value": -4610000
+            },
+            {
+                "label": "Cash flows provided by (used in) other investing activities",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities",
+                "unit": "usd",
+                "value": -68000
+            },
+            {
+                "label": "Net cash provided by (used in) continuing investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": 2193455000
+            },
+            {
+                "label": "Net cash provided by (used in) discontinued investing activities",
+                "concept": "CashProvidedByUsedInInvestingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net cash provided by (used in) continuing investing activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": 2193455000
+            },
+            {
+                "label": "Net proceeds from issuance of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": 7018000
+            },
+            {
+                "label": "Net proceeds from issuance of preferred stock",
+                "concept": "ProceedsFromIssuanceOfPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash paid on Exchange Offers",
+                "concept": "mitt:PaymentOfCashForExchangeOffer",
+                "unit": "usd",
+                "value": 8007000
+            },
+            {
+                "label": "Borrowings under financing arrangements",
+                "concept": "mitt:BorrowingsUnderRepurchaseAgreements",
+                "unit": "usd",
+                "value": 14689972000
+            },
+            {
+                "label": "Repayments of financing arrangements",
+                "concept": "mitt:RepaymentsOfRepurchaseAgreements",
+                "unit": "usd",
+                "value": 17014635000
+            },
+            {
+                "label": "Borrowings under secured debt",
+                "concept": "ProceedsFromIssuanceOfSecuredDebt",
+                "unit": "usd",
+                "value": 20000000
+            },
+            {
+                "label": "Repayments of secured debt",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 10000000
+            },
+            {
+                "label": "Proceeds from issuance of securitized debt",
+                "concept": "ProceedsFromAccountsReceivableSecuritization",
+                "unit": "usd",
+                "value": 166487000
+            },
+            {
+                "label": "Principal repayments on securitized debt",
+                "concept": "RepaymentsOfAccountsReceivableSecuritization",
+                "unit": "usd",
+                "value": 29312000
+            },
+            {
+                "label": "Net collateral received from (paid to) derivative counterparty",
+                "concept": "mitt:CollateralReceivedFromHeldByDerivativeCounterParty",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net collateral received from (paid to) repurchase counterparty",
+                "concept": "mitt:CollateralReceivedFromHeldByRepurchaseCounterparty",
+                "unit": "usd",
+                "value": 46740000
+            },
+            {
+                "label": "Dividends paid on common stock",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 14734000
+            },
+            {
+                "label": "Dividends paid on preferred stock",
+                "concept": "PaymentsOfDividendsPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 20549000
+            },
+            {
+                "label": "Net cash provided by continuing financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+                "unit": "usd",
+                "value": -2260500000
+            },
+            {
+                "label": "Net cash provided by discontinued financing activities",
+                "concept": "CashProvidedByUsedInFinancingActivitiesDiscontinuedOperations",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Cash Flows from Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": -2260500000
+            },
+            {
+                "label": "Net change in cash and cash equivalents, and restricted cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": -62889000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+                "unit": "usd",
+                "value": -162000
+            },
+            {
+                "label": "Cash paid for interest on financing arrangements",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 46322000
+            },
+            {
+                "label": "Cash paid for income tax",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 1051000
+            },
+            {
+                "label": "Payable on unsettled trades",
+                "concept": "mitt:PayableOnUnsettledTrades",
+                "unit": "usd",
+                "value": 51136000
+            },
+            {
+                "label": "Common stock dividends declared but not paid",
+                "concept": "mitt:DividendsDeclaredButNotPaid",
+                "unit": "usd",
+                "value": 1243000
+            },
+            {
+                "label": "Exchange Offers (Note 11)",
+                "concept": "ConversionOfStockAmountConverted1",
+                "unit": "usd",
+                "value": 33979000
+            },
+            {
+                "label": "Holdback receivable on sale of excess MSRs",
+                "concept": "mitt:HoldbackOnSaleOfExcessMortgageServicingRightsMSR",
+                "unit": "usd",
+                "value": 422000
+            },
+            {
+                "label": "Management fees paid using Common Stock in lieu of cash",
+                "concept": "StockIssued1",
+                "unit": "usd",
+                "value": 4315000
+            },
+            {
+                "label": "Decrease of securitized debt",
+                "concept": "DebtInstrumentIncreaseDecreaseForPeriodNet",
+                "unit": "usd",
+                "value": 7091000
+            },
+            {
+                "label": "Transfer of real estate securities in satisfaction of repurchase agreements",
+                "concept": "PaymentsForSecuritiesPurchasedUnderAgreementsToResell",
+                "unit": "usd",
+                "value": 345066000
+            },
+            {
+                "label": "Change in repurchase agreements from transfer of real estate securities",
+                "concept": "mitt:ChangeInRepurchaseAgreementsFromTransferOfRealEstateSecurities",
+                "unit": "usd",
+                "value": 344685000
+            },
+            {
+                "label": "Transfer from residential mortgage loans to other assets",
+                "concept": "TransferToOtherRealEstate",
+                "unit": "usd",
+                "value": 3856000
+            },
+            {
+                "label": "Transfer from investments in debt and equity of affiliates to CMBS",
+                "concept": "mitt:TransferFromInvestmentsInDebtAndEquityOfAffiliatesToCMBS",
+                "unit": "usd",
+                "value": 11769000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Interest income",
+                "concept": "InterestIncomeOperating",
+                "unit": "usd",
+                "value": 74525000
+            },
+            {
+                "label": "Interest expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 36945000
+            },
+            {
+                "label": "Total Net Interest Income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 37580000
+            },
+            {
+                "label": "Net realized gain/(loss)",
+                "concept": "mitt:InvestmentAndDerivativeRealizedGainLossFVO",
+                "unit": "usd",
+                "value": -256522000
+            },
+            {
+                "label": "Net interest component of interest rate swaps",
+                "concept": "mitt:RealizedGainLossOnPeriodicInterestSettlementsOfDerivativeInstrumentsNet",
+                "unit": "usd",
+                "value": -731000
+            },
+            {
+                "label": "Unrealized gain/(loss) on real estate securities and loans, net",
+                "concept": "mitt:InvestmentUnrealizedGainLossFVO",
+                "unit": "usd",
+                "value": -159466000
+            },
+            {
+                "label": "Unrealized gain/(loss) on derivative and other instruments, net",
+                "concept": "DerivativeGainLossOnDerivativeNet",
+                "unit": "usd",
+                "value": -10347000
+            },
+            {
+                "label": "Foreign currency gain/(loss), net",
+                "concept": "ForeignCurrencyTransactionGainLossBeforeTax",
+                "unit": "usd",
+                "value": 1528000
+            },
+            {
+                "label": "Other income",
+                "concept": "OtherNonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 6000
+            },
+            {
+                "label": "Total Other Income/(Loss)",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -424070000
+            },
+            {
+                "label": "Management fee to affiliate",
+                "concept": "ManagementFeeExpense",
+                "unit": "usd",
+                "value": 7181000
+            },
+            {
+                "label": "Other operating expenses",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 14513000
+            },
+            {
+                "label": "Restructuring related expenses",
+                "concept": "RestructuringCharges",
+                "unit": "usd",
+                "value": 10200000
+            },
+            {
+                "label": "Equity based compensation to affiliate",
+                "concept": "mitt:EquityBasedCompensationToAffiliate",
+                "unit": "usd",
+                "value": 163000
+            },
+            {
+                "label": "Excise tax",
+                "concept": "ExciseAndSalesTaxes",
+                "unit": "usd",
+                "value": -815000
+            },
+            {
+                "label": "Servicing fees",
+                "concept": "mitt:ServicingFeesPaid",
+                "unit": "usd",
+                "value": 2224000
+            },
+            {
+                "label": "Director's fee",
+                "concept": "NoninterestExpense",
+                "unit": "usd",
+                "value": 33466000
+            },
+            {
+                "label": "Income/(loss) before equity in earnings/(loss) from affiliates",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -419956000
+            },
+            {
+                "label": "Equity in earnings/(loss) from affiliates",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": -1629000
+            },
+            {
+                "label": "Continuing Operations (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperations",
+                "unit": "usd",
+                "value": -421585000
+            },
+            {
+                "label": "Net Income/(Loss) from Discontinued Operations",
+                "concept": "IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity",
+                "unit": "usd",
+                "value": 666000
+            },
+            {
+                "label": "Net income/(loss) from continuing operations available to common stockholders",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -420919000
+            },
+            {
+                "label": "Gain on Exchange Offers, net (Note 11)",
+                "concept": "PreferredStockRedemptionDiscount",
+                "unit": "usd",
+                "value": 10574000
+            },
+            {
+                "label": "Dividends on preferred stock (1)",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 20549000
+            },
+            {
+                "label": "Net Income/(Loss) Available to Common Stockholders",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": -430894000
+            },
+            {
+                "label": "Continuing Operations (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerBasicShare",
+                "unit": "usd/shares",
+                "value": -12.26
+            },
+            {
+                "label": "Discontinued Operations (in dollars per share)",
+                "concept": "DiscontinuedOperationIncomeLossFromDiscontinuedOperationNetOfTaxPerBasicShare",
+                "unit": "usd/shares",
+                "value": 0.02
+            },
+            {
+                "label": "Earnings Per Share, Basic, by Common Class, Including Two Class Method [Line Items]",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -12.24
+            },
+            {
+                "label": "Continuing Operations (in dollars per share)",
+                "concept": "IncomeLossFromContinuingOperationsPerDilutedShare",
+                "unit": "usd/shares",
+                "value": -12.26
+            },
+            {
+                "label": "Discontinued Operations (in dollars per share)",
+                "concept": "DiscontinuedOperationIncomeLossFromDiscontinuedOperationNetOfTaxPerDilutedShare",
+                "unit": "usd/shares",
+                "value": 0.02
+            },
+            {
+                "label": "Earnings/(Loss) Per Share - Diluted",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -12.24
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 35191000
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 35191000
+            }
+        ]
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "startDate": "2021-02-25",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "CLOE",
+    "data": {
+        "bs": [
+            {
+                "label": "Class B common stock, $0.0001 par value; 10,000,000 shares authorized; 3,593,750 shares issued and outstanding(1)",
+                "concept": "cloe:CommonStockValue1",
+                "unit": "usd",
+                "value": 359
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -725
+            },
+            {
+                "label": "Commitments and Contingencies (see Note 6)",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Class A common stock, $0.0001 par value; 100,000,000 shares authorized; none issued and outstanding",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 24641
+            },
+            {
+                "label": "Total current liabilities",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 78439
+            },
+            {
+                "label": "Total Liabilities and Stockholder\u2019s Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 102714
+            },
+            {
+                "label": "Total assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 102714
+            },
+            {
+                "label": "Deferred offering cost",
+                "concept": "DeferredCosts",
+                "unit": "usd",
+                "value": 84257
+            },
+            {
+                "label": "Promissory Note - Related Party",
+                "concept": "NotesPayableRelatedPartiesClassifiedCurrent",
+                "unit": "usd",
+                "value": 37500
+            },
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized; none issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total stockholder\u2019s equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 24275
+            },
+            {
+                "label": "Cash",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 18457
+            },
+            {
+                "label": "Accrued offering costs and expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 40939
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net change in cash",
+                "concept": "CashPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 18457
+            },
+            {
+                "label": "Accrued offering costs",
+                "concept": "cloe:AccruedOfferingCosts",
+                "unit": "usd",
+                "value": 40939
+            },
+            {
+                "label": "Proceeds from sale of founder shares to initial stockholders",
+                "concept": "ProceedsFromOtherEquity",
+                "unit": "usd",
+                "value": 25000
+            },
+            {
+                "label": "",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -725
+            },
+            {
+                "label": "Deferred offering costs paid by promissory note \u2013 related party",
+                "concept": "cloe:DeferredOfferingCostsPaidByPromissoryNoteRelatedParty",
+                "unit": "usd",
+                "value": 36775
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Formation cost paid by Sponsor",
+                "concept": "cloe:FormationCostPaidBySponsor",
+                "unit": "usd",
+                "value": 725
+            },
+            {
+                "label": "Net cash provided by financing activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 18457
+            },
+            {
+                "label": "Payment of deferred offering costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 6543
+            }
+        ],
+        "ic": [
+            {
+                "label": "Basic and diluted weighted average shares outstanding(1) (in Shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 3125000
+            },
+            {
+                "label": "Loss from Operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -725
+            },
+            {
+                "label": "Basic and diluted net loss per common stock (in Dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.0
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -725
+            }
+        ]
+    }
+}

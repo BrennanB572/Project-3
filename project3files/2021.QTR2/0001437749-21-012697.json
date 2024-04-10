@@ -1,0 +1,393 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "APHE",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 308
+            },
+            {
+                "label": "Prepaid assets and other current assets",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 5308
+            },
+            {
+                "label": "Oil and gas property, unproved, full cost",
+                "concept": "OilAndGasPropertySuccessfulEffortMethodNet",
+                "unit": "usd",
+                "value": 60000
+            },
+            {
+                "label": "us-gaap_AssetsCurrent",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 65308
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 359949
+            },
+            {
+                "label": "Accounts payable and accrued expenses - related parties",
+                "concept": "DueToRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 152818
+            },
+            {
+                "label": "Interest payable",
+                "concept": "InterestPayableCurrent",
+                "unit": "usd",
+                "value": 34703
+            },
+            {
+                "label": "Short term advances from related parties",
+                "concept": "aphe:ShorttermDebtRelatedParty",
+                "unit": "usd",
+                "value": 388744
+            },
+            {
+                "label": "Short term note payable",
+                "concept": "ShortTermNonBankLoansAndNotesPayable",
+                "unit": "usd",
+                "value": 1210000
+            },
+            {
+                "label": "Derivative liability",
+                "concept": "DerivativeLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 83065
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 2229279
+            },
+            {
+                "label": "Convertible credit line payable \u2013 related party, net of discount of $0 and $2,754, respectively",
+                "concept": "ConvertibleDebtNoncurrent",
+                "unit": "usd",
+                "value": 148328
+            },
+            {
+                "label": "Asset retirement obligation",
+                "concept": "AssetRetirementObligationsNoncurrent",
+                "unit": "usd",
+                "value": 881
+            },
+            {
+                "label": "us-gaap_LiabilitiesCurrent",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2378488
+            },
+            {
+                "label": "Commitments and contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, 10,000,000 shares authorized:Series A convertible preferred stock, $0.001 par value, 2,000,000 shares authorized and 0 shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.001 par value, 65,000,000 shares authorized and 18,283,428 and 18,145,428 shares issued and outstanding, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 18283
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 2199497
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -4530960
+            },
+            {
+                "label": "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -2313180
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 65308
+            }
+        ],
+        "cf": [
+            {
+                "label": "Basic net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -229780
+            },
+            {
+                "label": "us-gaap_ShareBasedCompensation",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 48000
+            },
+            {
+                "label": "Amortization of debt discount",
+                "concept": "AmortizationOfDebtDiscountPremium",
+                "unit": "usd",
+                "value": 2754
+            },
+            {
+                "label": "us-gaap_GainLossOnDerivativeInstrumentsNetPretax",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": 13304
+            },
+            {
+                "label": "aphe_GainLossOnSettlementOfAccountsPayable",
+                "concept": "aphe:GainLossOnSettlementOfAccountsPayable",
+                "unit": "usd",
+                "value": 120250
+            },
+            {
+                "label": "Write off of option contract associated with oil and gas properties",
+                "concept": "aphe:WriteOffOfOptionContractAssociatedWithOilAndGasProperties",
+                "unit": "usd",
+                "value": 85500
+            },
+            {
+                "label": "Asset retirement obligation expense",
+                "concept": "AssetRetirementObligationAccretionExpense",
+                "unit": "usd",
+                "value": 19
+            },
+            {
+                "label": "Default interest added to note payable",
+                "concept": "aphe:DefaultInterestAddedToNotePayable",
+                "unit": "usd",
+                "value": 50000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets",
+                "unit": "usd",
+                "value": -25000
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayableTrade",
+                "concept": "IncreaseDecreaseInAccountsPayableTrade",
+                "unit": "usd",
+                "value": -2289
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayableRelatedParties",
+                "concept": "IncreaseDecreaseInAccountsPayableRelatedParties",
+                "unit": "usd",
+                "value": 32250
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInInterestPayableNet",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": 3408
+            },
+            {
+                "label": "Cash flows from operating activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -118692
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireOilAndGasProperty",
+                "concept": "PaymentsToAcquireOilAndGasProperty",
+                "unit": "usd",
+                "value": 10000
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -10000
+            },
+            {
+                "label": "us-gaap_RepaymentsOfConvertibleDebt",
+                "concept": "RepaymentsOfConvertibleDebt",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Advances from related parties",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 129000
+            },
+            {
+                "label": "Proceeds from sale of common stock",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 129000
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 308
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaid",
+                "unit": "usd",
+                "value": 17750
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Expenses paid on behalf of the Company by related party",
+                "concept": "aphe:ExpensesPaidByRelatedParty",
+                "unit": "usd",
+                "value": 13244
+            },
+            {
+                "label": "Oil and gas assets acquired through payments made by related party on behalf of the Company",
+                "concept": "aphe:UnpaidOilAndGasAssetsAcquiredPaidByRelatedParty",
+                "unit": "usd",
+                "value": 65500
+            }
+        ],
+        "ic": [
+            {
+                "label": "Oil and gas sales",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Lease operating expenses",
+                "concept": "aphe:LeaseOperatingExpenses",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_GrossProfit",
+                "concept": "GrossProfit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Professional services",
+                "concept": "LegalFees",
+                "unit": "usd",
+                "value": 11919
+            },
+            {
+                "label": "Board of director fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 48000
+            },
+            {
+                "label": "General and administrative",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 229503
+            },
+            {
+                "label": "aphe_GainLossOnSettlementOfAccountsPayable",
+                "concept": "aphe:GainLossOnSettlementOfAccountsPayable",
+                "unit": "usd",
+                "value": 120250
+            },
+            {
+                "label": "Operating expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 169172
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -169172
+            },
+            {
+                "label": "us-gaap_InterestExpense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 73912
+            },
+            {
+                "label": "us-gaap_GainLossOnDerivativeInstrumentsNetPretax",
+                "concept": "GainLossOnDerivativeInstrumentsNetPretax",
+                "unit": "usd",
+                "value": 13304
+            },
+            {
+                "label": "us-gaap_NonoperatingIncomeExpense",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -60608
+            },
+            {
+                "label": "Basic net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -229780
+            },
+            {
+                "label": "Basic (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "Diluted (in dollars per share)",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": -0.01
+            },
+            {
+                "label": "us-gaap_WeightedAverageNumberOfSharesIssuedBasic",
+                "concept": "WeightedAverageNumberOfSharesIssuedBasic",
+                "unit": "shares",
+                "value": 18187900
+            },
+            {
+                "label": "us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 18336228
+            }
+        ]
+    }
+}

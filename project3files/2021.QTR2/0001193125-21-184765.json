@@ -1,0 +1,339 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "ANAC",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "Cash",
+                "unit": "usd",
+                "value": 1189071
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 615642
+            },
+            {
+                "label": "Assets, Current [Abstract]",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1804713
+            },
+            {
+                "label": "Assets Held-in-trust, Noncurrent",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 316251796
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 318056509
+            },
+            {
+                "label": "Accounts Payable, Current",
+                "concept": "AccountsPayableCurrent",
+                "unit": "usd",
+                "value": 388616
+            },
+            {
+                "label": "Accounts Payable, Related Parties, Current",
+                "concept": "AccountsPayableRelatedPartiesCurrent",
+                "unit": "usd",
+                "value": 1775
+            },
+            {
+                "label": "Accrued Liabilities, Current",
+                "concept": "AccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 446252
+            },
+            {
+                "label": "Accounts Payable Related Party Current",
+                "concept": "anac:AccountsPayableRelatedPartyCurrent",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Liabilities, Current [Abstract]",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 856643
+            },
+            {
+                "label": "Deferred underwriting discount",
+                "concept": "anac:DeferredUnderwritingDiscount",
+                "unit": "usd",
+                "value": 11068750
+            },
+            {
+                "label": "Derivative Warrant Liabilities",
+                "concept": "anac:DerivativeWarrantLiabilities",
+                "unit": "usd",
+                "value": 25822380
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 37747773
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Temporary Equity, Carrying Amount, Attributable to Parent",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 275308730
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 8789223
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -3790417
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000006
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 318056509
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -3774715
+            },
+            {
+                "label": "General and Administrative Expenses Paid by Related Party Under Promissory Note",
+                "concept": "anac:GeneralAndAdministrativeExpensesPaidByRelatedPartyUnderPromissoryNote",
+                "unit": "usd",
+                "value": 37965
+            },
+            {
+                "label": "Loss Upon Issuance Of Private Placement Warrants",
+                "concept": "anac:LossUponIssuanceOfPrivatePlacementWarrants",
+                "unit": "usd",
+                "value": 3496500
+            },
+            {
+                "label": "Transaction Costs Associated With Derivative Warrant Liabilities",
+                "concept": "anac:TransactionCostsAssociatedWithDerivativeWarrantLiabilities",
+                "unit": "usd",
+                "value": 848440
+            },
+            {
+                "label": "Change In Fair Value Of Derivative Warrant Liabilities",
+                "concept": "anac:ChangeInFairValueOfDerivativeWarrantLiabilities",
+                "unit": "usd",
+                "value": -1021000
+            },
+            {
+                "label": "Other Nonoperating Income",
+                "concept": "OtherNonoperatingIncome",
+                "unit": "usd",
+                "value": 1796
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 606344
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable",
+                "concept": "IncreaseDecreaseInAccountsPayable",
+                "unit": "usd",
+                "value": 35616
+            },
+            {
+                "label": "Increase Decrease In Accounts Payable Related Party",
+                "concept": "anac:IncreaseDecreaseInAccountsPayableRelatedParty",
+                "unit": "usd",
+                "value": 1775
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 304420
+            },
+            {
+                "label": "Increase Decrease In Accrued Expenses Related Party",
+                "concept": "anac:IncreaseDecreaseInAccruedExpensesRelatedParty",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Operating Activities [Abstract]",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -659139
+            },
+            {
+                "label": "Payments to Acquire Restricted Investments",
+                "concept": "PaymentsToAcquireRestrictedInvestments",
+                "unit": "usd",
+                "value": 316250000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Investing Activities [Abstract]",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -316250000
+            },
+            {
+                "label": "Repayments of Related Party Debt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 151790
+            },
+            {
+                "label": "Proceeds from Issuance Initial Public Offering",
+                "concept": "ProceedsFromIssuanceInitialPublicOffering",
+                "unit": "usd",
+                "value": 316250000
+            },
+            {
+                "label": "Proceeds from Issuance of Private Placement",
+                "concept": "ProceedsFromIssuanceOfPrivatePlacement",
+                "unit": "usd",
+                "value": 8325000
+            },
+            {
+                "label": "Payments of Stock Issuance Costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 6325000
+            },
+            {
+                "label": "Net Cash Provided by (Used in) Financing Activities [Abstract]",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 318098210
+            },
+            {
+                "label": "Cash and Cash Equivalents, Period Increase (Decrease), Excluding Exchange Rate Effect",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 1189071
+            },
+            {
+                "label": "Offering Costs Included In Accounts Payable",
+                "concept": "anac:OfferingCostsIncludedInAccountsPayable",
+                "unit": "usd",
+                "value": 353000
+            },
+            {
+                "label": "Offering Costs Included In Accrued Expenses",
+                "concept": "anac:OfferingCostsIncludedInAccruedExpenses",
+                "unit": "usd",
+                "value": 141832
+            },
+            {
+                "label": "Offering Costs Paid By Related Party Under Promissory Note",
+                "concept": "anac:OfferingCostsPaidByRelatedPartyUnderPromissoryNote",
+                "unit": "usd",
+                "value": 113825
+            },
+            {
+                "label": "Deferred Underwriting Commissions",
+                "concept": "anac:DeferredUnderwritingCommissions",
+                "unit": "usd",
+                "value": 11068750
+            },
+            {
+                "label": "Initial Value Of ClassA Ordinary Shares Subject To Possible Redemption",
+                "concept": "anac:InitialValueOfClassaOrdinarySharesSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 274654340
+            },
+            {
+                "label": "Change In Value Of ClassA Ordinary Shares Subject To Possible Redemption",
+                "concept": "anac:ChangeInValueOfClassaOrdinarySharesSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 654390
+            }
+        ],
+        "ic": [
+            {
+                "label": "General and Administrative Expense",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 432571
+            },
+            {
+                "label": "Related Party Transaction, Selling, General and Administrative Expenses from Transactions with Related Party",
+                "concept": "RelatedPartyTransactionSellingGeneralAndAdministrativeExpensesFromTransactionsWithRelatedParty",
+                "unit": "usd",
+                "value": 20000
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -452571
+            },
+            {
+                "label": "Transaction Costs Associated With Derivative Warrant Liabilities",
+                "concept": "anac:TransactionCostsAssociatedWithDerivativeWarrantLiabilities",
+                "unit": "usd",
+                "value": 848440
+            },
+            {
+                "label": "Loss Upon Issuance Of Private Placement Warrants",
+                "concept": "anac:LossUponIssuanceOfPrivatePlacementWarrants",
+                "unit": "usd",
+                "value": 3496500
+            },
+            {
+                "label": "Change In Fair Value Of Derivative Warrant Liabilities",
+                "concept": "anac:ChangeInFairValueOfDerivativeWarrantLiabilities",
+                "unit": "usd",
+                "value": -1021000
+            },
+            {
+                "label": "Other Nonoperating Income",
+                "concept": "OtherNonoperatingIncome",
+                "unit": "usd",
+                "value": 1796
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -3774715
+            }
+        ]
+    }
+}

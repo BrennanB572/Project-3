@@ -1,0 +1,303 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "ITHXU",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash held outside the Trust Account",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 813432
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 299716
+            },
+            {
+                "label": "Assets, Current [Abstract]",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1113148
+            },
+            {
+                "label": "Marketable securities held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 241539925
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 242653073
+            },
+            {
+                "label": "Carrying value as of the balance sheet date of obligations incurred through that date and due within one year (or the operating cycle, if longer), including liabilities incurred (and for which invoices have typically been received) and payable to vendors for goods and services received, taxes, interest, rent and utilities, accrued salaries and bonuses, payroll taxes and fringe benefits, excluding offering costs (due within one year or within the normal operating cycle if longer).",
+                "concept": "ithxu:AccountsPayableAndAccruedLiabilitiesExcludingOfferingCostsCurrent",
+                "unit": "usd",
+                "value": 11073
+            },
+            {
+                "label": "Amount of offering costs accrued but not yet paid as of the period date.",
+                "concept": "ithxu:AccruedOfferingCosts",
+                "unit": "usd",
+                "value": 32966
+            },
+            {
+                "label": "Liabilities, Current [Abstract]",
+                "concept": "LiabilitiesCurrent",
+                "unit": "usd",
+                "value": 44039
+            },
+            {
+                "label": "The carrying value as of balance sheet date of underwriting fees payable or deferred, classified as noncurrent.",
+                "concept": "ithxu:DeferredOfferingCostsNoncurrent",
+                "unit": "usd",
+                "value": 9082500
+            },
+            {
+                "label": "Financial Instruments Subject to Mandatory Redemption, Settlement Terms, Fair Value of Shares",
+                "concept": "SharesSubjectToMandatoryRedemptionSettlementTermsFairValueOfShares",
+                "unit": "usd",
+                "value": 10554000
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 19680539
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Temporary Equity, Carrying Amount, Attributable to Parent",
+                "concept": "TemporaryEquityCarryingAmountAttributableToParent",
+                "unit": "usd",
+                "value": 217972530
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 4864435
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 126503
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000004
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 242653073
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 131394
+            },
+            {
+                "label": "Fair Value Adjustment of Warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -868875
+            },
+            {
+                "label": "Represents the Transaction costs allocated to warrant liabilities.",
+                "concept": "ithxu:TransactionCostsAllocatedToWarrantLiabilities",
+                "unit": "usd",
+                "value": -675351
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 18916
+            },
+            {
+                "label": "Unrealized Gain (Loss) on Investments",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": 21009
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 299716
+            },
+            {
+                "label": "Increase (Decrease) in Accounts Payable and Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities",
+                "unit": "usd",
+                "value": 11073
+            },
+            {
+                "label": "Cash Flows from Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -390698
+            },
+            {
+                "label": "The amount of cash outflow for investment of cash in trust account.",
+                "concept": "ithxu:PaymentsForInvestmentOfCashInTrustAccount",
+                "unit": "usd",
+                "value": 241500000
+            },
+            {
+                "label": "Cash Flows from Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -241500000
+            },
+            {
+                "label": "The cash inflow associated with the amount received from entity's first offering of stock to the public, net of underwriting discounts paid.",
+                "concept": "ithxu:NetProceedsFromInitialPublicOffering",
+                "unit": "usd",
+                "value": 236250000
+            },
+            {
+                "label": "Proceeds from Issuance of Warrants",
+                "concept": "ProceedsFromIssuanceOfWarrants",
+                "unit": "usd",
+                "value": 6750000
+            },
+            {
+                "label": "Proceeds from Related Party Debt",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 44708
+            },
+            {
+                "label": "Repayments of Related Party Debt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 88264
+            },
+            {
+                "label": "Payments of Stock Issuance Costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 253314
+            },
+            {
+                "label": "Cash Flows from Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 242703130
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 812432
+            },
+            {
+                "label": "The amount of offering costs included in accounts payable or accrued expenses that were incurred during a noncash or partial noncash transaction.",
+                "concept": "ithxu:OfferingCostsIncludedInAccountsPayableAccruedExpense",
+                "unit": "usd",
+                "value": 32966
+            },
+            {
+                "label": "Amount of initial classification of common stock subject to possible redemption, classified as non-cash investing and financing activity.",
+                "concept": "ithxu:InitialClassificationOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 217165785
+            },
+            {
+                "label": "Amount of change in value of common stock subject to possible redemption, classified as non-cash investing and financing activity.",
+                "concept": "ithxu:ChangeInValueOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 806745
+            },
+            {
+                "label": "Amount of underwriting fee payable deferred during the period, classified as non-cash investing and financing activity.",
+                "concept": "ithxu:DeferredUnderwritingFeePayable",
+                "unit": "usd",
+                "value": 9082500
+            },
+            {
+                "label": "The initial fair value classification of warrant liabilities disclosed in the supplemental non-cash cash flow activities.",
+                "concept": "ithxu:InitialFairValueOfWarrantLiabilities",
+                "unit": "usd",
+                "value": 11422875
+            }
+        ],
+        "ic": [
+            {
+                "label": "Formation and operating costs",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 102055
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -102055
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 18916
+            },
+            {
+                "label": "Unrealized Gain (Loss) on Investments",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": 21009
+            },
+            {
+                "label": "Transaction costs allocated to warrant liabilities",
+                "concept": "ithxu:TransactionCostsAllocatedToWarrantLiability",
+                "unit": "usd",
+                "value": -675351
+            },
+            {
+                "label": "Fair Value Adjustment of Warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -868875
+            },
+            {
+                "label": "Other income:",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": 233449
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 131394
+            }
+        ]
+    }
+}

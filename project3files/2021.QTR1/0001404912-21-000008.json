@@ -1,0 +1,579 @@
+{
+    "startDate": "2020-01-01",
+    "endDate": "2020-12-31",
+    "year": "2020",
+    "quarter": "FY",
+    "symbol": "KKR",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash and Cash Equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 5363009000
+            },
+            {
+                "label": "Cash and Cash Equivalents Held at Consolidated Entities",
+                "concept": "kkr:CashAndCashEquivalentsHeldAtConsolidatedEntities",
+                "unit": "usd",
+                "value": 1144865000
+            },
+            {
+                "label": "Restricted Cash and Cash Equivalents",
+                "concept": "RestrictedCashAndCashEquivalents",
+                "unit": "usd",
+                "value": 485583000
+            },
+            {
+                "label": "Investments, Debt and Equity Securities [Abstract]",
+                "concept": "Investments",
+                "unit": "usd",
+                "value": 69274715000
+            },
+            {
+                "label": "Due from Affiliates",
+                "concept": "DueFromAffiliates",
+                "unit": "usd",
+                "value": 872994000
+            },
+            {
+                "label": "Other Assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 2665336000
+            },
+            {
+                "label": "Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 79806502000
+            },
+            {
+                "label": "Debt Obligations",
+                "concept": "DebtAndCapitalLeaseObligations",
+                "unit": "usd",
+                "value": 33423596000
+            },
+            {
+                "label": "Due to Affiliates",
+                "concept": "DueToAffiliateCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 325177000
+            },
+            {
+                "label": "Accounts Payable, Accrued Expenses and Other Liabilities",
+                "concept": "kkr:AccountsPayableAccruedExpensesAndOtherLiabilities",
+                "unit": "usd",
+                "value": 5257813000
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 39006586000
+            },
+            {
+                "label": "COMMITMENTS AND CONTINGENCIES",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common Stock",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 5729000
+            },
+            {
+                "label": "Additional Paid-In Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 8687817000
+            },
+            {
+                "label": "Retained Earnings",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 3440782000
+            },
+            {
+                "label": "Accumulated Other Comprehensive Income (Loss)",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": -18612000
+            },
+            {
+                "label": "Total KKR\u00a0& Co. Inc. Stockholders' Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 13716818000
+            },
+            {
+                "label": "Noncontrolling Interests",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 27083098000
+            },
+            {
+                "label": "Total Equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 40799916000
+            },
+            {
+                "label": "Liabilities and Equity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 79806502000
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net Income (Loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 5117598000
+            },
+            {
+                "label": "Granted (in shares)",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 326758000
+            },
+            {
+                "label": "Net Realized (Gains) Losses on Investments",
+                "concept": "kkr:RealizedGainsLossesOnInvestments",
+                "unit": "usd",
+                "value": 162939000
+            },
+            {
+                "label": "Change in Unrealized (Gains) Losses on Investments",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": 3479865000
+            },
+            {
+                "label": "Capital Allocation-Based (Income) Loss",
+                "concept": "kkr:CarriedInterestIncreaseDecrease",
+                "unit": "usd",
+                "value": 2224100000
+            },
+            {
+                "label": "Other Non-Cash Amounts",
+                "concept": "OtherNoncashIncomeExpense",
+                "unit": "usd",
+                "value": 53253000
+            },
+            {
+                "label": "Change in Consolidation and Other",
+                "concept": "kkr:IncreaseDecreaseInConsolidation",
+                "unit": "usd",
+                "value": -8624000
+            },
+            {
+                "label": "Change in Due from / to Affiliates",
+                "concept": "IncreaseDecreaseDueFromAffiliates",
+                "unit": "usd",
+                "value": 214227000
+            },
+            {
+                "label": "Change in Other Assets",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 571336000
+            },
+            {
+                "label": "Change in Accounts Payable, Accrued Expenses and Other Liabilities",
+                "concept": "kkr:IncreaseDecreaseInAccountsPayableAccruedExpensesAndOtherLiabilities",
+                "unit": "usd",
+                "value": 1187516000
+            },
+            {
+                "label": "Investments Purchased",
+                "concept": "kkr:PaymentsToAcquireInvestmentsOperatingActivities",
+                "unit": "usd",
+                "value": 47577486000
+            },
+            {
+                "label": "Proceeds from Investments",
+                "concept": "ProceedsFromSaleOfSecuritiesOperatingActivities",
+                "unit": "usd",
+                "value": 41689017000
+            },
+            {
+                "label": "Net Cash Provided (Used) by Operating Activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -5953693000
+            },
+            {
+                "label": "Purchases of Fixed Assets",
+                "concept": "PaymentsToAcquireFurnitureAndFixtures",
+                "unit": "usd",
+                "value": 142258000
+            },
+            {
+                "label": "Development of Oil and Natural Gas Properties",
+                "concept": "PaymentsToExploreAndDevelopOilAndGasProperties",
+                "unit": "usd",
+                "value": 11128000
+            },
+            {
+                "label": "Proceeds from Sale of Oil and Natural Gas Properties",
+                "concept": "ProceedsFromSaleOfOilAndGasPropertyAndEquipment",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Investing Activities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -153386000
+            },
+            {
+                "label": "Common Stock Dividends",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 297324000
+            },
+            {
+                "label": "Distributions to Redeemable Noncontrolling Interests",
+                "concept": "kkr:PaymentsToNoncontrollingInterestHoldings",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Contributions from Redeemable Noncontrolling Interests",
+                "concept": "kkr:ProceedsFromNoncontrollingInterestHolding",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Distributions to Noncontrolling Interests",
+                "concept": "kkr:PaymentsToNoncontrollingInterestConsolidatedEntities",
+                "unit": "usd",
+                "value": 5160539000
+            },
+            {
+                "label": "Contributions from Noncontrolling Interests",
+                "concept": "kkr:ProceedsFromNoncontrollingInterestConsolidatedEntities",
+                "unit": "usd",
+                "value": 9242255000
+            },
+            {
+                "label": "Issuance of Series C Mandatory Convertible Preferred Stock",
+                "concept": "ProceedsFromIssuanceOfPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 1115792000
+            },
+            {
+                "label": "Net Delivery of Common Stock (Equity Incentive Plans)",
+                "concept": "kkr:PaymentsforNetDeliveryofCommonStock",
+                "unit": "usd",
+                "value": 78317000
+            },
+            {
+                "label": "Repurchases of Common Stock",
+                "concept": "PaymentsForRepurchaseOfCommonStock",
+                "unit": "usd",
+                "value": 246160000
+            },
+            {
+                "label": "Proceeds from Debt Obligations",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt",
+                "unit": "usd",
+                "value": 16620416000
+            },
+            {
+                "label": "Repayment of Debt Obligations",
+                "concept": "RepaymentsOfLongTermDebt",
+                "unit": "usd",
+                "value": 11293648000
+            },
+            {
+                "label": "Financing Costs Paid",
+                "concept": "PaymentsOfFinancingCosts",
+                "unit": "usd",
+                "value": 42216000
+            },
+            {
+                "label": "Net Cash Provided (Used) by Financing Activities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 9803704000
+            },
+            {
+                "label": "Effect of exchange rate changes on cash, cash equivalents and restricted cash",
+                "concept": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+                "unit": "usd",
+                "value": 59416000
+            },
+            {
+                "label": "Net Increase/(Decrease) in Cash, Cash Equivalents and Restricted Cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 3756041000
+            },
+            {
+                "label": "Payments for Interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 1045297000
+            },
+            {
+                "label": "Payments for Income Taxes",
+                "concept": "IncomeTaxesPaidNet",
+                "unit": "usd",
+                "value": 179915000
+            },
+            {
+                "label": "Payments for Operating Lease Liabilities",
+                "concept": "OperatingLeasePayments",
+                "unit": "usd",
+                "value": 54056000
+            },
+            {
+                "label": "Equity-Based and Other Non-Cash Contributions",
+                "concept": "kkr:NoncashContributionsForEquityBasedPayments",
+                "unit": "usd",
+                "value": 327134000
+            },
+            {
+                "label": "Common Stock Issued in Connection with the Purchase of Investments",
+                "concept": "StockIssued1",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Non-Cash Contribution from Noncontrolling Interests",
+                "concept": "kkr:NoncashContributionsfromNoncontrollingInterests",
+                "unit": "usd",
+                "value": 618452000
+            },
+            {
+                "label": "Debt Obligations - Net Gains (Losses), Translation and Other",
+                "concept": "kkr:ForeignExchangeOnDebtObligationsGainLossUnrealized",
+                "unit": "usd",
+                "value": -849179000
+            },
+            {
+                "label": "Transfer of Oil and Gas Interests (See Note 2)",
+                "concept": "kkr:NoncashTransferOfOilAndGasInterest",
+                "unit": "usd",
+                "value": -69027000
+            },
+            {
+                "label": "Tax Effects Resulting from Exchange of KKR Holdings L.P. Units and Other",
+                "concept": "kkr:NetDeferredTaxEffectsResultingFromExchangeOfUnits",
+                "unit": "usd",
+                "value": -9167000
+            },
+            {
+                "label": "Gain (Loss) on Disposition of Oil and Gas Property",
+                "concept": "GainLossOnSaleOfOilAndGasProperty",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Right-of-Use Assets obtained in Exchange for new Operating Lease Liabilities",
+                "concept": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+                "unit": "usd",
+                "value": 79116000
+            },
+            {
+                "label": "Investments",
+                "concept": "kkr:NoncashorPartNoncashDivestitureInvestments",
+                "unit": "usd",
+                "value": 3480000
+            },
+            {
+                "label": "Due From Affiliates",
+                "concept": "kkr:NoncashorPartNoncashDivestitureDuefromAffiliates",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other Assets",
+                "concept": "kkr:NoncashorPartNoncashDivestitureOtherAssets",
+                "unit": "usd",
+                "value": 46892000
+            },
+            {
+                "label": "Debt Obligations",
+                "concept": "kkr:NoncashOrPartNoncashDivestitureDebtObligations",
+                "unit": "usd",
+                "value": 259822000
+            },
+            {
+                "label": "Due to Affiliates",
+                "concept": "kkr:NoncashOrPartNoncashDivestitureDueToAffiliates",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Accounts Payable, Accrued Expenses and Other Liabilities",
+                "concept": "kkr:NoncashorPartNoncashDivestitureAccountsPayableAccruedExpensesandOtherLiabilities",
+                "unit": "usd",
+                "value": 32494000
+            },
+            {
+                "label": "Noncontrolling Interests",
+                "concept": "kkr:NoncashorPartNoncashDivestitureNoncontrollingInterests",
+                "unit": "usd",
+                "value": -239258000
+            },
+            {
+                "label": "Redeemable Noncontrolling Interests",
+                "concept": "kkr:NoncashorPartNoncashDivestitureRedeemableNoncontrollingInterests",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Gain on Asset Contribution",
+                "concept": "kkr:NoncashOrPartNoncashDivestitureGainOnSaleOfInvestment",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Fees and Other",
+                "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+                "unit": "usd",
+                "value": 2006791000
+            },
+            {
+                "label": "Capital Allocation-Based Income (Loss)",
+                "concept": "kkr:CapitalAllocationBasedIncome",
+                "unit": "usd",
+                "value": 2224100000
+            },
+            {
+                "label": "Total Revenues",
+                "concept": "Revenues",
+                "unit": "usd",
+                "value": 4230891000
+            },
+            {
+                "label": "Compensation and Benefits",
+                "concept": "LaborAndRelatedExpense",
+                "unit": "usd",
+                "value": 2152490000
+            },
+            {
+                "label": "Occupancy and Related Charges",
+                "concept": "OperatingLeaseExpense",
+                "unit": "usd",
+                "value": 72100000
+            },
+            {
+                "label": "General, Administrative and Other",
+                "concept": "kkr:GeneralAdministrativeAndOtherExpense",
+                "unit": "usd",
+                "value": 708542000
+            },
+            {
+                "label": "Expenses",
+                "concept": "NoninterestExpense",
+                "unit": "usd",
+                "value": 2933132000
+            },
+            {
+                "label": "Net Gains (Losses) from Investment Activities",
+                "concept": "kkr:GainLossFromInvestmentActivitiesNet",
+                "unit": "usd",
+                "value": 3642804000
+            },
+            {
+                "label": "Dividend Income",
+                "concept": "InvestmentIncomeDividend",
+                "unit": "usd",
+                "value": 352563000
+            },
+            {
+                "label": "Investment Related Revenues",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 1403440000
+            },
+            {
+                "label": "Interest Expense",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 969871000
+            },
+            {
+                "label": "Total Investment Income (Loss)",
+                "concept": "kkr:InvestmentIncomeLoss",
+                "unit": "usd",
+                "value": 4428936000
+            },
+            {
+                "label": "Income (Loss) Before Taxes",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 5726695000
+            },
+            {
+                "label": "Income Tax Expense (Benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 609097000
+            },
+            {
+                "label": "Net Income (Loss)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 5117598000
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Redeemable Noncontrolling Interests",
+                "concept": "NetIncomeLossAttributableToRedeemableNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Noncontrolling Interests",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3115089000
+            },
+            {
+                "label": "Net Income (Loss) Available to KKR & Co. Inc. Common Stockholders - Diluted",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 2002509000
+            },
+            {
+                "label": "Foreign Currency Translation Adjustments",
+                "concept": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": 32658000
+            },
+            {
+                "label": "Comprehensive Income (Loss)",
+                "concept": "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 5150256000
+            },
+            {
+                "label": "Comprehensive Income (Loss) Attributable to Redeemable Noncontrolling Interests",
+                "concept": "kkr:ComprehensiveIncomeNetOfTaxAttributableToRedeemableNoncontrollingInterest",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Comprehensive Income (Loss) Attributable to Noncontrolling Interests",
+                "concept": "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 3123188000
+            },
+            {
+                "label": "Comprehensive Income (Loss)",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 2027068000
+            }
+        ]
+    }
+}

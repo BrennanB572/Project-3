@@ -1,0 +1,537 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "NYMT",
+    "data": {
+        "bs": [
+            {
+                "label": "Investment securities available for sale, at fair value",
+                "concept": "nymt:DebtSecuritiesAvailableForSaleIncludingFairValueOption",
+                "unit": "usd",
+                "value": 596295000
+            },
+            {
+                "label": "Fair Value",
+                "concept": "EquityMethodInvestments",
+                "unit": "usd",
+                "value": 260065000
+            },
+            {
+                "label": "Cash and cash equivalents",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 290977000
+            },
+            {
+                "label": "Other assets",
+                "concept": "OtherAssets",
+                "unit": "usd",
+                "value": 220719000
+            },
+            {
+                "label": "ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 4726174000
+            },
+            {
+                "label": "Convertible notes, estimated fair value",
+                "concept": "ConvertibleDebt",
+                "unit": "usd",
+                "value": 135954000
+            },
+            {
+                "label": "Subordinated debentures",
+                "concept": "SubordinatedDebt",
+                "unit": "usd",
+                "value": 45000000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "OtherLiabilities",
+                "unit": "usd",
+                "value": 167710000
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 2411823000
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred stock, par value $0.01 per share, 30,900,000 shares authorized, 20,872,888 shares issued and outstanding ($521,822 aggregate liquidation preference)",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": 504765000
+            },
+            {
+                "label": "Common stock, par value $0.01 per share, 800,000,000 shares authorized, 379,272,504 and 377,744,476 shares issued and outstanding as of March\u00a031, 2021 and December\u00a031, 2020, respectively",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 3793000
+            },
+            {
+                "label": "Additional Paid-In Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 2343912000
+            },
+            {
+                "label": "Accumulated other comprehensive income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 3874000
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -547491000
+            },
+            {
+                "label": "Stockholders' Equity Note [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 2308853000
+            },
+            {
+                "label": "Decrease in non-controlling interest related to distributions from Consolidated VIEs",
+                "concept": "MinorityInterest",
+                "unit": "usd",
+                "value": 5498000
+            },
+            {
+                "label": "Total equity",
+                "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": 2314351000
+            },
+            {
+                "label": "LIABILITIES AND STOCKHOLDERS' EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 4726174000
+            }
+        ],
+        "cf": [
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 50799000
+            },
+            {
+                "label": "Net amortization (accretion)",
+                "concept": "AccretionAmortizationOfDiscountsAndPremiumsInvestments",
+                "unit": "usd",
+                "value": -10530000
+            },
+            {
+                "label": "Realized gains (losses), net",
+                "concept": "GainLossOnSaleOfOtherInvestments",
+                "unit": "usd",
+                "value": 7058000
+            },
+            {
+                "label": "Realized loss on de-consolidation of Consolidated K-Series",
+                "concept": "DeconsolidationGainOrLossAmount",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Unrealized gains (losses), net",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": 26166000
+            },
+            {
+                "label": "Impairment of goodwill",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Impairment of real estate under development in Consolidated VIEs",
+                "concept": "ImpairmentLossesRelatedToRealEstatePartnerships",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Income from preferred equity, mezzanine loan and equity investments",
+                "concept": "nymt:IncomeLossFromEquityMethodInvestmentsPreferredEquityAndMezzanineLoan",
+                "unit": "usd",
+                "value": 8371000
+            },
+            {
+                "label": "Distributions of income from preferred equity, mezzanine loan and equity investments",
+                "concept": "EquityMethodInvestmentDividendsOrDistributions",
+                "unit": "usd",
+                "value": 7549000
+            },
+            {
+                "label": "Granted (in shares)",
+                "concept": "ShareBasedCompensation",
+                "unit": "usd",
+                "value": 994000
+            },
+            {
+                "label": "Changes in operating assets and liabilities:",
+                "concept": "IncreaseDecreaseInOtherOperatingAssets",
+                "unit": "usd",
+                "value": 6100000
+            },
+            {
+                "label": "Other liabilities",
+                "concept": "IncreaseDecreaseInOtherOperatingLiabilities",
+                "unit": "usd",
+                "value": 2966000
+            },
+            {
+                "label": "Net cash provided by operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": 25143000
+            },
+            {
+                "label": "Proceeds from sales of investment securities",
+                "concept": "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 111628000
+            },
+            {
+                "label": "Principal paydowns received on investment securities",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities",
+                "unit": "usd",
+                "value": 21682000
+            },
+            {
+                "label": "Purchases of investment securities",
+                "concept": "PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+                "unit": "usd",
+                "value": 5926000
+            },
+            {
+                "label": "Principal repayments received on preferred equity and mezzanine loan investments",
+                "concept": "ProceedsFromSaleOfEquityMethodInvestments",
+                "unit": "usd",
+                "value": 11875000
+            },
+            {
+                "label": "Return of capital from equity investments",
+                "concept": "ProceedsFromEquityMethodInvestmentDividendsOrDistributionsReturnOfCapital",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Funding of preferred equity, mezzanine loan and equity investments",
+                "concept": "PaymentsToAcquireEquityMethodInvestments",
+                "unit": "usd",
+                "value": 161000
+            },
+            {
+                "label": "Funding of joint venture investment in Consolidated VIE",
+                "concept": "PaymentsToAcquireInterestInJointVenture",
+                "unit": "usd",
+                "value": 10250000
+            },
+            {
+                "label": "Net payments made on derivative instruments settled during the period",
+                "concept": "PaymentsForProceedsFromDerivativeInstrumentInvestingActivities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Proceeds from sale of real estate owned",
+                "concept": "ProceedsFromSaleOfRealEstateHeldforinvestment",
+                "unit": "usd",
+                "value": 1637000
+            },
+            {
+                "label": "Cash received from initial consolidation of VIEs",
+                "concept": "CashAcquiredFromAcquisition",
+                "unit": "usd",
+                "value": 1751000
+            },
+            {
+                "label": "Capital expenditures on operating real estate in Consolidated VIEs",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+                "unit": "usd",
+                "value": 827000
+            },
+            {
+                "label": "Distributions to non-controlling interest in Consolidated VIEs",
+                "concept": "nymt:PaymentForDistributionsToNoncontrollingInterestInVariableInterestEntities",
+                "unit": "usd",
+                "value": 3000
+            },
+            {
+                "label": "Purchases of other assets",
+                "concept": "PaymentsToAcquireOtherInvestments",
+                "unit": "usd",
+                "value": 18000
+            },
+            {
+                "label": "Cash Flows from Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -28512000
+            },
+            {
+                "label": "Net proceeds from (payments made on) repurchase agreements",
+                "concept": "ProceedsFromPaymentsForInSecuritiesSoldUnderAgreementsToRepurchase",
+                "unit": "usd",
+                "value": 130748000
+            },
+            {
+                "label": "Common stock issuance, net",
+                "concept": "ProceedsFromIssuanceOfCommonStock",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Dividends paid on common stock and dividend equivalents",
+                "concept": "PaymentsOfDividendsCommonStock",
+                "unit": "usd",
+                "value": 37808000
+            },
+            {
+                "label": "Dividends paid on preferred stock",
+                "concept": "PaymentsOfDividendsPreferredStockAndPreferenceStock",
+                "unit": "usd",
+                "value": 10297000
+            },
+            {
+                "label": "Payments made on and extinguishment of collateralized debt obligations",
+                "concept": "nymt:RepaymentOfCollateralizedDebtResidential",
+                "unit": "usd",
+                "value": 35834000
+            },
+            {
+                "label": "Payments made on Consolidated K-Series CDOs",
+                "concept": "nymt:RepaymentOfCollateralizedDebtMultifamily",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Payments made on Consolidated SLST CDOs",
+                "concept": "RepaymentsOfSecuredDebt",
+                "unit": "usd",
+                "value": 27299000
+            },
+            {
+                "label": "Cash Flows from Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 19510000
+            },
+            {
+                "label": "Net Increase in Cash, Cash Equivalents and Restricted Cash",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 16141000
+            },
+            {
+                "label": "Cash paid for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": 19304000
+            },
+            {
+                "label": "Cash paid for income taxes",
+                "concept": "IncomeTaxesPaid",
+                "unit": "usd",
+                "value": 2000
+            },
+            {
+                "label": "Sales of investment securities not yet settled",
+                "concept": "TransferOfInvestments",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Transfer from residential loans to real estate owned",
+                "concept": "TransferToOtherRealEstate",
+                "unit": "usd",
+                "value": 1684000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Interest income",
+                "concept": "InterestAndDividendIncomeOperating",
+                "unit": "usd",
+                "value": 50039000
+            },
+            {
+                "label": "Subordinated debentures",
+                "concept": "InterestExpense",
+                "unit": "usd",
+                "value": 19699000
+            },
+            {
+                "label": "Total net interest income",
+                "concept": "InterestIncomeExpenseNet",
+                "unit": "usd",
+                "value": 30340000
+            },
+            {
+                "label": "Realized gains (losses), net",
+                "concept": "GainLossOnSaleOfOtherInvestments",
+                "unit": "usd",
+                "value": 7058000
+            },
+            {
+                "label": "Realized loss on de-consolidation of Consolidated K-Series",
+                "concept": "DeconsolidationGainOrLossAmount",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Unrealized gains (losses), net",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": 26166000
+            },
+            {
+                "label": "Income from equity investments",
+                "concept": "IncomeLossFromEquityMethodInvestments",
+                "unit": "usd",
+                "value": 3399000
+            },
+            {
+                "label": "Impairment of goodwill",
+                "concept": "GoodwillImpairmentLoss",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Other income",
+                "concept": "NoninterestIncomeOther",
+                "unit": "usd",
+                "value": 3097000
+            },
+            {
+                "label": "Total non-interest income (loss)",
+                "concept": "OtherOperatingIncomeExpenseNet",
+                "unit": "usd",
+                "value": 39720000
+            },
+            {
+                "label": "GENERAL, ADMINISTRATIVE AND OPERATING EXPENSES:",
+                "concept": "GeneralAndAdministrativeExpense",
+                "unit": "usd",
+                "value": 11441000
+            },
+            {
+                "label": "Operating expenses",
+                "concept": "OtherCostAndExpenseOperating",
+                "unit": "usd",
+                "value": 7754000
+            },
+            {
+                "label": "Total general, administrative and operating expenses",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 19195000
+            },
+            {
+                "label": "INCOME (LOSS) FROM OPERATIONS BEFORE INCOME TAXES",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": 50865000
+            },
+            {
+                "label": "Income tax expense (benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 66000
+            },
+            {
+                "label": "NET INCOME (LOSS)",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": 50799000
+            },
+            {
+                "label": "Net loss attributable to non-controlling interest in consolidated variable interest entities",
+                "concept": "NetIncomeLossAttributableToNoncontrollingInterest",
+                "unit": "usd",
+                "value": -1409000
+            },
+            {
+                "label": "NET INCOME (LOSS) ATTRIBUTABLE TO COMPANY'S COMMON STOCKHOLDERS",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 52208000
+            },
+            {
+                "label": "Preferred stock dividends",
+                "concept": "PreferredStockDividendsIncomeStatementImpact",
+                "unit": "usd",
+                "value": 10297000
+            },
+            {
+                "label": "NET INCOME (LOSS) ATTRIBUTABLE TO COMPANY'S COMMON STOCKHOLDERS",
+                "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+                "unit": "usd",
+                "value": 41911000
+            },
+            {
+                "label": "Basic earnings (loss) per common share (in dollars per share)",
+                "concept": "EarningsPerShareBasic",
+                "unit": "usd/shares",
+                "value": 0.11
+            },
+            {
+                "label": "Earnings Per Share, Diluted, by Common Class, Including Two Class Method [Line Items]",
+                "concept": "EarningsPerShareDiluted",
+                "unit": "usd/shares",
+                "value": 0.11
+            },
+            {
+                "label": "Weighted average shares outstanding-basic (in shares)",
+                "concept": "WeightedAverageNumberOfSharesOutstandingBasic",
+                "unit": "shares",
+                "value": 378881000
+            },
+            {
+                "label": "Weighted average shares outstanding-diluted (in shares)",
+                "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+                "unit": "shares",
+                "value": 380815000
+            },
+            {
+                "label": "Increase (decrease) in fair value of available for sale securities",
+                "concept": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+                "unit": "usd",
+                "value": 638000
+            },
+            {
+                "label": "Reclassification adjustment for net loss (gain) included in net income (loss)",
+                "concept": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+                "unit": "usd",
+                "value": -2242000
+            },
+            {
+                "label": "TOTAL OTHER COMPREHENSIVE INCOME (LOSS)",
+                "concept": "OtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 2880000
+            },
+            {
+                "label": "COMPREHENSIVE INCOME (LOSS) ATTRIBUTABLE TO COMPANY'S COMMON STOCKHOLDERS",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": 44791000
+            }
+        ]
+    }
+}

@@ -1,0 +1,303 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "CCVI",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash held outside the Trust Account",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 2263852
+            },
+            {
+                "label": "Prepaid Expense, Current",
+                "concept": "PrepaidExpenseCurrent",
+                "unit": "usd",
+                "value": 1143099
+            },
+            {
+                "label": "Assets, Current [Abstract]",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 3406951
+            },
+            {
+                "label": "Marketable securities held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 552009660
+            },
+            {
+                "label": "Assets [Abstract]",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 555416611
+            },
+            {
+                "label": "Accounts Payable and Accrued Liabilities",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 55000
+            },
+            {
+                "label": "Financial Instruments Subject to Mandatory Redemption, Settlement Terms, Fair Value of Shares",
+                "concept": "SharesSubjectToMandatoryRedemptionSettlementTermsFairValueOfShares",
+                "unit": "usd",
+                "value": 28260000
+            },
+            {
+                "label": "The carrying value as of balance sheet date of underwriting fees payable or deferred, classified as noncurrent.",
+                "concept": "ccvi:DeferredOfferingCostsNoncurrent",
+                "unit": "usd",
+                "value": 19320000
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 47635000
+            },
+            {
+                "label": "Commitments and Contingencies",
+                "concept": "CommitmentsAndContingencies",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Preferred Stock, Value, Issued",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Additional Paid in Capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 9137210
+            },
+            {
+                "label": "Retained Earnings (Accumulated Deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -4139081
+            },
+            {
+                "label": "Stockholders' Equity Attributable to Parent [Abstract]",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000001
+            },
+            {
+                "label": "Liabilities and Equity [Abstract]",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 555416611
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "ProfitLoss",
+                "unit": "usd",
+                "value": -4138081
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 10987
+            },
+            {
+                "label": "Unrealized Gain (Loss) on Investments",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": -1327
+            },
+            {
+                "label": "Change in fair value of warrant liabilities.",
+                "concept": "ccvi:ChangeInFairValueOfWarrantLiabilities",
+                "unit": "usd",
+                "value": 3400800
+            },
+            {
+                "label": "Amount of offering costs allocated to warrant liabilities.",
+                "concept": "ccvi:OfferingCostsAllocableToWarrantLiabilities",
+                "unit": "usd",
+                "value": 598246
+            },
+            {
+                "label": "Increase (Decrease) in Prepaid Expense",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": 1143099
+            },
+            {
+                "label": "Increase (Decrease) in Accrued Liabilities",
+                "concept": "IncreaseDecreaseInAccruedLiabilities",
+                "unit": "usd",
+                "value": 49000
+            },
+            {
+                "label": "Cash Flows from Operating Activities:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -1242794
+            },
+            {
+                "label": "The amount of cash outflow for investment of cash in trust account.",
+                "concept": "ccvi:PaymentsForInvestmentOfCashInTrustAccount",
+                "unit": "usd",
+                "value": 552000000
+            },
+            {
+                "label": "Cash Flows from Investing Activities:",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -552000000
+            },
+            {
+                "label": "The cash inflow associated with the amount received from entity's first offering of stock to the public, net of underwriting discounts paid.",
+                "concept": "ccvi:NetProceedsFromInitialPublicOffering",
+                "unit": "usd",
+                "value": 541952000
+            },
+            {
+                "label": "Proceeds from Issuance of Warrants",
+                "concept": "ProceedsFromIssuanceOfWarrants",
+                "unit": "usd",
+                "value": 14040000
+            },
+            {
+                "label": "Proceeds from Related Party Debt",
+                "concept": "ProceedsFromRelatedPartyDebt",
+                "unit": "usd",
+                "value": 175000
+            },
+            {
+                "label": "Repayments of Related Party Debt",
+                "concept": "RepaymentsOfRelatedPartyDebt",
+                "unit": "usd",
+                "value": 175000
+            },
+            {
+                "label": "Payments of Stock Issuance Costs",
+                "concept": "PaymentsOfStockIssuanceCosts",
+                "unit": "usd",
+                "value": 510354
+            },
+            {
+                "label": "Cash Flows from Financing Activities:",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 555481646
+            },
+            {
+                "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 2238852
+            },
+            {
+                "label": "The amount of offering costs included in accounts payable or accrued expenses that were incurred during a noncash or partial noncash transaction.",
+                "concept": "ccvi:OfferingCostsIncludedInAccountsPayableAccruedExpenses",
+                "unit": "usd",
+                "value": 5000
+            },
+            {
+                "label": "Amount of initial classification of common stock subject to possible redemption, classified as non-cash investing and financing activity.",
+                "concept": "ccvi:InitialClassificationOfCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 506321440
+            },
+            {
+                "label": "Change in value of Class A common stock subject to possible redemption.",
+                "concept": "ccvi:ChangeInValueOfClassCommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": -3539830
+            },
+            {
+                "label": "Amount of underwriting fee payable deferred during the period, classified as non-cash investing and financing activity.",
+                "concept": "ccvi:DeferredUnderwritingFeePayable",
+                "unit": "usd",
+                "value": 19320000
+            }
+        ],
+        "ic": [
+            {
+                "label": "Formation and operating costs",
+                "concept": "OperatingCostsAndExpenses",
+                "unit": "usd",
+                "value": 148695
+            },
+            {
+                "label": "Operating Income (Loss)",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -148695
+            },
+            {
+                "label": "Fair Value Adjustment of Warrants",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": 3400800
+            },
+            {
+                "label": "Amount of expense related to transactions costs of private placement and public warrants",
+                "concept": "ccvi:TransactionCostsRelatedToShareAndWarrantIssuance",
+                "unit": "usd",
+                "value": 598246
+            },
+            {
+                "label": "Investment Income, Interest",
+                "concept": "InvestmentIncomeInterest",
+                "unit": "usd",
+                "value": 10987
+            },
+            {
+                "label": "Unrealized Gain (Loss) on Investments",
+                "concept": "UnrealizedGainLossOnInvestments",
+                "unit": "usd",
+                "value": -1327
+            },
+            {
+                "label": "Other income:",
+                "concept": "NonoperatingIncomeExpense",
+                "unit": "usd",
+                "value": -3989386
+            },
+            {
+                "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+                "concept": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+                "unit": "usd",
+                "value": -4138081
+            },
+            {
+                "label": "Income Tax Expense (Benefit)",
+                "concept": "IncomeTaxExpenseBenefit",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Net Income (Loss) Attributable to Parent",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -4138081
+            },
+            {
+                "label": "Weighted Average Number of Shares Outstanding, Basic and Diluted",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 14971666
+            },
+            {
+                "label": "Earnings Per Share, Basic and Diluted",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.28
+            }
+        ]
+    }
+}

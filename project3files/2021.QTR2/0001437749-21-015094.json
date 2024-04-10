@@ -1,0 +1,273 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "IRNS",
+    "data": {
+        "bs": [
+            {
+                "label": "Cash",
+                "concept": "irns:CashOverdrafts",
+                "unit": "usd",
+                "value": 117077
+            },
+            {
+                "label": "Marketable securities",
+                "concept": "MarketableSecurities",
+                "unit": "usd",
+                "value": 545358
+            },
+            {
+                "label": "Non-marketable securities",
+                "concept": "RestrictedInvestments",
+                "unit": "usd",
+                "value": 2753489
+            },
+            {
+                "label": "us-gaap_Assets",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 3415923
+            },
+            {
+                "label": "Accounts payable and accrued expenses",
+                "concept": "AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 159903
+            },
+            {
+                "label": "Line of Credit [Member]",
+                "concept": "LineOfCredit",
+                "unit": "usd",
+                "value": 350000
+            },
+            {
+                "label": "Notes Payable, Other Payables [Member]",
+                "concept": "NotesPayable",
+                "unit": "usd",
+                "value": 2161881
+            },
+            {
+                "label": "Note payable - related party",
+                "concept": "NotesPayableRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 624313
+            },
+            {
+                "label": "Interest payable - related party",
+                "concept": "AccountsPayableRelatedPartiesCurrentAndNoncurrent",
+                "unit": "usd",
+                "value": 147134
+            },
+            {
+                "label": "us-gaap_Liabilities",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 3443232
+            },
+            {
+                "label": "Preferred stock, $0.01 par value, 5,000,000 shares authorized, no shares issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Common stock, $0.01 par value, 25,000,000 shares authorized, of which 2,937,225 shares are issued and outstanding as of March 31, 2021 and December 31, 2020",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 29372
+            },
+            {
+                "label": "Additional paid-in capital",
+                "concept": "AdditionalPaidInCapital",
+                "unit": "usd",
+                "value": 21839083
+            },
+            {
+                "label": "Accumulated deficit",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": -23056722
+            },
+            {
+                "label": "Accumulated other comprehensive Income",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+                "unit": "usd",
+                "value": 1683532
+            },
+            {
+                "label": "us-gaap_StockholdersEquityBeforeTreasuryStock",
+                "concept": "StockholdersEquityBeforeTreasuryStock",
+                "unit": "usd",
+                "value": 495265
+            },
+            {
+                "label": "us-gaap_TreasuryStockValueAcquiredCostMethod",
+                "concept": "TreasuryStockValue",
+                "unit": "usd",
+                "value": 522574
+            },
+            {
+                "label": "us-gaap_StockholdersEquityNoteStockSplitConversionRatio1",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": -27309
+            },
+            {
+                "label": "us-gaap_LiabilitiesAndStockholdersEquity",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 3415923
+            }
+        ],
+        "cf": [
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -79398
+            },
+            {
+                "label": "irns_IncreaseDecreaseInAccountsPayableAndAccruedLiabilitiesExcludingInterestPayable",
+                "concept": "irns:IncreaseDecreaseInAccountsPayableAndAccruedLiabilitiesExcludingInterestPayable",
+                "unit": "usd",
+                "value": 5858
+            },
+            {
+                "label": "Interest payable",
+                "concept": "IncreaseDecreaseInInterestPayableNet",
+                "unit": "usd",
+                "value": 54949
+            },
+            {
+                "label": "us-gaap_IncreaseDecreaseInAccountsPayableRelatedParties",
+                "concept": "IncreaseDecreaseInAccountsPayableRelatedParties",
+                "unit": "usd",
+                "value": 7841
+            },
+            {
+                "label": "CASH FLOWS FROM OPERATING ACTIVITIES:",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -10750
+            },
+            {
+                "label": "Proceeds from issuance of notes payable",
+                "concept": "ProceedsFromNotesPayable",
+                "unit": "usd",
+                "value": 306688
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInFinancingActivities",
+                "concept": "NetCashProvidedByUsedInFinancingActivities",
+                "unit": "usd",
+                "value": 306688
+            },
+            {
+                "label": "Investment in marketable securities mark-to-market",
+                "concept": "ProceedsFromSaleAndMaturityOfMarketableSecurities",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "us-gaap_PaymentsToAcquireRestrictedInvestments",
+                "concept": "PaymentsToAcquireRestrictedInvestments",
+                "unit": "usd",
+                "value": 178824
+            },
+            {
+                "label": "us-gaap_NetCashProvidedByUsedInInvestingActivities",
+                "concept": "NetCashProvidedByUsedInInvestingActivities",
+                "unit": "usd",
+                "value": -178824
+            },
+            {
+                "label": "us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+                "unit": "usd",
+                "value": 117114
+            },
+            {
+                "label": "Cash paid during the period for interest",
+                "concept": "InterestPaidNet",
+                "unit": "usd",
+                "value": "N/A"
+            }
+        ],
+        "ic": [
+            {
+                "label": "Professional fees",
+                "concept": "ProfessionalFees",
+                "unit": "usd",
+                "value": 2608
+            },
+            {
+                "label": "State and local taxes",
+                "concept": "CurrentStateAndLocalTaxExpenseBenefit",
+                "unit": "usd",
+                "value": 7349
+            },
+            {
+                "label": "General and administrative expenses",
+                "concept": "irns:GeneralAndAdministrativeExpenseIncome",
+                "unit": "usd",
+                "value": -39
+            },
+            {
+                "label": "Operating expenses:",
+                "concept": "OperatingExpenses",
+                "unit": "usd",
+                "value": 9918
+            },
+            {
+                "label": "us-gaap_OperatingIncomeLoss",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -9918
+            },
+            {
+                "label": "us-gaap_InterestExpenseDebt",
+                "concept": "InterestExpenseDebt",
+                "unit": "usd",
+                "value": 61637
+            },
+            {
+                "label": "us-gaap_InterestExpenseRelatedParty",
+                "concept": "InterestExpenseRelatedParty",
+                "unit": "usd",
+                "value": 7843
+            },
+            {
+                "label": "Net loss",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": -79398
+            },
+            {
+                "label": "Unrealized holding gain (loss) arising during the period",
+                "concept": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "COMPREHENSIVE LOSS, NET OF TAX:",
+                "concept": "ComprehensiveIncomeNetOfTax",
+                "unit": "usd",
+                "value": -79398
+            },
+            {
+                "label": "Net loss per share (in dollars per share)",
+                "concept": "EarningsPerShareBasicAndDiluted",
+                "unit": "usd/shares",
+                "value": -0.04
+            },
+            {
+                "label": "Shares outstanding (in shares)",
+                "concept": "WeightedAverageNumberOfShareOutstandingBasicAndDiluted",
+                "unit": "shares",
+                "value": 2191689
+            }
+        ]
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "startDate": "2021-01-01",
+    "endDate": "2021-03-31",
+    "year": "2021",
+    "quarter": "Q1",
+    "symbol": "CTAQ",
+    "data": {
+        "bs": [
+            {
+                "label": "Preferred stock, $0.0001 par value; 1,000,000 shares authorized; none issued and outstanding",
+                "concept": "PreferredStockValue",
+                "unit": "usd",
+                "value": "N/A"
+            },
+            {
+                "label": "Total Stockholders\u2019 Equity",
+                "concept": "StockholdersEquity",
+                "unit": "usd",
+                "value": 5000005
+            },
+            {
+                "label": "Warrant liability",
+                "concept": "DerivativeLiabilities",
+                "unit": "usd",
+                "value": 11384834
+            },
+            {
+                "label": "Class A common stock subject to possible redemption, 37,222,675 and 36,598,327 shares at $10.00 per share as of March 31, 2021 and December 31, 2020, respectively",
+                "concept": "RedeemableNoncontrollingInterestEquityCommonCarryingAmount",
+                "unit": "usd",
+                "value": 372226750
+            },
+            {
+                "label": "",
+                "concept": "CashAndCashEquivalentsAtCarryingValue",
+                "unit": "usd",
+                "value": 644827
+            },
+            {
+                "label": "TOTAL ASSETS",
+                "concept": "Assets",
+                "unit": "usd",
+                "value": 403832888
+            },
+            {
+                "label": "TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY",
+                "concept": "LiabilitiesAndStockholdersEquity",
+                "unit": "usd",
+                "value": 403832888
+            },
+            {
+                "label": "Total Current Assets",
+                "concept": "AssetsCurrent",
+                "unit": "usd",
+                "value": 1290213
+            },
+            {
+                "label": "Deferred underwriting fee payable",
+                "concept": "DeferredCompensationLiabilityClassifiedNoncurrent",
+                "unit": "usd",
+                "value": 15137500
+            },
+            {
+                "label": "Class A common stock, $0.0001 par value; 200,000,000 shares authorized; 3,927,325 and 4,551,673 shares issued and outstanding (excluding 37,222,675 shares and 36,598,327 subject to possible redemption) at March 31, 2021 and December 31, 2020, respectively.",
+                "concept": "CommonStockValue",
+                "unit": "usd",
+                "value": 393
+            },
+            {
+                "label": "Class B common stock, $0.0001 par value; 20,000,000 shares authorized; 10,062,500 shares issued and outstanding at March 31, 2021 and December 31, 2020",
+                "concept": "ctaq:CommonStockValueOne",
+                "unit": "usd",
+                "value": 1006
+            },
+            {
+                "label": "Current liabilities - accrued expenses",
+                "concept": "AccountsPayableAndOtherAccruedLiabilitiesCurrent",
+                "unit": "usd",
+                "value": 83799
+            },
+            {
+                "label": "Retained earnings/(Accumulated deficit)",
+                "concept": "RetainedEarningsAccumulatedDeficit",
+                "unit": "usd",
+                "value": 4998606
+            },
+            {
+                "label": "Investment and marketable securities held in Trust Account",
+                "concept": "AssetsHeldInTrustNoncurrent",
+                "unit": "usd",
+                "value": 402542675
+            },
+            {
+                "label": "TOTAL LIABILITIES",
+                "concept": "Liabilities",
+                "unit": "usd",
+                "value": 26606133
+            }
+        ],
+        "cf": [
+            {
+                "label": "Interest earned on marketable securities held in Trust Account",
+                "concept": "MarketableSecuritiesGainLoss",
+                "unit": "usd",
+                "value": 35544
+            },
+            {
+                "label": "Change in fair value of warrant liabilities",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -6446833
+            },
+            {
+                "label": "Prepaid expenses",
+                "concept": "IncreaseDecreaseInPrepaidExpense",
+                "unit": "usd",
+                "value": -55481
+            },
+            {
+                "label": "Net cash used in operating activities",
+                "concept": "NetCashProvidedByUsedInOperatingActivities",
+                "unit": "usd",
+                "value": -190381
+            },
+            {
+                "label": "Net Change in Cash",
+                "concept": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+                "unit": "usd",
+                "value": -190381
+            },
+            {
+                "label": "Change in value of Class A common stock subject to possible redemption",
+                "concept": "ctaq:ChangeInValueOfClassACommonStockSubjectToPossibleRedemption",
+                "unit": "usd",
+                "value": 6243480
+            },
+            {
+                "label": "",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 6243479
+            }
+        ],
+        "ic": [
+            {
+                "label": "Loss from operations",
+                "concept": "OperatingIncomeLoss",
+                "unit": "usd",
+                "value": -238898
+            },
+            {
+                "label": "Net income",
+                "concept": "NetIncomeLoss",
+                "unit": "usd",
+                "value": 6243479
+            },
+            {
+                "label": "Weighted average shares outstanding of Class A and B non-redeemable common stock (in Shares)",
+                "concept": "ctaq:WeightedAverageSharesOutstandingNonredeemableCommonStockinShares",
+                "unit": "shares",
+                "value": 10962500
+            },
+            {
+                "label": "",
+                "concept": "FairValueAdjustmentOfWarrants",
+                "unit": "usd",
+                "value": -6446833
+            },
+            {
+                "label": "Interest earned on marketable securities held in Trust Account",
+                "concept": "InterestIncomeSecuritiesOtherUSGovernment",
+                "unit": "usd",
+                "value": 35544
+            },
+            {
+                "label": "Weighted average shares outstanding of Class A redeemable common stock (in Shares)",
+                "concept": "ctaq:WeightedAverageSharesOutstandingCommonStockSubjectToPossibleRede",
+                "unit": "shares",
+                "value": 40250000
+            },
+            {
+                "label": "Basic and diluted net income per share, Class A and B non-redeemable common stock (in Dollars per share)",
+                "concept": "ctaq:BasicAndDilutedNetLossPerShareNonredeemableCommonStockinDollarsPerShare",
+                "unit": "usd/shares",
+                "value": 0.57
+            }
+        ]
+    }
+}
