@@ -33,5 +33,7 @@ for company_id in company_ids:
     company_info = get_company_data(company_id)
     current_df = pd.DataFrame(company_info)
     data_df = pd.concat([data_df, current_df], ignore_index=True)
+
     data_df.to_csv("./company_info.csv")
             
+
