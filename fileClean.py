@@ -13,14 +13,14 @@ def get_company_data(company_id):
         folder_path = os.path.join(local_dir, folder)
         for file in os.listdir(folder_path):
             if file.startswith(company_id):
-                entry = {}
                 f = open(os.path.join(folder_path, file))
                 filedata = json.load(f)
-                entry["symbol"] = filedata["symbol"]
-                entry["quarter"] = filedata["quarter"]
-                entry["year"] = filedata["year"]
                 bs = filedata["data"]["bs"]
                 for item in bs:
+                    entry = {}
+                    entry["symbol"] = filedata["symbol"]
+                    entry["quarter"] = filedata["quarter"]
+                    entry["year"] = filedata["year"]
                     entry["label"] = item["label"]
                     entry["concept"] = item["concept"]
                     entry["unit"] = item["unit"]
