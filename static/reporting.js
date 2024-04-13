@@ -37,8 +37,9 @@ function plotStockData(stockData) {
         showlegend: false,
         xaxis: {
             title: 'Close Date',
-            type: 'date',
-            tickformat: '%Y-%m-%d'
+            //range: ['2017-07-13', '2022-06-20'],
+            tickformat: '%Y-%m-%d',
+            type: 'date'
         },
         yaxis: {
             title: 'Stock Price ($)'
