@@ -1,86 +1,109 @@
+// Array of companies included in project
 companies = [
     {name:"Becton Dickson", symbol:"BDX"}, 
     {name:"American Express",symbol:"AXP"}, 
     {name:"Sky Works Solutions", symbol:"SWKS"}, 
-    {name: "Aflac", symbol:"AFL"},
+    {name:"Aflac", symbol:"AFL"},
     {name:"Astronics Corp", symbol:"ATRO"}
 ]
 
+// Receives the selected company and creates the charts and info card
 function optionChanged(symbol) {
     let companyData = data["data"].filter((object) => object["symbol"] == symbol);
-    
-    plotPieData(companyData);
+    let stocks = stock_data["data"].filter((object) => object["company"] == symbol);
+
+    showCompanyInfo(companyData[0]);
     plotLineData(companyData);
+    plotStockData(stocks);
 };
 
-
-function plotPieData(companyData) {
-    let data2017 = companyData.filter((object) => (object["year"] == 2018 && object["quarter"] == "Q1"));
-    let values17 = data2017.map(a => a.entry_value);
-    let labels17 = data2017.map(a => a.entry_label);
-
-    let data2022 = companyData.filter((object) => (object["year"] == 2021 && object["quarter"] == "Q1"));
-    let values22 = data2022.map(a => a.entry_value);
-    let labels22 = data2022.map(a => a.entry_label);
-
-    let pieData = [{
-            values: values17,
-            labels: labels17,
-            type: 'pie',
-            domain: {column: 0},
-            name: "Q1 2017",
-            hoverinfo: 'label+value',
-            textposition: 'inside',
-            hole: .4
+// Creates comparative pie charts for balance sheet distribution pre- and post-pandemic
+function plotStockData(stockData) {
+    
+    let stockValues = stockData.map(a => a.Close);
+    //let stockLabels = stockData.map(a => new Date(a.Date).toDateString());
+    let stockLabels = stockData.map(a => a.Date);
+    console.log(stockValues);
+    console.log(stockLabels);
+    let lineData = [{
+            y: stockValues,
+            X: stockLabels,
+            type: 'scatter'
         },
-        {
-            values: values22,
-            labels: labels22,
-            type: 'pie',
-            domain: {column: 1},
-            name: "Q1 2022",
-            hoverinfo: 'label+value',
-            textposition: 'inside',
-            hole: .4
-        }
     ];
     
     let layout = {
-        title: "Balance Sheet Breakdown, FY 2017/2022",
-        height: 480,
-        width: 800,
+        title: "Stock Performance 2017/2022",
         showlegend: false,
-        grid: {rows: 1, columns: 2},
-        annotations: [
-            {
-              font: {
-                size: 18
-              },
-              showarrow: false,
-              text: 'Q1 2017',
-              x: 0.18,
-              y: 0.5
-            },
-            {
-              font: {
-                size: 18
-              },
-              showarrow: false,
-              text: 'Q1 2021',
-              x: 0.82,
-              y: 0.5
-            }
-          ],
+        xaxis: {
+            title: 'Close Date',
+            //range: ['2017-07-13', '2022-06-20'],
+            tickformat: '%Y-%m-%d',
+            type: 'date'
+        },
+        yaxis: {
+            title: 'Stock Price ($)'
+        }
     };
     
-    Plotly.newPlot('pie', pieData, layout);
+    Plotly.newPlot('stock', lineData, layout);
 };
 
+// Plots comparative line values over the time period for various BS entries
+function plotLineData(companyData) {
+    /*
+    let laseData = companyData.filter((object) => (object["entry_concept"] == "Liabilities" || object["entry_concept"] == "LiabilitiesCurrent" ));
+    let laseValues = laseData.map(a => a.entry_value);
+    let laseLabels = laseData.map(a => a.quarter + '-' + a.year);
+    let trace1 = {
+        x: laseLabels,
+        y: laseValues,
+        type: 'scatter',
+        mode: 'lines+markers',
+        name: "Liabilities"
+    };
+    */
+    let assetData = companyData.filter((object) => (object["entry_concept"] == "Assets"));
+    let assetValues = assetData.map(a => a.entry_value);
+    let assetLabels = assetData.map(a => a.quarter + '-' + a.year);
+    let unit = assetData[0]["entry_unit"].toUpperCase();
+    let trace2 = {
+        x: assetLabels,
+        y: assetValues,
+        type: 'scatter',
+        mode: 'lines+markers',
+        name: "Assets"
+    };
 
-function plotLineData(data) {
+    let stockData = companyData.filter((object) => (object["entry_concept"] == "StockholdersEquity"));
+    let stockValues = stockData.map(a => a.entry_value);
+    let stockLabels = stockData.map(a => a.quarter + '-' + a.year);
 
+    let trace3 = {
+        x: stockLabels,
+        y: stockValues,
+        type: 'scatter',
+        mode: 'lines+markers',
+        name: "Equity"
+    };
+
+    var data = [trace2, trace3];
+
+    let layout = {
+        title: `Balance Sheet Entries - 2017/2022`,
+        showlegend: true,
+        xaxis: {
+            title: 'Reporting Quarter'
+        },
+        yaxis: {
+            title: `Value  (${unit})`
+        }
+    }
+
+    Plotly.newPlot('line', data, layout);
 };
 
+// Creates dropdown entries for the companies included in the project
 function populateDropdown() {
     //Add the IDs to the dropdown selector
     let selector = d3.select("#selectCompany");
@@ -104,6 +127,14 @@ function populateDropdown() {
         });
 };
 
+// Updates the company info section with the selected company's data
+function showCompanyInfo(info) {
+    d3.select("#name").html(info.company_name);
+    d3.select("#symbol").html(info.symbol);
+    d3.select("#industry").html(info.industry);
+    d3.select("#id_code").html(info.industry_code);
+};
 
+// Call method on page load to populate the dropdown with company names/symbols
 populateDropdown();
 

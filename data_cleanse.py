@@ -18,6 +18,7 @@ def get_company_data(company_id):
                 bs = filedata["data"]["bs"]
                 for item in bs:
                     entry = {}
+                    entry["statement"] = "bs"
                     entry["symbol"] = filedata["symbol"]
                     entry["quarter"] = filedata["quarter"]
                     entry["year"] = filedata["year"]
@@ -26,6 +27,19 @@ def get_company_data(company_id):
                     entry["unit"] = item["unit"]
                     entry["value"] = item["value"]
                     entries.append(entry)
+                cf = filedata["data"]["cf"]
+                for item in cf:
+                    entry = {}
+                    entry["statement"] = "cf"
+                    entry["symbol"] = filedata["symbol"]
+                    entry["quarter"] = filedata["quarter"]
+                    entry["year"] = filedata["year"]
+                    entry["label"] = item["label"]
+                    entry["concept"] = item["concept"]
+                    entry["unit"] = item["unit"]
+                    entry["value"] = item["value"]
+                    entries.append(entry)
+
     return entries
 
 data_df = pd.DataFrame()
@@ -34,6 +48,6 @@ for company_id in company_ids:
     current_df = pd.DataFrame(company_info)
     data_df = pd.concat([data_df, current_df], ignore_index=True)
 
-    data_df.to_csv("./company_info.csv")
+    data_df.to_csv("./company_info_cf.csv")
             
 
