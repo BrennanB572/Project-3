@@ -26,7 +26,7 @@ Data Engineering (Extract and Load):
     Create a sqlite database and import the csv data 
 
 Data Analysis
-    Via jupiter notebook, review the data and cleanse as necessary (fill NA values, format financial data, etc)
+    Via jupyter notebook, review the data and cleanse as necessary (fill NA values, format financial data, etc)
     Identify relevant information to be presented via visualization
     Create a json file containing the relevant data for use by the presentation layer
 
