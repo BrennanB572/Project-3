@@ -3,7 +3,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Financial Impact of Pandemic</title>
+    <title>Stock to Asset Evaluation</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
@@ -12,42 +12,77 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-md-12 p-5 text-center bg-light">
-                <h1>Financial Impact of Pandemic</h1>
-                <p>Reviewing Balance Sheet Changes 2016-2022</p>
+            <div class="col-md-12 p-4 text-center bg-primary text-white">
+                <h1>Stock Price / Asset Value Evaluation</h1>
+                <p>Reviewing Balance Sheet Changes 2017-2022</p>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-3">
-                <div class="card card-primary">
+        <div class="row mx-auto" style="padding-top:10px">
+            <div class="col-md-4">
+                <div class="card card-primary" style="padding: 10px; margin-top: 20px;">
                     <select id="selectCompany" onchange="optionChanged(this.value)">
                         <option disabled selected>Select Company</option>
                     </select>
                 </div>
-                <div class="card card-body bg-light">
-                    <h4>Company Info:</h4>
-                    <h6 >Name: </h6><h6 id="name"></h6>
-                    <h6 >Symbol: </h6><h6 id="symbol"></h6>
-                    <h6 >Industry: </h6><h6 id="industry"></h6>
-                    <h6 >SEC Code: </h6><h6 id="id_code"></h6>
-                </div>
             </div>
-            <div class="col-md-9">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div id="pie"></div>
+            <div class="col-md-8">
+                <div class="card card-body bg-light">
+                    <div class="row">
+                        <h4>Company Info:</h4>
                     </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <h6 >Name: </h6>
+                                </div>
+                                <div class="col-md-7">
+                                    <span id="name"></span>
+                                </div>                        
+                            </div>
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <h6 >Symbol: </h6>
+                                </div>
+                                <div class="col-md-7">
+                                    <span id="symbol"></span>
+                                </div>                        
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <h6 >Industry: </h6>
+                                </div>
+                                <div class="col-md-7">
+                                    <span id="industry"></span>
+                                </div>                           
+                            </div>
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <h6 >SEC Code: </h6>
+                                </div>
+                                <div class="col-md-7">
+                                    <span id="id_code"></span>
+                                </div>                          
+                            </div>
+                        </div>
+                    </div>     
                 </div>
             </div>
         </div>
         <hr />
         <div class="row">
-            <div class="col-md-12">
-                <div id="line">LINE CHART GOES HERE</div>
+            <div class="col-md-6">
+                <div id="stock"></div>
+            </div>
+            <div class="col-md-6">
+                <div id="line"></div>
             </div>
         </div>
     </div>
 
     <script type="text/javascript" src="./static/company_info_final_json.js"></script>
+    <script type="text/javascript" src="./static/stock_data.js"></script>
     <script type="text/javascript" src="./static/reporting.js"></script>
 </body>
