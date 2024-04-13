@@ -3,8 +3,7 @@
 
 Project Summary
 
-A review of financial data for 2017 through 2022 - such as the S&P stock index - shows an impact related to the 2020-2021 global pandemic. The purpose of this project is to review balance sheet data for a collection of companies across multiple industries to determine the impact of the pandemic. Using that data, the team will present visualizations of the changes and an analysis as to the impact.
-
+Stock prices for publicly traded corporations can vary broadly from day-to-day and month-to-month. That fluctuation can result from a number of factors including public sentiment, corporate news and global conflict. But does the stock price reflect the current changes in corporate assets? This study will compare stock pricing and balance sheet information for a five (5) year period to examine this question.
 
 Project Data Set
 
