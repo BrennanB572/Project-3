@@ -4,7 +4,6 @@
 
 <p>Stock prices for publicly traded corporations can vary broadly from day-to-day and month-to-month. That fluctuation can result from a number of factors including public sentiment, corporate news and global conflict. But does the stock price reflect the current changes in corporate assets? This study will compare stock pricing and balance sheet information for a five (5) year period to examine this question.</p>
 
-
 <h3>Project Data Set</h3>
 
 <p>Utilizing the Kaggle website, the team identified a dataset of SEC filing information for the period outlined above. This data includes the balance sheet listings, by quarter, for each company included. The data set can be found <a href="https://www.kaggle.com/datasets/finnhub/reported-financials">here.</a></p>
