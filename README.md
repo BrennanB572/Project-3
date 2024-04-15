@@ -6,7 +6,9 @@
 
 <h3>Project Data Set</h3>
 
-<p>Utilizing the Kaggle website, the team identified a dataset of SEC filing information for the period outlined above. This data includes the balance sheet listings, by quarter, for each company included. The data set can be found <a href="https://www.kaggle.com/datasets/finnhub/reported-financials">here.</a></p>
+<p>Utilizing the Kaggle website, the team identified a dataset of SEC filing information for the period outlined above. This data includes the balance sheet and cash flow listings, by quarter, for each company included. The data set can be found <a href="https://www.kaggle.com/datasets/finnhub/reported-financials">here.</a></p>
+
+<p>In order to compare the balance sheet values with the company's stock price, the team visited Yahoo Finance to retrieve the stock price history over a comparative time frame. This history was then downloaded as a csv file and imported into the project database for use in charting. See a sample of the retrieved data <a href="https://finance.yahoo.com/quote/AFL/history?period1=1498867200&period2=1656547200">here.</a><p>
 
 From this dataset, the team identfied five (5) companies across various industries to examine:
 <ul>
@@ -26,7 +28,7 @@ From this dataset, the team identfied five (5) companies across various industri
 <li>Create a sqlite database and import the csv data </li>
 </ul>
 
-<h5>Data Analysis</h5>
+<h5>Data Analysis / Data Cleansing</h5>
 <ul>
 <li>Via jupyter notebook, review the data and cleanse as necessary (fill NA values, format financial data, etc)</li>
 <li>Identify relevant information to be presented via visualization</li>
@@ -36,10 +38,18 @@ From this dataset, the team identfied five (5) companies across various industri
 <h5>Data Visualization</h5>
 <ul>
 <li>Design and create a dashboard of comparitive data, allowing for end user input to select company for review</li>
+<li>Utilize multiple libraries for plotting to demonstrate options and benefits to each:</li>
+    <ul>
+    <li>Plotly.js for the Cash Flow pie charts</li>
+    <li>Apexcharts.js for the Stock Candlestick graph and the balance sheet line graphs.</li>
+    </ul>
 </ul>
 
-<h3>Data Sources:</h3>
+<h3>Ethical Considerations</h3>
+
+<p>In order to properly represent comparisons as examples of the United States financial system as a whole, the project team set a few parameters for the data sets: publicly available information; a cross-section of American industries; and a data range large enough to bracket the 2020 pandemic on on either side.</p>
+
+<h3>References:</h3>
 <ul>
-<li><a href="https://www.kaggle.com/datasets/finnhub/reported-financials">Kaggle.com</a> - SEC Filing Information</li>
-<li><a href="https://finance.yahoo.com/quote/AFL?.tsrc=fin-srchYahoo.com">Yahoo.com</a> - Daily stock prices</li>
+<li><a href="https://apexcharts.com/javascript-chart-demos/">Apex Charts</a> - Javascript Chart Demos. Used multiple examples as models for the final graphs represented.</li>
 </ul>
