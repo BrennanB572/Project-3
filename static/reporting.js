@@ -51,10 +51,16 @@ function plotCashFlow(companyData) {
     var data = [trace1, trace2];
     //Configure chart
     var layout = {
-        height: 400,
-        width: 740,
+        height: 500,
+        width: 700,
         title: 'Breakdown of CashFlow',
         showlegend: true,
+        yaxis: {
+          title: {
+            text: 'Cash Value ($)'
+          },
+          tickformat: ".2s"
+        }
     }
     //Plot graphs to page
     Plotly.newPlot('pie', data, layout);
