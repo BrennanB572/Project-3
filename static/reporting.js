@@ -9,11 +9,11 @@ companies = [
 
 // Receives the selected company and creates the charts and info card
 function optionChanged(symbol) {
-    //let companyData = data["data"].filter((object) => object["symbol"] == symbol && object["statement"] == "bs");
-    let companyData = data["data"].filter((object) => object["symbol"] == symbol && object["statement"] == "bs");
+    let companyData = data["data"].filter((object) => (object["symbol"] == symbol && object["statement"] == "bs"));
+    //let companyData = data["data"].filter((object) => object["symbol"] == symbol);
     let stocks = stock_data["data"].filter((object) => object["company"] == symbol);
-    let cashFlowData =  data["data"].filter((object) => object["symbol"] == symbol && object["statement"] == "cf");
-
+    let cashFlowData =  data["data"].filter((object) => (object["symbol"] == symbol && object["statement"] == "cf"));
+    
     showCompanyInfo(companyData[0]);
     plotCashFlow(cashFlowData);
     plotLineApex(companyData);
@@ -23,62 +23,44 @@ function optionChanged(symbol) {
 // Plot cash flow data for the comany selected
 function plotCashFlow(companyData) {
     //Get data for 2018 and populate trace
-    let cashData2018 = companyData[companyData["year"] == 2018 && companyData["quarter"] == "Q1"];
-    let cash18Values = cashData2018["entry_value"]
-    let cash18Labels = cashData2018["entry_label"]
-
+    let cashData2018 = companyData.filter((object) => (object["year"] == 2018 && object["quarter"] == "Q1"));
+    let cash18Values = cashData2018.map(a => a.entry_value);
+    let cash18Labels = cashData2018.map(a => a.entry_label);
+    
     let trace1 = { 
         x: cash18Labels,
         y: cash18Values,
-        type: 'pie',
-        hoverinfo: 'label',
-        domain: {column: 0},
-        hole: .4,
+        type: 'bar',
+        hoverinfo: 'label+value',
         name: 'Q1 2018'
     };
 
     //Get data for 2021 and populate trace
-    let cashData2021 = companyData[companyData["year"] == 2021 && companyData["quarter"] == "Q1"];
-    let cash21Values = cashData2021["entry_value"]
-    let cash21Labels = cashData2021["entry_label"]
+    let cashData2021 = companyData.filter((object) => (object["year"] == 2021 && object["quarter"] == "Q1"));
+    let cash21Values = cashData2021.map(a => a.entry_value);
+    let cash21Labels = cashData2021.map(a => a.entry_label);
 
     let trace2 = { 
         x: cash21Labels,
         y: cash21Values,
-        type: 'pie',
-        domain: {column: 1},
-        hole: .4,
+        type: 'bar',
+        hoverinfo: 'label+value',
         name: 'Q1 2021'
     };
     //Assemble lines into one dataset
     var data = [trace1, trace2];
     //Configure chart
     var layout = {
-        height: 400,
-        width: 500,
+        height: 500,
+        width: 700,
         title: 'Breakdown of CashFlow',
-        annotations: [
-            {
-              font: {
-                size: 20
-              },
-              showarrow: false,
-              text: 'GHG',
-              x: 0.17,
-              y: 0.5
-            },
-            {
-              font: {
-                size: 20
-              },
-              showarrow: false,
-              text: 'CO2',
-              x: 0.82,
-              y: 0.5
-            }
-          ],
-        showlegend: false,
-        grid: {rows: 1, columns: 2}
+        showlegend: true,
+        yaxis: {
+          title: {
+            text: 'Cash Value ($)'
+          },
+          tickformat: ".2s"
+        }
     }
     //Plot graphs to page
     Plotly.newPlot('pie', data, layout);
@@ -130,8 +112,10 @@ function plotLineApex(companyData) {
       categories: assetLabels
     },
     yaxis: [{
-      title: {
-        text: `Value (${unit} )`,
+      labels: {
+        formatter: function(val) {
+          return "$" + (val/1000000000).toString() + "B";
+        }
       }
     }]
   };
@@ -144,9 +128,6 @@ function plotLineApex(companyData) {
 // Creates comparative pie charts for balance sheet distribution pre- and post-pandemic
 function plotStockData(stockData) {
 
-  // configure just pandemic year (2020) data for zoom
-  //let stocks2020 = stockData.filter((object) => (object["Date"] >= "2020-01-01" && object["Date"] <= "2020-12-31"));
-  // configure full time period for comparison to balance sheet
   let stockValues =  stockData.map(a => {
       return {
         x: new Date(a.Date),
@@ -179,6 +160,13 @@ function plotStockData(stockData) {
       labels: {
         formatter: function(val) {
           return dayjs(val).format('MMM DD YYYY')
+        }
+      }
+    },
+    yaxis: {
+      labels: {
+        formatter: function(val) {
+          return val.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
         }
       }
     }
