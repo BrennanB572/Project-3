@@ -28,9 +28,10 @@ function plotCashFlow(companyData) {
     let cash18Labels = cashData2018.map(a => a.entry_label);
     
     let trace1 = { 
-        x: cash18Labels,
-        y: cash18Values,
+        y: cash18Labels,
+        x: cash18Values,
         type: 'bar',
+        orientation: 'h',
         hoverinfo: 'label+value',
         name: 'Q1 2018'
     };
@@ -41,9 +42,10 @@ function plotCashFlow(companyData) {
     let cash21Labels = cashData2021.map(a => a.entry_label);
 
     let trace2 = { 
-        x: cash21Labels,
-        y: cash21Values,
+        y: cash21Labels,
+        x: cash21Values,
         type: 'bar',
+        orientation: 'h',
         hoverinfo: 'label+value',
         name: 'Q1 2021'
     };
@@ -51,15 +53,19 @@ function plotCashFlow(companyData) {
     var data = [trace1, trace2];
     //Configure chart
     var layout = {
-        height: 500,
-        width: 700,
+        height: 600,
+        width: 1100,
         title: 'Breakdown of CashFlow',
         showlegend: true,
         yaxis: {
+          tickformat: ".2s",
+          automargin: true
+        },
+        xaxis: {
+          automargin: true,
           title: {
             text: 'Cash Value ($)'
-          },
-          tickformat: ".2s"
+          }
         }
     }
     //Plot graphs to page
@@ -202,10 +208,15 @@ function populateDropdown() {
 
 // Updates the company info section with the selected company's data
 function showCompanyInfo(info) {
+
+    let logo = info.symbol;
+    logo = "./images/" + logo.toLowerCase() + ".png";
     d3.select("#name").html(info.company_name);
     d3.select("#symbol").html(info.symbol);
     d3.select("#industry").html(info.industry);
     d3.select("#id_code").html(info.industry_code);
+    d3.select("#logo").attr('src', logo);
+    d3.select("#logo").attr("style", "height: 240px; width: 240px; padding: 20px");
 };
 
 // Call method on page load to populate the dropdown with company names/symbols
